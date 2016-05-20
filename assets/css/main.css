@@ -1,40 +1,6 @@
-/*
 
-Kirby Starterkit
-
-Author: Bastian Allgeier / Sascha Lack
-URL:    http://getkirby.com
-Email:  support@getkirby.com
-
-*/
-
-
-/* Source Sans Pro
+/* Set font
 -------------------------------------------------- */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: url(../fonts/sourcesanspro-300.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: url(../fonts/sourcesanspro-400.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 600;
-  src: url(../fonts/sourcesanspro-600.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 400;
-  src: url(../fonts/sourcesanspro-400-italic.woff) format('woff');
-}
 
 
 /* Reset
@@ -47,11 +13,11 @@ Email:  support@getkirby.com
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, main, nav, section, summary {
   display: block;
 }
-
 
 /* Pix
 -------------------------------------------------- */
@@ -60,16 +26,15 @@ img {
   max-width: 100%;
 }
 
-
 /* Links
 -------------------------------------------------- */
 a {
-  color: #000;
+  color: #35536f;
   text-decoration: none;
   transition: color .3s, background .3s, border .3s;
 }
 a:hover {
-  color: midnightblue;
+  color: #02284b;
 }
 
 
@@ -86,18 +51,25 @@ a:hover {
 -------------------------------------------------- */
 html {
   height: 101%;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Freight Text Book", serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
 }
+
 body {
   margin: 0 auto;
-  font-size: 1.25em;
+  font-size: 16pt;
   line-height: 1.5em;
   padding: 1.5em;
-  max-width: 50em;
+  max-width: 60em;
   background: #fff;
   color: #222;
+}
+
+cite, i, em {
+  font-style: normal;
+  font-family: "Freight Text Book Italic";
 }
 
 
