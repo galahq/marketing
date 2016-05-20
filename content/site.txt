@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: Michigan Sustainability Cases (MSC)
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: The MSC Team
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: This is the public facing site for the MSC initiative.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: MSC, Michigan, Sustainability, Cases, Teaching, Learning, Innovation.
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © MSC 2016
