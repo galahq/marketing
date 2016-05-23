@@ -1,17 +1,13 @@
-
-/* Set font
--------------------------------------------------- */
-
-
 /* Reset
 -------------------------------------------------- */
 *, *:before, *:after {
   margin: 0;
   padding: 0;
   border: 0;
+  background-repeat: no-repeat;
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 article, aside, details, figcaption, figure,
@@ -50,35 +46,31 @@ a:hover {
 /* Site
 -------------------------------------------------- */
 html {
-  height: 101%;
-  font-family: "Freight Text Book", serif;
+  font-size: 100%
+  min-height: 101%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
 }
+
+@media screen and (max-width: 40em) {
+  html {
+    font-size: 90%; } }
 
 body {
-  margin: 0 auto;
-  font-size: 16pt;
-  line-height: 1.5em;
-  padding: 1.5em;
-  max-width: 60em;
-  background: #fff;
   color: #222;
+  line-height: 1;
+  font-family: "Lato", sans-serif;
+  margin: 0 auto;
+  padding: 1.5em;
+  max-width: 70em;
 }
-
-cite, i, em {
-  font-style: normal;
-  font-family: "Freight Text Book Italic";
-}
-
 
 /* Header
 -------------------------------------------------- */
 .header {
-  border-bottom: 2px solid midnightblue;
   margin-bottom: 1.5em;
 }
+
 .logo {
   display: block;
 }
@@ -109,7 +101,7 @@ cite, i, em {
 .menu > li > a {
   padding: .35em 0;
   border-top: 1px solid #ddd;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .submenu {
