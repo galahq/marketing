@@ -1,16 +1,195 @@
 Title: Initiative
 
 ----
+Description: Get up and running with Kirby in a breeze and find your way around the docs.
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+----
+Text:
+(toc)
 
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+## What is Kirby?
 
-(image: about.jpg)
+Kirby is a modern, fast, flexible, **file-based** CMS that does not require a database to store data. Installing Kirby is a breeze: just copy the Kirby folder to your local or remote server, and you are all set. The idea behind Kirby is to give you a tool for developing your websites or applications that is both easy to use for developers and at the same time gives you all the freedom you want to structure your content and render your output.
 
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+This guide assumes that you have successfully (link: docs/installation text: installed the Kirby Starterkit) and are ready to play around with it. We'll use the Starterkit as a bedrock to get familiar with some basic Kirby concepts. The main goal of this guide is to give you an overview of how Kirby works - together with some guidelines for further reading to make it easier to find your way around the docs.
 
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+
+## Kirby's folder structure
+
+Let's start with a brief overview of the folders in the Starterkit.
+
+| Folder | Subfolders | What's in it |
+| --- | --- | --- |
+| assets | /avatars, /css, /fonts, /images | Your website assets like stylesheet, fonts, site wide images, and Panel user avatars. You would also put your javascript and other assets into this folder. |
+| content | /1-about, /2-projects, /3-contact, /error, /home | The content of your website is stored in folders that each contain one text file (per language) and additional resources like images, videos, or other files. The `site.txt` text file in this folder contains general site wide information. |
+| kirby | quite a few and /toolkit| The Kirby app. Great for studying the source code, but in general you should leave this folder untouched (apart from updating it when a new version is released). The Toolkit folder contains some classes that are used by Kirby internally but can be used in your code as well. |
+| panel | quite a few | The Panel app. It provides an easy-to-use interface for website editors to manage the content of your website. This folder should also be updated when a new version is released, and otherwise left alone.
+| site | accounts, blueprints, cache, config, plugins, snippets, templates | This folder contains all the developer stuff that defines how your content files will be processed, the blueprints for the Panel, and any extensions. |
+
+**Notes**:
+- The `assets` and `site` folders may contain more subfolders depending on your setup and needs.
+- The Panel app is optional and can be removed if you prefer to edit your content files in a text editor.
+
+**Advanced reading**:
+Changing Kirby's default folder layout: (link: docs/developer-guide/configuration/folders text: Custom folder setup)
+
+
+## Adding & structuring content
+
+Content in Kirby is organized in folders. Basically, each folder is a single page, and each folder can contain subfolders, which can in turn contain subfolders etc. to form a tree structure. Each folder may contain one content file (.txt or .md) in a single language setup or one content file per language in a multi-lingual setup. Additionally, each folder can contain all sorts of files (like images, videos, documents etc.) and (link: docs/content/media#adding-meta-data-to-your-files text: their meta data text files).
+
+What makes Kirby really great is the possibility to create as many fields as you need, for content as well as meta data files. Kirby's web interface, (link: #the-panel text: the Panel), comes with (link: docs/cheatsheet#panel-fields text: many predefined field types), that help to structure your content.
+
+Each page folder is accessible via its URL, e.g., you can access the `projects` folder by entering your domain name followed by the UID of the folder into your browser's address bar: http://yourdomain.com/projects. The subpage `project-a` is therefore accessible via http://yourdomain.com/projects/project-a etc.
+
+If you want to use pages to create a one-page website, that is no problem with Kirby, either. (link: docs/solutions/one-pager text: Learn how to create a one-pager).
+
+You can read up on how to add content to your site (link: docs/content text: in the content section of the docs).
+
+### A note on filenames
+
+On Linux systems, i.e most servers, filenames are case sensitive. **We therefore strongly recommend avoiding capital letters in all filenames (content files, templates, controllers etc.)** in order to prevent problems resulting from non-matching filenames.
+
+
+### Files
+
+Files (images, videos, documents etc.) are usually stored in the folder of the page where they are needed. That way, it is easy to just drag & drop those files into a textarea or image field in the Panel or to reference them in your content files if you don't use the Panel. You can also put files directly into the `/content` folder for site wide use. (link: docs/content/media text: Read more about handling files).
+
+
+### Image thumbnails
+
+Often, you don't want to render images the size at which they are uploaded, e.g. to adapt images to screen sizes. Kirby's core  (link: docs/templates/thumbnails text: thumbnail class) makes it easy to resize and crop images on the fly.
+
+
+### Organizing your content
+
+The content organization of the Starterkit is quite straightforward: There are only 4 main pages (home, projects, about, contact) apart from the error page, and some subfolders in the `projects` folder. Once your website gets bigger, you will have to start thinking about how to best organize your content.
+
+Performance-wise, Kirby can easily handle a lot of content. However, performance might start to deteriorate once you have more than several hundred or even thousands of subpages in a single folder. That is when you have to start thinking about how to best organize your content in a sort of tree structure.
+
+
+## Rendering your content
+
+The content in your content files is rendered into code that a browser understands (HTML, JSON, etc.) by so called template files that reside in the `/site/templates` folder. Template files use HTML for the page markup and PHP for the logic. So a basic understanding of PHP (using variables, if-statements, loops etc.) is helpful, but you can also learn it along the way. Kirby's API is easy to understand and there are many methods that make your life as a developer easier.
+
+If you have a look at the different content folders, you will notice that some of the text files have different and others the same name. The content file in the `/about` folder is called `about.txt`, the one in the `/projects` folder
+`projects.txt` while all the subpages of `/projects` have a content file called `project.txt`.
+
+Now open the `/site/template`folder. There, you will find some template files with the same names as the content files. All content files that have a template file of the same name, will be rendered using that template; content files with no matching template file will be rendered with the `default.php` template (never remove the default.php template).
+
+The (link: docs/templates/hello-world text: Hello World) example shows you how to fetch the content of your pages and render them into valid HTML. Now have a look at the different template files and check out how the fields of the content files are rendered in the templates by using the name of the field as a method.
+
+
+### Don't repeat yourself: Using snippets
+
+If you screen the `/site/snippets` folder, you will find the `header.php` and `footer.php` files. These files contain code that is used in every template of the Starterkit. Instead of writing the same code over and over again, the Starterkit follows a coding best practice called DRY (Don't repeat yourself) by putting these chunks of code into separate files, which can be referenced in your templates.
+
+Snippets can also be used to outsource blocks of code to keep your template code short (like projects.php snippets), or for reusing code in other projects.
+
+Check out the (link: docs/templates/snippets text: snippet docs).
+
+
+### Non-HTML output
+
+Kirby output is not limited to HTML. You can also render JSON or XML, e.g. to create an API or an RSS feed.
+
+Here are some resources:
+(link: blog/json text: Creating a JSON api)
+(link: docs/solutions/blog/rss text: Creating an RSS feed)
+
+**Advanced reading**:
+Modularizing your code: The (link: https://github.com/getkirby-plugins/patterns-pluginingtext: Patterns plugin) goes even further than snippets in modularizing and reusing code blocks.
+Separate logic from HTML: (link: docs/developer-guide/advanced/controllers text: Controllers) and (link: docs/developer-guide/advanced/models text: Page Models)
+
+
+## Configuring your site
+
+All configuration settings for Kirby or the Panel are made in the `/site/config/config.php` file. You can find everything about the available configuration options and how to set them in the (link: docs/developer-guide/configuration text: Configuration section).
+
+
+## Setting up a multi-lingual site
+
+With Kirby, it is easy to set up a multi-lingual site. You can learn how to do this in the (link: docs/languages text: Languages section). You can also download the (link: https://github.com/getkirby/langkit text: Langkit) variant of the Starterkit to check out how this works.
+
+
+## The Panel
+
+The Panel is Kirby's fast and powerful web interface to administrate your website right in your browser. Once you have installed Kirby (link: docs/panel text: and the Panel), you can access the Panel at http://yourdomain.com/panel. If you need help with installing the Panel, check out the (link: docs/installation/panel text: Panel installation docs). You will also learn how to rename the Panel folder to make accessing the Panel a bit less obvious for hackers.
+
+### Creating forms for the Panel
+
+As you already know by now, with Kirby you are free to structure your content the way you want by using custom fields in your content and file meta data files. To be able to enter content into those fields, you need to tell the Panel what fields you want to have in your files and what sort of content can be entered into those fields.
+
+Enter blueprints. You can customize these forms and other Panel options with blueprints. Blueprints are defined in YAML. For more information on how to create blueprints, head over to the (link: docs/panel/blueprints text: blueprint docs).
+
+### Customizing the look of the Panel
+
+You can customize the way the Panel looks, e.g. to adapt it to your or your client's branding, by adding a custom stylesheet. (link: docs/developer-guide/panel/css text: Read more about this feature).
+
+We'll soon come up with a special Panel Guide as well, stay tuned!
+
+**Advanced Reading**:
+
+(link: docs/developer-guide/panel text: Extending the Panel)
+
+## Pimping your site with javascript
+
+The Starterkit doesn't use any Javascript. But you can, of course, easily add your scripts or libraries (for sliders, lightboxes, etc.) like you would in any static website. The [`js()` helper](cheatsheet/helpers/js) makes adding your scripts even easier.
+
+
+## Adding custom functionality
+
+Sooner or later you will want to add custom functionality to your site. Kirby can be extended in many ways. The (link: docs/developer-guide text: Developer Guide) has you covered on many topics, e.g.
+
+- (link: docs/developer-guide/plugins text: how to create a plugin)
+- (link: docs/developer-guide/kirbytext text: how to extend kirbytext)
+- (link: docs/developer-guide/panel text: how to extend the Panel)
+- (link: docs/developer-guide/objects text: how to extend Kirby objects)
+- (link: docs/developer-guide/plugins/registry text: how to register your own components), e.g. if you want to use a template engine like Twig instead of PHP
+
+and a whole lot more that is far beyond this Getting Started Guide.
+
+## The Toolkit
+
+The Toolkit is a library of PHP classes Kirby is built upon. You can also use these classes in your own code within Kirby. The Toolkit library contains, among many more, methods for array or string handling, the Database class to connect Kirby with a database, or the Email class for easy sending of emails. The Toolkit docs are still quite rudimentary, but you can nevertheless (link: docs/toolkit/api text: find them here).
+
+## Kirby plugins
+
+You don't have to reinvent the wheel if you need more functionality. The (link: https://github.com/getkirby/plugins text: official Kirby repository) includes quite a few plugins ready to be incorporated into your website. There are also two other "non-official" listings out there on the web:
+
+- (link: http://getkirby-plugins.com text: Plugins and extensions for Kirby CMS)
+- (link: https://github.com/jenstornell/kirby-plugins text: Kirby Plugins: The unofficial plugin list for Kirby CMS)
+
+**Please use third-party plugins at your own discretion. They may be outdated and not work with current Kirby releases, or even contain insecure code. If you run into problems with using such plugins, please contact the plugin authors.**
+
+
+Well, we've come a long way to this point. We hope you enjoy exploring all the exciting features of Kirby and how they can help you to create awesome websites your clients will fall in love with.
+
+This Getting Started Guide can't possibly answer all the question you may ever have. But fear not, help is not far:
+
+## Getting help
+
+### The Cheat Sheet
+Once you have familiarized yourself with the basics, the (link: text: Cheat Sheet) is probably the number one resource you will keep getting back to. It lists all Kirby and Toolkit API methods, helpers, Panel fields, and configuration options. Check it out!
+
+### The rest of the docs
+There are a lot more documents out there than I have listed here as a first overview. You might find the (link: docs/solutions text: Solutions) section helpful for specific topics like creating menus, creating a blog, or filtering content. The (link: docs/developer-guide text: Developer Guide) offers more advanced stuff like extending Kirby with plugins, using routes and hooks, and many more topics.
+
+### The Forum
+The community in the (link: https://forum.getkirby.com text: Kirby Forum) is always there to help out whenever you get stuck. It's likely that someone already had the same problem, so using the search function might uncover a solution to your problem within seconds. If you can't find anything, drop us your question.
+
+## Glossary
+
+| What is (a)… | Description |
+| --- | --- |
+| blueprint | A YAML file that defines the form fields and several settings for the Panel. Blueprints are stored in `/site/blueprints`.|
+| controller | A PHP file that can contains the logic for a specific page template. Controllers are stored in `/site/controllers`. |
+| JSON | (Javascript Object Notation) A human-readable, open-standard data exchange format that uses data objects consisting of attribute/value pairs. |
+| Markdown | A markup language that uses plain text formatting syntax that can be converted to HTML and other formats. Created by John Gruber in 2004. |
+| page model | A PHP file that defines custom page methods. Page models are stored in `/site/models`. |
+| snippet | A blocks of code that can be reused across templates. Snippets are stored in `/site/snippets`.
+| template | A PHP file that renders content, contains the HTML (and the logic) for the page. Templates are stored in `/site/templates`. |
+| URL | The full web address of the page/resource including host, subfolders, (and file name). |
+| UID | The name of the page folder without the sorting number. |
+| URI | The relative URL without the host or subfolders, i.e. the path as seen from the Kirby installation. |
+| XML | Extensible Markup Language, a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. |

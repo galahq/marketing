@@ -1,33 +1,52 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+<main class="main" role="main">
 
-    <h1><?php echo $page->title()->html() ?></h1>
+  <div class="col-4-6 last">
 
-    <ul class="meta cf">
-      <li><b>Year:</b> <time datetime="<?php echo $page->date('c') ?>"><?php echo $page->date('Y', 'year') ?></time></li>
-      <li><b>Tags:</b> <?php echo $page->tags() ?></li>
-    </ul>
+    <article class="text relative">
 
-    <div class="text">
-      <?php echo $page->text()->kirbytext() ?>
+      <?php if($page->text() == ''): /* Check if content is available */ ?>
+      <p class="delta">Coming soon...</p>
+      <p>At the moment we're working hard to complete and improve the docs. Thanks for your patience! In case you've got an urgent issue with Kirby please send us an email.</p>
+      <p><?php echo str::email($site->email()) ?></p>
+            <p>In the meantime you might want to check out our <a href="http://getkirby.com/docs">docs</a> where we already collected a whole bunch of stuff.</p>
 
-      <?php foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
-      <figure>
-        <img src="<?php echo $image->url() ?>" alt="<?php echo $page->title()->html() ?>">
-      </figure>
-      <?php endforeach ?>
-    </div>
 
-    <nav class="nextprev cf" role="navigation">
-      <?php if($prev = $page->prevVisible()): ?>
-      <a class="prev" href="<?php echo $prev->url() ?>">&larr; previous</a>
+      <?php else: ?>
+
+      <?php if($page->since()->isNotEmpty()): ?>
+      <p class="version-badge"><?php echo $page->since()->version('%s +') ?></p>
       <?php endif ?>
-      <?php if($next = $page->nextVisible()): ?>
-      <a class="next" href="<?php echo $next->url() ?>">next &rarr;</a>
-      <?php endif ?>
-    </nav>
 
-  </main>
+      <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
+
+      <?php if($page->docs() != '' or $page->blogposts() != '' or $page->forumposts() != '' or $page->internals() != '' or $page->externals() != ''): ?>
+        
+      <footer class="further-reading">
+        <h2 class="beta">Further reading</h2>
+
+        <?php if($page->docs() != ''): ?>
+        <h3 class="gamma">Docs</h3>
+        <ul>
+            <?php $docs = yaml($page->docs()) ?>
+            <?php foreach($docs as $doc): ?>
+            <li><a href="<?php echo url() ?>/<?php echo $doc['link'] ?>"><?php echo $doc['text'] ?></a></li>
+            <?php endforeach ?>
+        </ul>
+        <?php endif ?>
+
+
+      </footer>
+      <?php endif ?>
+
+      <?php endif ?>
+    </article>
+
+  </div>
+
+  <?php snippet('submenu') ?>
+
+</main>
 
 <?php snippet('footer') ?>

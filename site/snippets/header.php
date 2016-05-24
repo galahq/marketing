@@ -12,10 +12,21 @@
 
 </head>
 <body>
-
+  <?php if($page->isHomePage()): ?>
   <header class="header cf site" role="banner">
     <a class="logo" href="<?php echo url() ?>">
       <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
     </a>
     <?php snippet('menu') ?>
   </header>
+
+  <?php else: ?>
+  <header class="header cf site" role="banner">
+    <a class="logo" href="<?php echo url() ?>">
+      <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+    </a>
+    <?php snippet('menu') ?>
+    <?php snippet('secondmenu') ?>
+  </header>
+
+  <?php endif ?>
