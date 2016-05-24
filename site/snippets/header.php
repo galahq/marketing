@@ -13,7 +13,7 @@
 </head>
 <body>
 
-  <header class="header cf" role="banner">
+  <header class="header cf site" role="banner">
     <a class="logo" href="<?php echo url() ?>">
       <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
     </a>
