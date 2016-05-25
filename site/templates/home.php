@@ -13,7 +13,7 @@
   </article>
 
   <article>
-    <h2 class="section_title">Transform pedagogy in sustainability</h2>
+    <h2 class="section_title"><span>Transform pedagogy in sustainability</span></h2>
     <div class="what">
     <p>Michigan Sustainability Cases (MSC) is an initiative aims at building a case-based curriculum for sustainability education, funded by a grant from Transforming Learning in the Third Century at the University of Michigan. <a href="#">Learn more about the MSC Initiative &gt;</a></p>
 
@@ -22,7 +22,7 @@
   </article>
 
   <article class="features">
-    <h2 class="section_title">For all types of learners, and lets you learn your way</h2>
+    <h2 class="section_title"><span>For all types of learners, and lets you learn your way</span></h2>
     <section class="greyblue flex-container">
       <img class="column-left flex-item" src="assets/images/edgenotes2.png" alt="Icon for Edgenotes">
       <div class="column-right flex-item">
@@ -55,7 +55,7 @@
   </article>
 
   <article class="modularity">
-    <h2 class="section_title">MSCs are digitally enhanced, modular, and easy to adapt.</h2>
+    <h2 class="section_title"><span>MSCs are digitally enhanced, modular, and easy to adapt.</span></h2>
     <section class="flex-container">
       <img class="column-left flex-item" src="assets/images/responsive.png" alt="Icon for Responsiveness">
       <div class="column-right flex-item">
@@ -78,7 +78,7 @@
   </article>
 
   <article class="involve">
-    <h2 class="section_title">Get involved with MSC!</h2>
+    <h2 class="section_title"><span>Get involved with MSC!</span></h2>
     <div class="flex-container">
       <section class="column-quarter lightblue flex-item">
       <h3>Use</h3>
