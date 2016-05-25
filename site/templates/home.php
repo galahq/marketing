@@ -5,8 +5,9 @@
   <article class="intro">
     <div class="site">
     <div class="text">
-    <h2>Introducing an innovative and engaging learning experience in the sustainability field. </h2>
-    <p>Capturing <strong><em>real</em></strong> problems and <strong><em>real</em></strong> decision makers to equip students with problem solving skills applicable in the <strong><em>real</em></strong> world. </p>
+    <!--<h2>Introducing an innovative and engaging learning experience in the sustainability field. </h2>-->
+    <h2>Way better than lectures.</h2>
+    <p>Capturing <em>real</em> problems and <em>real</em> decision makers to equip students with problem solving skills applicable in the <em>real</em> world. </p>
     </div>
     </div>
   </article>

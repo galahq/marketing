@@ -60,7 +60,7 @@ html {
 body {
   color: #646464;
   line-height: 1.5;
-  font-family: "Lato", sans-serif;
+  font-family: "tenso", sans-serif;
   margin: 0 auto;
 }
 
@@ -130,6 +130,10 @@ body {
 
 /* Headings
 -------------------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "clarendon-urw", serif;
+  line-height: 110%;
+}
 h1 {
   font-size: 2em;
   font-weight: 700;
@@ -137,7 +141,7 @@ h1 {
 }
 h2 {
   font-size: 1.7em;
-  font-weight: 700;
+  font-weight: 400;
   margin-bottom: .5em;
 }
 h3 {
@@ -147,8 +151,15 @@ h3 {
 }
 h4 {
   font-size: 1.125em;
-  font-weight: 700;
+  font-weight: 400;
   margin-bottom: .5em;
+}
+h5 {
+  font-family: "tenso";
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 0.5em;
 }
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;
@@ -215,6 +226,18 @@ article {
 .intro img{
   margin-top: 1em;
   margin-bottom: 2em;
+}
+
+.intro h2 {
+  font-family: "jubilat";
+  font-weight: 100;
+  font-size: 44pt;
+  font-style: italic;
+  margin: 0.5em -6pt 0.25em -6pt;
+}
+
+.intro p {
+  font-weight: 300;
 }
 
 .features {
