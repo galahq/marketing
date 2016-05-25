@@ -1,12 +1,17 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+<main class="main" role="main">
 
-    <div class="text">
-      <h1><?php echo $page->title()->html() ?></h1>
-      <?php echo $page->text()->kirbytext() ?>
-    </div>
+  <div>
 
-  </main>
+    <article class="site">
+
+      <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
+
+    </article>
+
+  </div>
+
+</main>
 
 <?php snippet('footer') ?>

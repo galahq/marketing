@@ -26,7 +26,6 @@
       <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
     </a>
     <?php snippet('menu') ?>
-    <?php snippet('secondmenu') ?>
   </header>
 
   <?php endif ?>
