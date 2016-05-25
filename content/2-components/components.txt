@@ -1,7 +1,36 @@
 Title: Components
 
 ----
+Description: This page offers a guide to MSC components.
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+----
+Text:
+(toc)
 
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+## Text
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+
+## Edgenotes
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+
+
+## Podcast
+
+In tristique vel sapien ut lacinia. Aenean sagittis aliquam libero id semper. Nullam vestibulum dignissim nunc, a mollis ipsum. Proin nec nisl nulla. Ut fermentum, quam eget dictum convallis, erat sem ullamcorper quam, nec porttitor nulla elit a mauris. Sed eu dapibus lacus, eget fermentum justo. Suspendisse nec imperdiet purus. Morbi luctus posuere ligula. Sed feugiat pellentesque nisi rhoncus fermentum. Aenean finibus neque in velit gravida volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut interdum sed ex in pretium. Pellentesque auctor felis at risus blandit, nec molestie tellus scelerisque. Cras maximus leo eu sapien ultrices, dignissim vehicula ex egestas. Morbi efficitur ultrices tellus, at convallis lectus pretium in.
+
+## Exercise
+
+Nam tempus lacus sit amet ipsum interdum, sit amet condimentum nunc malesuada. Praesent suscipit dui at ex finibus, quis fermentum elit mattis. Nulla ac varius dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Pellentesque sed velit nec justo consequat scelerisque. Curabitur sodales quam nulla, a lacinia lorem molestie ac. Vivamus semper arcu eget ex ultricies, id tristique leo convallis. Donec vel tristique mauris, sed pretium sapien.
+
+
+## Teaching Guide
+
+Fusce mollis ut eros nec cursus. Donec sed eleifend dui. Suspendisse lacinia interdum condimentum. Sed ut sollicitudin mauris. Suspendisse tincidunt molestie est, et feugiat neque consequat ut. Morbi pharetra lacus consequat, hendrerit libero nec, efficitur nunc. Etiam in leo vel neque varius pellentesque. Nullam commodo elit arcu. Nulla sagittis pretium turpis, ut commodo augue scelerisque vel. Aliquam vel mollis arcu, a cursus elit.
+
+Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
+
+## Accessibility
+Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
