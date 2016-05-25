@@ -23,9 +23,12 @@
 
   <article class="features">
     <h2 class="section_title"><span>For all types of learners, and lets you learn your way</span></h2>
-    <section class="greyblue flex-container">
-      <img class="column-left flex-item" src="assets/images/edgenotes2.png" alt="Icon for Edgenotes">
-      <div class="column-right flex-item">
+
+    <section class="flip-flop">
+      <figure>
+        <img src="assets/images/edgenotes2.png" alt="Icon for Edgenotes">
+      </figure>
+      <div>
       <h5>Multimedia Edgenotes</h5>
       <h2>Curated media that excites.</h2>
       <p>Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.</p>
@@ -33,19 +36,23 @@
       </div>
     </section>
 
-    <section class="lightblue flex-container">
-      <div class="column-left-text flex-item">
+    <section class="flip-flop">
+      <figure>
+        <img src="assets/images/podcast2.png" alt="Icon for podcast">
+      </figure>
+      <div>
       <h5>Podcast</h5>
       <h2>Learning on the go.</h2>
       <p>MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts.</p>
       <p><a href="#">Learn more &gt;</a></p>
       </div>
-      <img class="column-right-img flex-item" src="assets/images/podcast2.png" alt="Icon for podcast">
     </section>
 
-    <section class="greyblue flex-container">
-      <img class="column-left flex-item" src="assets/images/exercise2.png" alt="Icon for Exercise">
-      <div class="column-right flex-item">
+    <section class="flip-flop">
+      <figure>
+        <img src="assets/images/exercise2.png" alt="Icon for Exercise">
+      </figure>
+      <div>
       <h5>Interactive Learning Exercises</h5>
       <h2>Gain mastery in fun and engaging way.</h2>
       <p>Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.</p>
@@ -56,9 +63,9 @@
 
   <article class="modularity">
     <h2 class="section_title"><span>MSCs are digitally enhanced, modular, and easy to adapt.</span></h2>
-    <section class="flex-container">
-      <img class="column-left flex-item" src="assets/images/responsive.png" alt="Icon for Responsiveness">
-      <div class="column-right flex-item">
+    <section class="flip-flop">
+      <img src="assets/images/responsive.png" alt="Icon for Responsiveness">
+      <div>
       <h5>Responsive to different screen sizes</h5>
       <h2>Allowing easy access from different devices around the world.</h2>
       <p>MSCs are digital. This allows students from all over the world to easily access them. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. And offer students the opportunity to listen and learn on the go.</p>
@@ -66,14 +73,14 @@
       </div>
     </section>
 
-    <section class="flex-container">
-      <div class="column-left-text flex-item">
+    <section class="flip-flop">
+      <img src="assets/images/connection.png" alt="Icon for Modularity">
+      <div>
       <h5>Modularity</h5>
       <h2>For different timelines and classrooms.</h2>
       <p>The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. </p>
       <p><a href="#">Learn more &gt;</a></p>
       </div>
-      <img class="column-right-img flex-item" src="assets/images/connection.png" alt="Icon for Modularity">
     </section>
   </article>
 
