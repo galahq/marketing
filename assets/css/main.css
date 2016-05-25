@@ -343,7 +343,8 @@ ul.toc {
 
 .toc li {
   list-style: none;
-  float: left;}
+  display: inline-block;
+}
 
 .toc a {
   position: relative;
