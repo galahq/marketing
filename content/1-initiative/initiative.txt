@@ -7,9 +7,10 @@ Description: This page offers more information about the Michigan Sustainability
 Text:
 (toc)
 
+<p>&nbsp;</p>
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+Funded by a grant from Transforming Learning in the Third Century, the Michigan Sustainability Cases (MSC) initiative is building a case-based curriculum for sustainability education across the U of M campus, beginning with SNRE and PitE courses. SC is currently transforming sustainability learning at home on the University of Michigan campus and bringing cases to classrooms around the world. 
 
 ## Background
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.

@@ -7,6 +7,12 @@ Description: This page offers a guide to MSC components.
 Text:
 (toc)
 
+<p>&nbsp;</p>
+
+Inspiration for a case may come from a current or past event or a published work. Each case is presented with the following components: main text, multi-media Edgenotes, podcast, learning exercises, and teaching guide. In addition, each case is designed to be accessible, meaning that they are design for different screen sizes, fit into different class timelines and disciplines.
+
+Note: MSC has funding to support the development of cases. If you are interested in developing a case, please refer to <a href="#">Submit a Proposal</a> page.
+
 ## Text
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
