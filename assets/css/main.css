@@ -337,37 +337,24 @@ article {
 -------------------------------------------------- */
 ul.toc {
   margin: 0;
-  counter-reset: count;
   border: 1px solid #ddd;
-  border-bottom: 0; }
+}
 
 .toc li {
   list-style: none;
-  float: left;}
+  display: inline-block;
+}
 
 .toc a {
-  position: relative;
-  display: block;
-  border-bottom: 1px solid #ddd;
+  display: inline-block;
+  border: none;
   padding: .75em 0 .75em 3em;
-  line-height: 1.5em;
-  font-size: .9em; }
+  font-size: .9em;
+}
 
 .toc a:hover {
-  border-color: #ddd;
-  color: #68bf70}
-
-.toc a:after {
-  position: absolute;
-  right: 1em;
-  color: #999;
-  font-weight: 300; }
-
-.toc a:before {
-  position: absolute;
-  left: 1em;
-  color: #999;
-  font-weight: 300; }
+  color: #68bf70;
+}
 
 /* Footer
 -------------------------------------------------- */
