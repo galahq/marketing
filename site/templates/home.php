@@ -64,7 +64,9 @@
   <article class="modularity">
     <h2 class="section_title"><span>MSCs are digitally enhanced, modular, and easy to adapt.</span></h2>
     <section class="flip-flop">
+      <figure>
       <img src="assets/images/responsive.png" alt="Icon for Responsiveness">
+      </figure>
       <div>
       <h5>Responsive to different screen sizes</h5>
       <h2>Allowing easy access from different devices around the world.</h2>
@@ -74,7 +76,9 @@
     </section>
 
     <section class="flip-flop">
+      <figure>
       <img src="assets/images/connection.png" alt="Icon for Modularity">
+      </figure>
       <div>
       <h5>Modularity</h5>
       <h2>For different timelines and classrooms.</h2>
@@ -87,7 +91,7 @@
   <article class="involve">
     <h2 class="section_title"><span>Get involved with MSC!</span></h2>
     <div class="flex-container">
-      <section class="column-quarter lightblue flex-item">
+      <section class="column-quarter lightblue">
       <h3>Use</h3>
       <p>
         Can’t wait to use a case in your classroom? Awesome!</p>
@@ -97,18 +101,18 @@
         <li><a href="#">Watch testimonials from teachers and students who have used MSCs &gt;</a></li>
       </ul>
       </section>
-      <section class="column-quarter greyblue flex-item">
+      <section class="column-quarter greyblue">
       <h3>Produce</h3>
       <p>Interested in building a case? MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. </p>
       <p><a href="#">MSC Production Guide &gt;</a></p>
       <p><a href="#">Submit a proposal &gt;</a></p>
       </section>
-      <section class="column-quarter lightblue flex-item">
+      <section class="column-quarter lightblue">
       <h3>Update</h3>
       <p>Found a mistake? Have new Information? These cases are living documents, and we would greatly appreicate your assistance in keeping these cases correct and up to date.</p>
       <p><a href="#">Suggest updates &gt;</a></p>
       </section>
-      <section class="column-quarter greyblue flex-item">
+      <section class="column-quarter greyblue">
       <h3>Evaluate</h3>
       <p>What to see how much your students are gaining from a particular case? Work with the MSC team to begin assessment on how helpful these cases are at teaching them material. </p>
       <p><a href="evaluation.html">Check out on going evaluation of learning outcomes &gt;</a></p>

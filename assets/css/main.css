@@ -304,18 +304,6 @@ article {
     justify-content: space-between;
 }
 
-.column-left {
-  float: left;
-  width: 30%;
-  padding: 5%;
-}
-
-.column-right {
-  float: left;
-  width: 60%;
-  padding: 5%;
-}
-
 .features {
   padding: 0;
   margin: 0;
@@ -362,29 +350,9 @@ figure img {
   color: #555;
 }
 
-.column-left-text {
-  float: left;
-  width: 60%;
-  padding: 5%;
-}
-
-.column-right-img {
-  float: left;
-  width: 30%;
-  padding: 5%;
-}
-
-.features img{
-  max-width: 600px;
-}
-
 .column-quarter{
   width: 25%;
   height: 500px;
-}
-
-.modularity img{
-  max-width: 500px;
 }
 
 @media screen and (max-width: 65em){
