@@ -6,9 +6,10 @@
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
+  <script src="https://use.typekit.net/fxq4rje.js"></script>
+  <script>try{Typekit.load({ async: true  });}catch(e){}</script>
 
   <?php echo css('assets/css/main.css') ?>
-  <link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,900' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
