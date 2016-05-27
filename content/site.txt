@@ -6,7 +6,7 @@ Author: The MSC Team
 
 ----
 
-Description: This is the public facing site for the MSC initiative.
+Description: Introducing a new way of teaching and learning in the sustainability field. 
 
 ----
 

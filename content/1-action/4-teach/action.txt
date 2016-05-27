@@ -1,0 +1,55 @@
+Title: Teach
+
+----
+
+Description: Introducing an innovative and engaging learning experience in the sustainability field. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a porttitor leo. Vestibulum et felis neque. Maecenas venenatis dolor lacus, et eleifend enim maximus id. Pellentesque sollicitudin purus nulla, quis molestie nisl elementum et. Donec consequat elit ac condimentum commodo. Sed at lacus vitae tortor consequat pharetra nec vitae purus. Integer elementum libero leo, et dictum quam varius tempor. Nullam iaculis rutrum risus at interdum.
+
+----
+
+Text:
+Ut aliquam suscipit orci, in egestas tortor condimentum sed. Donec volutpat maximus sem, sit amet vestibulum arcu laoreet vitae. Cras consectetur magna magna, vel bibendum nibh pellentesque vel. Morbi mollis ipsum non leo molestie, a sollicitudin magna vestibulum. Suspendisse ut nulla scelerisque, imperdiet quam eget, cursus sem. Mauris nec arcu a mauris scelerisque vulputate ut quis sapien. Maecenas interdum consectetur congue. Pellentesque porttitor ex in mi efficitur, vitae pharetra metus convallis. Curabitur tempus ligula at justo ultrices, in maximus urna tincidunt. Nulla sapien metus, feugiat eget magna a, convallis dapibus massa. Maecenas sed velit et elit mollis auctor. Etiam iaculis turpis pharetra, eleifend dolor vitae, dictum augue.
+
+<section class="modularity">
+  <h2 class="section_title"><span>MSCs are digitally enhanced, modular, and easy to adapt.</span></h2>
+  <section class="flip-flop">
+    <figure>
+    <img src="assets/images/responsive.png" alt="Icon for Responsiveness">
+    </figure>
+    <div>
+    <h5>Responsive to different screen sizes</h5>
+    <h2>Allowing easy access from different devices around the world.</h2>
+    <p>MSCs are digital. This allows students from all over the world to easily access them. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. And offer students the opportunity to listen and learn on the go.</p>
+    <p><a href="#">Learn more &gt;</a></p>
+    </div>
+  </section>
+
+  <section class="flip-flop">
+    <figure>
+    <img src="assets/images/connection.png" alt="Icon for Modularity">
+    </figure>
+    <div>
+    <h5>Modularity</h5>
+    <h2>For different timelines and classrooms.</h2>
+    <p>The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. </p>
+    <p><a href="#">Learn more &gt;</a></p>
+    </div>
+  </section>
+</section>
+
+<section class="involve">
+  <h2 class="section_title"><span>Get involved with MSC!</span></h2>
+  <div class="flex-container">
+    <section class="column-quarter lightblue">
+    <h3>Use</h3>
+    <p>
+      Can’t wait to use a case in your classroom? Awesome!</p>
+    <ul>
+      <li><a href="#">Explore our case gallery &gt;</a></li>
+      <li><a href="#">Check out teaching guide &gt;</a></li>
+      <li><a href="#">Watch testimonials from teachers and students who have used MSCs &gt;</a></li>
+    </ul>
+    </section>
+    <section class="column-quarter greyblue">
+
+----
+Link: action/teach

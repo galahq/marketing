@@ -15,6 +15,14 @@ footer, header, hgroup, main, nav, section, summary {
   display: block;
 }
 
+/* clearfix
+--------------------------------------------------*/
+cf:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
 /* Pix
 -------------------------------------------------- */
 img {
@@ -29,19 +37,10 @@ a {
   text-decoration: none;
   transition: color .3s, background .3s, border .3s;
 }
+
 a:hover {
   color: #02284b;
 }
-
-
-/* Clearfix
--------------------------------------------------- */
-.cf:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 
 /* Site
 -------------------------------------------------- */
@@ -68,65 +67,77 @@ body {
     position: relative;
     max-width: 70em;
     margin: 0 auto;
-    padding: 0 2em 0 2em;
+    padding: 0 2em;
 }
-
 /* Header
 -------------------------------------------------- */
 .header {
-  padding: 2em 2em 0 2em;
+  padding: 2em;
   margin-bottom: 1.5em;
 }
 
 .logo {
   display: block;
+  float: left;
+}
+
+.logo > img{
+    width: 22em;
+}
+
+.intro{
+  background: url("../../content/home/home2.jpg");
+  background-position: absolute;
+  min-height: 600px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #FFF;
+}
+
+.intro h1 {
+  font-family: "jubilat";
+  font-weight: 100;
+  font-size: 44pt;
+  font-style: italic;
+  margin: 0.5em -6pt 0.25em -6pt;
+}
+
+.intro p {
+  font-weight: 300;
+  max-width: 40em;
 }
 /* Navigation
 -------------------------------------------------- */
+.menu {
+  float: right;
+  margin-right: -1em;
+}
+
 .menu a {
   display: block;
   color: #9c9c9c;
   font-size: 90%;
-}
-.menu a:hover {
-  color: #222;
-  text-decoration: none;
-}
-.menu .active {
-  color: #02284b;
-}
-.menu li {
-  list-style: none;
-}
-.menu > li {
-  position: relative;
-}
-.menu > li > a {
-  padding: .35em 0;
-  border-top: 1px solid #ddd;
+  padding: .35em 1em;
   font-weight: 400;
 }
 
-@media screen and (min-width: 40em) {
-  .logo {
-    float: left;
-  }
-  .logo > img{
-      width: 25em;
-  }
-  .menu {
-    float: right;
-    margin-right: -1em;
-  }
-  .menu > li {
-    float: left;
-  }
-  .menu > li > a {
-    padding: .35em 1em;
-    border: 0;
-  }
+.menu a:hover {
+  color: #02284b;
+  text-decoration: none;
 }
 
+.menu .active {
+  color: #02284b;
+}
+
+.menu li {
+  list-style: none;
+  position: relative;
+  float: left;
+}
 
 /* Headings
 -------------------------------------------------- */
@@ -134,26 +145,31 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "clarendon-urw", serif;
   line-height: 110%;
 }
+
 h1 {
   font-size: 2em;
   font-weight: 700;
   margin-bottom: .5em;
 }
+
 h2 {
   font-size: 1.7em;
   font-weight: 400;
   margin-bottom: .5em;
 }
+
 h3 {
   font-size: 1.4em;
   font-weight: 400;
   margin-bottom: .5em;
 }
+
 h4 {
   font-size: 1.125em;
   font-weight: 400;
   margin-bottom: .5em;
 }
+
 h5 {
   font-family: "tenso";
   font-weight: 300;
@@ -161,6 +177,7 @@ h5 {
   letter-spacing: 1px;
   margin-bottom: 0.5em;
 }
+
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;
   border: 0 !important;
@@ -172,22 +189,26 @@ h1 a, h2 a, h3 a, h4 a {
   padding-bottom: 1.5em;
   border-bottom: 2px solid #02284b;
 }
+
 .main hr {
   margin: 3em 0;
   height: 2px;
   background: #ddd;
 }
+
 .main p,
 .main figure,
 .main ul,
 .main ol {
   margin-bottom: 1.5em;
 }
+
 .main a {
   border-bottom: 2px solid #ddd;
 }
+
 .main a:hover {
-  border-color: #222;
+  border-color: #02284b;
 }
 
 /* Text blocks */
@@ -196,52 +217,10 @@ h1 a, h2 a, h3 a, h4 a {
   margin-left: 1em;
 }
 
-/* Article
+/* Section
 -------------------------------------------------- */
-article {
+section {
   padding: 4em 2em;
-}
-
-/* sections
--------------------------------------------------- */
-.intro{
-  background: url("../../content/home/home2.jpg");
-  min-height: 600px;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.text{
-  max-width: 700px;
-  color: #FFF;
-}
-
-.intro p{
-  margin-bottom: 0;
-}
-
-.intro img{
-  margin-top: 1em;
-  margin-bottom: 2em;
-}
-
-.intro h2 {
-  font-family: "jubilat";
-  font-weight: 100;
-  font-size: 44pt;
-  font-style: italic;
-  margin: 0.5em -6pt 0.25em -6pt;
-}
-
-.intro p {
-  font-weight: 300;
-}
-
-.features {
-  background-color:;
 }
 
 .section_title{
@@ -276,6 +255,46 @@ article {
   margin-left: 15px;
 }
 
+
+/* sections
+-------------------------------------------------- */
+
+.action-items {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  padding: 2em 1em;
+}
+
+.action-items > div {
+  flex: 0 0 50%;
+  padding: 2em;
+}
+
+.action-items:nth-child(even) {
+  padding-right: 0;
+}
+
+@media screen and (max-width: 40em) {
+  .action-items > div {
+    flex: 0 0 100%;
+    padding: 1em;
+  }
+}
+
+.device-banner{
+  background: url("../../content/home/devicebanner.png");
+  background-position: absolute;
+  min-height: 600px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #FFF;
+}
+
 /* columns
 -------------------------------------------------- */
 .what {
@@ -304,14 +323,15 @@ article {
     justify-content: space-between;
 }
 
-.features {
+.elements {
   padding: 0;
   margin: 0;
 }
 
 .flip-flop {
+  display: -webkit-flex;
   display: flex;
-  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
   justify-content: center;
   padding: 2em 1em;
 }
@@ -340,12 +360,12 @@ figure img {
   }
 }
 
-.features .flip-flop {
+.elements .flip-flop {
   background-color: #98bac8;
   color: #FFF;
 }
 
-.features .flip-flop:nth-child(odd) {
+.elements .flip-flop:nth-child(odd) {
   background-color: #d0e4f4;
   color: #555;
 }

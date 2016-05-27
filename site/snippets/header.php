@@ -12,21 +12,31 @@
   <?php echo css('assets/css/main.css') ?>
 
 </head>
-<body>
+<body class="<?php echo str_replace('.', '-', $page->template()) ?>" id="top">
   <?php if($page->isHomePage()): ?>
-  <header class="header cf site" role="banner">
-    <a class="logo" href="<?php echo url() ?>">
-      <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
-    </a>
-    <?php snippet('menu') ?>
+  <header>
+    <div class="header cf site">
+      <a class="logo" href="<?php echo url() ?>">
+        <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+      </a>
+      <?php snippet('menu') ?>
+    </div>
+    <section class="intro">
+      <div class="site">
+      <h1>Way better than lectures.</h1>
+      <p>Capturing <em>real</em> problems and <em>real</em> decision makers to equip students with problem solving skills applicable in the <em>real</em> world. </p>
+      </div>
+    </section>
   </header>
 
   <?php else: ?>
-  <header class="header cf site" role="banner">
-    <a class="logo" href="<?php echo url() ?>">
-      <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
-    </a>
-    <?php snippet('menu') ?>
+  <header>
+    <div class="header cf site">
+      <a class="logo" href="<?php echo url() ?>">
+        <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+      </a>
+      <?php snippet('menu') ?>
+    </div>
   </header>
 
   <?php endif ?>
