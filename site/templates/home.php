@@ -18,9 +18,11 @@
   <section class="elements">
     <?php foreach($pages->find('element')->children() as $element): ?>
       <section class="flip-flop">
+        <?php if($image = $element->image()): ?>
         <figure>
-          <img src="assets/images/podcast2.png" alt="Icon for podcast">
+          <img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($element->title()) ?>">
         </figure>
+        <?php endif ?>
       <div>
         <?php echo html($element->description()) ?>
       </div>
