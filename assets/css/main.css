@@ -147,31 +147,24 @@ body {
   padding: 2em 1em;
 }
 
-.secondmenu > ul{
-  display: block;
-  margin-top: 0;
-  flex: 0 0 50%;
-  border-bottom: 1px solid #ddd;
-  float: right; 
+.secondmenu {
+  text-align: right;
 }
 
-.secondmenu li {
+.secondmenu> ul{
+  display: inline-block;
   list-style: none;
-  display: inline-block;
-}
-
-.secondmenu a {
-  display: inline-block;
-  border: none;
-  padding: .75em 0 .75em 3em;
+  border-bottom: 1px solid #ddd;
   font-size: .7em;
 }
 
-.secondmenu a:hover {
-  color: #68bf70;
+.secondmenu li {
+  display: inline-block;
+  padding: .75em 0 .75em 3em;
 }
 
-.secondmenu .active {
+.secondmenu a:hover,
+.secondmenu a.active {
   color: #68bf70;
 }
 
