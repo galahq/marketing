@@ -5,9 +5,6 @@ Description: This page offers a guide to MSC components.
 
 ----
 Text:
-(toc)
-
-<p>&nbsp;</p>
 
 Inspiration for a case may come from a current or past event or a published work. Each case is presented with the following components: main text, multi-media Edgenotes, podcast, learning exercises, and teaching guide. In addition, each case is designed to be accessible, meaning that they are design for different screen sizes, fit into different class timelines and disciplines.
 

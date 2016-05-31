@@ -139,6 +139,42 @@ body {
   float: left;
 }
 
+.submenu {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  padding: 2em 1em;
+}
+
+.secondmenu > ul{
+  display: block;
+  margin-top: 0;
+  flex: 0 0 50%;
+  border-bottom: 1px solid #ddd;
+  float: right; 
+}
+
+.secondmenu li {
+  list-style: none;
+  display: inline-block;
+}
+
+.secondmenu a {
+  display: inline-block;
+  border: none;
+  padding: .75em 0 .75em 3em;
+  font-size: .7em;
+}
+
+.secondmenu a:hover {
+  color: #68bf70;
+}
+
+.secondmenu .active {
+  color: #68bf70;
+}
+
 /* Headings
 -------------------------------------------------- */
 h1, h2, h3, h4, h5, h6 {

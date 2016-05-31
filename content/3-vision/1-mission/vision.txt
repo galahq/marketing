@@ -1,4 +1,4 @@
-Title: Overview
+Title: MISSION
 
 ----
 
@@ -8,8 +8,6 @@ Besides MSCs campus-wide influence, we expect to have a worldwide impact by buil
 
 ----
 Text:
-
-(toc)
 
 ##Initiative
 
