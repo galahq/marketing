@@ -73,7 +73,6 @@ body {
 -------------------------------------------------- */
 .header {
   padding: 2em;
-  margin-bottom: 1.5em;
 }
 
 .logo {
@@ -86,6 +85,7 @@ body {
 }
 
 .intro{
+  margin-top: 1.5em;
   background: url("../../content/home/home2.jpg");
   background-position: absolute;
   min-height: 600px;
@@ -148,6 +148,7 @@ body {
 }
 
 .secondmenu {
+  margin-bottom: 0.5em;
   text-align: right;
 }
 
@@ -298,14 +299,23 @@ section {
 
 .action-items > div {
   flex: 0 0 50%;
-  padding: 2em;
+  padding: 1em 1.5em;
+  border: 0px solid #DDDDDD;
 }
 
 .action-items:nth-child(even) {
   padding-right: 0;
 }
+@media screen and (min-width: 50em) {
+  .action-items div:nth-child(odd) {
+    border-right-width: 1px;
+  }
+  .action-items div:not(:last-child):not(:nth-last-child(2)) {
+    border-bottom-width: 1px;
+  }
+}
 
-@media screen and (max-width: 40em) {
+@media screen and (max-width: 50em) {
   .action-items > div {
     flex: 0 0 100%;
     padding: 1em;
