@@ -1,8 +1,12 @@
 Title: CONNECT
 
 ----
+Tagline: Learn from previous learners; leave legacy for future learners.
 
-Description: Introducing an innovative and engaging learning experience in the sustainability field. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a porttitor leo. Vestibulum et felis neque. Maecenas venenatis dolor lacus, et eleifend enim maximus id. Pellentesque sollicitudin purus nulla, quis molestie nisl elementum et. Donec consequat elit ac condimentum commodo. Sed at lacus vitae tortor consequat pharetra nec vitae purus. Integer elementum libero leo, et dictum quam varius tempor. Nullam iaculis rutrum risus at interdum.
+----
+
+Description: MSC allows collective marginalia that allows. There are different global groups, including different discipline groups like engineering, urban planning, policy; and there can be different continent groups. When students start learning MSC, they can choose to subscribe to different groups and gain comments from their perspectives. Learning groups can also be formed by different classrooms, and individual study groups. Comments from different groups can be pushed to global groups. These discussions are preserved and pass on and that new case learners can gain the knowledge of previous users and learn from other disciplines. Suggestions and new information about the current state of the cases being added into the case profile, making the cases living documents, being correct and up to date.
+
 
 ----
 

@@ -5,6 +5,7 @@
     <?php foreach($pages->find('action')->children() as $action): ?>
       <div>
         <h2><?php echo html($action->title()) ?></h2>
+        <h4><?php echo html($action->tagline()) ?></h4>
         <p><?php echo html($action->description()) ?></p>
         <a href="<?php echo $action->link() ?>"><h5>Learn more ></h5></a>
       </div>

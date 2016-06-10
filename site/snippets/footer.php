@@ -1,10 +1,10 @@
-  <footer class="footer cf" role="contentinfo">
+  <footer class="footer site cf" role="contentinfo">
 
-    <div class="site copyright">
+    <div class="copyright">
       <?php echo $site->copyright()->kirbytext() ?>
     </div>
 
-    <div class="site colophon">
+    <div class="colophon">
       <p>Michigan Sustainability Cases Initiative</p>
       <p>Samuel T. Dana Building, Room 2355 <br>
       Ann Arbor, MI 48109-1041
