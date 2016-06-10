@@ -1,8 +1,11 @@
 Title: TEACH
 
 ----
+Tagline: Modular cases that fits in different context, disciplines, and timelines.
 
-Description: Introducing an innovative and engaging learning experience in the sustainability field. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a porttitor leo. Vestibulum et felis neque. Maecenas venenatis dolor lacus, et eleifend enim maximus id. Pellentesque sollicitudin purus nulla, quis molestie nisl elementum et. Donec consequat elit ac condimentum commodo. Sed at lacus vitae tortor consequat pharetra nec vitae purus. Integer elementum libero leo, et dictum quam varius tempor. Nullam iaculis rutrum risus at interdum.
+----
+
+Description: The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. You can access MSC from different devices all over the world. 
 
 ----
 

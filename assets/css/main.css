@@ -94,7 +94,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #FFF;
+  color: #F9F8F2;
 }
 
 .intro h1 {
@@ -331,7 +331,7 @@ section {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #FFF;
+  color: #F9F8F2;
 }
 
 /* columns
@@ -345,7 +345,7 @@ section {
 .greyblue {
   padding: 2em;
   background-color: #98bac8;
-  color: #FFF;
+  color: #F9F8F2;
 }
 
 .lightblue {
@@ -400,12 +400,12 @@ figure img {
 }
 
 .elements .flip-flop {
-  background-color: #98bac8;
-  color: #FFF;
+  background-color: #93bed0;
+  color: #F9F8F2;
 }
 
 .elements .flip-flop:nth-child(odd) {
-  background-color: #d0e4f4;
+  background-color: #d6eaf9;
   color: #555;
 }
 
@@ -448,7 +448,6 @@ ul.toc {
 /* Footer
 -------------------------------------------------- */
 .footer {
-  padding: 1em 0 6em;
   font-size: .8em;
 }
 .copyright {
@@ -456,10 +455,6 @@ ul.toc {
 }
 .colophon {
   float: right;
-}
-.colophon a b {
-  color: midnightblue;
-  padding-left: .25em;
 }
 
 /*

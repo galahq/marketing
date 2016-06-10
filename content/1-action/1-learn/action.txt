@@ -1,9 +1,11 @@
 Title: LEARN
 
 ----
+Tagline: Multi-media engagement for all learners; practical skills for real problems.
 
+----
 Description:
-Introducing an innovative and engaging learning experience in the sustainability field. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a porttitor leo. Vestibulum et felis neque. Maecenas venenatis dolor lacus, et eleifend enim maximus id. Pellentesque sollicitudin purus nulla, quis molestie nisl elementum et. Donec consequat elit ac condimentum commodo. Sed at lacus vitae tortor consequat pharetra nec vitae purus. Integer elementum libero leo, et dictum quam varius tempor. Nullam iaculis rutrum risus at interdum.
+Each MSC tells a story. First,  a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability.
 
 ----
 
