@@ -131,20 +131,13 @@ body {
 
 .menu .active {
   color: #02284b;
+  background-color: #ddd;
 }
 
 .menu li {
   list-style: none;
   position: relative;
   float: left;
-}
-
-.submenu {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-flow: row wrap;
-  justify-content: center;
-  padding: 2em 1em;
 }
 
 .secondmenu {
@@ -155,13 +148,15 @@ body {
 .secondmenu> ul{
   display: inline-block;
   list-style: none;
+  border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   font-size: .7em;
+  background-color: #ddd;
 }
 
 .secondmenu li {
   display: inline-block;
-  padding: .75em 0 .75em 3em;
+  padding: .75em 1em .75em 3em;
 }
 
 .secondmenu a:hover,
@@ -294,13 +289,19 @@ section {
   display: flex;
   -webkit-flex-flow: row wrap;
   justify-content: center;
-  padding: 2em 1em;
+  padding: 2em;
 }
 
 .action-items > div {
   flex: 0 0 50%;
   padding: 1em 1.5em;
   border: 0px solid #DDDDDD;
+}
+
+.action-items img{
+  width: 70px;
+  display: inline-block;
+  margin-right: 0.5em;
 }
 
 .action-items:nth-child(even) {
@@ -336,23 +337,6 @@ section {
 
 /* columns
 -------------------------------------------------- */
-.what {
-  max-width: 50em;
-  margin: auto;
-  padding: 1.5em 0 0 0;
-}
-
-.greyblue {
-  padding: 2em;
-  background-color: #98bac8;
-  color: #F9F8F2;
-}
-
-.lightblue {
-  padding: 2em;
-  background-color: #d0e4f4;
-  color: #555;
-}
 
 .flex-container {
     display: -webkit-flex;
@@ -372,7 +356,11 @@ section {
   display: flex;
   -webkit-flex-flow: row wrap;
   justify-content: center;
-  padding: 2em 1em;
+}
+
+figure img {
+  width: 100%;
+  padding: 0 1.5em;
 }
 
 .flip-flop:nth-child(odd) {
@@ -380,17 +368,13 @@ section {
 }
 
 .flip-flop > figure {
-  flex: 0 1 15em;
+  flex: 0 1 18em;
   position: relative;
 }
 
-figure img {
-  width: 100%;
-}
-
 .flip-flop > div {
-  flex: 0 1 40em;
-  padding: 0 2em;
+  flex: 0 1 45em;
+  padding: 2em 0;
 }
 
 @media screen and (max-width: 40em) {
@@ -449,6 +433,7 @@ ul.toc {
 -------------------------------------------------- */
 .footer {
   font-size: .8em;
+  padding: 2em 0;
 }
 .copyright {
   float: left;
