@@ -2,7 +2,9 @@
 
 <main class="main" role="main">
   <section class="firsttitle">
-    <h1>Here's what you can do with MSC.</h1>
+    <section class="site">
+      <h1>Here's what you can do with MSC.</h1>
+    </section>
   </section>
   <section class="action-items site">
     <?php foreach($pages->find('action')->children() as $action): ?>
@@ -16,8 +18,11 @@
   </section>
 
   <section class="secondtitle">
-    <h1>Here's why we are doing it.</h1>
+    <section class="site">
+      <h1>Here's why we are doing it.</h1>
+    </section>
   </section>
+
   <section>
     <div class="vision site">
     <p>Michigan Sustainability Cases (MSC) is an initiative aims at building a case-based curriculum for sustainability education, funded by a grant from Transforming Learning in the Third Century at the University of Michigan. <a href="#">Learn more about the MSC Initiative &gt;</a></p>
@@ -27,7 +32,9 @@
   </section>
 
   <section class="thirdtitle">
-    <h1>And here is how.</h1>
+    <section class="site">
+      <h1>And here is how.</h1>
+    </section>
   </section>
 
   <section class="device-banner">
