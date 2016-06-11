@@ -1,1 +1,7 @@
+Title: Home
 
+----
+
+Description: Here's what you can do with MSC.
+
+----
