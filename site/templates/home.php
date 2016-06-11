@@ -1,6 +1,9 @@
 <?php snippet('header') ?>
 
 <main class="main" role="main">
+  <section class="centertitle site">
+    <h1><?php echo str_replace('(\\', '(', kirbytext($page->description())) ?></h1>
+  </section>
   <section class="action-items site">
     <?php foreach($pages->find('action')->children() as $action): ?>
       <div>
