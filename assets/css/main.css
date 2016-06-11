@@ -255,7 +255,7 @@ section {
   display: flex;
   -webkit-flex-flow: row wrap;
   justify-content: center;
-  padding: 2em;
+  padding: 2em 0;
   margin-bottom: 3em;
 }
 

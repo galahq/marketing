@@ -26,12 +26,10 @@
     </div>
     <?php if($page->isHomePage()): ?>
       <section class="intro">
-        <div class="site">
-          <h1>Redefining Learning</h1>
-          <p>
-            <em>Real</em> Cases &middot; <em>Real</em> Engagement &middot; <em>Real</em> Results
-          </p>
-        </div>
+        <section class="site">
+          <h1>Redefine Learning</h1>
+          <p><em>Real</em> Cases &middot; <em>Real</em> Engagement &middot; <em>Real</em> Results</p>
+        </section>
       </section>
     <?php endif ?>
 
