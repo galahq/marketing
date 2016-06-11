@@ -27,11 +27,9 @@
     <?php if($page->isHomePage()): ?>
       <section class="intro">
         <div class="site">
-          <h1>Way better than lectures.</h1>
+          <h1>Redefining Learning</h1>
           <p>
-            Capturing <em>real</em> problems and <em>real</em> decision makers to
-            equip students with problem solving skills applicable in the <em>real</em>
-            world.
+            <em>Real</em> Cases &middot; <em>Real</em> Engagement &middot; <em>Real</em> Results
           </p>
         </div>
       </section>
@@ -40,4 +38,3 @@
     <?php snippet('secondmenu') ?>
 
   </header>
-

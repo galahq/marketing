@@ -247,40 +247,6 @@ h1 a, h2 a, h3 a, h4 a {
 section {
   padding: 4em 2em;
 }
-
-.section_title{
-  overflow: hidden;
-  text-align: center;
-  line-height: 1.2;
-}
-
-.section_title > span {
-  position: relative;
-  display: inline-block;
-}
-
-.section_title > span:before,
-.section_title > span:after
-{
-  content: "";
-  position: absolute;
-  top: 50%;
-  width: 9999px;
-  height: 1px;
-  background: #98bac8;
-}
-
-.section_title > span:before {
-  right: 100%;
-  margin-right: 15px;
-}
-
-.section_title > span:after {
-  left: 100%;
-  margin-left: 15px;
-}
-
-
 /* sections
 -------------------------------------------------- */
 
@@ -324,9 +290,8 @@ section {
   }
 }
 
-.centertitle {
-  margin-top: 4em;
-  text-align: center;
+.firsttitle {
+  background-color: #E6C64C;
 }
 
 .device-banner{
@@ -343,13 +308,14 @@ section {
 
 /* columns
 -------------------------------------------------- */
+.secondtitle {
+  background-color: #68BF70;
+  color: #555;
+}
 
-.flex-container {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
-    justify-content: space-between;
+.thirdtitle {
+  background-color: #93BED0;
+  color: #555;
 }
 
 .elements {
