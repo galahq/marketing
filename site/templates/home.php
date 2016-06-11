@@ -1,8 +1,8 @@
 <?php snippet('header') ?>
 
 <main class="main" role="main">
-  <section class="centertitle site">
-    <h1><?php echo str_replace('(\\', '(', kirbytext($page->description())) ?></h1>
+  <section class="firsttitle">
+    <h1>Here's what you can do with MSC.</h1>
   </section>
   <section class="action-items site">
     <?php foreach($pages->find('action')->children() as $action): ?>
@@ -13,6 +13,21 @@
         <a href="<?php echo $action->link() ?>"><h5>Learn more ></h5></a>
       </div>
     <?php endforeach ?>
+  </section>
+
+  <section class="secondtitle">
+    <h1>Here's why we are doing it.</h1>
+  </section>
+  <section>
+    <div class="vision site">
+    <p>Michigan Sustainability Cases (MSC) is an initiative aims at building a case-based curriculum for sustainability education, funded by a grant from Transforming Learning in the Third Century at the University of Michigan. <a href="#">Learn more about the MSC Initiative &gt;</a></p>
+
+    <p>MSC also refers to the case products by Michigan Sustainability Cases Initiative. Each MSC tells a story. First, a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. <a href="#">More about effectiveness of cases &gt;</a></p>
+    </div>
+  </section>
+
+  <section class="thirdtitle">
+    <h1>And here is how.</h1>
   </section>
 
   <section class="device-banner">
@@ -33,14 +48,7 @@
     <?php endforeach ?>
   </section>
 
-  <section>
-    <h2 class="section_title"><span>Transform pedagogy in sustainability</span></h2>
-    <div class="vision site">
-    <p>Michigan Sustainability Cases (MSC) is an initiative aims at building a case-based curriculum for sustainability education, funded by a grant from Transforming Learning in the Third Century at the University of Michigan. <a href="#">Learn more about the MSC Initiative &gt;</a></p>
 
-    <p>MSC also refers to the case products by Michigan Sustainability Cases Initiative. Each MSC tells a story. First, a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. <a href="#">More about effectiveness of cases &gt;</a></p>
-    </div>
-  </section>
 
   </main>
 
