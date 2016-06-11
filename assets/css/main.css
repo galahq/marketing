@@ -290,12 +290,13 @@ section {
   -webkit-flex-flow: row wrap;
   justify-content: center;
   padding: 2em;
+  margin-bottom: 3em;
 }
 
 .action-items > div {
   flex: 0 0 50%;
   padding: 1em 1.5em;
-  border: 0px solid #DDDDDD;
+  border: 0px solid #E6C64C;
 }
 
 .action-items img{
@@ -408,6 +409,10 @@ figure img {
     width: 50%;
     height: 500px;
   }
+}
+
+.vision{
+  padding: 2em;
 }
 
 /*
