@@ -332,7 +332,6 @@ section {
 
 figure img {
   width: 100%;
-  padding: 0 1.5em;
 }
 
 .flip-flop:nth-child(odd) {
@@ -340,9 +339,11 @@ figure img {
 }
 
 .flip-flop > figure {
-  flex: 0 1 18em;
+  flex: 0 1 16.5em;
   position: relative;
 }
+.flip-flop:nth-child(odd) > figure{ margin-left: 4em; }
+.flip-flop:nth-child(even) > figure{ margin-right: 4em; }
 
 .flip-flop > div {
   flex: 0 1 45em;
