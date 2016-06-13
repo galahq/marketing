@@ -113,7 +113,6 @@ body {
 -------------------------------------------------- */
 .menu {
   float: right;
-  margin-right: -1em;
 }
 
 .menu a {
@@ -157,7 +156,7 @@ body {
 
 .secondmenu li {
   display: inline-block;
-  padding: .75em 1em .75em 3em;
+  margin: .75em 1.5em;
 }
 
 .secondmenu a:hover,
