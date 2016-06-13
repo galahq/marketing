@@ -12,7 +12,7 @@
         <?php if($image = $action->image()): ?>
           <img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($action->title()) ?>">
         <?php endif ?>
-        <h2><?php echo html($action->title()) ?></h2>
+        <h2 class="uppercase"><?php echo html($action->title()) ?></h2>
         <h4><?php echo html($action->tagline()) ?></h4>
         <p><?php echo html($action->description()) ?></p>
         <a href="<?php echo $action->link() ?>"><h5>Learn more ></h5></a>
