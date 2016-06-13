@@ -37,7 +37,8 @@
     </section>
   </section>
 
-  <section class="device-banner">
+  <section class="scrollable">
+    <div class="device-banner">
   </section>
 
   <section class="elements">
