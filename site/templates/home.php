@@ -3,7 +3,7 @@
 <main class="main" role="main">
   <section class="firsttitle">
     <section class="site">
-      <h1>Here's what you can do with MSC.</h1>
+      <h1>Here’s what you can do with MSC.</h1>
     </section>
   </section>
   <section class="action-items site">
@@ -19,7 +19,7 @@
 
   <section class="secondtitle">
     <section class="site">
-      <h1>Here's why we are doing it.</h1>
+      <h1>Here’s why we are doing it.</h1>
     </section>
   </section>
 
