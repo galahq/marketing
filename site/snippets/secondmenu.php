@@ -16,7 +16,7 @@ if($items and $items->count()):
 <nav class="site secondmenu cf">
   <ul>
     <?php foreach($items as $item): ?>
-    <li><a<?php e($item->isOpen(), ' class="active"') ?> href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a></li>
+    <li><a class="uppercase <?php e($item->isOpen(), ' active') ?>" href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a></li>
     <?php endforeach ?>
   </ul>
 </nav>
