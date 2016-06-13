@@ -294,15 +294,24 @@ section {
   background-color: #E6C64C;
 }
 
+.scrollable {
+  margin: 0;
+  padding: 0;
+  overflow-x: scroll;
+  background-color: #93BED0;
+}
+
 .device-banner{
   background: url("../../content/home/devicebanner.png");
   background-position: absolute;
   min-height: 600px;
+  min-width: 2400px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: scroll;
   color: #F9F8F2;
 }
 
