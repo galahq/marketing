@@ -113,7 +113,6 @@ body {
 -------------------------------------------------- */
 .menu {
   float: right;
-  margin-right: -1em;
 }
 
 .menu a {
@@ -152,11 +151,12 @@ body {
   border-bottom: 1px solid #ddd;
   font-size: .7em;
   background-color: #ddd;
+  margin-top: -1em;
 }
 
 .secondmenu li {
   display: inline-block;
-  padding: .75em 1em .75em 3em;
+  margin: .75em 1.5em;
 }
 
 .secondmenu a:hover,
