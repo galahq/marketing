@@ -268,11 +268,12 @@ section {
 .action-items img{
   width: 70px;
   display: inline-block;
-  margin-right: 0.5em;
+  margin-right: 1em;
+  float: left;
 }
 
 .action-items h2 {
-  display: inline-block;
+  padding: 0.5em;
 }
 
 .action-items:nth-child(even) {
