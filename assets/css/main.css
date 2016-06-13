@@ -409,9 +409,13 @@ ul.toc {
 /* Footer
 -------------------------------------------------- */
 .footer {
-  font-size: .8em;
-  padding: 2em 0;
+  padding: 2em;
 }
+
+footer > div {
+  font-size: .8em;
+}
+
 .copyright {
   float: left;
 }
