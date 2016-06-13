@@ -1,9 +1,6 @@
-Title: EXPERIENTIAL EXERCISE
-
+Title: Experiential Learning
 ----
-
+Tagline: Gain mastery in fun and engaging way.
+----
 Description:
-<h5>Interactive Learning Exercises</h5>
-<h2>Gain mastery in fun and engaging way.</h2>
-<p>Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.</p>
-<p><a href="#">Learn more ></a></p>
+Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.
