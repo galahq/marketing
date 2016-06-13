@@ -3,13 +3,16 @@
 <main class="main" role="main">
   <section class="firsttitle">
     <section class="site">
-      <h1>Here's what you can do with MSC.</h1>
+      <h1>Here’s what you can do with MSC.</h1>
     </section>
   </section>
   <section class="action-items site">
     <?php foreach($pages->find('action')->children() as $action): ?>
       <div>
-        <h2><?php if($image = $action->image()): ?><img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($action->title()) ?>"><?php endif ?><?php echo html($action->title()) ?></h2>
+        <?php if($image = $action->image()): ?>
+          <img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($action->title()) ?>">
+        <?php endif ?>
+        <h2 class="uppercase"><?php echo html($action->title()) ?></h2>
         <h4><?php echo html($action->tagline()) ?></h4>
         <p><?php echo html($action->description()) ?></p>
         <a href="<?php echo $action->link() ?>"><h5>Learn more ></h5></a>
@@ -19,7 +22,7 @@
 
   <section class="secondtitle">
     <section class="site">
-      <h1>Here's why we are doing it.</h1>
+      <h1>Here’s why we are doing it.</h1>
     </section>
   </section>
 
@@ -57,7 +60,9 @@
         </figure>
         <?php endif ?>
       <div>
-        <?php echo html($element->description()) ?>
+        <h5 class="uppercase"><?php echo $element->title() ?></h5>
+        <h2><?php echo $element->tagline() ?></h2>
+        <?php echo kirbytext($element->description()) ?>
       </div>
       </section>
     <?php endforeach ?>
