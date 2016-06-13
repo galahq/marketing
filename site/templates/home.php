@@ -46,7 +46,14 @@
       <section class="flip-flop">
         <?php if($image = $element->image()): ?>
         <figure>
-          <img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($element->title()) ?>">
+          <?php $url = $image->url() ?>
+          <?php $ext = $image->extension() ?>
+          <img
+            src="<?php echo $url ?>"
+            srcset="<?php echo $url ?> 1x,
+                    <?php echo preg_replace('/\.'.$ext.'/', '@2x.'.$ext, $url) ?> 2x,
+                    <?php echo preg_replace('/\.'.$ext.'/', '@3x.'.$ext, $url) ?> 3x"
+            alt="Icon for <?php echo html($element->title()) ?>">
         </figure>
         <?php endif ?>
       <div>
