@@ -152,6 +152,7 @@ body {
   border-bottom: 1px solid #ddd;
   font-size: .7em;
   background-color: #ddd;
+  margin-top: -1em;
 }
 
 .secondmenu li {
