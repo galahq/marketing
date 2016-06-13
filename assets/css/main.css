@@ -342,8 +342,11 @@ figure img {
   flex: 0 1 16.5em;
   position: relative;
 }
-.flip-flop:nth-child(odd) > figure{ margin-left: 4em; }
-.flip-flop:nth-child(even) > figure{ margin-right: 4em; }
+
+@media screen and (min-width: 40em) {
+  .flip-flop:nth-child(odd) > figure{ margin-left: 4em; }
+  .flip-flop:nth-child(even) > figure{ margin-right: 4em; }
+}
 
 .flip-flop > div {
   flex: 0 1 45em;
@@ -351,9 +354,7 @@ figure img {
 }
 
 @media screen and (max-width: 40em) {
-  .flip-flop > div {
-    padding: 0;
-  }
+  .flip-flop > div { padding: 0; }
 }
 
 .elements .flip-flop {
