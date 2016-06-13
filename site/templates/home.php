@@ -60,7 +60,9 @@
         </figure>
         <?php endif ?>
       <div>
-        <?php echo html($element->description()) ?>
+        <h5 class="uppercase"><?php echo $element->title() ?></h5>
+        <h2><?php echo $element->tagline() ?></h2>
+        <?php echo kirbytext($element->description()) ?>
       </div>
       </section>
     <?php endforeach ?>

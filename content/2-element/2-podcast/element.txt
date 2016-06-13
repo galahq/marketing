@@ -1,8 +1,6 @@
-Title: PODCAST
-
+Title: Podcast
+----
+Tagline: Capturing the problem in the decision maker’s own words.
 ----
 Description:
-<h5>Podcast</h5>
-<h2>Capturing the problem in the decision maker’s own words.</h2>
-<p>MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts.</p>
-<p><a href="#">Learn more ></a></p>
+MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts.
