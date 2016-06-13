@@ -290,6 +290,12 @@ section {
   }
 }
 
+.firsttitle h1,
+.secondtitle h1,
+.thirdtitle h1 {
+  margin: 0;
+}
+
 .firsttitle {
   background-color: #E6C64C;
 }
