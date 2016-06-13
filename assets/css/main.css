@@ -394,16 +394,15 @@ figure img {
   color: #555;
 }
 
-.column-quarter{
-  width: 25%;
-  height: 500px;
-}
-
-@media screen and (max-width: 65em){
-  .column-quarter{
-    width: 50%;
-    height: 500px;
-  }
+.visionframe{
+  background: url("../../content/home/greenphoto3.jpg");
+  background-position: absolute;
+  min-height: 600px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .vision{

@@ -27,13 +27,3 @@ In tristique vel sapien ut lacinia. Aenean sagittis aliquam libero id semper. Nu
 ## Exercise
 
 Nam tempus lacus sit amet ipsum interdum, sit amet condimentum nunc malesuada. Praesent suscipit dui at ex finibus, quis fermentum elit mattis. Nulla ac varius dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Pellentesque sed velit nec justo consequat scelerisque. Curabitur sodales quam nulla, a lacinia lorem molestie ac. Vivamus semper arcu eget ex ultricies, id tristique leo convallis. Donec vel tristique mauris, sed pretium sapien.
-
-
-## Teaching Guide
-
-Fusce mollis ut eros nec cursus. Donec sed eleifend dui. Suspendisse lacinia interdum condimentum. Sed ut sollicitudin mauris. Suspendisse tincidunt molestie est, et feugiat neque consequat ut. Morbi pharetra lacus consequat, hendrerit libero nec, efficitur nunc. Etiam in leo vel neque varius pellentesque. Nullam commodo elit arcu. Nulla sagittis pretium turpis, ut commodo augue scelerisque vel. Aliquam vel mollis arcu, a cursus elit.
-
-Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
-
-## Accessibility
-Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
