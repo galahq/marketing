@@ -43,6 +43,4 @@
 
     <?php endif ?>
 
-
-
   </header>
