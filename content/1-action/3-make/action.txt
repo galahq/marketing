@@ -1,6 +1,7 @@
-Title: MAKE
+Title: Make
 
 ----
+
 Tagline: Student, faculty and practitioner partnership, enabling makers in makerspace.
 
 ----
@@ -9,13 +10,15 @@ Description: Want to become pedagogical pioneers and learn by creation? Make a M
 
 ----
 
-Text:
-Ut aliquam suscipit orci, in egestas tortor condimentum sed. Donec volutpat maximus sem, sit amet vestibulum arcu laoreet vitae. Cras consectetur magna magna, vel bibendum nibh pellentesque vel. Morbi mollis ipsum non leo molestie, a sollicitudin magna vestibulum. Suspendisse ut nulla scelerisque, imperdiet quam eget, cursus sem. Mauris nec arcu a mauris scelerisque vulputate ut quis sapien. Maecenas interdum consectetur congue. Pellentesque porttitor ex in mi efficitur, vitae pharetra metus convallis. Curabitur tempus ligula at justo ultrices, in maximus urna tincidunt. Nulla sapien metus, feugiat eget magna a, convallis dapibus massa. Maecenas sed velit et elit mollis auctor. Etiam iaculis turpis pharetra, eleifend dolor vitae, dictum augue.
+Text: 
 
 Interested in building a case? MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals.
+
+Live radio broadcast. 
 
 MSC Production Guide >
 Submit a proposal >
 
 ----
+
 Link: action/create

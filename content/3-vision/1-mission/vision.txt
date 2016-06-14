@@ -1,13 +1,16 @@
-Title: MISSION
+Title: Mission
 
 ----
 
-Description: Michigan Sustainability Cases (MSC), funded by a Transforming Learning in the Third Century initiative, is building a case-based curriculum for sustainability education in a variety of professional schools. MSC is writing and piloting initial cases throughout the U-M campus ranging from its current home in the SNRE  to Engineering, Social Work, and beyond.
+Description: 
+
+Michigan Sustainability Cases (MSC), funded by a Transforming Learning in the Third Century initiative, is building a case-based curriculum for sustainability education in a variety of professional schools. MSC is writing and piloting initial cases throughout the U-M campus ranging from its current home in the SNRE  to Engineering, Social Work, and beyond.
 The MSC initiative is focused on developing a series of cases that will be presented via the MSC online platform, which encourages student interaction with the case material. As with the traditional case method, MSCs present the student with the case, the decision maker, and various stakeholders, allowing the student to analyze priorities and tradeoffs in reaching a recommendation. Unlike the traditional case method, each MSC is accompanied by two additional “tentpole” components (multimedia “Edgenotes” and an hour-long podcast),  which together serve to bring greater depth to the case content.  Through the seamless incorporation of diverse  audiovisual sources and in-depth interviews with real world decision makers, MSCs provide a more immersive and nuanced educational approach to sustainability and environmental decision making.
 Besides MSCs campus-wide influence, we expect to have a worldwide impact by building global partners and hosting the global case competition.
 
 ----
-Text:
+
+Text: 
 
 ##Initiative
 

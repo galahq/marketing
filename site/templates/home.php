@@ -21,7 +21,7 @@
 
   <section class="thirdtitle">
     <section class="site">
-      <h1>Accompaning traditional case text are elements that excites.</h1>
+      <h1>Accompanying traditional case text are elements that excite.</h1>
     </section>
   </section>
 

@@ -27,12 +27,22 @@
     <?php if($page->isHomePage()): ?>
       <section class="intro">
         <section class="site">
-          <h1>Redefine Learning</h1>
-          <p><em>Real</em> Cases &middot; <em>Real</em> Engagement &middot; <em>Real</em> Results</p>
+          <h1><?php echo $page->tagline() ?></h1>
+          <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
         </section>
       </section>
+
+    <?php else: ?>
+      <?php snippet('submenu') ?>
+      <section class="top-banner">
+        <section class="site">
+          <h5><?php echo $page->title() ?></h5>
+          <h2><?php echo str_replace('(\\', '(', kirbytext($page->tagline())) ?></h2>
+        </section>
+      </section>
+
     <?php endif ?>
 
-    <?php snippet('secondmenu') ?>
+
 
   </header>

@@ -1,6 +1,7 @@
-Title: COLLABORATE
+Title: Collaborate
 
 ----
+
 Tagline: Learn from previous learners; leave legacy for future learners.
 
 ----
@@ -9,17 +10,20 @@ Description: When students start learning through MSC, they can choose to subscr
 
 ----
 
-Text:
-Ut aliquam suscipit orci, in egestas tortor condimentum sed. Donec volutpat maximus sem, sit amet vestibulum arcu laoreet vitae. Cras consectetur magna magna, vel bibendum nibh pellentesque vel. Morbi mollis ipsum non leo molestie, a sollicitudin magna vestibulum. Suspendisse ut nulla scelerisque, imperdiet quam eget, cursus sem. Mauris nec arcu a mauris scelerisque vulputate ut quis sapien. Maecenas interdum consectetur congue. Pellentesque porttitor ex in mi efficitur, vitae pharetra metus convallis. Curabitur tempus ligula at justo ultrices, in maximus urna tincidunt. Nulla sapien metus, feugiat eget magna a, convallis dapibus massa. Maecenas sed velit et elit mollis auctor. Etiam iaculis turpis pharetra, eleifend dolor vitae, dictum augue.
+Text: 
 
+Found a mistake? Have new Information? These cases are living documents, and we would greatly appreciate your assistance in keeping these cases correct and up to date. Stay connected. Provide updates. 
 
-###Update
-Found a mistake? Have new Information? These cases are living documents, and we would greatly appreciate your assistance in keeping these cases correct and up to date.
+#Groups
 
-###Evaluate
-What to see how much your students are gaining from a particular case? Work with the MSC team to begin assessment on how helpful these cases are at teaching them material.
+##Global Groups
+###Different disciplines
+###Different locales  
 
-Check out on going evaluation of learning outcomes >
+##Private groups
+###Classrooms
+###Individual study groups
 
 ----
+
 Link: action/connect

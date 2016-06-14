@@ -1,6 +1,7 @@
-Title: TEACH
+Title: Teach
 
 ----
+
 Tagline: Modular cases that fits in different context, disciplines, and timelines.
 
 ----
@@ -9,9 +10,15 @@ Description: The modularity of MSCs can suit a variety of classrooms. The cases 
 
 ----
 
-Text:
-Ut aliquam suscipit orci, in egestas tortor condimentum sed. Donec volutpat maximus sem, sit amet vestibulum arcu laoreet vitae. Cras consectetur magna magna, vel bibendum nibh pellentesque vel. Morbi mollis ipsum non leo molestie, a sollicitudin magna vestibulum. Suspendisse ut nulla scelerisque, imperdiet quam eget, cursus sem. Mauris nec arcu a mauris scelerisque vulputate ut quis sapien. Maecenas interdum consectetur congue. Pellentesque porttitor ex in mi efficitur, vitae pharetra metus convallis. Curabitur tempus ligula at justo ultrices, in maximus urna tincidunt. Nulla sapien metus, feugiat eget magna a, convallis dapibus massa. Maecenas sed velit et elit mollis auctor. Etiam iaculis turpis pharetra, eleifend dolor vitae, dictum augue.
+Text: 
 
+## Student engagement
+
+
+###Evaluate
+What to see how much your students are gaining from a particular case? Work with the MSC team to begin assessment on how helpful these cases are at teaching them material.
+
+Check out on going evaluation of learning outcomes >
 Can’t wait to use a case in your classroom? Awesome!</p>
   <ul>
     <li><a href="#">Explore our case gallery &gt;</a></li>
@@ -46,7 +53,6 @@ The modularity of MSCs can suit a variety of classrooms. The cases can fit into 
 
 Learn more >
 
-
-
 ----
+
 Link: action/teach
