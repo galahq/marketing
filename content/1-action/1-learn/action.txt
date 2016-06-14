@@ -1,16 +1,29 @@
-Title: LEARN
+Title: Learn
 
 ----
+
 Tagline: Multi-media engagement for all learners; practical skills for real problems.
 
-----
-Description:
-Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, the perspectives from key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability.
+---- 
+
+Description: Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, the perspectives from key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability.
 
 ----
 
 Text:
-Ut aliquam suscipit orci, in egestas tortor condimentum sed. Donec volutpat maximus sem, sit amet vestibulum arcu laoreet vitae. Cras consectetur magna magna, vel bibendum nibh pellentesque vel. Morbi mollis ipsum non leo molestie, a sollicitudin magna vestibulum. Suspendisse ut nulla scelerisque, imperdiet quam eget, cursus sem. Mauris nec arcu a mauris scelerisque vulputate ut quis sapien. Maecenas interdum consectetur congue. Pellentesque porttitor ex in mi efficitur, vitae pharetra metus convallis. Curabitur tempus ligula at justo ultrices, in maximus urna tincidunt. Nulla sapien metus, feugiat eget magna a, convallis dapibus massa. Maecenas sed velit et elit mollis auctor. Etiam iaculis turpis pharetra, eleifend dolor vitae, dictum augue.
+
+##Real
+Where the cases are coming from. Real world decisions being made. Examples of the cases. FOX Detroit did a piece on....
+
+##Fun
+Engaging information that is enjoyable to work with.
+The case text is a narrative that provides a story about the decision being made.
+The interactive learning exercises provide a vessel to fully immerse yourself in an environment where you are able to apply your knowledge and come to real life decisions.
+
+##Understandable
+The podcast allows you an insider view by listening to direct conversations between stakeholders and practitioners.
+The multimedia edgenotes give you outside perspectives about the case at hand.
 
 ----
+
 Link: action/learn

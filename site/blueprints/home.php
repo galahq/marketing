@@ -6,7 +6,9 @@ fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
-    type:  textarea
-    size:  large
+  tagline:
+    label: Tagline
+    type: text
+  subtagline:
+    label: Subtagline
+    type: textarea

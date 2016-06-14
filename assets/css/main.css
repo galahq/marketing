@@ -109,6 +109,32 @@ body {
   font-weight: 300;
   max-width: 40em;
 }
+
+.top-banner{
+  margin-top: 1.5em;
+  background: #555;
+  background-position: absolute;
+  min-height: 400px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #F9F8F2;
+}
+
+.top-banner h1 {
+  font-family: "jubilat";
+  font-weight: 100;
+  font-size: 44pt;
+  font-style: italic;
+  margin: 0.5em -6pt 0.25em -6pt;
+}
+
+.top-banner p {
+  font-weight: 300;
+  max-width: 40em;
+}
 /* Navigation
 -------------------------------------------------- */
 .menu {
@@ -139,12 +165,12 @@ body {
   float: left;
 }
 
-.secondmenu {
+.submenu {
   margin-bottom: 0.5em;
   text-align: right;
 }
 
-.secondmenu> ul{
+.submenu> ul{
   display: inline-block;
   list-style: none;
   border-top: 1px solid #ddd;
@@ -154,13 +180,13 @@ body {
   margin-top: -1em;
 }
 
-.secondmenu li {
+.submenu li {
   display: inline-block;
   margin: .75em 1.5em;
 }
 
-.secondmenu a:hover,
-.secondmenu a.active {
+.submenu a:hover,
+.submenu a.active {
   color: #68bf70;
 }
 

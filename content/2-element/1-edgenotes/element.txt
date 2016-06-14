@@ -1,8 +1,33 @@
 Title: Multimedia Edgenotes
+
 ----
+
 Tagline: Curated media that captures your imagination.
+
 ----
-Description:
-Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.
+
+Description: Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.
+
 ----
-Text:
+
+Text: 
+
+(a gif of edgenotes being highlighted)
+Each Edgenote correspond to a specific part of the case, that you can review along reading the case. In addition, you can also choose to review all the edgenotes at the end from the Edgenote gallery. 
+
+Edgenotes are audiovisual materials that complement , rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.
+
+##Examples:
+a video of a specific stakeholder’s perspective
+an audio clip of a report on the particular issue
+an article the puts the problem in context
+a map of the region where the decision is made
+
+##Types
+Videos, audio, images, maps, social media posts, blogs, articles, reports.  etc. 
+
+##Source
+Local, national, and global news; Twitter, Facebook, Instagram; Government reports; etc. 
+
+##Length
+The most relevant segments curated from larger piece.
