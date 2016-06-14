@@ -85,7 +85,7 @@ body {
 }
 
 .intro{
-  margin-top: 1.5em;
+  margin: 1.5em 0;
   background: url("../../content/home/home2.jpg");
   background-position: absolute;
   min-height: 600px;
@@ -111,7 +111,7 @@ body {
 }
 
 .top-banner{
-  margin-top: 1.5em;
+  margin: 1.5em 0;
   background: #555;
   background-position: absolute;
   min-height: 400px;
@@ -121,19 +121,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   color: #F9F8F2;
-}
-
-.top-banner h1 {
-  font-family: "jubilat";
-  font-weight: 100;
-  font-size: 44pt;
-  font-style: italic;
-  margin: 0.5em -6pt 0.25em -6pt;
-}
-
-.top-banner p {
-  font-weight: 300;
-  max-width: 40em;
 }
 /* Navigation
 -------------------------------------------------- */
@@ -312,6 +299,7 @@ section {
 .action-items:nth-child(even) {
   padding-right: 0;
 }
+
 @media screen and (min-width: 50em) {
   .action-items div:nth-child(odd) {
     border-right-width: 1px;
@@ -328,14 +316,9 @@ section {
   }
 }
 
-.firsttitle h1,
-.secondtitle h1,
-.thirdtitle h1 {
+.vision-tagline h1,
+.elements-tagline h1 {
   margin: 0;
-}
-
-.firsttitle {
-  background-color: #E6C64C;
 }
 
 .scrollable {
@@ -361,12 +344,12 @@ section {
 
 /* columns
 -------------------------------------------------- */
-.secondtitle {
+.vision-tagline {
   background-color: #68BF70;
   color: #555;
 }
 
-.thirdtitle {
+.elements-tagline {
   background-color: #93BED0;
   color: #555;
 }

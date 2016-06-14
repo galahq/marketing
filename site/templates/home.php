@@ -19,9 +19,9 @@
     <div class="device-banner">
   </section>
 
-  <section class="thirdtitle">
+  <section class="elements-tagline">
     <section class="site">
-      <h1>Accompanying traditional case text are elements that excite.</h1>
+      <h1><?php echo $pages->find('element')->tagline() ?></h1>
     </section>
   </section>
 
@@ -49,17 +49,15 @@
     <?php endforeach ?>
   </section>
 
-  <section class="secondtitle">
+  <section class="vision-tagline">
     <section class="site">
-      <h1>Here’s why we are doing it.</h1>
+      <h1><?php echo $pages->find('vision')->tagline() ?></h1>
     </section>
   </section>
 
   <section class="visionframe">
     <div class="vision site">
-    <p>Michigan Sustainability Cases (MSC) is an initiative aims at building a case-based curriculum for sustainability education, funded by a grant from Transforming Learning in the Third Century at the University of Michigan. <a href="#">Learn more about the MSC Initiative &gt;</a></p>
-
-    <p>MSC also refers to the case products by Michigan Sustainability Cases Initiative. Each MSC tells a story. First, a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. <a href="#">More about effectiveness of cases &gt;</a></p>
+      <?php echo str_replace('(\\', '(', kirbytext($pages->find('vision')->description())) ?>
     </div>
   </section>
 
