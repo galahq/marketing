@@ -1,3 +1,16 @@
+$offwhite: #ebeae4;
+$ltoffwhite: #F9F8F2;
+$umblue: #02284b;
+$galablue: #35536f;
+$darkgrey: #3b3f4e;
+$ltgrey: #9c9c9c;
+$sltgrey: #ddd;
+$yellow: #E6C64C;
+$green: #68bf70;
+$greyblue: #93bed0;
+$ltgreyblue: #d6eaf9;
+
+
 /* Reset
 -------------------------------------------------- */
 *, *:before, *:after {
@@ -33,13 +46,13 @@ img {
 /* Links
 -------------------------------------------------- */
 a {
-  color: #35536f;
+  color: $galablue;
   text-decoration: none;
   transition: color .3s, background .3s, border .3s;
 }
 
 a:hover {
-  color: #02284b;
+  color: $umblue;
 }
 
 /* Site
@@ -49,7 +62,7 @@ html {
   min-height: 101%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  background-color: #ebeae4;
+  background-color: $offwhite;
 }
 
 @media screen and (max-width: 40em) {
@@ -57,7 +70,7 @@ html {
     font-size: 90%; } }
 
 body {
-  color: #3b3f4e;
+  color: $darkgrey;
   line-height: 1.5;
   font-family: "tenso", sans-serif;
   margin: 0 auto;
@@ -94,7 +107,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #F9F8F2;
+  color: $ltoffwhite;
 }
 
 .intro h1 {
@@ -112,7 +125,7 @@ body {
 
 .top-banner{
   margin-bottom: 1.5em;
-  background: #555;
+  background: $darkgrey;
   background-position: absolute;
   min-height: 400px;
   -webkit-background-size: cover;
@@ -120,7 +133,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #F9F8F2;
+  color: $ltoffwhite;
 }
 
 .banner-text {
@@ -135,20 +148,20 @@ body {
 
 .menu a {
   display: block;
-  color: #9c9c9c;
+  color: $ltgrey;
   font-size: 90%;
   padding: .35em 1em;
   font-weight: 400;
 }
 
 .menu a:hover {
-  color: #02284b;
+  color: $umblue;
   text-decoration: none;
 }
 
 .menu .active {
-  color: #02284b;
-  background-color: #ddd;
+  color: $umblue;
+  background-color: $sltgrey;
 }
 
 .menu li {
@@ -164,10 +177,10 @@ body {
 .submenu> ul{
   display: inline-block;
   list-style: none;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid $sltgrey;
+  border-bottom: 1px solid $sltgrey;
   font-size: .7em;
-  background-color: #ddd;
+  background-color: $sltgrey;
   margin-top: -1em;
 }
 
@@ -178,7 +191,7 @@ body {
 
 .submenu a:hover,
 .submenu a.active {
-  color: #68bf70;
+  color: $green;
 }
 
 /* Headings
@@ -226,13 +239,13 @@ h1 a, h2 a, h3 a, h4 a {
 /* Main
 -------------------------------------------------- */
 .main {
-  border-bottom: 2px solid #02284b;
+  border-bottom: 2px solid $umblue;
 }
 
 .main hr {
   margin: 3em 0;
   height: 2px;
-  background: #ddd;
+  background: $sltgrey;
 }
 
 .main p,
@@ -243,11 +256,11 @@ h1 a, h2 a, h3 a, h4 a {
 }
 
 .main a {
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid $sltgrey;
 }
 
 .main a:hover {
-  border-color: #02284b;
+  border-color: $umblue;
 }
 
 /* Text blocks */
@@ -281,7 +294,7 @@ section {
 .action-items > div {
   flex: 0 0 50%;
   padding: 1em 1.5em;
-  border: 0px solid #E6C64C;
+  border: 0px solid $yellow;
 }
 
 .action-items img{
