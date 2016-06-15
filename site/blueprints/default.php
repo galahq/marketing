@@ -7,6 +7,9 @@ fields:
   title:
     label: Title
     type:  text
+  tagline:
+    label: Tagline
+    type: textarea
   text:
     label: Text
     type:  textarea

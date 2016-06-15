@@ -55,7 +55,7 @@
     </section>
   </section>
 
-  <section class="visionframe">
+  <section class="vision-frame">
     <div class="vision site">
       <?php echo str_replace('(\\', '(', kirbytext($pages->find('vision')->description())) ?>
     </div>

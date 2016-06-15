@@ -1,18 +1,20 @@
-Title: VISION
+Title: Vision
 
 ----
 
 Tagline: Transforming pedagogy in sustainability field.
 
 ----
-Description:
+
+Description: 
 
 Michigan Sustainability Cases (MSC) is an initiative aims at building a case-based curriculum for sustainability education, funded by a grant from Transforming Learning in the Third Century at the University of Michigan.
 
-MSC also refers to the case products by Michigan Sustainability Cases Initiative. Each MSC tells a story. First, a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. 
+MSC also refers to the case products by Michigan Sustainability Cases Initiative. Each MSC tells a story. First, a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability.
 
 ----
-Text:
+
+Text: 
 
 ## Overview
 

@@ -36,8 +36,10 @@
       <?php snippet('submenu') ?>
       <section class="top-banner">
         <section class="site">
-          <h5><?php echo $page->title() ?></h5>
-          <h2><?php echo str_replace('(\\', '(', kirbytext($page->tagline())) ?></h2>
+          <div class="banner-text">
+          <h2><?php echo $page->title() ?></h2>
+          <h5><?php echo str_replace('(\\', '(', kirbytext($page->tagline())) ?></h5>
+          </div>
         </section>
       </section>
 
