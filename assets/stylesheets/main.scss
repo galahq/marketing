@@ -1,14 +1,21 @@
 $offwhite: #ebeae4;
 $ltoffwhite: #F9F8F2;
+
 $umblue: #02284b;
 $galablue: #35536f;
-$darkgrey: #3b3f4e;
-$ltgrey: #9c9c9c;
-$sltgrey: #ddd;
-$yellow: #E6C64C;
-$green: #68bf70;
+$vividblue: #76ADE0;
 $greyblue: #93bed0;
 $ltgreyblue: #d6eaf9;
+
+$darkgrey: #3b3f4e;
+$ltgrey: #9c9c9c;
+$ltltgrey: #ddd;
+$yellow: #E6C64C;
+$green: #68bf70;
+
+$purple: #9179E0;
+
+$color-mainbg: $offwhite;
 
 
 /* Reset
@@ -161,7 +168,7 @@ body {
 
 .menu .active {
   color: $umblue;
-  background-color: $sltgrey;
+  background-color: $ltltgrey;
 }
 
 .menu li {
@@ -177,10 +184,10 @@ body {
 .submenu> ul{
   display: inline-block;
   list-style: none;
-  border-top: 1px solid $sltgrey;
-  border-bottom: 1px solid $sltgrey;
+  border-top: 1px solid $ltltgrey;
+  border-bottom: 1px solid $ltltgrey;
   font-size: .7em;
-  background-color: $sltgrey;
+  background-color: $ltltgrey;
   margin-top: -1em;
 }
 
@@ -245,7 +252,7 @@ h1 a, h2 a, h3 a, h4 a {
 .main hr {
   margin: 3em 0;
   height: 2px;
-  background: $sltgrey;
+  background: $ltltgrey;
 }
 
 .main p,
@@ -256,7 +263,7 @@ h1 a, h2 a, h3 a, h4 a {
 }
 
 .main a {
-  border-bottom: 2px solid $sltgrey;
+  border-bottom: 2px solid $ltltgrey;
 }
 
 .main a:hover {
@@ -341,7 +348,7 @@ section {
   margin: 0;
   padding: 0;
   overflow-x: scroll;
-  background-color: #93BED0;
+  background-color: $greyblue;
 }
 
 .device-banner{
@@ -355,19 +362,19 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  color: #F9F8F2;
+  color: $ltoffwhite;
 }
 
 /* columns
 -------------------------------------------------- */
 .vision-tagline {
-  background-color: #68BF70;
-  color: #555;
+  background-color: $green;
+  color: $darkgrey;
 }
 
 .elements-tagline {
-  background-color: #93BED0;
-  color: #555;
+  background-color: $greyblue;
+  color: $darkgrey;
 }
 
 .elements {
@@ -410,13 +417,13 @@ figure img {
 }
 
 .elements .flip-flop {
-  background-color: #93bed0;
-  color: #F9F8F2;
+  background-color: $greyblue;
+  color: $ltoffwhite;
 }
 
 .elements .flip-flop:nth-child(odd) {
-  background-color: #d6eaf9;
-  color: #555;
+  background-color: $ltgreyblue;
+  color: $darkgrey;
 }
 
 .vision-frame{
@@ -439,7 +446,7 @@ figure img {
 -------------------------------------------------- */
 ul.toc {
   margin: 0;
-  border: 1px solid #ddd;
+  border: 1px solid $ltltgrey;
 }
 
 .toc li {
@@ -455,7 +462,7 @@ ul.toc {
 }
 
 .toc a:hover {
-  color: #68bf70;
+  color: $green;
 }
 
 /* Footer
