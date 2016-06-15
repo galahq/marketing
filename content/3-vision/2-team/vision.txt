@@ -1,8 +1,8 @@
-Title: TEAM
+Title: Team
 
 ----
 
-Text:
+Text: 
 
 ###Director
 

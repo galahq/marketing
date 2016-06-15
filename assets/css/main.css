@@ -122,6 +122,11 @@ body {
   background-repeat: no-repeat;
   color: #F9F8F2;
 }
+
+.banner-text {
+  max-width: 40em;
+}
+
 /* Navigation
 -------------------------------------------------- */
 .menu {
@@ -221,7 +226,6 @@ h1 a, h2 a, h3 a, h4 a {
 /* Main
 -------------------------------------------------- */
 .main {
-  padding-bottom: 1.5em;
   border-bottom: 2px solid #02284b;
 }
 
@@ -402,7 +406,7 @@ figure img {
   color: #555;
 }
 
-.visionframe{
+.vision-frame{
   background: url("../../content/home/greenphoto3.jpg");
   background-position: absolute;
   min-height: 600px;

@@ -1,4 +1,4 @@
-Title: ACTIONS
+Title: Actions
 
 ----
 
@@ -6,8 +6,8 @@ Description: This page describes how to produce an MSC.
 
 ----
 
-Text: 
+Text: (Four pictures here.)
 
-We are *striving* to make the sustainability teaching and learning field more case-based, dynamic, and engaging. Through our platform, students, instructors, and practitioners are encouraged to participate in the case learning, making, and sharing processes.
+----
 
-Four pictures here.
+Tagline: We are striving to make the sustainability teaching and learning field more case-based, dynamic, and engaging. Through our platform, students, instructors, and practitioners are encouraged to participate in the case learning, making, and sharing processes.

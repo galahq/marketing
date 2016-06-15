@@ -1,12 +1,12 @@
-Title: MILESTONES
+Title: Milestones
 
 ----
 
 Text: 
 
 (timeline style)
-#Fall 2015 - Prototype
-#Beginning - 2016 - news
-#Pilot - winter 2016
-# Initial Assessment  - winter 2016 - view results 
-# Publication to WDP - June 2016 - link to article
+###Fall 2015 - Prototype
+###Beginning - 2016 - news
+###Pilot - winter 2016
+###Initial Assessment  - winter 2016 - view results 
+###Publication to WDP - June 2016 - link to article
