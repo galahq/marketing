@@ -111,7 +111,7 @@ body {
 }
 
 .top-banner{
-  margin: 1.5em 0;
+  margin-bottom: 1.5em;
   background: #555;
   background-position: absolute;
   min-height: 400px;
@@ -153,7 +153,6 @@ body {
 }
 
 .submenu {
-  margin-bottom: 0.5em;
   text-align: right;
 }
 
