@@ -13,3 +13,9 @@ fields:
   text:
     label: Text
     type:  textarea
+  pagetagline:
+    label: Page tagline
+    type: textarea
+  link:
+    label: link
+    type: text 
