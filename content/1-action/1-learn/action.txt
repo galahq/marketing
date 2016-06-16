@@ -10,7 +10,11 @@ Description: Each MSC tells a story. First, a real-world based problem with a ch
 
 ----
 
-Text: 
+Pagetagline: Learning through MSC is fun and effective.
+
+----
+
+Text:
 
 ##Real
 Where the cases are coming from. Real world decisions being made. Examples of the cases. FOX Detroit did a piece on....
