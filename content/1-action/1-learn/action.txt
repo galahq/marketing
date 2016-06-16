@@ -4,13 +4,13 @@ Title: Learn
 
 Tagline: Multi-media engagement for all learners; practical skills for real problems.
 
----- 
+----
 
 Description: Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, the perspectives from key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability.
 
 ----
 
-Text:
+Text: 
 
 ##Real
 Where the cases are coming from. Real world decisions being made. Examples of the cases. FOX Detroit did a piece on....
