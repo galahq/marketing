@@ -117,6 +117,12 @@ body {
   color: $ltoffwhite;
 }
 
+@media screen and (min-width: 110em) {
+  .intro {
+    min-height: 850px;
+  }
+}
+
 .intro h1 {
   font-family: "jubilat";
   font-weight: 100;
