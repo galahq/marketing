@@ -27,3 +27,7 @@ Found a mistake? Have new Information? These cases are living documents, and we 
 ----
 
 Link: action/connect
+
+----
+
+Pagetagline: Learn a case from different perspectives.
