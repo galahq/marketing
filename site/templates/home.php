@@ -49,13 +49,10 @@
     <?php endforeach ?>
   </section>
 
-  <section class="vision-tagline">
+  <section class="vision-frame">
     <section class="site">
       <h1><?php echo $pages->find('vision')->tagline() ?></h1>
     </section>
-  </section>
-
-  <section class="vision-frame">
     <div class="vision site">
       <?php echo str_replace('(\\', '(', kirbytext($pages->find('vision')->description())) ?>
     </div>

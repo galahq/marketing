@@ -155,7 +155,7 @@ figure img {
 }
 
 .vision-frame {
-  background: url("../../content/home/greenphoto3.jpg");
+  background: url("../../content/home/greenphoto.jpg");
   background-position: absolute;
   min-height: 600px;
   -webkit-background-size: cover;
@@ -167,6 +167,7 @@ figure img {
 
 .vision {
   padding: 2em;
+  color: $ltoffwhite;
 }
 
 /*

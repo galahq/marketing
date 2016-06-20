@@ -45,7 +45,6 @@
   }
 }
 
-
 .top-banner{
   margin-bottom: 1.5em;
   background: $darkgrey;
@@ -57,6 +56,19 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: $ltoffwhite;
+
+  h1 {
+    font-family: "jubilat";
+    font-weight: 100;
+    font-size: 44pt;
+    font-style: italic;
+    margin: 0.5em -6pt 0.25em -6pt;
+  }
+
+  p {
+    font-weight: 300;
+    max-width: 40em;
+  }
 }
 
 .banner-text {

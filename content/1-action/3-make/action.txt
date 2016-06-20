@@ -2,11 +2,11 @@ Title: Make
 
 ----
 
-Tagline: Student, faculty and practitioner partnership, enabling makers in makerspace.
+Tagline: Develop student, faculty and practitioner partnerships; enable makers in makerspace.
 
 ----
 
-Description: Want to become pedagogical pioneers and learn by creation? Make a MSC! MSCs are created by a team of students, faculty, and practitioners. Inspiration for a case may come from a current or past event or a published work. Each case is presented with the following components: main text, multi-media Edgenotes, podcast, learning exercises, and teaching guide. MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals.
+Description: Want to become pedagogical pioneers and learn by creation? Make a MSC! MSCs are created by a team comprised of students, faculty, and practitioners. Inspiration for a case may come from a current or past event or a published work. Each case is presented with the following components: main text, multi-media Edgenotes, podcast, learning exercises, and teaching guide. MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals.
 
 ----
 
@@ -15,6 +15,16 @@ Text:
 Interested in building a case? MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals.
 
 Live radio broadcast. 
+
+In response to ongoing changes in workplaces, emergence of new learning technologies, and increasing
+diversity of student cohorts interested in sustainability we have undertaken a radical reformulation of
+learning cases. MSCs differ from classic cases in three respects: each comprises written, audio, and
+visual materials (accessible, dynamic form). Student/faculty teams will produce cases with input from
+professionals (interactive process). Collaborative production and classroom use will develop workplace
+and citizenship skills including engagement with diverse public audiences through new interfaces of
+scholarly text, broadcast, visual, and social media (substantive and social/technological outcome). We
+have experimented extensively with case-based and engaged learning approaches at SNRE and have
+evaluated them over the past two years - both independently and with TLTC Discovery grant support.
 
 MSC Production Guide >
 Submit a proposal >
@@ -26,3 +36,7 @@ Link: action/create
 ----
 
 Pagetagline: Driven by you!
+
+----
+
+Pagesubtagline: Define &middot;  Participate &middot;  Grow

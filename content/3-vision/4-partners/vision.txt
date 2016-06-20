@@ -6,3 +6,23 @@ Text:
 
 Campus partners:
 SNRE,  CRLT, IHIH, WCBN
+
+----
+
+Tagline: 
+
+----
+
+Description: 
+
+----
+
+Pagetagline: Partners
+
+----
+
+Pagesubtagline: On campus initiatives, sister institutions, external partners have help shaped our efforts.
+
+----
+
+Link: 
