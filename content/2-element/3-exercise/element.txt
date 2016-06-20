@@ -32,8 +32,12 @@ a project to build part of a prototype, like solar installations or straw bale c
 
 ----
 
-Pagetagline: Get your hands dirty to learn the practical skills!
+Pagetagline: Shortcut to Experience
 
 ----
 
 Link: 
+
+----
+
+Pagesubtagline: Hands-on &middot; Fun &middot; Different Formats

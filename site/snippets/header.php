@@ -37,8 +37,8 @@
       <section class="top-banner">
         <section class="site">
           <div class="banner-text">
-          <h2><?php echo $page->title() ?></h2>
-          <h5><?php echo str_replace('(\\', '(', kirbytext($page->pagetagline())) ?></h5>
+          <h1><?php echo $page->pagetagline() ?></h1>
+          <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
           </div>
         </section>
       </section>

@@ -2,11 +2,11 @@ Title: Teach
 
 ----
 
-Tagline: Modular cases that fits in different context, disciplines, and timelines.
+Tagline: Apply modular cases that fits in different context, disciplines, and timelines.
 
 ----
 
-Description: The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. You can access MSC from different devices all over the world.
+Description: The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form a cohesive curriculum. Our cases leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. You can access MSC from different devices all over the world. And much more than that, MSC is inherently a transnational / global endeavor.
 
 ----
 
@@ -38,13 +38,34 @@ Learn more >
 
 ## Teaching Guide
 
-Fusce mollis ut eros nec cursus. Donec sed eleifend dui. Suspendisse lacinia interdum condimentum. Sed ut sollicitudin mauris. Suspendisse tincidunt molestie est, et feugiat neque consequat ut. Morbi pharetra lacus consequat, hendrerit libero nec, efficitur nunc. Etiam in leo vel neque varius pellentesque. Nullam commodo elit arcu. Nulla sagittis pretium turpis, ut commodo augue scelerisque vel. Aliquam vel mollis arcu, a cursus elit.
-
-Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
-
 ## Accessibility
-Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
 
+Indeed, the complexity and connectedness of human-environmental interactions demands that
+educational institutions, nonprofits, corporations, and government agencies implement strategies that help
+the next generation of scientists, policy makers, entrepreneurs and engineers learn to acknowledge the
+difficulties in solving sustainability dilemmas, but also become accustomed to thinking through these
+difficulties. Operating effectively in a context of information deficits, uncertainties, and social asymmetries
+of wicked sustainability dilemmas requires a greater focus on decision making in these contexts, from the
+very beginning when decision makers arrive in classrooms (Skerlos, 2015). Innovative pedagogical
+methods must focus on enabling decision makers to think systematically, collaboratively, creatively, and
+with intercultural intelligence. They must learn to work together to craft solutions drawing upon insights
+from multiple relevant disciplines and fields of knowledge.
+
+Urgent calls for innovative sustainability pedagogies (Segalas et al (2010), Cotton and Winter (2010),
+Wiek et al (2011)) have accompanied emerging key competencies expected from professionals in the
+sustainability field. They conclude that future sustainability professionals are expected to craft
+cost-effective solutions, design and implement strategic interventions, communicate effectively, and work
+collaboratively to solve problems. One might add that many of the problems they confront are likely to
+occur in environments with low information, high uncertainty, and multiple competing interests.
+Conventional pedagogical methods, in formal settings focused often on information delivery and
+communication of factual knowledge through lectures and problem sets, are ill-equipped to support the
+development of these core-competencies.
+
+
+This combination of sites
+and networks of stakeholders can give rise to curricular tools that would have global impact, rooted in
+specific tethering of face to face collaborations to build and make sustainable technologies, with cases
+that offer insights into the social contexts and scientific concepts that surround, enable, and suffuse those technologies
 
 #####Modularity
 
@@ -61,3 +82,7 @@ Link: action/teach
 ----
 
 Pagetagline: Engage, Effective, Easy to use.
+
+----
+
+Pagesubtagline: Modular &middot; Interdisciplinary &middot; Global &middot; Open Access

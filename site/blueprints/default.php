@@ -10,12 +10,18 @@ fields:
   tagline:
     label: Tagline
     type: textarea
+  description:
+    label: Description
+    type: textarea
+  pagetagline:
+    label: Page tagline
+    type: text
+  pagesubtagline:
+    lable: Page Sub-tagline
+    type: textarea 
   text:
     label: Text
     type:  textarea
-  pagetagline:
-    label: Page tagline
-    type: textarea
   link:
     label: link
-    type: text 
+    type: text

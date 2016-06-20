@@ -2,7 +2,7 @@ Title: Podcast
 
 ----
 
-Tagline: Capturing the problem in the decision maker’s own words.
+Tagline: Capturing the problem in the decision makers' own words.
 
 ----
 
@@ -34,8 +34,12 @@ Thirty minutes to an hour.
 
 ----
 
-Pagetagline: Get an insider's view on the go.
+Pagetagline: Insiders’ View
 
 ----
 
 Link: 
+
+----
+
+Pagesubtagline: Conversational &middot; First Hand &middot; Learn on the Go

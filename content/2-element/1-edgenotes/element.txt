@@ -12,6 +12,8 @@ Description: Edgenotes are audiovisual materials that <em> complement </em>, rat
 
 Text: 
 
+Jumping off points while reading, and you control the pace!
+
 (a gif of edgenotes being highlighted)
 Each Edgenote correspond to a specific part of the case, that you can review along reading the case. In addition, you can also choose to review all the edgenotes at the end from the Edgenote gallery. 
 
@@ -34,8 +36,12 @@ The most relevant segments curated from larger piece.
 
 ----
 
-Pagetagline: Jumping off points while reading, and you control the pace!
+Pagetagline: Easy to Engage with!
 
 ----
 
 Link: 
+
+----
+
+Pagesubtagline: Closely Tied to Text &middot;  You Control the Pace &middot; For All Learners
