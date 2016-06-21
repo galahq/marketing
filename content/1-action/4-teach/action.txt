@@ -6,7 +6,7 @@ Tagline: Apply modular cases that fits in different context, disciplines, and ti
 
 ----
 
-Description: The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form a cohesive curriculum. Our cases leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. You can access MSC from different devices all over the world. And much more than that, MSC is inherently a transnational / global endeavor.
+Description: The modularity of MSCs can suit a variety of classrooms and teaching schedules. Use one case for a few class hours or configure “stacks” of cases to form a cohesive curriculum. Our cases leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts.
 
 ----
 
