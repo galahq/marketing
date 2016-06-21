@@ -6,12 +6,13 @@ Tagline: Learn from previous learners; leave a legacy for future learners.
 
 ----
 
-Description: When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
+Description: When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning.
 
 ----
 
 Text: 
 
+When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
 Found a mistake? Have new Information? These cases are living documents, and we would greatly appreciate your assistance in keeping these cases correct and up to date. Stay connected. Provide updates. 
 
 #Groups
@@ -52,7 +53,7 @@ temporal cohorts for more types of learners, motivated by urgently needed sustai
 
 ----
 
-Link: action/connect
+Link: action/collaborate
 
 ----
 

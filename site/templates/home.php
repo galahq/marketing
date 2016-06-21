@@ -7,10 +7,10 @@
         <?php if($image = $action->image()): ?>
           <img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($action->title()) ?>">
         <?php endif ?>
-        <h2 class="uppercase"><?php echo html($action->title()) ?></h2>
+        <h5 class="uppercase"><?php echo html($action->title()) ?></h5>
         <h4><?php echo html($action->tagline()) ?></h4>
         <p><?php echo html($action->description()) ?></p>
-        <a href="<?php echo $action->link() ?>"><h5>Learn more ></h5></a>
+        <button class="button" onclick="window.location.href='<?php echo $action->link() ?>'"><h5>More</h5></button>
       </div>
     <?php endforeach ?>
   </section>
