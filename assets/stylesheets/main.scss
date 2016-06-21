@@ -87,6 +87,7 @@ section {
 .button {
   background-color: transparent;
   border: 1px solid $galablue;
+  border-radius: 0.5em;
   color: $galablue;
   padding: 0.5em 2em;
   text-align: center;
@@ -115,7 +116,11 @@ section {
 
 .elements-tagline {
   background-color: $greyblue;
-  color: $darkgrey;
+  color: $ltoffwhite;
+
+  h2{
+    font-family: "tenso";
+  }
 }
 
 .elements {
@@ -185,11 +190,60 @@ figure img {
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
+
+  h2{
+    font-family: "tenso";
+  }
+}
+
+@media screen and (max-width: 1572px){
+  .vision-frame{
+    background: #E2D7A7;
+  }
 }
 
 .vision {
   padding: 2em;
-  color: $ltoffwhite;
+
+  img{
+    width: 5em;
+    display: inline-block;
+    float: left;
+    padding-right: 0.5em;
+  }
+
+  h4 {
+    margin-top: 1.5em;
+  }
+
+  div:nth-child(4) {
+    clear: left;
+  }
+
+  .conclude {
+    clear: both;
+    padding-top: 1.5em;
+  }
+}
+
+.column {
+  width: 33%;
+  padding: 0.5em;
+  float: left;
+}
+
+@media screen and (max-width: 1313px){
+  .column{
+    width: 45%;
+  }
+
+  .vision div:nth-child(3){
+    clear: left;
+  }
+
+  .vision div:nth-child(4){
+    clear:none;
+  }
 }
 
 /*
