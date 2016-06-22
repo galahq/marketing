@@ -12,3 +12,15 @@ fields:
   subtagline:
     label: Subtagline
     type: textarea
+  numbers:
+    label: Numbers
+    type: structure
+    entry: >
+       [{{number}}] {{description}}
+    fields:
+      number:
+        label: Number
+        type: text
+      description:
+        label: Description
+        type: text

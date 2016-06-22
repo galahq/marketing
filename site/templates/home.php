@@ -54,31 +54,13 @@
     <section class="site">
       <h2><?php echo $pages->find('vision')->tagline() ?></h2>
     </section>
-    <div class="vision site">
-      <div class="column">
-        <img src="content/3-vision/first.png" alt="1st" />
-        <h4>platform for sustainability oriented teaching cases</h4>
-      </div>
-      <div class="column">
-        <img src="content/3-vision/onehundred.png" alt="100+" />
-        <h4>current case producers</h4>
-      </div>
-      <div class="column">
-        <img src="content/3-vision/fifteen.png" alt="15+" />
-        <h4>on campus partners</h4>
-      </div>
-      <div class="column">
-        <img src="content/3-vision/ninetyfive.png" alt="95%" />
-        <h4>satisfaction rate in piloting cases</h4>
-      </div>
-      <div class="column">
-        <img src="content/3-vision/twohundred.png" alt="200" />
-        <h4>cases in the course of four years</h4>
-      </div>
-      <div class="column">
-        <img src="content/3-vision/thirty.png" alt="30+" />
-        <h4>years of case based teaching</h4>
-      </div>
+    <div class="vision site flex-container">
+      <?php foreach($page->numbers()->toStructure() as $number): ?>
+        <div class="number">
+          <span class="number-value"><?php echo $number->number() ?></span>
+          <h4 class="number-description"><?php echo $number->description() ?></h4>
+        </div>
+      <?php endforeach ?>
       <div class="conclude">
         <p>
           Our goal is to transform sustainability learning by transforming teaching methods in all academic fields. Case-based curricular innovation will lead to a more engaged, participatory learning. It will also enable students to achieve sustainability competencies, which will help develop students towards their full potential—becoming future sustainability leaders.
