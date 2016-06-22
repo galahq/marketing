@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - action/make/production-guide
+  - element
+  - action
   - vision
   - element/exercise
-  - element/podcast
-  - element/edgenotes
-  - action/teach
