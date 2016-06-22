@@ -1,10 +1,14 @@
 Title: Production Guide
 
 ----
+
 Description: This page describes how to produce an MSC.
 
 ----
-Text:
+
+Text: 
+
+Note: MSC has funding to support the development of cases. If you are interested in developing a case, please refer to <a href="#">Submit a Proposal</a> page.
 
 ## Team Formation
 
@@ -30,3 +34,19 @@ Nam tempus lacus sit amet ipsum interdum, sit amet condimentum nunc malesuada. P
 Fusce mollis ut eros nec cursus. Donec sed eleifend dui. Suspendisse lacinia interdum condimentum. Sed ut sollicitudin mauris. Suspendisse tincidunt molestie est, et feugiat neque consequat ut. Morbi pharetra lacus consequat, hendrerit libero nec, efficitur nunc. Etiam in leo vel neque varius pellentesque. Nullam commodo elit arcu. Nulla sagittis pretium turpis, ut commodo augue scelerisque vel. Aliquam vel mollis arcu, a cursus elit.
 
 Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
+
+----
+
+Tagline: 
+
+----
+
+Pagetagline: 
+
+----
+
+Pagesubtagline: 
+
+----
+
+Link: 
