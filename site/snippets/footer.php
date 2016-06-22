@@ -49,7 +49,7 @@
   </div>
 
   <div class="colophon">
-    <a href="#"> Contact Us </a>
+    <a href="contact"> Contact Us </a>
   </div>
 </div>
 
