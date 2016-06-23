@@ -1,0 +1,51 @@
+/* Footer
+-------------------------------------------------- */
+.footer {
+  padding: 3em 0;
+
+  ul {
+    font-size: 0.9em;
+  }
+
+  .footermenu {
+
+    a {
+      display: block;
+      color: $ltgrey;
+      padding: .35em 1em;
+
+      &:hover {
+        color: $umblue;
+        text-decoration: none;
+      }
+    }
+
+    .active {
+      color: $umblue;
+    }
+
+    li {
+      list-style: none;
+      position: relative;
+      float: left;
+    }
+  }
+
+  .footerbottom {
+    border-top: 1px solid $umblue;
+    clear: left;
+    margin-top: 2em;
+  }
+}
+
+.copyright {
+  float: left;
+}
+
+.colophon {
+  float: right;
+}
+
+footer > div {
+  font-size: .8em;
+}

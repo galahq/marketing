@@ -1,0 +1,92 @@
+.action-items {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  padding: 2em 0;
+  margin-bottom: 3em;
+
+  > div {
+    flex: 0 0 50%;
+    padding: 2em 4em;
+    border: 0px solid $yellow;
+  }
+  img {
+    width: 20em;
+    display: block;
+    margin-top:3em;
+    margin-left: 20%;
+  }
+  h2 {
+    padding: 0.75rem;
+  }
+  h4 {
+    clear: left;
+  }
+  &:nth-child(even) {
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 50em) {
+  .action-items div {
+    &:nth-child(odd) {
+      border-right-width: 1px;
+    }
+    &:not(:last-child):not(:nth-last-child(2)) {
+      border-bottom-width: 1px;
+    }
+  }
+}
+
+@media screen and (max-width: 50em) {
+  .action-items > div {
+    flex: 0 0 100%;
+    padding: 1em;
+  }
+}
+
+
+.vision-tagline h1, .elements-tagline h1 {
+  margin: 0;
+}
+
+.vision-tagline {
+  background-color: $green;
+  color: $darkgrey;
+}
+
+.elements {
+  padding: 0;
+  margin: 0;
+}
+
+.elements-tagline {
+  background-color: $greyblue;
+  color: $ltoffwhite;
+}
+
+.scrollable {
+  margin: 0;
+  padding: 0;
+  overflow-x: scroll;
+  background-color: $greyblue;
+}
+
+.device-banner {
+  background: url("../../content/home/devicebanner.png");
+  background-position: absolute;
+  min-height: 600px;
+  min-width: 4000px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  color: $ltoffwhite;
+}
