@@ -13,24 +13,24 @@
    }
 }
 
-.intro{
+
+.intro {
   margin: 1.5em 0;
-  background: url("../../content/home/home2.jpg");
   background-position: absolute;
-  min-height: 600px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   color: $ltoffwhite;
+  height: 600px;
 
   h1 {
     font-family: "jubilat";
     font-weight: 100;
     font-size: 44pt;
     font-style: italic;
-    margin: 0.5em -6pt 0.25em -6pt;
+    margin: 0.5em -6pt 0.25em 0;
   }
 
   p {
@@ -48,14 +48,15 @@
 .top-banner{
   margin-bottom: 1.5em;
   background: $darkgrey;
-  background-position: absolute;
-  min-height: 400px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   color: $ltoffwhite;
+}
+
+.banner-text{
 
   h1 {
     font-family: "jubilat";
@@ -168,6 +169,7 @@ h1 a, h2 a, h3 a, h4 a {
 /* Main
 -------------------------------------------------- */
 .main {
+  clear:inherit;
   border-bottom: 2px solid $umblue;
   hr {
     margin: 3em 0;

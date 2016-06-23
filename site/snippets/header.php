@@ -24,25 +24,34 @@
       </a>
       <?php snippet('menu') ?>
     </div>
-    <?php if($page->isHomePage()): ?>
-      <section class="intro">
-        <section class="site">
+
+<?php
+if($page->isHomePage()):
+  $bannerImage = 'content/home/home2.jpg';
+else:
+  $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();
+endif ?>
+
+    <section class="intro" style='background-image: url("<?php echo $bannerImage ?>")' >
+      <section class="site">
+
+        <?php if($page->isHomePage()): ?>
+
           <h1><?php echo $page->tagline() ?></h1>
           <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
-        </section>
-      </section>
 
-    <?php else: ?>
+      <?php else: ?>
+
+        <h1><?php echo $page->pagetagline() ?></h1>
+        <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
+
+      <?php endif ?>
+
+      </section>
+    </section>
+    <?php if(!$page->isHomePage()): ?>
       <?php snippet('submenu') ?>
-      <section class="top-banner">
-        <section class="site">
-          <div class="banner-text">
-          <h1><?php echo $page->pagetagline() ?></h1>
-          <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
-          </div>
-        </section>
-      </section>
-
     <?php endif ?>
+
 
   </header>
