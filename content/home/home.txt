@@ -2,31 +2,31 @@ Title: Home
 
 ----
 
-Tagline: Redefine Learning
+Tagline: Redesign Curriculum
 
 ----
 
-Subtagline: *Real* Cases &middot; *Real* Engagement &middot; *Real* Results
+Subtagline: *Real* Cases &middot; *Practical* Engagement &middot; *Effective* Results
 
 ----
 
-Numbers: 
+Numbers:
 
-- 
+-
   number: $2m
   description: seed funding
-- 
+-
   number: "200"
   description: cases by 2020
-- 
+-
   number: "30"
   description: years of experience
-- 
+-
   number: "15"
   description: campus partners
-- 
+-
   number: "100"
   description: producers (join us!)
-- 
+-
   number: “1st
   description: reading I did all year”
