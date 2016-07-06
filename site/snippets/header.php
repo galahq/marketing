@@ -33,7 +33,7 @@ else:
 endif
 ?>
 
-    <section class="intro" style='background-image: url("<?php echo $bannerImage ?>")' >
+    <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(73,48,146,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <section class="site">
 
 <?php if($page->isHomePage()): ?>
