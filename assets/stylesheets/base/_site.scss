@@ -1,0 +1,70 @@
+//General
+html {
+  font-size: 14pt;
+  min-height: 101%;
+  background-color: $offwhite;
+}
+
+@media screen and (max-width: 40em) {
+  html {
+    font-size: 0.9em;
+   }
+   section {
+     padding: 2em 2em;
+   }
+ }
+
+body {
+  color: $darkgrey;
+  line-height: 1.5;
+  font-family: $body-text;
+}
+
+// Set max-width
+.site{
+    position: relative;
+    max-width: 70em;
+    margin: 0 auto;
+    padding: 0 2em;
+}
+
+//Section default
+section {
+  padding: 2em 0;
+}
+
+//Main
+.main {
+  clear:inherit;
+  border-bottom: 2px solid $umblue;
+
+  hr {
+    margin: 3em 0;
+    height: 2px;
+    background: $ltltgrey;
+  }
+
+  p, figure, ul, ol {
+    margin-bottom: 1.5em;
+  }
+
+  a {
+    border-bottom: 2px solid $ltltgrey;
+    &:hover {
+      border-color: $umblue;
+    }
+  }
+}
+
+// Scroll to top
+.to-top {
+  position: fixed;
+  padding: 1em 2em;
+  right: 0;
+  bottom: 1em;
+  z-index: 999;
+}
+
+.to-top:after {
+  content: '\2191';
+  margin-left: 0.25em; }

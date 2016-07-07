@@ -1,0 +1,22 @@
+// Reset
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-repeat: no-repeat;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+// clearfix
+cf:after {
+  content: '';
+  display: block;
+  clear: both;
+}

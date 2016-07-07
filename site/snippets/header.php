@@ -24,7 +24,6 @@
       </a>
       <?php snippet('menu') ?>
     </div>
-
 <?php
 if($page->isHomePage()):
   $bannerImage = 'content/home/home2.jpg';

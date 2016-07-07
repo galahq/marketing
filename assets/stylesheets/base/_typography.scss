@@ -1,0 +1,66 @@
+// Links
+a {
+  color: $galablue;
+  text-decoration: none;
+  transition: color .3s, background .3s, border .3s;
+}
+
+a:hover {
+  color: $umblue;
+}
+
+
+// Headings
+h1, h2, h3, h4, h5 {
+  font-family: $heading-default;
+  line-height: 110%;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.7em;
+  font-weight: 400;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-size: 1.4em;
+  font-weight: 400;
+  margin-bottom: 0.5em;
+}
+
+h4 {
+  font-size: 1.125em;
+  font-weight: 400;
+  margin-bottom: 0.5em;
+}
+
+h5 {
+  font-family: $heading-small;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a {
+  color: inherit;
+  border: 0 !important;
+}
+
+// Text blocks
+.text {
+  ul, ol {
+    margin-left: 1em;
+  }
+}
+
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
