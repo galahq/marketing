@@ -1,23 +1,30 @@
 <?php snippet('header') ?>
 
 <main class="main" role="main">
-  <section class="action-items site">
+
+<div class="actions">
+  <div class="site">
+    <h3 class="heading"><?php echo str_replace('(\\', '(', kirbytext($page->actionheading())) ?></h3>
+  </div>
+  <div class="action-items site">
     <?php foreach($pages->find('action')->children() as $action): ?>
       <div>
         <?php if($image = $action->image()): ?>
           <img src="<?php echo $image->url() ?>" alt="Icon for <?php echo html($action->title()) ?>">
         <?php endif ?>
         <h5 class="uppercase"><?php echo html($action->title()) ?></h5>
-        <h4><?php echo html($action->tagline()) ?></h4>
-        <p><?php echo html($action->description()) ?></p>
-        <button class="button" onclick="window.location.href='<?php echo $action->link() ?>'"><h5>More</h5></button>
+        <p><?php echo html($action->tagline()) ?></p>
       </div>
     <?php endforeach ?>
-  </section>
+  </div>
+  <div class="site">
+  <button class="button" onclick="window.location.href='#'"><h5>More</h5></button>
+  </div>
+</div>
 
-  <section class="scrollable">
-    <div class="device-banner">
-  </section>
+  <div class="">
+
+  </div>
 
   <section class="elements-tagline">
     <section class="site">
