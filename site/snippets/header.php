@@ -18,12 +18,7 @@
 
   <header>
 
-    <div class="header cf site">
-      <a class="logo" href="<?php echo url() ?>">
-        <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
-      </a>
-      <?php snippet('menu') ?>
-    </div>
+
 <?php
 if($page->isHomePage()):
   $bannerImage = 'content/home/home2.jpg';
@@ -34,7 +29,12 @@ endif
 
     <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(73,48,146,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <section class="site">
-
+        <div class="header cf site">
+          <a class="logo" href="<?php echo url() ?>">
+            <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+          </a>
+          <?php snippet('menu') ?>
+        </div>
 <?php if($page->isHomePage()): ?>
 
         <h1><?php echo $page->tagline() ?></h1>

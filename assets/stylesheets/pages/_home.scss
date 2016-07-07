@@ -4,6 +4,13 @@
   margin: 2.5em 0 0.5em 0;
 }
 
+.center-text {
+  text-align: center;
+}
+
+.actions {
+  padding-bottom: 3em;
+}
 // Actions
 .action-items {
   display: -webkit-flex;
@@ -47,8 +54,9 @@
 
 //Elements
 .elements {
-  padding: 0;
+  padding-top: 0.001em;
   margin: 0;
+  background-color: $ltoffwhite;
 }
 
 .elements-tagline {

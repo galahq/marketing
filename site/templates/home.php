@@ -18,13 +18,23 @@
     <?php endforeach ?>
   </div>
   <div class="site">
+  <div class="center-text">
   <button class="button" onclick="window.location.href='#'"><h5>More</h5></button>
+  </div>
   </div>
 </div>
 
-  <div class="">
+<div class="elements">
+  <div class="site">
+    <h3 class="heading"><?php echo str_replace('(\\', '(', kirbytext($page->elementheading())) ?></h3>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
 
   </div>
+</div>
 
   <section class="elements-tagline">
     <section class="site">
