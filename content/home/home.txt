@@ -10,23 +10,35 @@ Subtagline: *Real* Cases &middot; *Practical* Engagement &middot; *Effective* Re
 
 ----
 
-Numbers:
+Numbers: 
 
--
+- 
   number: $2m
   description: seed funding
--
+- 
   number: "200"
   description: cases by 2020
--
+- 
   number: "30"
   description: years of experience
--
+- 
   number: "15"
   description: campus partners
--
+- 
   number: "100"
   description: producers (join us!)
--
+- 
   number: “1st
   description: reading I did all year”
+
+----
+
+Actionheading: Learn, create, contribute, and innovate with MSC.
+
+----
+
+Elementheading: Stories with elements that are fun and engaging.
+
+----
+
+Visionheading: Transforming pedagogy in the sustainability field.

@@ -12,6 +12,15 @@ fields:
   subtagline:
     label: Subtagline
     type: textarea
+  actionheading:
+    label: Actions Heading
+    type: textarea
+  elementheading:
+    label: Elements Heading
+    type: textarea
+  visionheading:
+    label: Vision Heading
+    type: textarea
   numbers:
     label: Numbers
     type: structure
