@@ -1,0 +1,45 @@
+.menu {
+  float: right;
+  a {
+    display: block;
+    color: $ltgrey;
+    font-size: 90%;
+    padding: 0.22em 1em;
+    font-weight: 400;
+    &:hover {
+      color: $umblue;
+      text-decoration: none;
+    }
+  }
+  .active {
+    color: $umblue;
+    background-color: $ltltgrey;
+  }
+  li {
+    list-style: none;
+    position: relative;
+    float: left;
+  }
+}
+
+.submenu {
+  text-align: right;
+  > ul {
+    display: inline-block;
+    list-style: none;
+    border-top: 1px solid $ltltgrey;
+    border-bottom: 1px solid $ltltgrey;
+    font-size: .7em;
+    background-color: $ltltgrey;
+    margin-top: -1em;
+  }
+  li {
+    display: inline-block;
+    margin: .75em 1.5em;
+  }
+  a {
+    &:hover, &.active {
+      color: $green;
+    }
+  }
+}
