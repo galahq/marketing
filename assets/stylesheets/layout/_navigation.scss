@@ -2,18 +2,21 @@
   float: right;
   a {
     display: block;
-    color: $ltoffwhite;
-    font-size: 90%;
-    padding: 0.22em 1em;
+    color: $umblue;
+    font-size: 0.9em;
+    margin-left: 1.4em;
     font-weight: 400;
     &:hover {
-      color: $umblue;
+      color: $purple;
       text-decoration: none;
     }
   }
   .active {
-    color: $umblue;
-    background-color: $ltltgrey;
+    padding: 1.1em 1.5em;
+    margin: -1.1em 0;
+    border-bottom: 2px solid $bgyellow;
+    color: $darkgrey;
+    background-color: $bgyellow;
   }
   li {
     list-style: none;
@@ -23,23 +26,26 @@
 }
 
 .submenu {
-  text-align: right;
-  > ul {
+  text-align: center;
+  ul {
     display: inline-block;
     list-style: none;
-    border-top: 1px solid $ltltgrey;
-    border-bottom: 1px solid $ltltgrey;
     font-size: .7em;
-    background-color: $ltltgrey;
-    margin-top: -1em;
   }
   li {
     display: inline-block;
     margin: .75em 1.5em;
   }
   a {
+    color: $darkgrey;
     &:hover, &.active {
-      color: $green;
+      color: $purple;
     }
   }
+}
+
+.submenu-bg {
+  background-color: $bgyellow;
+  margin-top: 1em;
+  border-top: 2px solid $bgyellow;
 }

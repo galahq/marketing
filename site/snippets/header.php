@@ -1,57 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
-  <meta name="description" content="<?php echo $site->description()->html() ?>">
-  <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
-
-  <script src="https://use.typekit.net/fxq4rje.js"></script>
-  <script>try{Typekit.load({ async: true  });}catch(e){}</script>
-
-  <?php echo css('assets/css/main.css') ?>
-
-</head>
-<body class="<?php echo str_replace('.', '-', $page->template()) ?>" id="top">
-
-  <header>
-
-
-<?php
-if($page->isHomePage()):
-  $bannerImage = 'content/home/home2.jpg';
-else:
-  $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();
-endif
-?>
-
+<header>
+  <?php if($page->isHomePage()): ?>
+    <?php $bannerImage = 'content/home/topbanner.jpg';?>
     <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(73,48,146,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
-      <section class="site">
-        <div class="header cf site">
-          <a class="logo" href="<?php echo url() ?>">
-            <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
-          </a>
-          <?php snippet('menu') ?>
-        </div>
-<?php if($page->isHomePage()): ?>
-
+      <div class="header cf site">
+        <a class="logo" href="<?php echo url() ?>">
+          <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+        </a>
+        <?php snippet('menu') ?>
+      </div>
+      <div class="site">
         <h1><?php echo $page->tagline() ?></h1>
         <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
-
-<?php else: ?>
-
-        <h1><?php echo $page->pagetagline() ?></h1>
-        <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
-
-<?php endif ?>
-
-      </section>
+      </div>
     </section>
-    <?php if(!$page->isHomePage()): ?>
+
+ <?php else: ?>
+
+  <section class="header cf site">
+    <a class="logo" href="<?php echo url() ?>">
+      <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+    </a>
+    <?php snippet('menu') ?>
+  </section>
+  <div class="submenu-bg">
+    <div class="site">
       <?php snippet('submenu') ?>
-    <?php endif ?>
-
-
-  </header>
+    </div>
+  </div>
+  <?php $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();?>
+  <section class="hero" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(73,48,146,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+  <div class="site">
+    <div class="centerbox">
+      <h1><?php echo $page->pagetagline() ?></h1>
+      <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
+    </div>
+    </div>
+  </section>
+<?php endif ?>
+</header>
