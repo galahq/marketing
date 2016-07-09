@@ -9,14 +9,11 @@ html {
   html {
     font-size: 0.9em;
    }
-   section {
-     padding: 2em 2em;
-   }
  }
 
 body {
   color: $darkgrey;
-  line-height: 1.5;
+  line-height: 1.5em;
   font-family: $body-text;
 }
 
@@ -25,24 +22,11 @@ body {
     position: relative;
     max-width: 70em;
     margin: 0 auto;
-    padding: 0 2em;
-}
-
-//Section default
-section {
-  padding: 2em 0;
 }
 
 //Main
 .main {
   clear:inherit;
-  border-bottom: 2px solid $umblue;
-
-  hr {
-    margin: 3em 0;
-    height: 2px;
-    background: $ltltgrey;
-  }
 
   p, figure, ul, ol {
     margin-bottom: 1.5em;
