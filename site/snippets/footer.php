@@ -1,60 +1,54 @@
-  <footer class="footer cf site" role="contentinfo">
-
-    <?php
-    $items = $pages->visible();
-    if($items->count()):
-    ?>
-    <nav>
-      <ul class="footermenu">
-        <?php foreach($items as $item): ?>
-        <li>
-          <a<?php e($item->isOpen(), ' class="active"') ?> href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a>
-
-          <?php
-          // get all children for the current menu item
-          $children = $item->children()->visible();
-
-          // display the submenu if children are available
-          if($children->count() > 0):
-          ?>
-          <ul>
-            <?php foreach($children as $child): ?>
-            <li><a<?php e($child->isOpen(), ' class="active"') ?> href="<?php echo $child->url() ?>"><?php echo $child->title()->html() ?></a></li>
-
-            <?php
-            // get all children for the current menu item
-            $grandchildren = $child->children()->visible();
-
-            // display the submenu if children are available
-            if($grandchildren->count() > 0):
-            ?>
-            <ul>
-              <?php foreach($grandchildren as $grandchild): ?>
-              <li><a<?php e($grandchild->isOpen(), ' class="active"') ?> href="<?php echo $grandchild->url() ?>"><?php echo $grandchild->title()->html() ?></a></li>
-              <?php endforeach ?>
-            </ul>
-            <?php endif ?>
+<footer class="footer cf" role="contentinfo">
+  <div class="site">
+    <div class="footerheading">
+      <h4>Start learning with MSC. </h4>
+      <button class="buttonondark" onclick="window.location.href='#'"><h5>Case Gallery</h5></button>
+    </div> <!--footerheading-->
+    <nav class="footerflex">
+      <div class="footerflexitem">
+        <h4>Actions</h4>
+        <?php foreach($pages->find('action')->children() as $action): ?>
+        <nav>
+          <ul class="footermenu">
+            <li><a href="<?php echo $action->url() ?>"><?php echo $action->title()->html() ?></a></li>
             <?php endforeach ?>
           </ul>
-          <?php endif ?>
-        </li>
-        <?php endforeach ?>
-      </ul>
-    </nav>
-    <?php endif ?>
+        </nav>
+      </div><!--footerflexitem-->
+      <div class="footerflexitem">
+        <h4>Elements</h4>
+        <?php foreach($pages->find('element')->children() as $element): ?>
+        <nav>
+          <ul class="footermenu">
+            <li><a href="<?php echo $element->url() ?>"><?php echo $element->title()->html() ?></a></li>
+            <?php endforeach ?>
+          </ul>
+        </nav>
+      </div><!--footerflexitem-->
+      <div class="footerflexitem">
+        <h4>Vision</h4>
+        <?php foreach($pages->find('vision')->children() as $vision): ?>
+        <nav>
+          <ul class="footermenu">
+            <li><a href="<?php echo $vision->url() ?>"><?php echo $vision->title()->html() ?></a></li>
+            <?php endforeach ?>
+          </ul>
+        </nav>
+      </div><!--footerflexitem-->
+    </nav><!--footerflex-->
 
-<div class="footerbottom">
-  <div class="copyright">
-    <?php echo $site->copyright()->kirbytext() ?>
-  </div>
+    <div class="footerbottom">
+      <div class="copyright">
+        <?php echo $site->copyright()->kirbytext() ?>
+      </div><!--copyright-->
+      <div class="colophon">
+        <a href="contact"> Contact Us </a>
+      </div><!--colophon-->
+    </div><!--footerbottom-->
+  </div><!--site-->
+</footer>
 
-  <div class="colophon">
-    <a href="contact"> Contact Us </a>
-  </div>
-</div>
+<a href="#top" class="to-top">Top</a>
 
-
-  </footer>
-  <a href="#top" class="to-top">Top</a>
 </body>
 </html>

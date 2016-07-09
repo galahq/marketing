@@ -1,47 +1,87 @@
 .footer {
+  background-color: $umblue;
   padding: 3em 0;
 
-  ul {
-    font-size: 0.9em;
-  }
-
-  .footermenu {
-
-    a {
-      display: block;
-      color: $ltgrey;
-      padding: .35em 1em;
-
-      &:hover {
-        color: $umblue;
-        text-decoration: none;
-      }
-    }
-
-    .active {
-      color: $umblue;
-    }
-
-    li {
-      list-style: none;
-      position: relative;
-      float: left;
-    }
-  }
-
-  .footerbottom {
-    border-top: 1px solid $umblue;
-    clear: left;
-    margin-top: 2em;
+  .footerheading {
+    text-align: center;
+    color: $ltoffwhite;
   }
 }
 
+.footerflex {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-flow: row wrap;
+  -webkit-align-items: flex-start;
+  -ms-flex-pack: flex-start;
+  align-items: flex-start;
+  margin-top: 3.5em;
+}
+
+.footerflexitem {
+  -webkit-flex: 1;
+  -ms-flex:1;
+  flex:1;
+  color: $ltgrey;
+  text-align: center;
+  li {
+    list-style: none;
+  }
+}
+
+.footermenu a {
+    display: block;
+    color: $offwhite;
+
+    &:hover {
+      color: $yellow;
+      text-decoration: none;
+    }
+}
+
+.footerbottom {
+    border-top: 1px solid $ltgrey;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+
+
 .copyright {
-  float: left;
+  -webkit-flex: 1;
+  -ms-flex:1;
+  flex:1;
+  text-align: left;
+  color: $ltgrey;
+  padding: 0.5em 0;
 }
 
 .colophon {
-  float: right;
+  -webkit-flex: 1;
+  -ms-flex:1;
+  flex:1;
+  text-align: right;
+}
+
+.colophon a {
+    display: block;
+    color: $offwhite;
+    padding: 0.5em 0;
+
+    &:hover {
+      color: $yellow;
+      text-decoration: none;
+    }
 }
 
 footer > div {
