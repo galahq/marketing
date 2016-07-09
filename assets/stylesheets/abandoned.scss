@@ -1,0 +1,211 @@
+
+  hr {
+    margin: 3em 0;
+    height: 2px;
+    background: $ltltgrey;
+  }
+
+
+  //Elements
+  .elements {
+    padding-top: 0.001em;
+    margin: 0;
+    background-color: $ltoffwhite;
+  }
+
+  .elements-tagline {
+    background-color: $greyblue;
+    color: $ltoffwhite;
+  }
+
+  .flip-flop {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  figure img {
+    width: 100%;
+  }
+
+  .flip-flop {
+    &:nth-child(odd) {
+      flex-direction: row-reverse;
+    }
+    > {
+      figure {
+        flex: 0 1 16.5em;
+        position: relative;
+      }
+      div {
+        flex: 0 1 45em;
+        padding: 2em 0;
+      }
+    }
+  }
+
+  @media screen and (max-width: 1338px) and (min-width: 760px){
+    .flip-flop {
+      figure {
+        flex: 1;
+      }
+
+      div {
+        flex: 2;
+      }
+    }
+  }
+
+  @media screen and (min-width: 20em) {
+    .flip-flop {
+      &:nth-child(odd) > figure {
+        margin-left: 4em;
+      }
+      &:nth-child(even) > figure {
+        margin-right: 4em;
+      }
+    }
+  }
+
+  @media screen and (max-width: 40em) {
+    .flip-flop > div {
+      padding: 0;
+    }
+  }
+
+  .elements .flip-flop {
+    background-color: $greyblue;
+    color: $ltoffwhite;
+    &:nth-child(odd) {
+      background-color: $ltgreyblue;
+      color: $darkgrey;
+    }
+  }
+
+  //Vision
+  .vision-tagline h1, .elements-tagline h1 {
+    margin: 0;
+  }
+
+  .vision-tagline {
+    background-color: $green;
+    color: $darkgrey;
+  }
+
+  .vision-frame {
+    background: url('../../content/home/greenphoto.jpg');
+    background-position: absolute;
+    min-height: 600px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  @media screen and (max-width: 1572px){
+    .vision-frame{
+      background: #E2D7A7;
+    }
+  }
+
+  .vision {
+    padding: 2em;
+
+    img{
+      width: 5em;
+      display: inline-block;
+      float: left;
+      padding-right: 0.5em;
+    }
+
+    h4 {
+      margin-top: 1.5em;
+    }
+
+    div:nth-child(4) {
+      clear: left;
+    }
+
+    .conclude {
+      clear: both;
+      padding-top: 1.5em;
+    }
+  }
+
+  .column {
+    width: 33%;
+    padding: 0.5em;
+    float: left;
+  }
+
+  @media screen and (max-width: 1313px){
+    .column{
+      width: 45%;
+    }
+
+    .vision div:nth-child(3){
+      clear: left;
+    }
+
+    .vision div:nth-child(4){
+      clear:none;
+    }
+  }
+
+  .vision {
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  .number {
+    flex: 1 0 20em;
+    margin-bottom: 1em;
+  }
+
+  .number-value {
+    display: inline-block;
+    width: 4rem;
+    height: 4rem;
+    @include border-radius(4rem);
+    text-align: center;
+    padding-top: 0.8rem;
+    border-width: 3px;
+    border-style: solid;
+    font-weight: 500;
+    font-size: 140%;
+  }
+  .number:nth-of-type(1) .number-value { border-color: $galablue }
+  .number:nth-of-type(2) .number-value { border-color: $brown }
+  .number:nth-of-type(3) .number-value { border-color: $yellow }
+  .number:nth-of-type(4) .number-value { border-color: $purple }
+  .number:nth-of-type(5) .number-value { border-color: $vividblue }
+  .number:nth-of-type(6) .number-value { border-color: $green }
+
+  .number-description {
+    display: inline;
+    margin-left: 0.5em;
+  }
+
+  //Scrollable device image
+  .scrollable {
+    margin: 0;
+    padding: 0;
+    overflow-x: scroll;
+    background-color: $greyblue;
+  }
+
+  .device-banner {
+    background: url("../../content/home/devicebanner.png");
+    background-position: absolute;
+    min-height: 600px;
+    min-width: 4000px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    color: $ltoffwhite;
+  }
