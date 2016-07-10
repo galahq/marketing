@@ -2,6 +2,11 @@
   padding-top: 1em;
 }
 
+.headerbg {
+  background-color: rgba(145, 121, 224, 0.3);
+  padding-bottom: 0.8em;
+}
+
 .logo {
   display: block;
   float: left;
@@ -29,9 +34,8 @@
     font-size: 44pt;
     font-style: italic;
     line-height: 90%;
-    margin: 5.3em 0 0.1em 0;
+    margin: 4.8em 0 0.1em 0;
     @media screen and (max-width: 580px) {
-      margin-top: 5em;
     }
   }
 
@@ -55,4 +59,8 @@
 
 .centerbox {
   text-align: center;
+
+  h1 {
+    padding-top: 7.5em;
+  }
 }
