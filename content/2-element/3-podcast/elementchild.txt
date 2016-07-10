@@ -12,8 +12,6 @@ Description: MSC podcasts are conversations that expose students to a different 
 
 Text: 
 
-MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts.
-
 (a picture of guests in the studio)
 MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts. Insiders' perspectives. 
 
@@ -45,3 +43,7 @@ Link: element/podcast
 ----
 
 Pagesubtagline: Conversational &middot; First Hand &middot; Learn on the Go
+
+----
+
+Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts.
