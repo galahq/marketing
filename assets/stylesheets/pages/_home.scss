@@ -120,6 +120,20 @@
   }
 }
 
+.img-inline {
+  display: inline-block;
+  float: left;
+  height: 2em;
+  margin-right: 0.5em;
+}
+
+.flex-1-2 h5 {
+  margin-top: 1.2em;
+}
+
+.right {
+  margin-left: 1.5em;
+}
 
 //Vision
 .vision-tagline h1, .elements-tagline h1 {
@@ -148,8 +162,9 @@
   }
 }
 
-.vision {
-  padding: 2em;
+.vision-container {
+  padding-top: 0.01em;
+  padding-bottom: 4em;
 
   img{
     width: 5em;
@@ -195,11 +210,13 @@
 .vision {
   display: flex;
   flex-flow: row wrap;
+  padding: 1em 0 2em 0;
 }
 
 .number {
   flex: 1 0 20em;
   margin-bottom: 1em;
+  text-align: center;
 }
 
 .number-value {
