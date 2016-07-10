@@ -114,9 +114,13 @@
   -ms-flex:1;
   flex:1;
   margin-top: 1em;
+  padding: 1em;
   p {
     color: $ltgrey;
     font-size: 0.9em;
+  }
+  &:hover {
+    background-color: #fff;
   }
 }
 
