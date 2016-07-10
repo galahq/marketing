@@ -12,10 +12,6 @@ Description: Provide a toolkit of quantitative, technical, analytical and creati
 
 Text: 
 
-Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.
-
-Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.
-
 Interactive experience with case material that allows students to dive deeper. 
 Hands on. 
 Provides an opportunity for students to understand the implications that this case carries with it. 
@@ -43,3 +39,7 @@ Link: element/exercise
 ----
 
 Pagesubtagline: Hands-on &middot; Fun &middot; Different Formats
+
+----
+
+Subdescription: Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.
