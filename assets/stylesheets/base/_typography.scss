@@ -48,7 +48,13 @@ h5 {
   letter-spacing: 0.05em;
 }
 
-h1 a, h2 a, h3 a, h4 a, h5 a {
+h6 {
+  font-family: $heading-small;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
   border: 0 !important;
 }
