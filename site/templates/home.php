@@ -33,17 +33,19 @@
     <div class="flex-3-cols">
       <div class="flex-2-8">
         <div class="ver-flex">
-          <div class="flex-1-2">
+          <div class="flex-1-2"><a href="<?php echo $pages->find('element')->find('narrative')->link()?>">
             <?php $thumb = $pages->find('element')->find('narrative')->files()->filterBy('filename', '*=', '-thumb')->first()->uri();?>
             <img class="img-inline" src="<?php echo $thumb ?>" alt="icon of <?php echo $pages->find('element')->find('narrative')->title() ?>" />
             <h5 class="uppercase cf"><?php echo $pages->find('element')->find('narrative')->title() ?></h5>
             <p><?php echo $pages->find('element')->find('narrative')->description() ?></p>
+          </a>
           </div>
-          <div class="flex-1-2">
+          <div class="flex-1-2"><a href="<?php echo $pages->find('element')->find('podcast')->link()?>">
             <?php $thumb = $pages->find('element')->find('podcast')->files()->filterBy('filename', '*=', '-thumb')->first()->uri();?>
             <img class="img-inline" src="<?php echo $thumb ?>" alt="icon of <?php echo $pages->find('element')->find('podcast')->title() ?>" />
             <h5 class="uppercase cf"><?php echo $pages->find('element')->find('podcast')->title() ?></h5>
             <p><?php echo $pages->find('element')->find('podcast')->description() ?></p>
+          </a>
           </div>
         </div>
       </div>
@@ -52,17 +54,19 @@
       </figure>
       <div class="flex-2-8">
         <div class="ver-flex">
-          <div class="flex-1-2 right">
+          <div class="flex-1-2 right"><a href="<?php echo $pages->find('element')->find('edgenotes')->link()?>">
             <?php $thumb = $pages->find('element')->find('edgenotes')->files()->filterBy('filename', '*=', '-thumb')->first()->uri();?>
             <img class="img-inline" src="<?php echo $thumb ?>" alt="icon of <?php echo $pages->find('element')->find('edgenotes')->title() ?>" />
             <h5 class="uppercase cf"><?php echo $pages->find('element')->find('edgenotes')->title() ?></h5>
             <p><?php echo $pages->find('element')->find('edgenotes')->description() ?></p>
+          </a>
           </div>
-          <div class="flex-1-2 right">
+          <div class="flex-1-2 right"><a href="<?php echo $pages->find('element')->find('exercise')->link()?>">
             <?php $thumb = $pages->find('element')->find('exercise')->files()->filterBy('filename', '*=', '-thumb')->first()->uri();?>
             <img class="img-inline" src="<?php echo $thumb ?>" alt="icon of <?php echo $pages->find('element')->find('exercise')->title() ?>" />
             <h5 class="uppercase cf"><?php echo $pages->find('element')->find('exercise')->title() ?></h5>
             <p><?php echo $pages->find('element')->find('exercise')->description() ?></p>
+          </a>
           </div>
         </div>
       </div>
