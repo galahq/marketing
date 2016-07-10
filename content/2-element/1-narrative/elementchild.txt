@@ -2,7 +2,7 @@ Title: Narrative
 
 ----
 
-Tagline: 
+Tagline: Real world situation and dilemma.
 
 ----
 
@@ -22,4 +22,8 @@ Text:
 
 ----
 
-Link: 
+Link: element/narrative
+
+----
+
+Subdescription: Each MSC tells a story that presents real-world based problem with a challenging decision. Key decision makers, stakeholders, and challenges are being presented. Each MSC tells a story that presents real-world based problem with a challenging decision. Key decision makers, stakeholders, and challenges are being presented.
