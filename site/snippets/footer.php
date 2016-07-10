@@ -2,7 +2,7 @@
   <div class="site">
     <div class="footerheading">
       <h4>Start learning with MSC. </h4>
-      <button class="buttonondark" onclick="window.location.href='#'"><h5>Case Gallery</h5></button>
+      <button class="buttonondark" onclick="window.location.href='http://www.learnmsc.org'"><h5>Case Gallery</h5></button>
     </div> <!--footerheading-->
     <nav class="footerflex">
       <div class="footerflexitem">
