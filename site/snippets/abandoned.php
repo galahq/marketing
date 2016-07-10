@@ -86,3 +86,6 @@
   <?php endforeach ?>
 </ul>
 <?php endif ?>
+
+
+<button class="button" onclick="window.location.href='<?php echo $pages->find('action')->url() ?>'"><h6>Learn more about actions you can take with MSC</h6></button>
