@@ -13,6 +13,9 @@ fields:
   description:
     label: Description
     type: textarea
+  subdescription:
+    label: Description for parent page
+    type: textarea
   pagetagline:
     label: Page tagline
     type: text
