@@ -6,33 +6,39 @@ Tagline: Aims to transform pedagogy in sustainability.
 
 ----
 
-Description: 
+Description:
 
 - Number 1 platform for sustainability oriented teaching cases.
-For decades, professors have been successfully teaching with cases. MSC is reimagining this technique by building a web-based learning platform that embraces the new mode of media consumption, popularized by aggregators like Facebook or Flipboard. 
+For decades, professors have been successfully teaching with cases. MSC is reimagining this technique by building a web-based learning platform that embraces the new mode of media consumption, popularized by aggregators like Facebook or Flipboard.
 
 - - 100+ current case producers
-Every MSC is produced by a team of students, faculty, and practitioners. $2 Million initial funding from Transforming Learning in the Third Century is being spent to support the development of cases. Currently, MSC is supporting the development of over 30 cases, which involve over 100 individuals. 
+Every MSC is produced by a team of students, faculty, and practitioners. $2 Million initial funding from Transforming Learning in the Third Century is being spent to support the development of cases. Currently, MSC is supporting the development of over 30 cases, which involve over 100 individuals.
 
 - 15 + on campus partners
 MSC is currently writing and piloting initial cases in a variety of professional schools, ranging from its current home in the School of Natural Resources to Engineering, Social Work, and beyond. MSC has also build partners to help make MSC more digitally savvy and inclusive of different backgrounds. On top of this, MSC is extending its reach by building partners beyond campus and globally. transforming sustainability learning at home on the University of Michigan campus and bringing cases to classrooms around the world.
 
 - 95% satisfaction rate in piloting cases
-Two MSCs were piloted in the classroom of winter semester 2016. Positive feedbacks are received. Among which, the overall satisfaction rate is 95%. 
+Two MSCs were piloted in the classroom of winter semester 2016. Positive feedbacks are received. Among which, the overall satisfaction rate is 95%.
 
 - 200 cases in the course of four years
-One barrier of adopting new pedagogy is the cost of making such change. Cases are expensive to produce. MSC is aiming to support 125 to 200 cases production in the next four years, all of which are open access. Allowing wider adoption of this approach. 
+One barrier of adopting new pedagogy is the cost of making such change. Cases are expensive to produce. MSC is aiming to support 125 to 200 cases production in the next four years, all of which are open access. Allowing wider adoption of this approach.
 
 - 30+ years of case based teaching
-For decades, School of Natural Resources and Environment (SNRE) professors have been successfully teaching with cases in their classrooms, which have proved more effective than lectures. Case approach has also been adopted for the SNRE orientation to give students the feeling of the complexity of environmental issues. The experience will help MSC to build cases well... 
+For decades, School of Natural Resources and Environment (SNRE) professors have been successfully teaching with cases in their classrooms, which have proved more effective than lectures. Case approach has also been adopted for the SNRE orientation to give students the feeling of the complexity of environmental issues. The experience will help MSC to build cases well...
 
-Our goal is to transform sustainability learning by transforming teaching methods in all academic fields. Case-based curricular innovation will lead to a more engaged, participatory learning. It will also enable students to achieve sustainability competencies, including systems-thinking: anticipatory, normative, strategic, and interpersonal. These are skills that will help develop students towards their full potential—becoming future sustainability leaders. 
+Our goal is to transform sustainability learning by transforming teaching methods in all academic fields. Case-based curricular innovation will lead to a more engaged, participatory learning. It will also enable students to achieve sustainability competencies, including systems-thinking: anticipatory, normative, strategic, and interpersonal. These are skills that will help develop students towards their full potential—becoming future sustainability leaders.
 
 (Learn more about our initiative and vision.)
 
 ----
 
-Text: 
+Text:
+
+<div class="conclude">
+  <p>
+    Our goal is to transform sustainability learning by transforming teaching methods in all academic fields. Case-based curricular innovation will lead to a more engaged, participatory learning. It will also enable students to achieve sustainability competencies, which will help develop students towards their full potential—becoming future sustainability leaders.
+  </p>
+</div>
 
 Funded by a grant from Transforming Learning in the Third Century, the Michigan Sustainability Cases (MSC) initiative is building a case-based curriculum for sustainability education across the U of M campus, beginning with SNRE and PitE courses. MSC is currently transforming sustainability learning at home on the University of Michigan campus and bringing cases to classrooms around the world.
 
@@ -60,7 +66,7 @@ Pagetagline: Vision
 
 ----
 
-Link: 
+Link:
 
 ----
 

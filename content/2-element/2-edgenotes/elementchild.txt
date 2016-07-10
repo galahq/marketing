@@ -6,11 +6,13 @@ Tagline: Curated media that captures your imagination.
 
 ----
 
-Description: Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.
+Description: Edgenotes are jumping-off points for deeper exploration. They are curated from audiovisual sources providing diverse and in-depth insights.
 
 ----
 
 Text: 
+
+Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.
 
 Jumping off points while reading, and you control the pace!
 
