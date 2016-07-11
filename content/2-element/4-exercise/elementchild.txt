@@ -42,4 +42,4 @@ Pagesubtagline: Hands-on &middot; Fun &middot; Different Formats
 
 ----
 
-Subdescription: Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. And foster an environment for students to practice collaboration, self agency and intercultural communication.
+Subdescription: Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. The design for these exercises aims to foster an environment for students to practice collaboration, self agency and intercultural communication.
