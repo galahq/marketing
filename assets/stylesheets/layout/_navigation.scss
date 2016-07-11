@@ -4,7 +4,7 @@
     display: block;
     color: $umblue;
     font-size: 0.9em;
-    margin-left: 1.4em;
+    margin: 0 1.4em;
     font-weight: 400;
     &:hover {
       color: $yellow;
@@ -12,7 +12,7 @@
     }
   }
   .active {
-    padding: 1.1em 1.5em;
+    padding: 1.1em 1.3em;
     margin: -1.1em 0;
     border-bottom: 2px solid $bgyellow;
     color: $darkgrey;
