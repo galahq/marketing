@@ -12,7 +12,6 @@ $darkgrey: #3b3f4e;
 $ltgrey: #9c9c9c;
 $ltltgrey: #ddd;
 $yellow: #E6C64C;
-$bgyellow: #E2D7A7;
 $green: #68bf70;
 
 $brown: #ae8059;
@@ -26,3 +25,14 @@ $heading-default: 'clarendon-urw', serif;
 $heading-small: 'tenso', sans-serif;
 
 $body-text: 'tenso', sans-serif;
+
+// Breakpoint
+$extra-small-max: 320px;
+$small-max: 768px;
+$medium-max: 1024px;
+$large-max: 1300px;
+
+$mq-extra-small: max-width $extra-small-max;
+$mq-small: max-width $extra-small-max;
+$mq-medium: max-width $medium-max;
+$mq-large: max-width $large-max;
