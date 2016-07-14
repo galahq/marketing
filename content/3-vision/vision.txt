@@ -6,7 +6,7 @@ Tagline: Aims to transform pedagogy in sustainability.
 
 ----
 
-Description:
+Description: 
 
 - Number 1 platform for sustainability oriented teaching cases.
 For decades, professors have been successfully teaching with cases. MSC is reimagining this technique by building a web-based learning platform that embraces the new mode of media consumption, popularized by aggregators like Facebook or Flipboard.
@@ -32,15 +32,24 @@ Our goal is to transform sustainability learning by transforming teaching method
 
 ----
 
-Text:
+Text: 
 
-<div class="conclude">
-  <p>
-    Our goal is to transform sustainability learning by transforming teaching methods in all academic fields. Case-based curricular innovation will lead to a more engaged, participatory learning. It will also enable students to achieve sustainability competencies, which will help develop students towards their full potential—becoming future sustainability leaders.
-  </p>
-</div>
+###What is MSC
+Environmentally themed sustainability cases that transform  learning experiences, spearheaded by the University of Michigan_
+Funded by a grant from Transforming Learning in the Third Century, the Michigan Sustainability Cases (MSC) initiative is building a case-based curriculum for sustainability education. Each MSC tells a story. First,  a challenging decision. Then, the key decision maker and main stakeholders. These are accompanied by audiovisual sources that provide diverse and in-depth insights to the case. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs. MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. MSC is currently transforming sustainability learning at home on the University of Michigan campus and bringing cases to classrooms around the world.
 
-Funded by a grant from Transforming Learning in the Third Century, the Michigan Sustainability Cases (MSC) initiative is building a case-based curriculum for sustainability education across the U of M campus, beginning with SNRE and PitE courses. MSC is currently transforming sustainability learning at home on the University of Michigan campus and bringing cases to classrooms around the world.
+### What is a case
+A story that evolves around an issue and its key players_
+A standard MSC is composed of a clear narrative with a decision problem, one or more decision points, and several available solutions.
+
+### Why use cases in the sustainability field
+Cases make students work through complex issues and help knowledge to ‘stick’. _
+Sustainability problems are important to everyone. No longer limited to the traditional environmental fields. They can be very complicated and require knowledge from various disciplines. Cases help to capture those complexities and intricacies. They convey interdisciplinary concepts about coupled human/natural systems. And offer the big picture perspective in addressing site specific sustainability challenges. The easily understandable format of the case-based method guides the student through the narrative and allows them to actively engage with the material. This helps students retain knowledge in the long run.
+
+### Why now?
+The increasing challenges of wicked problems like climate changes and energy descent pose across disciplines is something that should be included in core curriculums. We are making it more approachable and more engaging while building critical skills beyond the classroom. 
+
+Our goal is to transform sustainability learning by transforming teaching methods in all academic fields. Case-based curricular innovation will lead to a more engaged, participatory learning. It will also enable students to achieve sustainability competencies, which will help develop students towards their full potential—becoming future sustainability leaders.
 
 As with the traditional case method, MSCs present the student with the case, the decision maker, and various stakeholders, allowing the student to sets priorities and negotiates tradeoffs in reaching a recommendation. Unlike the traditional case method, each MSC is accompanied by two additional “tentpole” components--multimedia “Edgenotes” and an hour-long podcast--which bring greater depth to the case content. Through the seamless incorporation of diverse audiovisual sources and in-depth interviews with real-world decision makers, MSCs provide a more immersive and nuanced educational approach to sustainability and environmental decision making.
 
@@ -52,13 +61,43 @@ Additionally, MSC podcasts are an opportunity to untangle case narratives and as
 
 The creation of a sustainability-focused case library will be both time and resource intensive. MSC employs student authors who write the cases, curate the Edgenotes, and produce the podcasts themselves, in consultation with faculty, practitioners, and MSC staff. This allows for a secondary learning objective for student MSC makers, to develop skills in critical thought, time management, teaching and teamwork.
 
-how engagement in the experience leads
-to skills development in terms of self-confidence in STEM fields, and social skills of particular
-relevance to sustainability education, i.e. collaboration, communication, and intercultural
+how engagement in the experience leads to skills development in terms of self-confidence in STEM fields, and social skills of particular relevance to sustainability education, i.e. collaboration, communication, and intercultural
 and civic engagement.
 
-water quality,
-alternative energy, and food systems.
+
+
+For decades, SNRE professors have been teaching with cases, which have been demonstrated to be more effective than lectures. Michigan Sustainability Cases (MSC) is reimagining this technique by building a web-based learning platform that embraces the new mode of media consumption popularized by aggregators like Facebook or Flipboard. Complementary to the classic case narrative, we’re curating multimedia content which provide context, detail, and opportunities for further investigation. Through these “Edgenotes,” students are able to shape their individual learning experience as they explore the case material.
+
+Studies show that students learn best by active participation in the learning process. At the heart of it, our cases are stories: they begin with a decision maker and center around a problem that need to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of the core competencies of the field.
+
+Additionally, MSCs include conversations with the case’s key players in the form of a podcast. These podcasts are an opportunity to untangle case narratives and assumptions, discuss the process of coming to a solution with the case’s decision maker, and shed light on under-explored aspects of the case material. We believe that the presentation of material in the form of a lively conversation will lead to increased learning outcomes relative to lecture, and we are currently testing that hypothesis in the classroom.
+The creation of a sustainability-focused case library will be both time and resource intensive.  MSC employs student authors who will write the cases, curate the Edgenotes, and produce the podcasts themselves, in consultation with faculty, practitioners, and MSC staff. While it is secondary to the learning outcomes we seek to achieve in classrooms, the benefit to the case developers is not to be overlooked.
+
+The cases will be modular to fit into a variety of classrooms, or configured in “stacks” which form cohesive curricula.  This initiative will widely promote case-based teaching and learning methods to the University of Michigan campus, the U.S., and eventually (fingers crossed) to the world.
+
+Michigan Sustainability Cases (MSC), funded by a Transforming Learning in the Third Century initiative, is building a case-based curriculum for sustainability education in a variety of professional schools. MSC is writing and piloting initial cases throughout the U-M campus ranging from its current home in the SNRE  to Engineering, Social Work, and beyond. 
+The MSC initiative is focused on developing a series of cases that will be presented via the MSC online platform, which encourages student interaction with the case material. As with the traditional case method, MSCs present the student with the case, the decision maker, and various stakeholders, allowing the student to analyze priorities and tradeoffs in reaching a recommendation. Unlike the traditional case method, each MSC is accompanied by two additional “tentpole” components (multimedia “Edgenotes” and an hour-long podcast),  which together serve to bring greater depth to the case content.  Through the seamless incorporation of diverse  audiovisual sources and in-depth interviews with real world decision makers, MSCs provide a more immersive and nuanced educational approach to sustainability and environmental decision making. 
+Besides MSCs campus-wide influence, we expect to have a worldwide impact by building global partners and hosting the global case competition. 
+
+Timeline
+General timeline:  by the end of the first four years, we are going to offer 50 publically available and 100 commercially available teaching cases. 
+
+Success
+Our goal is to transform sustainability learning by transforming our teaching method. The overarching framework is to help students achieve sustainability competencies1 including: systems-thinking, anticipatory, normative, strategic, and interpersonal. These are skills that will help develop students towards their full potential — becoming future sustainability leaders. Beyond molding leaders in sustainability, success for us would be: 
+students with higher material retention than that from a more traditional lecture experience, and
+a more engaged learning experience for which we would have statistics and analytics about time spent with complementary material.
+
+1. As defined in Arnim Wiek, Lauren Withycombe, and Carles L. Redman, 2011, Key competencies in sustainability: a reference framework for academic program development, Sustain Sci, 6:203-218.
+
+Impact on U-M learners and residential education at U-M
+MSC is going have an impact on sustainability education from the U-M campus specifically to  interested students around the world. 
+MSC is going to transform sustainability learning on campus to be more case-based, engaging, and participatory. It is also going to facilitate a campus wide sustainability learning community with more resources and support for students who are interested in the ever growing sustainability field.
+With some 50 individual case studies made publically accessible, we hope to capture the attention of pre-college and current students around the world with the intention of teaching case-based sustainability and promoting the University of Michigan as a leader in sustainability focussed education.
+
+Contribution to Diversity and Inclusion
+MSC will engage students from different cultures to participate in the case development and learning process. Also, MSC explores topics in different geographic and demographic areas.
+
+MSC is currently transforming sustainability learning at home on the University of Michigan campus and bringing cases to classrooms around the world.
 
 ----
 
@@ -66,7 +105,7 @@ Pagetagline: Vision
 
 ----
 
-Link:
+Link: 
 
 ----
 
