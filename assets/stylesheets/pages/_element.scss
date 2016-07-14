@@ -19,6 +19,10 @@ figure img {
 
 .flip-flop {
   padding: 2em 0;
+  border-bottom: 1px solid $ltltgrey;
+  &:first-child {
+    border-top: 1px solid $ltltgrey;
+  }
   &:nth-child(odd) {
     flex-direction: row-reverse;
   }
@@ -60,14 +64,5 @@ figure img {
 @media screen and (max-width: 40em) {
   .flip-flop > div {
     padding: 0;
-  }
-}
-
-.elements-parent .flip-flop {
-  background-color: $greyblue;
-  color: $ltoffwhite;
-  &:nth-child(even) {
-    background-color: $ltgreyblue;
-    color: $darkgrey;
   }
 }
