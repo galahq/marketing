@@ -19,26 +19,18 @@
     background-color: $galablue;
     color: $ltoffwhite;
   }
-}
 
-.buttonondark {
-  background-color: $bgyellow;
-  border-radius: 0.5em;
-  color: $galablue;
-  padding: 0.5em 2em;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  transition: all 0.3s ease 0s;
+  &ondark {
+    background-color: lighten($yellow, 25%);
+    border: none;
+    color: $galablue;
 
-  h5 {
-    padding: 0;
-    margin: 0;
-    font-size: 1em;
-  }
+    h5 {
+      font-size: 1em;
+    }
 
-  &:hover {
-    background-color: $yellow;
+    &:hover {
+      background-color: $yellow;
+    }
   }
 }
