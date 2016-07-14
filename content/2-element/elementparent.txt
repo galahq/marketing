@@ -14,24 +14,6 @@ Inspiration for a case may come from a current or past event or a published work
 
 where you depart: from often still solely text-based, sender (teacher) - receiver (student), or input (lecture) - output (test) models. Maybe you could add that excursions and summer travel programs abroad are also potential ways of an interactive learning experience.
 
-## Text
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
-
-## Edgenotes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
-
-
-## Podcast
-
-In tristique vel sapien ut lacinia. Aenean sagittis aliquam libero id semper. Nullam vestibulum dignissim nunc, a mollis ipsum. Proin nec nisl nulla. Ut fermentum, quam eget dictum convallis, erat sem ullamcorper quam, nec porttitor nulla elit a mauris. Sed eu dapibus lacus, eget fermentum justo. Suspendisse nec imperdiet purus. Morbi luctus posuere ligula. Sed feugiat pellentesque nisi rhoncus fermentum. Aenean finibus neque in velit gravida volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut interdum sed ex in pretium. Pellentesque auctor felis at risus blandit, nec molestie tellus scelerisque. Cras maximus leo eu sapien ultrices, dignissim vehicula ex egestas. Morbi efficitur ultrices tellus, at convallis lectus pretium in.
-
-## Exercise
-
-Nam tempus lacus sit amet ipsum interdum, sit amet condimentum nunc malesuada. Praesent suscipit dui at ex finibus, quis fermentum elit mattis. Nulla ac varius dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Pellentesque sed velit nec justo consequat scelerisque. Curabitur sodales quam nulla, a lacinia lorem molestie ac. Vivamus semper arcu eget ex ultricies, id tristique leo convallis. Donec vel tristique mauris, sed pretium sapien.
-
 ----
 
 Description: 

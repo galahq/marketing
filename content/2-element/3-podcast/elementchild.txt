@@ -12,24 +12,23 @@ Description: MSC podcasts are conversations that expose students to a different 
 
 Text: 
 
-(a picture of guests in the studio)
 MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station WCBN FM. They are conversations that expose students to a different side of the issue . Podcasts are interviews with the case decision maker(s) and/or relevant experts. Insiders' perspectives. 
 
 (logo: IHIH, WCBN)
 
-##An MSC podcast can be:
+###An MSC podcast can be:
 a discussion about the background of the case
 a conversation about key concepts or methods
 a dialogue that untangles challenges and assumptions
 a debate over objectives and tradeoffs
 
-##Participants
+###Participants
 Case authors, experts, practitioners, decision-maker,  stakeholders
 
-##Format
+###Format
 Free form, conversation driven
 
-##Length
+###Length
 Thirty minutes to an hour.
 
 ----
