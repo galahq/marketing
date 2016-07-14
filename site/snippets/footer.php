@@ -2,7 +2,7 @@
   <div class="site">
     <div class="footerheading">
       <h4>Start learning with MSC. </h4>
-      <button class="buttonondark" onclick="window.location.href='http://www.learnmsc.org'"><h5>Case Gallery</h5></button>
+      <button class="button buttonondark" onclick="window.location.href='http://www.learnmsc.org'"><h5>Case Gallery</h5></button>
     </div> <!--footerheading-->
     <nav class="footerflex">
       <div class="footerflexitem">
@@ -32,6 +32,17 @@
           <ul class="footermenu">
             <li><a href="<?php echo $vision->url() ?>"><?php echo $vision->title()->html() ?></a></li>
             <?php endforeach ?>
+          </ul>
+        </nav>
+      </div><!--footerflexitem-->
+      <div class="footerflexitem">
+        <h4>Resources</h4>
+        <nav>
+          <ul class="footermenu">
+            <li><a href="<?php echo $pages->find('action')->find('teach')->find('evaluation')->url() ?>"><?php echo $pages->find('action')->find('teach')->find('evaluation')->title() ?></a></li>
+            <li><a href="<?php echo $pages->find('action')->find('teach')->find('teaching-guide')->url() ?>"><?php echo $pages->find('action')->find('teach')->find('teaching-guide')->title() ?></a></li>
+            <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+            <li><a href="<?php echo $pages->find('action')->find('make')->find('proposal')->url() ?>"><?php echo $pages->find('action')->find('make')->find('proposal')->title() ?></a></li>
           </ul>
         </nav>
       </div><!--footerflexitem-->
