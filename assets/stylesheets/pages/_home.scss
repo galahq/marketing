@@ -27,7 +27,7 @@
   > div {
     flex: 0 0 24%;
     margin: 0.5%;
-    border: 1px solid $bgyellow;
+    border: 1px solid lighten($yellow, 25%);
     @include border-radius(0.2rem);
 
     &:hover {
@@ -71,7 +71,7 @@
 .elements {
   padding-top: 0.001em;
   margin: 0;
-  background-color: $ltoffwhite;
+  background-color: $offwhite;
   padding-bottom: 3em;
 }
 
@@ -120,7 +120,8 @@
     font-size: 0.9em;
   }
   &:hover {
-    background-color: #fff;
+    background-color: $ltoffwhite;
+    border-radius: 0.5em;
   }
 }
 
@@ -129,14 +130,16 @@
   float: left;
   height: 2em;
   margin-right: 0.5em;
+  margin-left: -2.5em;
 }
 
 .flex-1-2 h5 {
-  margin-top: 1.2em;
+  margin-top: 0.8em;
 }
 
 .right {
-  margin-left: 1.5em;
+  margin-left: 3.5em;
+  margin-right: -3.5em;
 }
 
 //Vision
@@ -228,7 +231,7 @@
   height: 4rem;
   @include border-radius(4rem);
   text-align: center;
-  padding-top: 0.8rem;
+  padding-top: 1rem;
   border-width: 3px;
   border-style: solid;
   font-weight: 500;
