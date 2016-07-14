@@ -6,6 +6,10 @@
     text-align: center;
     color: $ltoffwhite;
   }
+
+  h4 {
+    margin-bottom: 1.8em;
+  }
 }
 
 .footerflex {
@@ -19,7 +23,11 @@
   -webkit-align-items: flex-start;
   -ms-flex-pack: flex-start;
   align-items: flex-start;
-  margin-top: 3.5em;
+  margin-top: 2.2em;
+
+  h4 {
+    margin-bottom: 0.5em;
+  }
 }
 
 .footerflexitem {
