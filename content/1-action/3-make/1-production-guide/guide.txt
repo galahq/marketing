@@ -10,30 +10,66 @@ Text:
 
 Note: MSC has funding to support the development of cases. If you are interested in developing a case, please refer to <a href="#">Submit a Proposal</a> page.
 
-## Team Formation
+@: Production guide
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+Intro: 
+Inspiration for a case may come from a current or past event or a published work. Each case is presented with the following components: main text, teaching guide, multi-media Edgenotes, podcast, and learning exercises. 
 
-## Teaching
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+Note: MSC has funding to support the development of cases. If you are interested in developing a case, please refer to Submit a Proposal page. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a tristique lorem. Fusce sem tortor, vulputate vel quam vitae, euismod ultrices augue. Vivamus rhoncus tortor eget pellentesque finibus. Sed commodo semper dui, at accumsan massa viverra in. Vestibulum eget aliquam metus. Ut scelerisque auctor odio id faucibus. Ut auctor nibh et ex mattis convallis. Praesent eget varius ligula, ut imperdiet nisl. Aliquam erat volutpat. Curabitur in odio risus. Donec rhoncus in dui vitae pharetra. Morbi imperdiet at est eu interdum. Ut turpis odio, sagittis vel tellus non, iaculis aliquam sem. Nam tempus felis et vestibulum ultricies.
+Content on this page: 
+- Main text
+	- Case narrative
+	- Teaching guide
+- Curating Edgenotes
+- Podcasts
+- Interactive Learning Exercises
+- Team Composition
+- Publishing your case
+	- To MSC 
+	- To World Development Perspectives
 
-
-## Publish
-
-In tristique vel sapien ut lacinia. Aenean sagittis aliquam libero id semper. Nullam vestibulum dignissim nunc, a mollis ipsum. Proin nec nisl nulla. Ut fermentum, quam eget dictum convallis, erat sem ullamcorper quam, nec porttitor nulla elit a mauris. Sed eu dapibus lacus, eget fermentum justo. Suspendisse nec imperdiet purus. Morbi luctus posuere ligula. Sed feugiat pellentesque nisi rhoncus fermentum. Aenean finibus neque in velit gravida volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut interdum sed ex in pretium. Pellentesque auctor felis at risus blandit, nec molestie tellus scelerisque. Cras maximus leo eu sapien ultrices, dignissim vehicula ex egestas. Morbi efficitur ultrices tellus, at convallis lectus pretium in.
-
-## Apply
-
-Nam tempus lacus sit amet ipsum interdum, sit amet condimentum nunc malesuada. Praesent suscipit dui at ex finibus, quis fermentum elit mattis. Nulla ac varius dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Pellentesque sed velit nec justo consequat scelerisque. Curabitur sodales quam nulla, a lacinia lorem molestie ac. Vivamus semper arcu eget ex ultricies, id tristique leo convallis. Donec vel tristique mauris, sed pretium sapien.
-
-
-## Events and workshops 
-
-Fusce mollis ut eros nec cursus. Donec sed eleifend dui. Suspendisse lacinia interdum condimentum. Sed ut sollicitudin mauris. Suspendisse tincidunt molestie est, et feugiat neque consequat ut. Morbi pharetra lacus consequat, hendrerit libero nec, efficitur nunc. Etiam in leo vel neque varius pellentesque. Nullam commodo elit arcu. Nulla sagittis pretium turpis, ut commodo augue scelerisque vel. Aliquam vel mollis arcu, a cursus elit.
-
-Aliquam laoreet elit eleifend lacus commodo pellentesque. Curabitur ac risus elit. Suspendisse sagittis metus sit amet nisl iaculis dignissim quis id ante. Quisque facilisis quis lacus eu finibus. Sed lacinia, tellus eu mollis vehicula, diam velit pellentesque neque, nec egestas lacus lorem a dui. Sed eu porttitor quam. Praesent tellus leo, eleifend quis felis vel, porttitor condimentum mauris. Vivamus blandit eget elit a mollis.
+# Case narrative
+Typically, a case presents the following components:
+1. a problem, 
+2. a central decision maker, 
+3. the actors, stakeholders and interest groups who influence the decision making process,
+3. options for possible solutions,
+4. competing objectives and tradeoffs, 
+5. implementation challenges, and
+6.  recommendations.
+The suggested length for an MSC is between 3,000 - 5,000 words. 
+# Teaching guide
+The teaching guide should explicitly lay out recommendations for how to use case materials, including:
+1. a brief case overview explaining the issue and components, 
+2. teaching objectives of concepts, qualitative and quantitative skills,
+3. how to incorporate Edgenotes and podcast,
+4. recommended questions for further discussion, and
+5. learning exercises and how to implement them in the classroom.
+# Curating Edgenotes
+Edgenotes can be drawn from a variety multimedia sources:
+1. video or audio clips
+2. essays, columns and blogs
+3. infographics, charts and graphs
+4. tweets from the ground
+5. technical reports
+# Podcasts
+The ideal MSC podcast features:
+1. interviews with the case decision maker(s) and/or relevant experts
+2. discussion and dialogue untangling case narratives and assumptions
+# Interactive Learning Exercises
+Interactive learning exercises should be 2-3 different skill based activities that require the students to work either qualitatively or quantitatively with the case materials.
+1. at least one exercise for teams of two or more students
+2. at least one exercise for individual student work
+# Team Composition
+Teams are made up of professors, practitioners, and students who work collaboratively to write and produce a case.
+1. the professor’s role is to provide expertise and advise on the case
+2. the practitioner’s role is give perspective from the industry or professional reality
+3. the student’s role is to write the case, curate the Edgenotes, coordinate the podcast production and learn in the process
+# Publishing your case
+Each MSC is published.
+1. the case are published on the MSC website; this includes the case narrative, teaching guide, Edgenotes, podcast, and interactive learning exercises
+2. if the student authors and faculty are interested in an academic publication of the case, there is a strong possibility of it being accepted to World Development Perspectives
 
 ----
 
