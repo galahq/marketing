@@ -11,7 +11,7 @@
 
   <section class="elements-parent">
     <?php foreach($page->children() as $element): ?>
-      <section class="flip-flop">
+      <section class="flip-flop site">
         <?php if($image = $element->images()->filterBy('filename', '*=', '-icon')->first()): ?>
         <figure>
           <?php $url = $image->url() ?>
