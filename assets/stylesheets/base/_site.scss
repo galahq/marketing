@@ -2,14 +2,12 @@
 html {
   font-size: 14pt;
   min-height: 101%;
-  background-color: $offwhite;
-}
+  background-color: $ltoffwhite;
 
-@media screen and (max-width: 40em) {
-  html {
+  @media screen and (max-width: 40em) {
     font-size: 0.9em;
    }
- }
+}
 
 body {
   color: $darkgrey;
@@ -26,6 +24,7 @@ body {
 
 //Main
 .main {
+  margin-top: 2em;
   clear:inherit;
 
   p, figure, ul, ol {
