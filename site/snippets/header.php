@@ -1,7 +1,7 @@
 <header>
   <?php if($page->isHomePage()): ?>
     <?php $bannerImage = 'content/home/topbanner.jpg';?>
-    <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(73,48,146,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+    <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <div class="header cf headerbg">
         <div class="site">
         <a class="logo" href="<?php echo url() ?>">
@@ -30,7 +30,7 @@
     </div>
   </div>
   <?php $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();?>
-  <section class="hero" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(73,48,146,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+  <section class="hero" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
   <div class="site">
     <div class="centerbox">
       <h1><?php echo $page->pagetagline() ?></h1>
