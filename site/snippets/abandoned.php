@@ -1,3 +1,6 @@
+<a href="<?php echo $pages->find('element')->find('narrative')->link()?>">
+
+
 <section class="scrollable">
   <div class="device-banner">
 </section>
@@ -89,3 +92,7 @@
 
 
 <button class="button" onclick="window.location.href='<?php echo $pages->find('action')->url() ?>'"><h6>Learn more about actions you can take with MSC</h6></button>
+
+
+//scroll to top
+<a href="#top" class="to-top">Top</a>
