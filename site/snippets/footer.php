@@ -4,8 +4,8 @@
       <h4>Start learning with MSC. </h4>
       <button class="button buttonondark" onclick="window.location.href='http://www.learnmsc.org'"><h5>Case Gallery</h5></button>
     </div> <!--footerheading-->
-    <nav class="footerflex">
-      <div class="footerflexitem">
+    <nav class="footerflex flex-container">
+      <div class="footerflexitem hide">
         <h4>Actions</h4>
         <?php foreach($pages->find('action')->children() as $action): ?>
         <nav>
@@ -15,7 +15,7 @@
           </ul>
         </nav>
       </div><!--footerflexitem-->
-      <div class="footerflexitem">
+      <div class="footerflexitem hide">
         <h4>Elements</h4>
         <?php foreach($pages->find('element')->children() as $element): ?>
         <nav>
@@ -25,7 +25,7 @@
           </ul>
         </nav>
       </div><!--footerflexitem-->
-      <div class="footerflexitem">
+      <div class="footerflexitem hide">
         <h4>Vision</h4>
         <?php foreach($pages->find('vision')->children() as $vision): ?>
         <nav>
@@ -48,18 +48,16 @@
       </div><!--footerflexitem-->
     </nav><!--footerflex-->
 
-    <div class="footerbottom">
-      <div class="copyright">
+    <div class="flex-container footerbottom">
+      <div class="flex-growing copyright">
         <?php echo $site->copyright()->kirbytext() ?>
       </div><!--copyright-->
-      <div class="colophon">
+      <div class="flex-growing colophon">
         <a href="contact"> Contact Us </a>
       </div><!--colophon-->
     </div><!--footerbottom-->
   </div><!--site-->
 </footer>
-
-<a href="#top" class="to-top">Top</a>
 
 </body>
 </html>
