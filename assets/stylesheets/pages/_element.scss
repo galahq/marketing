@@ -1,20 +1,5 @@
 .intro-text {
-  margin: 3em 0;
-}
-
-.elements-parent {
-  padding-top: 0.001em;
-}
-
-.flip-flop {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-flow: row wrap;
-  justify-content: center;
-}
-
-figure img {
-  width: 100%;
+  margin: 3em inherit;
 }
 
 .flip-flop {
@@ -26,15 +11,15 @@ figure img {
   &:nth-child(odd) {
     flex-direction: row-reverse;
   }
-  > {
-    figure {
-      flex: 0 1 16.5em;
+
+  figure {
+      flex: 0 1 14em;
       position: relative;
-    }
-    div {
-      flex: 0 1 45em;
-      padding: 2em 0;
-    }
+  }
+
+  div {
+    flex: 1 1 45em;
+    padding: 2em 0;
   }
 }
 
