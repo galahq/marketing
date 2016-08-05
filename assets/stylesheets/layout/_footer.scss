@@ -1,6 +1,6 @@
 .footer {
   background-color: $umblue;
-  padding: 4em 0;
+  padding: 3em 0;
 
   .footerheading {
     text-align: center;
@@ -13,16 +13,6 @@
 }
 
 .footerflex {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-flow: row wrap;
-  -webkit-align-items: flex-start;
-  -ms-flex-pack: flex-start;
-  align-items: flex-start;
   margin-top: 2.2em;
 
   h4 {
@@ -31,9 +21,7 @@
 }
 
 .footerflexitem {
-  -webkit-flex: 1;
-  -ms-flex:1;
-  flex:1;
+  flex: 1 1 10em;
   color: $ltgrey;
   text-align: center;
   li {
@@ -53,31 +41,17 @@
 
 .footerbottom {
     border-top: 1px solid $ltgrey;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    -webkit-flex-flow: row wrap;
     justify-content: space-between;
     margin-top: 2em;
 }
 
-
 .copyright {
-  -webkit-flex: 1;
-  -ms-flex:1;
-  flex:1;
   text-align: left;
   color: $ltgrey;
   padding: 0.5em 0;
 }
 
 .colophon {
-  -webkit-flex: 1;
-  -ms-flex:1;
-  flex:1;
   text-align: right;
 }
 
@@ -94,4 +68,10 @@
 
 footer > div {
   font-size: .8em;
+}
+
+.hide {
+  @media screen and (max-width: 480px) {
+    display: none;
+  }
 }
