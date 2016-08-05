@@ -209,3 +209,17 @@
     background-attachment: scroll;
     color: $ltoffwhite;
   }
+
+
+  // Scroll to top
+  .to-top {
+    position: fixed;
+    padding: 1em 2em;
+    right: 0;
+    bottom: 1em;
+    z-index: 999;
+  }
+
+  .to-top:after {
+    content: '\2191';
+    margin-left: 0.25em; }
