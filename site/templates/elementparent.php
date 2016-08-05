@@ -3,15 +3,16 @@
 
 <main class="main" role="main">
 
-  <section class="intro-text">
+  <div class="intro-text">
     <div class="site">
       <?php echo str_replace('(\\', '(', kirbytext($page->description())) ?>
     </div>
-  </section>
+  </div>
 
-  <section class="elements-parent">
+
+  <section class="site">
     <?php foreach($page->children() as $element): ?>
-      <section class="flip-flop site">
+      <section class="flex-container flip-flop site">
         <?php if($image = $element->images()->filterBy('filename', '*=', '-icon')->first()): ?>
         <figure>
           <?php $url = $image->url() ?>
