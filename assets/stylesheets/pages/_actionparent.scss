@@ -1,40 +1,24 @@
-.action-items-vertical {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  //-webkit-flex-flow: row wrap;
-  //justify-content: center;
-  margin-bottom: 2em;
+.actions {
+  margin-bottom: 3em;
 
-  > div {
-    flex: 0 0 24%;
-    margin: 0 0 2em 0;
+  section {
     background-color: lighten($offwhite, 10%);
-    @include border-radius(0.2rem);
+    @include border-radius(1rem);
+    margin-bottom: 1em;
   }
-
   img {
-    width: 20em;
-    border-radius: 0.2rem 0 0 0.2rem;
-    float: left;
-    margin-right: 1.5em;
-  }
-  h2 {
-    padding: 0.75rem;
-  }
-  h4 {
-    clear: left;
-  }
-  &:nth-child(even) {
-    padding-right: 0;
+    border-radius: 1rem 0 0 1rem;
   }
 }
 
+.action-img {
+  flex: 3;
+}
+
 .actiontext-vertical {
+  flex: 6;
   padding: 1.5em 1.5em 0.5em 0.5em;
+  margin-left: 1em;
 
   p {
   color: $ltgrey;
@@ -42,48 +26,28 @@
   }
 }
 
-
-.reason {
-  margin-bottom: 1em;
+.action-button {
+  flex: 1;
+  font-size: 10em;
+  font-weight: 400;
 }
 
-.reason-value {
-  display: inline-block;
-  width: 3rem;
-  height: 3rem;
-  @include border-radius(3rem);
-  text-align: center;
-  padding-top: 0.65rem;
-  border-width: 2px;
-  border-style: solid;
-  font-weight: 500;
-  font-size: 140%;
-  float: left;
+.arrow-learn {
+  a {
+    text-decoration: none;
+  }
 }
-.reason:nth-of-type(1) .reason-value { color: $galablue }
-.reason:nth-of-type(2) .reason-value { color: $brown }
-.reason:nth-of-type(3) .reason-value { color: $green }
-.reason:nth-of-type(4) .reason-value { color: $purple }
-.reason:nth-of-type(5) .reason-value { color: $vividblue }
-
-.reason-description {
-  display: inline;
-  margin-left: 0.5em;
-}
-
-//trying out the list
+//List
 .custom-counter {
   list-style-type: none;
-  margin-left: 0;
-  padding-right: 0;
+  counter-reset: section;
 
   > li {
-    display: list-item;
-    margin: 2em 0;
+    margin: 1em 0;
     text-align: -webkit-match-parent;
 
     &::before {
-      background-color: grey;
+      background-color: $galablue;
       border-radius: 50%;
       color: white;
       display: block;
@@ -93,16 +57,8 @@
       position: absolute;
       text-align: center;
       width: 36px;
-
+      content: counter(section);
+      counter-increment: section;
     }
-  }
-}
-
-.custom-counter {
-  counter-reset: section;
-
-  > li::before {
-    content: counter(section);
-    counter-increment: section;
   }
 }
