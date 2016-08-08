@@ -2,19 +2,19 @@ Title: Actions
 
 ----
 
-Description: 
+Description:
 
 ----
 
-Text: 
+Text:
 
-MSC’s innovative approach strives to make sustainability teaching and learning more case-based, dynamic, and engaging. Through our platform, students, instructors, and practitioners are encouraged to participate in case creating, learning, teaching, and sharing processes. 
+MSC’s innovative approach strives to make sustainability teaching and learning more case-based, dynamic, and engaging. Through our platform, students, instructors, and practitioners are encouraged to participate in case creating, learning, teaching, and sharing processes.
 
 ##Why is MSC unique and makes it worthwhile for you to engage with?
 
 ----
 
-Tagline: 
+Tagline:
 
 ----
 
@@ -22,7 +22,7 @@ Pagetagline: Get Involved
 
 ----
 
-Link: 
+Link:
 
 ----
 
@@ -30,33 +30,10 @@ Pagesubtagline: Learn &middot;  Collaborate &middot;  Make &middot;  Teach
 
 ----
 
-Reasons: 
+Reasons:
 
-- 
-  number: "1"
-  description: 'We depart from often still solely text-based, sender (teacher) - receiver (student), or input (lecture) - output (test) models, to student, instructor, and practitioner co-driving in all processes.'
-- 
-  number: "2"
-  description: "We take an hands-on, practical approach, with the involvement of non-academic 'outside-practitioners'."
-- 
-  number: "3"
-  description: >
-    MSCs incorporate materials for both
-    visual and auditory learners, taking the
-    student from a classic text experience
-    into a more diversified learning
-    environment.
-- 
-  number: "4"
-  description: >
-    MSCs are digital. This allows students
-    from all over the world to easily access
-    them. The platform is responsive to
-    different screen sizes, so students can
-    engage via a computer, tablet or
-    smartphone. And offer students the
-    opportunity to listen and learn on the
-    go.
-- 
-  number: "5"
-  description: 'MSCs are adaptive and modular. Each MSC offers a big picture perspective that spans many disciplines. But, the wide array of Edgenotes and interactive learning exercises can be catered to specific academic fields.   The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula.  '
+- text: 'We depart from often still solely text-based, sender (teacher) - receiver (student), or input (lecture) - output (test) models, to student, instructor, and practitioner co-driving in all processes.'
+- text: "We take an hands-on, practical approach, with the involvement of non-academic 'outside-practitioners'."
+- text: MSCs incorporate materials for both visual and auditory learners, taking the student from a classic text experience into a more diversified learning environment.
+- text: MSCs are digital. This allows students from all over the world to easily access them. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. And offer students the opportunity to listen and learn on the go.
+- text: 'MSCs are adaptive and modular. Each MSC offers a big picture perspective that spans many disciplines. But, the wide array of Edgenotes and interactive learning exercises can be catered to specific academic fields.   The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. '
