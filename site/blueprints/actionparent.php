@@ -22,12 +22,7 @@ fields:
   reasons:
     label: Reasons
     type: structure
-    entry: >
-       [{{number}}] {{description}}
     fields:
-      number:
-        label: Number
-        type: text
-      description:
-        label: Description
+      text:
+        label: Text
         type: text
