@@ -9,15 +9,15 @@
         </a>
         <?php snippet('menu') ?>
       </div>
-      <div class="site cf">
-        <?php snippet('menu-mobile') ?>
-      </div>
       </div>
       <div class="site homebanner">
         <h1><?php echo $page->tagline() ?></h1>
         <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
       </div>
     </section>
+    <div class="site cf">
+      <?php snippet('menu-mobile') ?>
+    </div>
 
  <?php else: ?>
 
@@ -30,7 +30,6 @@
   <div class="submenu-bg">
     <div class="site">
       <?php snippet('submenu') ?>
-      <?php snippet('menu-mobile') ?>
     </div>
   </div>
   <?php $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();?>
@@ -42,5 +41,8 @@
     </div>
     </div>
   </section>
+  <div class="site cf">
+    <?php snippet('menu-mobile') ?>
+  </div>
 <?php endif ?>
 </header>

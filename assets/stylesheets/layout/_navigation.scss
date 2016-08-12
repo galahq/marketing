@@ -51,12 +51,18 @@
   @media screen and (max-width: $small-max) {
     background-color: transparent;
     border: none;
+    margin-top: 2.5em;
   }
 }
 
 .menu-mobile {
   display: none;
   text-align: center;
+  z-index: 999;
+  position: fixed;
+  right: 0;
+  top: 0;
+  margin-top: -0.5em;
 
   @media screen and (max-width: $small-max) {
     display: block;
@@ -65,14 +71,14 @@
   ul, li, li a {
     list-style: none;
     display: block;
-    margin: 0;
-    padding: 0;
   }
+
   li a {
     padding: 5px;
     text-decoration: none;
     transition: all .2s;
   }
+
   li a:hover,
   li a:focus {
     background: lighten($yellow, 25%);
@@ -80,8 +86,19 @@
   }
 }
 
+.first-level {
+  background-color: $galablue;
+  a{
+    color: $ltgrey;
+  }
+}
+
 .second-level {
-  font-size: 0.7em;
+  font-size: 0.9em;
+  background-color: $offwhite;
+  a{
+    color: $galablue;
+  }
 }
 
 /* Imported styles */
