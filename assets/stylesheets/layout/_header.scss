@@ -22,6 +22,9 @@
 
   img{
      width: 20em;
+     @media screen and (max-width: $extra-small-max) {
+       width: 15em;
+     }
    }
 }
 
