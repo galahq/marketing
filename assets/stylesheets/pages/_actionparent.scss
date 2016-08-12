@@ -1,3 +1,31 @@
+//List
+.custom-counter {
+  list-style-type: none;
+  counter-reset: section;
+  margin-left: 2.5em;
+
+  > li {
+    margin: 1em 0;
+    text-align: -webkit-match-parent;
+
+    &::before {
+      border-radius: 50%;
+      border: 2px solid $galablue;
+      color: $galablue;
+      display: block;
+      height: 36px;
+      left: 1px;
+      line-height: 33px;
+      position: absolute;
+      text-align: center;
+      width: 36px;
+      content: counter(section);
+      counter-increment: section;
+    }
+  }
+}
+
+//Action items
 .actions {
   margin-bottom: 3em;
 
@@ -5,60 +33,23 @@
     background-color: lighten($offwhite, 10%);
     @include border-radius(1rem);
     margin-bottom: 1em;
+    max-height: 220px;
   }
   img {
     border-radius: 1rem 0 0 1rem;
+    flex: 3;
+    object-fit: cover;
+    max-width: 30%
   }
 }
 
-.action-img {
-  flex: 3;
-}
-
 .actiontext-vertical {
-  flex: 6;
+  flex: 7;
   padding: 1.5em 1.5em 0.5em 0.5em;
   margin-left: 1em;
 
   p {
   color: $ltgrey;
   font-size: 0.9em;
-  }
-}
-
-.action-button {
-  flex: 1;
-  font-size: 10em;
-  font-weight: 400;
-}
-
-.arrow-learn {
-  a {
-    text-decoration: none;
-  }
-}
-//List
-.custom-counter {
-  list-style-type: none;
-  counter-reset: section;
-
-  > li {
-    margin: 1em 0;
-    text-align: -webkit-match-parent;
-
-    &::before {
-      background-color: $galablue;
-      border-radius: 50%;
-      color: white;
-      display: block;
-      height: 36px;
-      left: -5px;
-      line-height: 36px;
-      position: absolute;
-      text-align: center;
-      width: 36px;
-      content: counter(section);
-      counter-increment: section;
-    }
   }
 }
