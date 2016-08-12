@@ -76,5 +76,12 @@
 
   h1 {
     padding-top: 7.5em;
+    font-family: $banner-heading;
+    font-weight: 100;
+    font-style: italic;
+  }
+
+  p {
+    font-weight: 300;
   }
 }
