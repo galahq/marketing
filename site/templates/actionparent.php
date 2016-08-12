@@ -19,17 +19,13 @@
     <?php foreach($pages->find('action')->children() as $action): ?>
 
     <section class="flex-container">
-      <div class="action-img">
       <?php if($image = $action->image()): ?>
         <img src="<?php echo $image->url() ?>" alt="Image for <?php echo html($action->title()) ?>">
       <?php endif ?>
-      </div>
       <div class="actiontext-vertical">
         <h5 class="uppercase"><?php echo html($action->title()) ?></h5>
-        <p><?php echo html($action->description()) ?></p>
-      </div>
-      <div class="action-button flex-center-img arrow-learn">
-        <a href="<?php echo $action->link() ?>">›</a>
+        <p><?php echo html($action->description()) ?><a href="<?php echo $action->link() ?>"> Learn More ›</a></p>
+
       </div>
     </section>
     <?php endforeach ?>
