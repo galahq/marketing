@@ -20,3 +20,9 @@
     padding-bottom: 0.8em;
   }
 }
+
+.hide {
+  @media screen and (max-width: $small-max) {
+    display: none;
+  }
+}
