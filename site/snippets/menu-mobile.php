@@ -5,7 +5,9 @@
   if($items->count()):
   ?>
 
-  <nav class="site menu-mobile cf">
+  <nav class="site menu-mobile">
+    <a href="#menu" id="toggle"><span></span></a>
+    <div id="menu">
     <ul class="menu_drop">
       <?php foreach($items as $item): ?>
       <li>
@@ -30,5 +32,6 @@
       </li>
       <?php endforeach ?>
     </ul>
+  </div>
   </nav>
 <?php endif ?>
