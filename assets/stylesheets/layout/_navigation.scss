@@ -47,4 +47,34 @@
   background-color: lighten($yellow, 25%);
   margin-top: 1em;
   border-top: 2px solid lighten($yellow, 25%);
+
+  @media screen and (max-width: $small-max) {
+    background-color: transparent;
+    border: none;
+  }
+}
+
+.menu-mobile {
+  width: 320px;
+  background: #34495e;
+  display: none;
+  margin: auto;
+  font-family: 'Lato', sans-serif;
+
+
+  ul {
+    list-style: none;
+  }
+
+  a {
+    color: $offwhite;
+  }
+
+  @media screen and (max-width: $small-max) {
+    display: block;
+  }
+}
+
+.second-level {
+  font-size: 0.7em;
 }

@@ -3,11 +3,14 @@
     <?php $bannerImage = 'content/home/topbanner.jpg';?>
     <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <div class="header cf headerbg">
-        <div class="site homebanner">
+        <div class="site homebanner cf">
         <a class="logo" href="<?php echo url() ?>">
           <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
         </a>
         <?php snippet('menu') ?>
+      </div>
+      <div class="site cf">
+        <?php snippet('menu-mobile') ?>
       </div>
       </div>
       <div class="site homebanner">
@@ -27,6 +30,7 @@
   <div class="submenu-bg">
     <div class="site">
       <?php snippet('submenu') ?>
+      <?php snippet('menu-mobile') ?>
     </div>
   </div>
   <?php $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();?>
