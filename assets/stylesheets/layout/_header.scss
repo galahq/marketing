@@ -62,7 +62,7 @@
   }
 }
 
-//Child page banner
+//Parent page banner
 .hero {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -87,4 +87,18 @@
   p {
     font-weight: 300;
   }
+}
+
+//Child page banner
+.hero-child {
+  background: $galablue;
+  background-size: cover;
+  margin-top: -1.4em;
+  color: $offwhite;
+
+  .centerbox {
+   h1 {
+     padding-top: 2em;
+   }
+ }
 }
