@@ -1,0 +1,44 @@
+Title: Interactive Exercises
+
+----
+
+Tagline: Gain mastery in fun and engaging way.
+
+----
+
+Description: Provide a toolkit of quantitative, technical, analytical and creative competencies; foster an environment for students to practice collaboration, self agency and intercultural communication.
+
+----
+
+Text: 
+
+The interactive learning exercises provide students with experiential experience with case material that allows students to dive deeper to practice and gain skills. It is an opportunity for students to understand the implications that this case carries with it and apply it to problem-solving. 
+
+###Types
+role play
+field exercise
+analysis
+design 
+excursions and summer travel programs abroad are also potential ways of an interactive learning experience
+
+###Examples
+a role play that asks students to reflect on views of various stakeholders
+the application of economic or social cost-benefit analysis
+an assignment to develop a digital media skills, such as write a blog or tweet, and track their impact
+a project to build part of a prototype, like solar installations or straw bale construction
+
+----
+
+Pagetagline: Shortcut to Experience
+
+----
+
+Link: element/exercise
+
+----
+
+Pagesubtagline: Hands-on &middot; Fun &middot; Different Formats
+
+----
+
+Subdescription: Interactive learning exercises are activities that enhance students’ mastery of specific tools and wider skills. They provide a toolkit of quantitative, technical, analytical and creative competencies. The design for these exercises aims to foster an environment for students to practice collaboration, self agency and intercultural communication.

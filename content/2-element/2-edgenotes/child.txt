@@ -1,0 +1,49 @@
+Title: Multimedia Edgenotes
+
+----
+
+Tagline: Curated media that captures your imagination.
+
+----
+
+Description: Edgenotes are jumping-off points for deeper exploration. They are curated from audiovisual sources providing diverse and in-depth insights.
+
+----
+
+Text: 
+
+Edgenotes are jumping-off points for deeper exploration. Different than footnotes, each Edgenote correspond to a specific part of the case and are presented right alongside the text. You get to control your pace and way of exploring the edgenotes – you can review the edgenotes along reading the case; you can also choose to review all the edgenotes at the end from the Edgenote gallery. Complementary to the classic case narrative, we’re curating multimedia content which provide context, detail, and opportunities for further investigation. Through these “Edgenotes,” students are able to shape their individual learning experience as they explore the case material.
+
+(a gif of edgenotes being highlighted)
+
+###Examples
+a video of a specific stakeholder’s perspective
+an audio clip of a report on the particular issue
+an article the puts the problem in context
+a map of the region where the decision is made
+
+###Types
+Videos, audio, images, maps, social media posts, blogs, articles, reports.  etc. 
+
+###Source
+Local, national, and global news; Twitter, Facebook, Instagram; Government reports; etc. 
+Some edgenotes are created by the case production team. But most of the edgenotes are curated from audiovisual sources online. Given that there are a lot of existing materials already, MSC is building a web-based learning platform that embraces the new mode of media consumption popularized by aggregators like Facebook or Flipboard. 
+
+###Length
+The most relevant segments curated from larger piece.
+
+----
+
+Pagetagline: Easy to Engage with!
+
+----
+
+Link: element/edgenotes
+
+----
+
+Pagesubtagline: Closely Tied to Text &middot;  You Control the Pace &middot; For All Learners
+
+----
+
+Subdescription: Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case.

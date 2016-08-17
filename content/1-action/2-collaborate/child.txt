@@ -1,0 +1,64 @@
+Title: Collaborate
+
+----
+
+Tagline: Learn from previous learners; leave a legacy for future learners.
+
+----
+
+Description: When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning.
+
+----
+
+Text: 
+
+When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
+Found a mistake? Have new Information? These cases are living documents, and we would greatly appreciate your assistance in keeping these cases correct and up to date. Stay connected. Provide updates. 
+
+#Groups
+
+##Global Groups
+###Different disciplines
+###Different locales  
+
+##Private groups
+###Classrooms
+###Individual study groups
+
+We will apply engaged learning cases to makerspaces, but also incorporate of notes, video,
+blueprints and other materials from makerspaces into online cases. This pushes on an existing
+partnership between "maker" movements and "hacker" movements to make more modular, open access,
+dynamic modules that can capture the knowledge sharing that happens in informal learning environments.
+The case method, suitably reimagined and transformed, holds substantial promise to enhance
+informal learning. The "maker movement," slowly standardizing toward wider communities of
+practice through trade associations and standard operating procedures, stands to contribute
+new insights to those working on collaborative and adaptive virtual learning environments,
+where some face to face or hands on component can reinforce multimodal online content delivery.
+This integrative framework emerges from the conditions of case production, whereby recent
+software innovations enable learners, teachers and practitioners together would create, curate,
+pilot and test cases, incorporating live comments on "channels" from various generations and
+types of users. This provides practical benefits in preparing high school and early college
+students to partner with professionals and practitioners not only as learners but also as
+authors of teaching materials; it enables embedded assessment to feel less like a stressor
+and more like a skill, with choice and agency for learners.
+
+Broader Impacts :
+The modules that could emerge from effectively integrated virtual and practical platforms
+would be equally suited to a computer in a makerspace or a projector in a classroom. Cases
+themselves can transition between formal and informal learning environments, and foster higher
+self confidence and comfort for learners to do so as well. We can thus advance understandings
+of how informal learning flows back to and transforms formal settings, but also how informal
+learning can be networked and leveraged across cultural groups, geographical distances, or
+temporal cohorts for more types of learners, motivated by urgently needed sustainability competencies.
+
+----
+
+Link: action/collaborate
+
+----
+
+Pagetagline: Collective Intelligence
+
+----
+
+Pagesubtagline: Grasp &middot; Contribute &middot;  Connect
