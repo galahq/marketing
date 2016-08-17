@@ -1,5 +1,5 @@
 <?php snippet('head') ?>
-<?php snippet('header') ?>
+<?php snippet('header-child') ?>
 
 <main class="main" role="main">
 
