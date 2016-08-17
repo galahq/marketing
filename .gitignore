@@ -2,3 +2,4 @@ assets/css/
 .DS_Store
 .logins
 .sass-cache
+.vagrant/
