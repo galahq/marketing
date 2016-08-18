@@ -6,7 +6,7 @@
     <ul class="first-level">
       <?php foreach($items as $item): ?>
       <li>
-        <a<?php e($item->isOpen(), 'class="active"')?> href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a>
+        <a href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a>
           <?php foreach($item->children() as $child): ?>
           <ul class="second-level">
           <li><a href="<?php echo $child->url() ?>"><?php echo $child->title()?></a></li>
