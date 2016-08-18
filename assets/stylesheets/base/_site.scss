@@ -56,3 +56,10 @@ body {
 .intro-text {
   margin: 3em inherit;
 }
+
+// Child page max-width
+.blog {
+  position: relative;
+  max-width: 45em;
+  margin: 0 auto;
+}
