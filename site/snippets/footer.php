@@ -1,40 +1,26 @@
 <footer class="footer cf" role="contentinfo">
+  <?php
+  // nested menu
+  $items = $pages->visible();
+  ?>
   <div class="site">
     <div class="footerheading">
       <h4>Start learning with MSC. </h4>
       <button class="button buttonondark" onclick="window.location.href='http://www.learnmsc.org'"><h5>Case Gallery</h5></button>
     </div> <!--footerheading-->
     <nav class="footerflex flex-container">
+      <?php foreach($items as $item): ?>
+
       <div class="footerflexitem hide">
-        <h4>Actions</h4>
-        <?php foreach($pages->find('action')->children() as $action): ?>
-        <nav>
+        <h4><?php echo $item->title()->html() ?></h4>
           <ul class="footermenu">
-            <li><a href="<?php echo $action->url() ?>"><?php echo $action->title()->html() ?></a></li>
+            <?php foreach($item->children() as $child): ?>
+              <li><a href="<?php echo $child->url() ?>"><?php echo $child->title()?></a></li>
             <?php endforeach ?>
           </ul>
-        </nav>
-      </div><!--footerflexitem-->
-      <div class="footerflexitem hide">
-        <h4>Elements</h4>
-        <?php foreach($pages->find('element')->children() as $element): ?>
-        <nav>
-          <ul class="footermenu">
-            <li><a href="<?php echo $element->url() ?>"><?php echo $element->title()->html() ?></a></li>
-            <?php endforeach ?>
-          </ul>
-        </nav>
-      </div><!--footerflexitem-->
-      <div class="footerflexitem hide">
-        <h4>Vision</h4>
-        <?php foreach($pages->find('vision')->children() as $vision): ?>
-        <nav>
-          <ul class="footermenu">
-            <li><a href="<?php echo $vision->url() ?>"><?php echo $vision->title()->html() ?></a></li>
-            <?php endforeach ?>
-          </ul>
-        </nav>
-      </div><!--footerflexitem-->
+        </div><!--footerflexitem-->
+      <?php endforeach ?>
+
       <div class="footerflexitem">
         <h4>Resources</h4>
         <nav>
@@ -59,6 +45,6 @@
   </div><!--site-->
 </footer>
 
-<script type="text/javascript" src="assets/js/main.js"></script>
+<?php echo js('assets/js/main.js') ?>
 </body>
 </html>
