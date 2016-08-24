@@ -1,0 +1,75 @@
+Title: Team
+
+----
+
+Text:
+
+###Director
+
+Rebecca Hardin — Associate Professor, SNRE
+
+
+
+### MSC Team
+
+Meghan Wagner — Project Coordinator
+Pearl Zeng — Learning Platform and Web Manager
+Cameron Bothner — Software Engineer
+Edward Waisanen — Podcast Director
+Micheal Burbidge - Media Coordinator
+Anil Bhargava — Evaluation Coordinator
+Megan Czerwinski - Evaluation Coordinator
+Arman Golrokhian — Production and Assessment Coordinator
+
+### Curricular Advisors
+
+Jemermy Bassis - Associate Professor, AOSS
+Laura Beny - Professor, Law
+James DeVaney - Associate Vice Provost, Academic Innovation
+Nadine Hubbs - Professor, Women's Studies
+Jeremiah Johnson - Assistant Professor, SNRE
+Stephanie Kusano - Assessment and Evaluation Postdoctoral Research Associate, CRLT
+Steve Lonn - Assistant Director for Assessment and Evaluation, Academic Innovation
+Knute Nadelhoffer - Professor, EEB; Director, UM Biostation
+Jefferey Pearson - Associate Librarian, Askwith Media Library
+Steve Skerlos - Associate Professor, Civil & Environmental Engineering
+Joe Trumpey - Associate Professor, Art & Design
+Lori Tschirhart - Librarian, SNRE
+Michaela Zint - Professor, SNRE
+Mary Wright ?
+
+
+### Strategic Advisory Board Members
+
+Dan Brown - Dean and Professor, SNRE
+Arun Agrawal - Professor, SNRE
+Charles Elkan (http://cseweb.ucsd.edu/~elkan/) - Professor in computer science, University of California, San Diego
+Jon Foley (http://www.calacademy.org/staff-member/jonathan-foley-phd) - Executive Director of the California Academy of Sciences
+Ruth DeFries (here second week of September http://www.earthinstitute.columbia.edu/articles/view/2470) - Professor of Sustainable Development; Professor of Ecology, Evolution, and Environmental Biology, Columbia University
+Jon Kramer (http://www.sesync.org/users/jkramer) - Director for Interdisciplinary Science, SESYNC
+Cynthia Wei (http://www.sesync.org/users/cwei) - Associate Director of Education, SESYNC
+Tom Malone (http://cci.mit.edu/malone/) -  Professor of Management, MIT and Director of MIT Centre for Collective Intelligence
+William Clark (http://environment.harvard.edu/about/faculty/william-c-clark) - Professor of International Science, Public Policy and Human Development, Harvard
+Rosina Bierbaum (http://www.snre.umich.edu/profile/rosina_bierbaum) - Professor, SNRE and Practitioner organizations (GEF UNDP)
+Arun Pereira (http://www.isb.edu/faculty-research/faculty/directory/pereira-arun), Associate Professor, Indian School of Business
+Ashwini Chhatre (http://isb.academia.edu/AshwiniChhatre), faculty member, Indian School of Business
+ 
+----
+
+Tagline:
+
+----
+
+Description:
+
+----
+
+Pagetagline: Team
+
+----
+
+Pagesubtagline: We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
+
+----
+
+Link:

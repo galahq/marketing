@@ -1,7 +1,0 @@
-Title: Teaching Guide
-
-----
-Text:
-(toc)
-## title try out 1
-## title try out 2
