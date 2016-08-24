@@ -10,20 +10,20 @@ Description: When students start learning through MSC, they can choose to subscr
 
 ----
 
-Text: 
+Text:
 
 When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
-Found a mistake? Have new Information? These cases are living documents, and we would greatly appreciate your assistance in keeping these cases correct and up to date. Stay connected. Provide updates. 
 
-#Groups
+# Groups
+## Public Groups
+Public groups can be joined by everyone who wishes to subscribe. Subscribing to these groups allow learners to read the case from a different sense. Public access of these groups also allow broader participation of people who have knowledge regarding the cases. These groups are established by:
+- Different disciplines, such as engineering, policy, and design, etc.
+- Different locales, such as U.S., China, and Africa, etc.
+## Private groups
+These groups can be established by:
+- Classrooms
+- Individual study groups
 
-##Global Groups
-###Different disciplines
-###Different locales  
-
-##Private groups
-###Classrooms
-###Individual study groups
 
 We will apply engaged learning cases to makerspaces, but also incorporate of notes, video,
 blueprints and other materials from makerspaces into online cases. This pushes on an existing
