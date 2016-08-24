@@ -18,15 +18,17 @@
   <div class="actions site">
     <?php foreach($pages->find('action')->children() as $action): ?>
 
-    <section class="flex-container">
-        <?php $homethumbImage = $action->files()->filterBy('filename', '*=', '-homethumb')->first()->uri(); ?>
-        <img src="<?php echo $homethumbImage ?>" alt="Image for <?php echo html($action->title()) ?>">
-      <div class="actiontext-vertical">
-        <h5 class="uppercase"><?php echo html($action->title()) ?></h5>
-        <p><?php echo html($action->description()) ?><a href="<?php echo $action->link() ?>"> Learn More ›</a></p>
-
-      </div>
-    </section>
+      <a href="<?php echo $action->link() ?>">
+        <section class="flex-container">
+          <?php $homethumbImage = $action->files()->filterBy('filename', '*=', '-homethumb')->first()->uri(); ?>
+          <img src="<?php echo $homethumbImage ?>" alt="Image for <?php echo html($action->title()) ?>">
+          <div class="actiontext-vertical">
+            <h5 class="uppercase"><?php echo html($action->title()) ?></h5>
+            <p><?php echo html($action->description()) ?></p>
+          </div>
+          <div class="actions-arrow"><span>›</span></div>
+        </section>
+    </a>
     <?php endforeach ?>
   </div>
 </main>
