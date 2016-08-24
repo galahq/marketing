@@ -30,7 +30,7 @@
   margin-bottom: 3em;
 
   section {
-    background-color: lighten($offwhite, 10%);
+    background-color: $white;
     @include border-radius(1rem);
     margin-bottom: 1em;
     max-height: 220px;
@@ -40,6 +40,19 @@
     flex: 3;
     object-fit: cover;
     max-width: 30%
+  }
+  &-arrow {
+    width: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 2rem;
+
+    span {
+      font-size: 60px;
+      color: mix($darkgrey, $white, 50%);
+    }
   }
 }
 
