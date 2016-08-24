@@ -18,25 +18,35 @@ Pagesubtagline: Easy to understand &middot; Take you into the situation.
 
 ----
 
-Text: 
+Text:
 
 At the heart of it, our cases are stories: they begin with a decision maker and center around a problem that need to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of the core competencies of the field.
 
-###Topics
+Many of these cases are created from practitioners experiences in the field.  Situations that can be lost in academic articles but are sometimes more valuable than the dry data from research.
+
+## Topics
 water quality
 alternative energy
 food systems
-###Locations
-everywhere around the world, from developing to developed, from rural to urban. 
-###Scale
-a wide range of scales, from local, to regional, to global. 
-###Organization type 
+
+## Locations
+everywhere around the world, from developing to developed, from rural to urban.
+
+## Scale
+a wide range of scales, from local, to regional, to global.
+
+## Organization types
 NGO
 Private sector
 Industrial
 Indigenous group
-###Examples 
-###Inspiration
+
+## Examples
+Imaging yourself as the ….from the EPA
+Imagine yourself as the
+Imaging you are the … of the DNR and you are charged with, by ..skills of x, y, z… you need to solve
+
+##Inspiration
 
 ----
 

@@ -1,0 +1,50 @@
+Title: Partners
+
+----
+
+Text:
+
+####UM Units:
+SNRE
+Public Health
+Nursing
+OB-GYN
+Engineering
+EES-AOSS
+Social Work
+
+####UM Campus:
+CRLT
+AI
+DEI
+Provost's Seminar
+Biostation
+Sweetland
+
+####Beyond:
+ISB/WDP
+SESYNC
+UCLA
+MIT
+Harvard
+Yale 
+
+----
+
+Tagline:
+
+----
+
+Description:
+
+----
+
+Pagetagline: Partners
+
+----
+
+Pagesubtagline: On campus initiatives, sister institutions, external partners have help shaped our efforts.
+
+----
+
+Link:
