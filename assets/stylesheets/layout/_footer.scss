@@ -14,6 +14,7 @@
 
 .footerflex {
   margin-top: 2.2em;
+  justify-content: space-between;
 
   h4 {
     margin-bottom: 0.5em;
@@ -21,7 +22,6 @@
 }
 
 .footerflexitem {
-  flex: 1 1 10em;
   color: $ltgrey;
   text-align: center;
   li {
