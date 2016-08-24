@@ -18,11 +18,11 @@ body {
 // Set max-width
 .site{
     position: relative;
-    max-width: 70em;
+    max-width: 60em;
     margin: 0 auto;
 
     @media screen and (max-width: $large-max) {
-      margin: 0 0.8em 0 0.8em;
+      padding: 0 1em;
     }
 }
 
