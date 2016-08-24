@@ -29,11 +29,11 @@ main.home section {
     background-color: lighten($offwhite, 9%);
     @include border-radius(0.2rem);
 
-    @media screen and (max-width: $medium-max) {
+    @include breakpoint($mq-medium) {
       flex: 0 0 49%;
     }
 
-    @media screen and (max-width: $extra-small-max) {
+    @include breakpoint($mq-extra-small) {
       flex: 0 0 98%;
     }
   }
