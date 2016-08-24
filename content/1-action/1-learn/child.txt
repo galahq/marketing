@@ -14,28 +14,27 @@ Pagetagline: Enjoy Learning
 
 ----
 
-Text: 
+Text:
 
 MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual sources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
 
 Learning through MSC is fun and effective. Real problems narrated by real decision makers to equip students with problem solving skills necessary for solving complex problems in the real world. MSC is interdisciplinary per se, and potentially applicable to all fields.
 
-The increasing challenges of wicked problems like climate changes and energy descent pose across disciplines is something that should be included in core curriculums. We are making it more approachable and more engaging while building critical skills beyond the classroom. 
+The increasing challenges of wicked problems like climate changes and energy descent pose across disciplines is something that should be included in core curriculums. We are making it more approachable and more engaging while building critical skills beyond the classroom.
 
-##Shortcut to experience (narrative leads to inductive learning)
-The podcast allows you an insider view by listening to direct conversations between stakeholders and practitioners.
-The multimedia edgenotes give you outside perspectives about the case at hand.
+## Shortcut to experience (narrative leads to inductive learning)
+The podcast allows you an insider view by listening to direct conversations between stakeholders and practitioners. The multimedia edgenotes give you outside perspectives about the case at hand.
+
 The themes of the cases are within the context of sustainability but the skills developed here are core competencies required for high education.
 
-##Fun
-Engaging information that is enjoyable to work with.
-The case text is a narrative that provides a story about the decision being made.
+## Fun
+Engaging information that is enjoyable to work with. The case text is a narrative that provides a story about the decision being made.
+
 The interactive learning exercises provide a vessel to fully immerse yourself in an environment where you are able to apply your knowledge and come to real life decisions.
 
-##Real
+## Real
 Where the cases are coming from. Real world decisions being made. Examples of the cases. FOX Detroit did a piece on....
 
-(image: learn.jpg)
 
 ----
 
