@@ -13,9 +13,9 @@
   <section class="site">
     <?php foreach($page->children() as $element): ?>
       <section class="flex-container flip-flop site">
-        <?php if($image = $element->images()->filterBy('filename', '*=', '-icon')->first()): ?>
+        <?php if($image = $element->images()->filterBy('filename', '*=', '-icon.')->first()): ?>
         <figure>
-          <?php $url = $image->url() ?>
+          <?php $url = $image->uri() ?>
           <?php $ext = $image->extension() ?>
           <img
             src="<?php echo $url ?>"
