@@ -1,8 +1,9 @@
 <?php $items = $pages->visible();?>
 
-<nav class="site menu-mobile">
+<nav class="menu-mobile">
+  <h4 id="responsive-nav">MENU</h4>
   <div id="menu">
-    <ul class="first-level">
+    <ul class="first-level" style="display: none;">
       <?php foreach($items as $item): ?>
       <li>
         <a href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a>
