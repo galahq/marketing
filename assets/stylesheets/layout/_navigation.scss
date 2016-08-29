@@ -57,12 +57,23 @@
 
 #responsive-nav {
   display: none;
+  cursor: pointer;
+  position: absolute;
+  right: 0.5em;
+  z-index: 100;
+
+  padding: 0.8em 0;
+  background: lighten($yellow, 25%);
+
+  @media screen and (max-width: $small-max) {
+    display: block;
+  }
 }
+
 
 .menu-mobile {
   display: none;
   text-align: center;
-  margin-top: 3em;
 
   @media screen and (max-width: $small-max) {
     display: block;

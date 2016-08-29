@@ -15,27 +15,10 @@
   <?php echo js('assets/js/jquery-3.1.0.js') ?>
 
   <script type="text/javascript">
-  $(document).ready(function(){
-    $('.menu-mobile').prepend('<div id="responsive-nav">MENU</div>');
-    $('#responsive-nav').on('click',function(){
-      $('nav.menu-mobile ul').slideToggle()
-    });
-
-    $(window).resize(function(){
-
-      if ($(window).innerWidth() < 768) {
-        $('nav.menu-mobile ul li').css('display','block');
-        $('nav[class=menu-mobile] ul').hide()
-        $('#responsive-nav').show()
-      } else {
-        $('nav.menu-mobile ul li').css('display','block');
-        $('nav.menu-mobile ul').show()
-        $('#responsive-nav').hide()
-      }
-    });
-
-    $(window).resize();
-
+    $(document).ready(function(){
+      $('#responsive-nav').on('click',function(){
+        $('nav.menu-mobile .first-level').slideToggle()
+      });
     });
   </script>
 
