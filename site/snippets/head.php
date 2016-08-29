@@ -14,13 +14,7 @@
   <script>try{Typekit.load({ async: true  });}catch(e){}</script>
   <?php echo js('assets/js/jquery-3.1.0.js') ?>
 
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('#responsive-nav').on('click',function(){
-        $('nav.menu-mobile .first-level').slideToggle()
-      });
-    });
-  </script>
+  <?php echo js('assets/js/menu-mobile.js') ?>
 
 
 </head>
