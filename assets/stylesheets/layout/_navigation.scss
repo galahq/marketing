@@ -55,14 +55,14 @@
   }
 }
 
+#responsive-nav {
+  display: none;
+}
+
 .menu-mobile {
   display: none;
   text-align: center;
-  z-index: 999;
-  position: fixed;
-  right: 0;
-  top: 0;
-  margin-top: -0.8em;
+  margin-top: 3em;
 
   @media screen and (max-width: $small-max) {
     display: block;
@@ -99,79 +99,4 @@
   a{
     color: $galablue;
   }
-}
-
-/* Imported styles */
-#toggle {
-  display: block;
-  width: 28px;
-  height: 30px;
-  margin: 30px auto 10px;
-}
-
-#toggle span:after,
-#toggle span:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: -9px;
-}
-#toggle span:after{
-  top: 9px;
-}
-#toggle span {
-  position: relative;
-  display: block;
-}
-
-#toggle span,
-#toggle span:after,
-#toggle span:before {
-  width: 100%;
-  height: 5px;
-  background-color: $galablue;
-  transition: all 0.3s;
-  backface-visibility: hidden;
-  border-radius: 2px;
-}
-
-/* on activation */
-#toggle.on span {
-  background-color: transparent;
-}
-#toggle.on span:before {
-  transform: rotate(45deg) translate(5px, 5px);
-}
-#toggle.on span:after {
-  transform: rotate(-45deg) translate(7px, -8px);
-}
-#toggle.on + #menu {
-  opacity: 1;
-  visibility: visible;
-}
-
-/* menu appearance*/
-#menu {
-  position: relative;
-  color: $ltgrey;
-  width: 200px;
-  padding: 10px;
-  margin: auto;
-  border-radius: 4px;
-  background: lighten($offwhite, 9%);
-  box-shadow: 0 1px 8px rgba(0,0,0,0.05);
-  /* just for this demo */
-  opacity: 0;
-  visibility: hidden;
-  margin-left: -12em;
-}
-#menu:after {
-  position: absolute;
-  top: -15px;
-  left: 95px;
-  content: "";
-  display: block;
-  border-left: 15px solid transparent;
-  border-right: 15px solid transparent;
-  border-bottom: 20px solid white;
 }

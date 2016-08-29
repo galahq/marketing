@@ -1,7 +1,6 @@
 <?php $items = $pages->visible();?>
 
 <nav class="site menu-mobile">
-  <a href="#menu" id="toggle"><span></span></a>
   <div id="menu">
     <ul class="first-level">
       <?php foreach($items as $item): ?>
