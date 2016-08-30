@@ -3,6 +3,7 @@
   list-style-type: none;
   counter-reset: section;
   margin-left: 3em;
+  position: relative;
 
   > li {
     margin: 1em 0;
@@ -14,13 +15,17 @@
       color: $galablue;
       display: block;
       height: 36px;
-      left: 1px;
+      left: -53px;
       line-height: 33px;
       position: absolute;
       text-align: center;
       width: 36px;
       content: counter(section);
       counter-increment: section;
+
+      @media screen and (max-width: 640px) {
+        left: -45px;
+      }
     }
   }
 }
@@ -58,7 +63,6 @@
   .flex-container{
     &:hover {
       transform: scale(1.02);
-      box-shadow: 0 6px 6px -6px;
     }
   }
 }
