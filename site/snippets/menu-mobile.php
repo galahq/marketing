@@ -1,7 +1,6 @@
 <?php $items = $pages->visible();?>
-
+<h5 class="button" id="responsive-nav">MENU</h5>
 <nav class="menu-mobile">
-  <h5 class="button" id="responsive-nav">MENU</h5>
   <div id="menu">
     <ul class="first-level" style="display: none;">
       <?php foreach($items as $item): ?>
