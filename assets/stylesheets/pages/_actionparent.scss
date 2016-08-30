@@ -54,6 +54,13 @@
       color: mix($darkgrey, $white, 50%);
     }
   }
+
+  .flex-container{
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 6px 6px -6px;
+    }
+  }
 }
 
 .actiontext-vertical {
