@@ -25,6 +25,14 @@
      @media screen and (max-width: $extra-small-max) {
        width: 15em;
      }
+
+     @media screen and (max-width: $small-max) {
+       width: 17em;
+     }
+   }
+
+   @media screen and (max-width: $small-max) {
+     float: right;
    }
 }
 

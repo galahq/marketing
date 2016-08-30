@@ -59,14 +59,19 @@
   display: none;
   cursor: pointer;
   position: absolute;
-  right: 0.5em;
+  left: 0.4em;
+  top: 0.4em;
   z-index: 100;
-
-  padding: 0.8em 0;
+  font-size: 1em;
+  padding: 0.5em 1em;
   background: lighten($yellow, 25%);
 
   @media screen and (max-width: $small-max) {
     display: block;
+  }
+
+  &:hover {
+    color: $galablue;
   }
 }
 

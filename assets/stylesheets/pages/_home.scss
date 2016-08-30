@@ -78,6 +78,10 @@ main.home section {
     margin-top: 0.8em;
   }
 
+  p {
+    color: darken($ltgrey, 5%) !important;
+  }
+
   @media screen and (max-width: $small-max) {
     padding-bottom: 0;
     padding-top: 0;
@@ -103,6 +107,7 @@ main.home section {
 }
 
 .vision-data {
+  justify-content: center;
   text-align: left;
   padding: 1.4em 0 1.4em 2.2em;
   @media screen and (max-width: $small-max){
@@ -120,7 +125,7 @@ main.home section {
 }
 
 .number {
-  flex: 1 0 20em;
+  flex: 1 0 17em;
   margin-bottom: 1em;
 }
 
