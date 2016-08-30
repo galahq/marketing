@@ -3,10 +3,9 @@
 
 <main class="main" role="main">
 
-  <section class="intro-text">
-    <div class="site">
+  <section class="intro-text site">
+    <div>
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
-
     <ol class="custom-counter">
       <?php foreach($page->reasons()->toStructure() as $reason): ?>
         <li><?php echo $reason->text()?></li>
