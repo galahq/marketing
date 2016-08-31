@@ -12,9 +12,11 @@
 
   <script src="https://use.typekit.net/fxq4rje.js"></script>
   <script>try{Typekit.load({ async: true  });}catch(e){}</script>
-  <?php echo js('assets/js/jquery-3.1.0.js') ?>
-
-  <?php echo js('assets/js/menu-mobile.js') ?>
+  <?php echo js(array(
+                        'assets/js/jquery-3.1.0.js',
+                        'assets/js/vendor/jquery.easing.min.js',
+                        'assets/js/menu-mobile.js'
+                      )) ?>
 
 
 </head>
