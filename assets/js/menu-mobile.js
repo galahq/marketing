@@ -27,17 +27,17 @@ var onScrollHandler = function (e) {
 var openMenu = function() {
   $("nav.menu-mobile").show().animate({ left: "0%"}, 200, "easeOutCubic");
   $(".content-mask").fadeIn();
-  $('body').on("wheel", onScrollHandler);
+  $('body').on("wheel touchmove", onScrollHandler);
 };
 
 var closeMenu = function() {
   $("nav.menu-mobile").animate({ left: "-100%"}, 200, "easeInCubic", function() { $(this).hide() });
   $(".content-mask").fadeOut();
-  $("body").off("wheel");
+  $("body").off("wheel touchmove");
 };
 
 $(document).ready(function(){
-  $('.menu-mobile-open').click(openMenu);
+  $('#menu-mobile-open').click(openMenu);
 
   $(".menu-mobile-close, .content-mask").click(closeMenu);
   $(document).keydown( function(e) {
