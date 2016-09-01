@@ -4,15 +4,9 @@ html {
   min-height: 101%;
   background-color: $ltoffwhite;
 
-  @media screen and (max-width: 40em) {
+  @include breakpoint($mq-small) {
     font-size: 0.95em;
-   }
-}
-
-body {
-  color: $darkgrey;
-  line-height: 1.5em;
-  font-family: $body-text;
+  }
 }
 
 // Set max-width
@@ -21,7 +15,7 @@ body {
     max-width: 60em;
     margin: 0 auto;
 
-    @media screen and (max-width: $large-max) {
+    @include breakpoint($mq-large) {
       padding: 0 1em;
     }
 }
@@ -41,20 +35,6 @@ body {
       border-color: $umblue;
     }
   }
-}
-
-// Section headings
-.heading {
-  text-align: center;
-}
-
-.center-text {
-  text-align: center;
-}
-
-// Parent page
-.intro-text {
-  margin: 3em inherit;
 }
 
 // Child page max-width
