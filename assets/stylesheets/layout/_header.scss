@@ -14,17 +14,17 @@
 
   img{
      width: 20em;
-     @media screen and (max-width: $extra-small-max) {
+     @include breakpoint($mq-extra-small) {
        width: 15em;
      }
 
-     @media screen and (max-width: $small-max) {
+     @include breakpoint($mq-small) {
        width: 17em;
      }
    }
 
-   @media screen and (max-width: $small-max) {
-     float: right;
+   @include breakpoint($mq-small) {
+     margin-left: 5em;
    }
 }
 
@@ -47,11 +47,12 @@
     font-style: italic;
     line-height: 90%;
     margin: 4.8em 0 0.1em 0;
-    @media screen and (max-width: $small-max) {
+
+    @include breakpoint($mq-small) {
       margin-top: 4.5em;
     }
 
-    @media screen and (max-width: 551px) {
+    @include breakpoint($mq-extra-small) {
       margin-top: 3.8em;
     }
   }

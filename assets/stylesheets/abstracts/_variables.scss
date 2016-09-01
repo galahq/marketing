@@ -5,7 +5,7 @@ $white: lighten($offwhite, 10%);
 
 $umblue: #02284b;
 $galablue: #35536f;
-$vividblue: #76ADE0;
+$vividblue: lighten($umblue, 25%);
 $greyblue: #93bed0;
 $ltgreyblue: #d6eaf9;
 
