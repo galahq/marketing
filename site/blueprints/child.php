@@ -19,6 +19,9 @@ fields:
   pagesubtagline:
     lable: Page Sub-tagline
     type: textarea
+  subdescription:
+    label: Description for parent page
+    type: textarea
   text:
     label: Text
     type:  textarea
