@@ -13,16 +13,16 @@
 }
 
 .flex-column {
-  @media screen and (max-width: $medium-max) {
+  @include breakpoint($mq-medium) {
     flex-flow: column nowrap;
   }
-  @media screen and (max-width: $small-max) {
+  @include breakpoint($mq-small) {
     padding-bottom: 0.8em;
   }
 }
 
 .hide {
-  @media screen and (max-width: $small-max) {
+  @include breakpoint($mq-small) {
     display: none;
   }
 }
