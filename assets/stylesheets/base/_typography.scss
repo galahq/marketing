@@ -17,10 +17,10 @@ a {
   color: $galablue;
   text-decoration: none;
   transition: color .2s, background .2s, border .2s;
-}
 
-a:hover {
-  color: $umblue;
+  &:hover {
+    color: $umblue;
+  }
 }
 
 // Headings

@@ -12,8 +12,8 @@
     <?php endforeach ?>
   </div>
 
-  <a class="button" href="action">
-    <h6>Learn more about actions you can take with MSC</h6>
+  <a class="learn-more-link" href="action">
+    <h6>Learn more about actions you can take with MSC ›</h6>
   </a>
 </section>
 
@@ -36,8 +36,8 @@
     </div>
   </div>
 
-  <a class="button" href="element">
-    <h6>Learn more about MSC elements</h6>
+  <a class="learn-more-link" href="element">
+    <h6>Learn more about MSC elements ›</h6>
   </a>
 </section>
 
@@ -53,8 +53,8 @@
     <?php endforeach ?>
   </div>
 
-  <a class="button" href="vision">
-    <h6>Learn more about our vision for MSC</h6>
+  <a class="learn-more-link" href="vision">
+    <h6>Learn more about our vision for MSC ›</h6>
   </a>
 </section>
 
