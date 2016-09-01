@@ -42,6 +42,10 @@ main.home section {
     display: block;
     border-radius: 0.2rem 0.2rem 0 0;
   }
+
+  p {
+    line-height: 1.4em;
+  }
 }
 
 .actiontext {
@@ -80,6 +84,7 @@ main.home section {
 
   p {
     color: darken($ltgrey, 5%) !important;
+    line-height: 1.4em;
   }
 
   @media screen and (max-width: $small-max) {
