@@ -5,17 +5,23 @@ $heading-small: 'tenso', sans-serif;
 
 $body-text: 'tenso', sans-serif;
 
+// Body
+body {
+  color: $darkgrey;
+  line-height: 1.5em;
+  font-family: $body-text;
+}
+
 // Links
 a {
   color: $galablue;
   text-decoration: none;
-  transition: color .3s, background .3s, border .3s;
+  transition: color .2s, background .2s, border .2s;
 }
 
 a:hover {
   color: $umblue;
 }
-
 
 // Headings
 h1, h2, h3, h4, h5 {
@@ -58,12 +64,27 @@ h5 {
 h6 {
   font-family: $heading-small;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
   border: 0 !important;
+}
+
+// Section headings
+.heading {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.center-text {
+  text-align: center;
+}
+
+// Parent page
+.intro-text {
+  margin: 3em inherit;
 }
 
 // Text blocks
