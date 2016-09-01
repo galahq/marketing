@@ -10,7 +10,7 @@ Description: When students start learning through MSC, they can choose to subscr
 
 ----
 
-Text:
+Text: 
 
 When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
 

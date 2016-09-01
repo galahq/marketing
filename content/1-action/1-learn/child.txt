@@ -2,7 +2,7 @@ Title: Learn
 
 ----
 
-Tagline: Multimedia engagement for all learners; practical skills for real problems.
+Tagline: Multimedia engagement for all learners; practical skills for complex problems.
 
 ----
 
@@ -14,7 +14,7 @@ Pagetagline: Enjoy Learning
 
 ----
 
-Text:
+Text: 
 
 MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual sources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
 
@@ -34,7 +34,6 @@ The interactive learning exercises provide a vessel to fully immerse yourself in
 
 ## Real
 Where the cases are coming from. Real world decisions being made. Examples of the cases. FOX Detroit did a piece on....
-
 
 ----
 

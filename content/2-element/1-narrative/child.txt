@@ -6,7 +6,7 @@ Tagline: Real world situation and dilemma.
 
 ----
 
-Description: Each MSC tells a story that presents real-world based problem with a challenging decision. Key decision makers, stakeholders, and challenges are being presented.
+Description: Each MSC tells a story that presents a real-world problem with a challenging decision.
 
 ----
 
@@ -18,7 +18,7 @@ Pagesubtagline: Easy to understand &middot; Take you into the situation.
 
 ----
 
-Text:
+Text: 
 
 At the heart of it, our cases are stories: they begin with a decision maker and center around a problem that need to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of the core competencies of the field.
 
