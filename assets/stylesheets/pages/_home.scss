@@ -76,7 +76,7 @@ main.home section {
   img {
     padding-right: 1.6em;
 
-    @media screen and (max-width: $small-max) {
+    @include breakpoint($mq-small) {
       padding-bottom: 0.5em;
       padding-top: 0.5em;
     }
@@ -86,7 +86,7 @@ main.home section {
 .element-description {
   flex: 1 1 15em;
   margin-top: 0.5em;
-  padding: 0.7em;
+  padding: 1.7em 0.6em;
   text-align: left;
 
   h5 {
@@ -98,7 +98,7 @@ main.home section {
     line-height: 1.4em;
   }
 
-  @media screen and (max-width: $small-max) {
+  @include breakpoint($mq-small) {
     padding-bottom: 0;
     padding-top: 0;
   }
@@ -130,13 +130,14 @@ main.home section {
 .vision-data {
   justify-content: center;
   text-align: left;
-  padding: 1.4em 0 1.4em 2.2em;
-  @media screen and (max-width: $small-max){
-    padding-left: 6em;
+  padding: 1.4em 0 1.4em 2.4em;
+
+  @include breakpoint($mq-medium) {
+    padding-left: 4.5em;
   }
 }
 
-@media screen and (max-width: $medium-max){
+@include breakpoint($mq-medium) {
   .vision-data div:nth-child(3){
     clear: left;
   }

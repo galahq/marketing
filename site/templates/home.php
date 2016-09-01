@@ -13,7 +13,7 @@
   </div>
 
   <a class="learn-more-link" href="action">
-    <h6>Learn more about actions you can take with MSC ›</h6>
+    <h6><?php echo ($page->actionlearnmore())?> ›</h6>
   </a>
 </section>
 
@@ -37,7 +37,7 @@
   </div>
 
   <a class="learn-more-link" href="element">
-    <h6>Learn more about MSC elements ›</h6>
+    <h6><?php echo ($page->elementlearnmore())?> ›</h6>
   </a>
 </section>
 
@@ -54,7 +54,7 @@
   </div>
 
   <a class="learn-more-link" href="vision">
-    <h6>Learn more about our vision for MSC ›</h6>
+    <h6><?php echo ($page->visionlearnmore())?> ›</h6>
   </a>
 </section>
 
