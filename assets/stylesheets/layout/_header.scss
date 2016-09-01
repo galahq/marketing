@@ -2,18 +2,10 @@
   padding-top: 1em;
 }
 
+//The background opacity on homepage header top.
 .headerbg {
   background-color: rgba(249, 248, 242, 0.6);
   padding-bottom: 0.8em;
-}
-
-.homebanner {
-  @media screen and (max-width: 1320px) {
-    padding-left: 0.5em;
-  }
-  @media screen and (max-width: $medium-max) {
-    padding-left: 1em;
-  }
 }
 
 .logo {

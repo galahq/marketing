@@ -11,7 +11,7 @@
         <?php snippet('menu') ?>
       </div>
       </div>
-      <div class="site homebanner">
+      <div class="site">
         <h1><?php echo $page->tagline() ?></h1>
         <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
       </div>
