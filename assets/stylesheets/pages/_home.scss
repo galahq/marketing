@@ -18,6 +18,13 @@ main.home section {
   }
 }
 
+.learn-more-link {
+  font-size: 1.1em;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 // Actions
 .action-items {
   padding-top: 0.8em;
