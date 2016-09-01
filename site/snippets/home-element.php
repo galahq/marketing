@@ -1,9 +1,9 @@
-<div class="element-description">
+<?php
+  $element = $pages->find('element')->find($elementName);
+  $thumb = $element->files()->filterBy('filename', '*=', '-thumb')->first()->uri();
+?>
 
-  <?php
-    $element = $pages->find('element')->find($elementName);
-    $thumb = $element->files()->filterBy('filename', '*=', '-thumb')->first()->uri();
-    ?>
+<div class="element-description"><a href="<?php echo $element->link() ?>">
 
   <img
     class="img-inline"
@@ -15,4 +15,5 @@
 
   <p><?php echo $element->description() ?></p>
 
+</a>
 </div>

@@ -46,6 +46,10 @@ main.home section {
   p {
     line-height: 1.4em;
   }
+
+  &>div:hover {
+    transform: scale(1.02);
+  }
 }
 
 .actiontext {
@@ -75,7 +79,7 @@ main.home section {
 .element-description {
   flex: 1 1 15em;
   margin-top: 0.5em;
-  padding: 1em;
+  padding: 0.7em;
   text-align: left;
 
   h5 {
@@ -90,6 +94,11 @@ main.home section {
   @media screen and (max-width: $small-max) {
     padding-bottom: 0;
     padding-top: 0;
+  }
+
+  &:hover {
+    transform: scale(1.03);
+    @include border-radius(0.2rem);
   }
 }
 
