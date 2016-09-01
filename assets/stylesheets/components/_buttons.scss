@@ -8,9 +8,9 @@
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  transition: all 0.3s ease 0s;
+  transition: all 0.2s ease 0.2s;
 
-  h5 {
+  h5, h6 {
     padding: 0;
     margin: 0;
   }
@@ -21,11 +21,10 @@
   }
 
   &ondark {
-    background-color: lighten($yellow, 25%);
+    background-color: $ltyellow;
     border: none;
-    color: $galablue;
 
-    h5 {
+    h5, h6 {
       font-size: 1em;
     }
 
