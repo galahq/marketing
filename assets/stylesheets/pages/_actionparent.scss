@@ -1,3 +1,12 @@
+//Intro
+.intro-text h4 {
+  padding-top: 0.2rem;
+
+  @include breakpoint($mq-small) {
+    padding-top: 0.4rem;
+  }
+}
+
 //List
 .custom-counter {
   list-style-type: none;
@@ -14,12 +23,12 @@
       border: 2px solid $galablue;
       color: $galablue;
       display: block;
-      height: 36px;
+      height: 35px;
       left: -53px;
-      line-height: 33px;
+      line-height: 31px;
       position: absolute;
       text-align: center;
-      width: 36px;
+      width: 35px;
       content: counter(section);
       counter-increment: section;
 
