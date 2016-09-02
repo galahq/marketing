@@ -8,7 +8,10 @@
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
     <ol class="custom-counter">
       <?php foreach($page->reasons()->toStructure() as $reason): ?>
-        <li><?php echo $reason->text()?></li>
+        <li>
+          <h4><?php echo $reason->heading()?></h4>
+          <p><?php echo $reason->text()?></p>
+        </li>
       <?php endforeach ?>
     </ol>
     </div>
