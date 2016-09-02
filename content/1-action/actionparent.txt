@@ -34,6 +34,7 @@ Reasons:
 
 - 
   text: 'We depart from often still solely text-based, sender (teacher) - receiver (student), or input (lecture) - output (test) models, to student, instructor, and practitioner co-driving in all processes.'
+  heading: Experience Oriented
 - 
   text: "We take an hands-on, practical approach, with the involvement of non-academic 'outside-practitioners'."
 - 
