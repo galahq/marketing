@@ -23,6 +23,9 @@ fields:
     label: Reasons
     type: structure
     fields:
+      heading:
+        label: Heading
+        type: text
       text:
         label: Text
         type: text
