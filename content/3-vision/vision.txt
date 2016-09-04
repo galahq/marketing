@@ -2,7 +2,7 @@ Title: Vision
 
 ----
 
-Tagline: Aims to transform pedagogy in sustainability.
+Tagline: 
 
 ----
 
@@ -33,6 +33,8 @@ Our goal is to transform sustainability learning by transforming teaching method
 ----
 
 Text: 
+
+A widely adopted modular multimedia sustainability cases developed through partnerships with practitioners, teachers and students into informal "makerspaces" by offering audio, visual, and narrative elements to reach and draw from youngerand more diverse learners.
 
 ###What is MSC
 Environmentally themed sustainability cases that transform  learning experiences, spearheaded by the University of Michigan_
@@ -101,7 +103,7 @@ MSC is currently transforming sustainability learning at home on the University 
 
 ----
 
-Pagetagline: Vision
+Pagetagline: Transform Pedagogy
 
 ----
 
@@ -109,4 +111,4 @@ Link:
 
 ----
 
-Pagesubtagline: A widely adopted modular multimedia sustainability cases developed through partnerships with practitioners, teachers and students into informal "makerspaces" by offering audio, visual, and narrative elements to reach and draw from youngerand more diverse learners.
+Pagesubtagline: Engaged Learning Experience &middot; Connect Global Communities
