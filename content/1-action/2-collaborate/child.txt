@@ -6,13 +6,15 @@ Tagline: Learn from previous learners; leave a legacy for future learners.
 
 ----
 
-Description: When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning.
+Description: 
 
 ----
 
 Text: 
 
 When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
+
+Comments from different groups are shared, generating discussion through peer-to-peer learning.
 
 # Groups
 ## Public Groups
@@ -62,3 +64,7 @@ Pagetagline: Collective Intelligence
 ----
 
 Pagesubtagline: Grasp &middot; Contribute &middot;  Connect
+
+----
+
+Subdescription: Collaborative problem solving in class with the opportunity to explore further through online discussion boards established by disciplines, locations, classrooms, and individual study groups.
