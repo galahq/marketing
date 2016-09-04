@@ -6,7 +6,7 @@ Tagline: Multimedia engagement for all learners; practical skills for complex pr
 
 ----
 
-Description: Each MSC tells a story: First, a real-world problem with a challenging decision; then, perspectives from key decision maker and main stakeholders. These are accompanied by audiovisual sources providing in-depth insights and interactive learning exercises offering hands-on practice.
+Description: 
 
 ----
 
@@ -17,6 +17,8 @@ Pagetagline: Enjoy Learning
 Text: 
 
 MSCs provide an immersive and exploratory educational approach to teach practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual sources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
+
+Each MSC tells a story: First, a real-world problem with a challenging decision; then, perspectives from key decision maker and main stakeholders. These are accompanied by audiovisual sources providing in-depth insights and interactive learning exercises offering hands-on practice.
 
 Learning through MSC is fun and effective. Real problems narrated by real decision makers to equip students with problem solving skills necessary for solving complex problems in the real world. MSC is interdisciplinary per se, and potentially applicable to all fields.
 
@@ -42,3 +44,7 @@ Link: action/learn
 ----
 
 Pagesubtagline: Fun &middot; Tangible &middot;  Practical
+
+----
+
+Subdescription: Unfold challenging problems through key actors' eyes; explore solutions considering stakeholder perspectives presented by podcasts and videos; and apply skills gained through hands-on practice.

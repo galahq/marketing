@@ -6,13 +6,17 @@ Tagline: Apply modular cases that fits in different context, disciplines, and ti
 
 ----
 
-Description: The modularity of MSCs can suit a variety of classrooms and teaching schedules. Use one case for a few class hours or configure “stacks” of cases to form a cohesive curriculum. Our cases leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts.
+Description: 
 
 ----
 
-Text:
+Text: 
 
 Introducing an innovate, engaging, and participatory learning experience in the environmental sustainability field. MSC captures real problems and real decision makers, and equips students with problem solving skills applicable in the real  world.
+
+The modularity of MSCs can suit a variety of classrooms and teaching schedules. Use one case for a few class hours or configure “stacks” of cases to form a cohesive curriculum. Our cases leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts.
+
+Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which suppress student interest. However, there is much promise in a problem-driven, solution-focused approach that emphasizes experiential learning in the best tradition of case-based teaching. The Michigan Sustainability Cases (MSC) initiative is therefore building a case-based curriculum for sustainability education that incorporates engaged learning exercises and audiovisual materials, which are supported by an interactive digital platform.
 
 ## Student engagement
 Our cases are fun and engaging, encourage student participation. Instead of passively accepting knowledge, MSCs facilitates peer-to-peer learning, hands-on practice, and instructor-student co-driven. Students also have more control over their learning pace, which creates a sense of ownership to their learning experience.
@@ -42,7 +46,7 @@ Allowing easy access from different devices around the world.
 MSCs are digital. This allows students from all over the world to easily access them. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. And offer students the opportunity to listen and learn on the go.
 ## MODULARITY
 For different timelines and classrooms.
-The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts.
+The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula.
 
 ##Use a Case
 Can’t wait to use a case in your classroom? Awesome! • explore our available cases • watch testimonials from teachers who have used MSCs • check out on going evaluation of learning outcomes
@@ -50,7 +54,6 @@ Can’t wait to use a case in your classroom? Awesome! • explore our availab
 ####Evaluate a Case
 ####Update a Case
 ####Propose Updates
-
 
 ----
 
@@ -63,3 +66,7 @@ Pagetagline: Engage, Effective, Easy to use.
 ----
 
 Pagesubtagline: Modular &middot; Interdisciplinary &middot; Global &middot; Open Access
+
+----
+
+Subdescription: MSCs' variety leverages hands-on knowledge in relation to theory and showcase local and global collaborative efforts; MSCs' modularity suits different classrooms and teaching schedules.
