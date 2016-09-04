@@ -1,7 +1,7 @@
 <header>
   <?php snippet('menu-mobile') ?>
   <?php if($page->isHomePage()): ?>
-    <?php $bannerImage = 'content/home/topbanner.jpg';?>
+    <?php $bannerImage = 'content/home/topbanner_s.jpg';?>
     <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <div class="header cf headerbg">
         <div class="site homebanner cf">

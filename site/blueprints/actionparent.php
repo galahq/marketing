@@ -28,4 +28,4 @@ fields:
         type: text
       text:
         label: Text
-        type: text
+        type: textarea
