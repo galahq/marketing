@@ -50,6 +50,10 @@ html {
   max-width: 400px;
   margin: 0px 15px 15px 0px;
   border-radius: 5px;
+
+  @include breakpoint($mq-small) {
+    max-width: 200px;
+  }
 }
 
 .image-full-width img{
@@ -61,4 +65,8 @@ html {
   max-width: 400px;
   margin: 0px 15px 15px 0px;
   border-radius: 5px;
+
+  @include breakpoint($mq-small) {
+    max-width: 200px;
+  }
 }
