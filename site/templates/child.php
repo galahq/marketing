@@ -1,7 +1,7 @@
 <?php snippet('head') ?>
 <?php snippet('header') ?>
 
-<main class="main" role="main">
+<main class="main child-page" role="main">
 
   <div>
 
