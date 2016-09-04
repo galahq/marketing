@@ -43,3 +43,22 @@ html {
   max-width: 45em;
   margin: 0 auto;
 }
+
+// Image classes
+.image-float-left img{
+  float: left;
+  max-width: 400px;
+  margin: 0px 15px 15px 0px;
+  border-radius: 5px;
+}
+
+.image-full-width img{
+  border-radius:5px;
+}
+
+.image-float-right img{
+  float: right;
+  max-width: 400px;
+  margin: 0px 15px 15px 0px;
+  border-radius: 5px;
+}
