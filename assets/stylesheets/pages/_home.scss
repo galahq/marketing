@@ -22,6 +22,7 @@ main.home section {
   font-size: 1.1em;
   &:hover {
     text-decoration: underline;
+    color: $vividblue;
   }
 }
 
@@ -56,6 +57,9 @@ main.home section {
 
   &>div:hover {
     transform: scale(1.02);
+    h5 {
+      color: $vividblue;
+    }
   }
 }
 
@@ -106,6 +110,9 @@ main.home section {
   &:hover {
     transform: scale(1.03);
     @include border-radius(0.2rem);
+    h5 {
+      color: $vividblue;
+    }
   }
 }
 
