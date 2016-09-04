@@ -18,6 +18,7 @@
   </section>
 
   <div class="actions site">
+    <h3>Get Involved with MSC:</h3>
     <?php foreach($pages->find('action')->children() as $action): ?>
 
       <a href="<?php echo $action->link() ?>">
@@ -25,8 +26,8 @@
           <?php $homethumbImage = $action->files()->filterBy('filename', '*=', '-homethumb')->first()->uri(); ?>
           <img src="<?php echo $homethumbImage ?>" alt="Image for <?php echo html($action->title()) ?>">
           <div class="actiontext-vertical">
-            <h5 class="uppercase"><?php echo html($action->title()) ?></h5>
-            <p><?php echo html($action->description()) ?></p>
+            <h4><?php echo html($action->title()) ?></h4>
+            <p><?php echo html($action->subdescription()) ?></p>
           </div>
           <div class="actions-arrow"><span>›</span></div>
         </section>
