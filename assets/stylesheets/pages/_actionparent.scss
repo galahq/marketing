@@ -7,6 +7,10 @@
   }
 }
 
+.intro-text h3 {
+  margin-bottom: 1.2em;
+}
+
 //List
 .custom-counter {
   list-style-type: none;
@@ -42,19 +46,48 @@
 //Action items
 .actions {
   margin-bottom: 3em;
+  h3 {
+    margin-top: -0.8em;
+    margin-bottom: 1.5em;
+  }
 
   section {
     background-color: $white;
     @include border-radius(1rem);
     margin-bottom: 1em;
-    max-height: 220px;
+    max-height: 200px;
+
+    @media screen and (max-width: 450px) {
+      max-height: 230px;
+    }
   }
   img {
     border-radius: 1rem 0 0 1rem;
     flex: 3;
     object-fit: cover;
-    max-width: 30%
+    max-width: 30%;
+
+    @media screen and (max-width: 450px) {
+      max-width: 35%;
+      border-radius: 0 1rem 1rem 0;
+    }
   }
+
+  h4 {
+    margin-top: 0.2em;
+    @media screen and (max-width: 450px) {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    margin-top: 1em;
+    padding-bottom: 0;
+    @media screen and (max-width: 450px) {
+      margin-top: 0;
+    }
+  }
+
   &-arrow {
     width: 2em;
     display: flex;
@@ -64,14 +97,25 @@
     padding-right: 2rem;
 
     span {
-      font-size: 60px;
+      font-size: 70px;
       color: mix($darkgrey, $white, 50%);
+    }
+    @media screen and (max-width: 450px) {
+      display: none;
     }
   }
 
   .flex-container{
     &:hover {
+      cursor: pointer;
       transform: scale(1.02);
+      span {
+        font-size: 80px;
+        color: $galablue;
+      }
+    }
+    @media screen and (max-width: 450px) {
+      flex-direction:row-reverse;
     }
   }
 }
