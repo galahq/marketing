@@ -50,4 +50,4 @@ Pagesubtagline: Closely Tied to Text &middot;  You Control the Pace &middot; For
 
 ----
 
-Subdescription: Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories. Each one deepens students’ understanding and their engagement with the case. curated from audiovisual sources providing diverse and in-depth insights. are jumping-off points.
+Subdescription: Edgenotes are audiovisual materials that <em> complement </em>, rather than supplement the case content. They are jumping-off points for deeper exploration. Curated from audiovisual sources, edgenotes offer organizational and ecological background, relevant expertise, core concepts and theories, and different voices around the case.
