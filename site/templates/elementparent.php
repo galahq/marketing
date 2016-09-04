@@ -14,7 +14,6 @@
     <?php foreach($page->children() as $element): ?>
       <section class="flex-container flip-flop site">
         <?php if($image = $element->images()->filterBy('filename', '*=', '-icon.')->first()): ?>
-        <figure>
           <?php $url = $image->uri() ?>
           <?php $ext = $image->extension() ?>
           <img
@@ -23,7 +22,6 @@
                     <?php echo preg_replace('/\.'.$ext.'/', '@2x.'.$ext, $url) ?> 2x,
                     <?php echo preg_replace('/\.'.$ext.'/', '@3x.'.$ext, $url) ?> 3x"
             alt="Icon for <?php echo html($element->title()) ?>">
-        </figure>
         <?php endif ?>
       <div>
         <h5 class="uppercase"><?php echo $element->title() ?></h5>
