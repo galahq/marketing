@@ -18,6 +18,8 @@ The modularity of MSCs can suit a variety of classrooms and teaching schedules. 
 
 Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which suppress student interest. However, there is much promise in a problem-driven, solution-focused approach that emphasizes experiential learning in the best tradition of case-based teaching. The Michigan Sustainability Cases (MSC) initiative is therefore building a case-based curriculum for sustainability education that incorporates engaged learning exercises and audiovisual materials, which are supported by an interactive digital platform.
 
+MSC is interdisciplinary per se, and potentially applicable to all fields.
+
 ## Student engagement
 Our cases are fun and engaging, encourage student participation. Instead of passively accepting knowledge, MSCs facilitates peer-to-peer learning, hands-on practice, and instructor-student co-driven. Students also have more control over their learning pace, which creates a sense of ownership to their learning experience.
 

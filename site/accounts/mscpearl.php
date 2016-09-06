@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - action/learn
-  - vision
+  - action/teach
   - element/exercise
-  - element/podcast
-  - element/edgenotes
+  - element/narrative
+  - element

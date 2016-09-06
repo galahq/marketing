@@ -24,29 +24,33 @@ At the heart of it, our cases are stories: they begin with a decision maker and 
 
 Many of these cases are created from practitioners experiences in the field.  Situations that can be lost in academic articles but are sometimes more valuable than the dry data from research.
 
-## Topics
+### Topics
 water quality
 alternative energy
 food systems
 
-## Locations
+### Locations
 everywhere around the world, from developing to developed, from rural to urban.
 
-## Scale
+### Scale
 a wide range of scales, from local, to regional, to global.
 
-## Organization types
+### Organization types
 NGO
 Private sector
 Industrial
 Indigenous group
 
-## Examples
-Imaging yourself as the ….from the EPA
-Imagine yourself as the
-Imaging you are the … of the DNR and you are charged with, by ..skills of x, y, z… you need to solve
+### Examples
+Imaging yourself as the Green Mountain Power’s Chief Innovation Officer and Director of Generation and Renewable Innovation, who is weighing the pros and cons of pairing up with Tesla and offering its Powerwall as a “behind the meter” option to GMP’s customers. 
 
-##Inspiration
+Imagine yourself as the co-founder and current President of Michigan Urban Farming Initiative (MUFI).  MUFI is a volunteer-run community urban agriculture organization; who must decide if hiring a paid grant-writer on their staff could help them secure more steady streams of funding, but to do so would fundamentally challenge core elements of MUFI's identity.
+
+Imaging you are the Coordinator of the Northwest Michigan Horticultural Research Center, a unique cooperative partnership between Michigan fruit growers and Michigan State University.  As coordinator, Dr. Rothwell must develop a management plan for the center to ensure the viability of cherry growing in Michigan with unpredictable weather patterns.
+
+Imaging you are Director of the Bird’s Head Seascapes Initiative at Conservation International.  Prompted by recent shifts in Seascape’s traditional funding structure, Laure must rapidly formulate a strategy to transfer management to local bodies and establish a sustainable funding model as a global model for effective, community-driven conservation.
+
+###Inspiration
 
 ----
 
