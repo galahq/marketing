@@ -13,6 +13,7 @@ Vagrant.configure(2) do |config|
     rm /var/www/html/index.html
     echo "alias watch-your-sass='sass --watch /var/www/html/assets/stylesheets:/var/www/html/assets/css'" >> /home/vagrant/.bashrc
     sed -i '13i<Directory /var/www/html>\\nAllowOverride all\\n</Directory>' /etc/apache2/sites-available/000-default.conf
+    sed -i '480idisplay_errors = on' /etc/php5/apache2/php.ini
     a2enmod rewrite
     service apache2 restart
 

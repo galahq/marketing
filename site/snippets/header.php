@@ -1,12 +1,12 @@
 <header>
   <?php snippet('menu-mobile') ?>
   <?php if($page->isHomePage()): ?>
-    <?php $bannerImage = 'content/home/topbanner_s.jpg';?>
-    <section class="intro" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+    <?php $bannerImage = imgix_url('topbanner.jpg', ["h" => '900']);?>
+    <section class="intro" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <div class="header cf headerbg">
         <div class="site homebanner cf">
         <a class="logo" href="<?php echo url() ?>">
-          <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+          <?php imgix('logo.png', $site->title(), 373.33) ?>
         </a>
         <?php snippet('menu') ?>
       </div>
@@ -21,7 +21,7 @@
 
    <section class="header cf site">
      <a class="logo" href="<?php echo url() ?>">
-       <img src="<?php echo url('assets/images/logo.png') ?>" alt="<?php echo $site->title()->html() ?>" />
+       <?php imgix('logo.png', $site->title(), 373.33) ?>
      </a>
      <?php snippet('menu') ?>
    </section>
@@ -32,7 +32,7 @@
    </div>
 
    <?php if($site->children()->has($page)): ?>
-     <?php $bannerImage = $page->files()->filterBy('filename', '*=', '-banner')->first()->uri();?>
+     <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
 
       <section class="hero" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
     <?php else: ?>

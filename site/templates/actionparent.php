@@ -23,8 +23,7 @@
 
       <a href="<?php echo $action->link() ?>">
         <section class="flex-container">
-          <?php $homethumbImage = $action->files()->filterBy('filename', '*=', '-homethumb')->first()->uri(); ?>
-          <img src="<?php echo $homethumbImage ?>" alt="Image for <?php echo html($action->title()) ?>">
+          <?php imgix($action->slug() . '-homethumb.jpg', $action->title(), 330) ?>
           <div class="actiontext-vertical">
             <h4><?php echo html($action->title()) ?></h4>
             <p><?php echo html($action->subdescription()) ?></p>

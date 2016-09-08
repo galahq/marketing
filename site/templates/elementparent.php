@@ -13,16 +13,7 @@
   <section class="site">
     <?php foreach($page->children() as $element): ?>
       <section class="flex-container flip-flop site">
-        <?php if($image = $element->images()->filterBy('filename', '*=', '-icon.')->first()): ?>
-          <?php $url = $image->uri() ?>
-          <?php $ext = $image->extension() ?>
-          <img
-            src="<?php echo $url ?>"
-            srcset="<?php echo $url ?> 1x,
-                    <?php echo preg_replace('/\.'.$ext.'/', '@2x.'.$ext, $url) ?> 2x,
-                    <?php echo preg_replace('/\.'.$ext.'/', '@3x.'.$ext, $url) ?> 3x"
-            alt="Icon for <?php echo html($element->title()) ?>">
-        <?php endif ?>
+      <?php imgix($element->slug().'-icon.png', $element->title(), 280) ?>
       <div>
         <h5 class="uppercase"><?php echo $element->title() ?></h5>
         <h2><?php echo $element->tagline() ?></h2>
