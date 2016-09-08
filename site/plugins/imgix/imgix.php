@@ -16,7 +16,7 @@ function scaled_imgix_options($options, $dp, $pixel_density) {
   return array_merge($options, ["w" => $dp * $pixel_density]);
 }
 
-function imgix($filename, $alt, $dp, $options = array(), $html_options = array()) {
+function imgix_tag($filename, $alt, $dp, $options = array(), $html_options = array()) {
   $img_tag = '<img srcset="';
   foreach (array(1,2,3) as $pixel_density) {
     $img_tag .= imgix_url($filename, scaled_imgix_options($options, $dp, $pixel_density)) . ' ' . $pixel_density . "x,";
@@ -27,7 +27,11 @@ function imgix($filename, $alt, $dp, $options = array(), $html_options = array()
     $img_tag .= $option . '="' . $value . '" ';
   }
   $img_tag .= '/>';
-  echo $img_tag;
+  return $img_tag;
+}
+
+function imgix($filename, $alt, $dp, $options = array(), $html_options = array()) {
+  echo imgix_tag($filename, $alt, $dp, $options, $html_options);
 }
 
 
