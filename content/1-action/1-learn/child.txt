@@ -26,24 +26,21 @@ The increasing challenges of wicked problems like climate changes and energy des
 
 ### Shortcut to experience
 
-<ol class="custom-counter">
-<li>The (link:element/narrative text:narrative) leads to inductive learning.</li>
-<li>The (link:element/podcast text:podcast) allows you an insider view by listening to direct conversations between stakeholders and practitioners. </li>
-<li>The (link:element/edgenote text:multimedia Edgenotes) give you outside perspectives about the case at hand. </li>
-<li>The (link:element/exercise text:engaged learning exercise)engaged learning exercise allows you to practice the skills. </li>
-</ol>
+1. The (link:element/narrative text:narrative) leads to inductive learning.
+2. The (link:element/podcast text:podcast) allows you an insider view by listening to direct conversations between stakeholders and practitioners..
+3. The (link:element/edgenote text:multimedia Edgenotes) give you outside perspectives about the case at hand.
+4. The (link:element/exercise text:engaged learning exercise)engaged learning exercise allows you to practice the skills.
+
 The themes of the cases are within the context of sustainability but the skills developed here are core competencies required for high education.
 
 ### Fun
 Engaging information that is enjoyable to work with. 
-(image: learnwithvideo.jpg class: image-float-left)
+(imgix: learnwithvideo.jpg class: image-float-left)
 The case text is a narrative that provides a story about the decision being made. You get to put yourself into the decision maker's shoes and face the same dilemma that he or she is facing. Along the story line, you will get to "meet" with different stakeholders and hear their perspectives via audiovisual Edgenotes. You can dig deeper into facts through graphics and technical report.
-
-<p class="cf"></p>
 
 Then, you will get to solve the problem along the engaged learning exercises. The interactive learning exercises provide a vessel to fully immerse yourself in an environment where you are able to apply your knowledge and come to real life decisions.
 
-(image: learnwitharticle.jpg class: image-float-right)
+(imgix: learnwitharticle.jpg class: image-float-right)
 
 ### Real
 Where the cases are coming from. Real world decisions being made. Examples of where MSC are coming from:
@@ -51,8 +48,6 @@ Where the cases are coming from. Real world decisions being made. Examples of wh
 FOX Detroit did a piece on....
 Flint is facing water crises....
 Saline is dealing with dioxane plume....
-
-<p class="cf"></p>
 
 ----
 
