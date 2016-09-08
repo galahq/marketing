@@ -106,9 +106,12 @@
   }
 
   .flex-container{
+    transition: all 0.2s ease 0.2s;
+
     &:hover {
       cursor: pointer;
       transform: scale(1.02);
+
       span {
         font-size: 80px;
         color: $galablue;
