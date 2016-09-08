@@ -107,7 +107,7 @@
   }
 
   .flex-container{
-    transition: all 0.2s ease 0.2s;
+    transition: transform 0.1s ease 0.1s;
 
     &:hover {
       cursor: pointer;
