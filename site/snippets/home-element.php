@@ -1,15 +1,10 @@
 <?php
   $element = $pages->find('element')->find($elementName);
-  $thumb = $element->files()->filterBy('filename', '*=', '-thumb')->first()->uri();
 ?>
 
 <div class="element-description"><a href="<?php echo $element->link() ?>">
 
-  <img
-    class="img-inline"
-    src="<?php echo $thumb ?>"
-    alt="icon of <?php echo $element->title() ?>"
-  />
+  <?php imgix($element->slug() . '-thumb.png', $element->title(), 50, [], ['class' => 'img-inline']) ?>
 
   <h5 class="uppercase cf"><?php echo $element->title() ?></h5>
 
