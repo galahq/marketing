@@ -6,7 +6,7 @@ Tagline: Multimedia engagement for all learners; practical skills for complex pr
 
 ----
 
-Description: 
+Description:
 
 ----
 
@@ -14,13 +14,13 @@ Pagetagline: Enjoy Learning
 
 ----
 
-Text: 
+Text:
 
 MSCs provide an immersive and exploratory educational approach to aquire practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual sources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
 
-(image: learnwithpodcast.jpg class: image-full-width alt: learn with MSC podcast)
+(imgix: learnwithpodcast.jpg class: image-full-width alt: Learn with MSC podcast)
 
-Learning through MSC is fun and effective. Real problems are narrated through the eyes of real decision makers that present students with different aspects of solving complex problems in the real world. 
+Learning through MSC is fun and effective. Real problems are narrated through the eyes of real decision makers that present students with different aspects of solving complex problems in the real world.
 
 The increasing challenges of wicked problems like climate changes and energy descent pose across disciplines is something that should be included in core curriculums. We are making it more approachable and more engaging while building critical skills beyond the classroom.
 
@@ -36,12 +36,12 @@ The themes of the cases are within the context of sustainability but the skills 
 
 ### Fun
 Engaging information that is enjoyable to work with. 
-(image: learnwithvideo.jpg class: image-float-left) 
-The case text is a narrative that provides a story about the decision being made. You get to put yourself into the decision maker's shoes and face the same dilemma that he or she is facing. Along the story line, you will get to "meet" with different stakeholders and hear their perspectives via audiovisual Edgenotes. You can dig deeper into facts through graphics and technical report.  
+(image: learnwithvideo.jpg class: image-float-left)
+The case text is a narrative that provides a story about the decision being made. You get to put yourself into the decision maker's shoes and face the same dilemma that he or she is facing. Along the story line, you will get to "meet" with different stakeholders and hear their perspectives via audiovisual Edgenotes. You can dig deeper into facts through graphics and technical report.
 
 <p class="cf"></p>
 
-Then, you will get to solve the problem along the engaged learning exercises. The interactive learning exercises provide a vessel to fully immerse yourself in an environment where you are able to apply your knowledge and come to real life decisions. 
+Then, you will get to solve the problem along the engaged learning exercises. The interactive learning exercises provide a vessel to fully immerse yourself in an environment where you are able to apply your knowledge and come to real life decisions.
 
 (image: learnwitharticle.jpg class: image-float-right)
 
