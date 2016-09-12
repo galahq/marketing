@@ -36,6 +36,7 @@
       width: 35px;
       content: counter(section);
       counter-increment: section;
+      padding-left: 0.8px;
 
       @media screen and (max-width: 640px) {
         left: -45px;
