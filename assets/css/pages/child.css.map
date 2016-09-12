@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,aAAa,EAAE,GAAG",
+"sources": ["../../stylesheets/pages/child.scss"],
+"names": [],
+"file": "child.css"
+}
