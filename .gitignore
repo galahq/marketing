@@ -1,4 +1,3 @@
-assets/css/
 .DS_Store
 .logins
 .sass-cache
@@ -42,3 +41,8 @@ assets/css/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
