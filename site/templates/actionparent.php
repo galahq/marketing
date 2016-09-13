@@ -3,7 +3,7 @@
 
 <main class="main" role="main">
 
-  <section class="intro-text site">
+  <section class="intro-text site blog">
     <div>
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
     <ol class="custom-counter">
@@ -15,12 +15,11 @@
       <?php endforeach ?>
     </ol>
     </div>
+    <h3>Get Involved with MSC:</h3>
   </section>
 
   <div class="actions site">
-    <h3>Get Involved with MSC:</h3>
     <?php foreach($pages->find('action')->children() as $action): ?>
-
       <a href="<?php echo $action->link() ?>">
         <section class="flex-container">
           <?php imgix($action->slug() . '-homethumb.jpg', $action->title(), 330) ?>

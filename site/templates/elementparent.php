@@ -3,10 +3,8 @@
 
 <main class="main" role="main">
 
-  <div class="intro-text">
-    <div class="site">
+  <div class="intro-text site blog">
       <?php echo str_replace('(\\', '(', kirbytext($page->description())) ?>
-    </div>
   </div>
 
 
