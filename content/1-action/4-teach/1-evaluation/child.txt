@@ -2,7 +2,7 @@ Title: Evaluation
 
 ----
 
-Text:
+Text: 
 
 # Evaluation
 
@@ -10,7 +10,11 @@ Text:
 
 What to see how much your students are gaining from a particular case? Work with the MSC team to begin assessment on how helpful these cases are at teaching them material.
 
-Check out on going evaluation of learning outcomes
+Check out on going evaluation of learning outcomes.
+
+We would have statistics and analytics about time spent with complementary material.
+
+Studies show that students learn best by active participation in the learning process. At the heart of it, the cases are stories; they begin with a decision maker and center around a problem that needs solution oriented thinking. The cases introduce different sets of interests and perspectives, present options and trade-offs, and challenge students to make difficult choices. By working toward a successful case, students gain an inductive understanding of the core competencies of the field. Engagement in the experience leads to skills development in terms of self-confidence in STEM fields, and social skills of particular relevance to sustainability education, i.e. collaboration, communication, and intercultural and civic engagement.
 
 ###Previous Assessment Data.
 
@@ -28,16 +32,24 @@ Magolda 2008).
 
 ----
 
-Tagline:
+Tagline: 
 
 ----
 
-Description:
+Description: 
 
 ----
 
-Pagetagline:
+Pagetagline: 
 
 ----
 
-Link:
+Link: 
+
+----
+
+Pagesubtagline: 
+
+----
+
+Subdescription: 
