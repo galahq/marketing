@@ -1133,6 +1133,21 @@ main.home section {
     color: #9c9c9c;
     font-size: 0.9em; }
 
+.vision-child-links li {
+  list-style: none;
+  padding: 0.5em;
+  border-top: solid 1px #35536f;
+  border-bottom: solid 1px #35536f;
+  margin-bottom: 2em; }
+  .vision-child-links li:hover {
+    border-top: solid 2px #35536f;
+    border-bottom: solid 2px #35536f; }
+
+.vision-child-links {
+  text-align: center; }
+  .vision-child-links a {
+    border-bottom: none; }
+
 .child-page {
   margin-bottom: 4em; }
 

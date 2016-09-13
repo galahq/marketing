@@ -1,0 +1,20 @@
+.vision-child-links li {
+  list-style: none;
+  padding: 0.5em;
+  border-top: solid 1px $galablue;
+  border-bottom: solid 1px $galablue;
+  margin-bottom: 2em;
+
+  &:hover {
+    border-top: solid 2px $galablue;
+    border-bottom: solid 2px $galablue;
+  }
+}
+
+.vision-child-links {
+  text-align: center;
+
+  a {
+    border-bottom: none;
+  }
+}
