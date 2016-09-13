@@ -69,7 +69,7 @@ Description:
 
 ----
 
-Pagetagline: Team
+Pagetagline: Meet the Team
 
 ----
 

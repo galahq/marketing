@@ -7,8 +7,6 @@ password: >
 language: en
 role: admin
 history:
-  - vision
-  - vision/mission
+  - msc
   - element/podcast
   - element/edgenotes
-  - action/teach/evaluation
