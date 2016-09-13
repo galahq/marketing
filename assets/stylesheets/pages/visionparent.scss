@@ -8,6 +8,7 @@
   &:hover {
     border-top: solid 2px $galablue;
     border-bottom: solid 2px $galablue;
+    transition: border 0.1s ease 0.1s;
   }
 }
 
