@@ -1141,7 +1141,8 @@ main.home section {
   margin-bottom: 2em; }
   .vision-child-links li:hover {
     border-top: solid 2px #35536f;
-    border-bottom: solid 2px #35536f; }
+    border-bottom: solid 2px #35536f;
+    transition: border 0.1s ease 0.1s; }
 
 .vision-child-links {
   text-align: center; }
