@@ -2,7 +2,7 @@ Title: Milestones
 
 ----
 
-Text:
+Text: 
 
 (timeline style)
 
@@ -23,11 +23,11 @@ Text:
 
 ----
 
-Tagline:
+Tagline: 
 
 ----
 
-Description:
+Description: 
 
 ----
 
@@ -35,8 +35,12 @@ Pagetagline: Milestones
 
 ----
 
-Pagesubtagline: From a vision to on the ground practice, we are gradually making our visions come true.
+Pagesubtagline: From an idea to on the ground practice, we are gradually making our visions come true.
 
 ----
 
-Link:
+Link: 
+
+----
+
+Subdescription: 
