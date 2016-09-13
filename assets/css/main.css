@@ -936,7 +936,11 @@ main.home section {
   padding: 1.4em 0 1.4em 2.4em; }
   @media (max-width: 1024px) {
     .vision-data {
-      padding-left: 4em; } }
+      padding-left: 3.5em; } }
+  @media (max-width: 320px) {
+    .vision-data {
+      display: block;
+      margin: 0 auto; } }
 
 @media (max-width: 1024px) {
   .vision-data div:nth-child(3) {
