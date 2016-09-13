@@ -142,7 +142,12 @@ main.home section {
   padding: 1.4em 0 1.4em 2.4em;
 
   @include breakpoint($mq-medium) {
-    padding-left: 4em;
+    padding-left: 3.5em;
+  }
+
+  @include breakpoint($mq-extra-small) {
+    display: block;
+    margin: 0 auto;
   }
 }
 
