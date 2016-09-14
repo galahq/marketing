@@ -13,13 +13,19 @@ function imgix_url($filename, $options = []) {
 }
 
 function scaled_imgix_options($options, $dp, $pixel_density) {
-  return array_merge($options, ["w" => $dp * $pixel_density]);
+  if ($dp != 0) {
+    return array_merge($options, ["w" => $dp * $pixel_density]);
+  } else {
+    return $options;
+  }
 }
 
 function imgix_tag($filename, $alt, $dp, $options = array(), $html_options = array()) {
   $img_tag = '<img srcset="';
-  foreach (array(1,2,3) as $pixel_density) {
-    $img_tag .= imgix_url($filename, scaled_imgix_options($options, $dp, $pixel_density)) . ' ' . $pixel_density . "x,";
+  if ($dp != 0) {
+    foreach (array(1,2,3) as $pixel_density) {
+      $img_tag .= imgix_url($filename, scaled_imgix_options($options, $dp, $pixel_density)) . ' ' . $pixel_density . "x,";
+    }
   }
   $img_tag .= '" src="' . imgix_url($filename, scaled_imgix_options($options, $dp, 1)) . '"';
   $img_tag .= ' alt="' . $alt . '" ';
@@ -34,5 +40,23 @@ function imgix($filename, $alt, $dp, $options = array(), $html_options = array()
   echo imgix_tag($filename, $alt, $dp, $options, $html_options);
 }
 
+function imgix_screenshot_tag($filename, $alt, $options = array(), $html_options = array()) {
+  $options = array_merge($options, [
+    "bm" => "lighten",
+    "bw" => "2880",
+    "bh" => "2065",
+    "bx" => "112",
+    "by" => "140",
+    "bf" => "crop",
+    "bc" => "top",
+    "blend" => $filename
+  ]);
+
+  return imgix_tag('safari.png', "Screenshot of " . $alt, 0, $options, $html_options);
+}
+
+function imgix_screenshot($filename, $alt, $options = array(), $html_options = array()) {
+  echo imgix_screenshot_tag($filename, $alt, $options, $html_options);
+}
 
 ?>
