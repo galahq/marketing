@@ -4,10 +4,11 @@ Title: Team
 
 Text: 
 
+We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
+
 ###Director
 
 Rebecca Hardin — Associate Professor, SNRE
-
 
 
 ### MSC Team
@@ -21,6 +22,7 @@ Anil Bhargava — Evaluation Coordinator
 Megan Czerwinski — Evaluation Coordinator
 Arman Golrokhian — Production and Assessment Coordinator
 Alex Truelove — Music Director
+
 
 ### Curricular Advisors
 
@@ -38,6 +40,7 @@ Joe Trumpey — Associate Professor, Art & Design
 Lori Tschirhart — Librarian, SNRE
 Michaela Zint — Professor, SNRE
  
+
 ### Strategic Advisors
 
 Dan Brown — Dean and Professor, SNRE
@@ -53,7 +56,9 @@ Rosina Bierbaum (http://www.snre.umich.edu/profile/rosina_bierbaum) — Professo
 Arun Pereira (http://www.isb.edu/faculty-research/faculty/directory/pereira-arun) — Associate Professor, Indian School of Business
 Ashwini Chhatre (http://isb.academia.edu/AshwiniChhatre) — faculty member, Indian School of Business
 
+
 ### Team Alumni  
+
 Katherine Browne — PHD candidate at SNRE
 Claire Poeking — M.S. candidate at SNRE
 Harold Rice — B.S. at Program in the Environment
@@ -73,7 +78,7 @@ Pagetagline: Meet the Team
 
 ----
 
-Pagesubtagline: We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
+Pagesubtagline: Team of interdisciplinary folks with different backgrounds and cultures.
 
 ----
 
