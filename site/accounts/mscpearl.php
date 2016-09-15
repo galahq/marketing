@@ -8,5 +8,6 @@ language: en
 role: admin
 history:
   - msc
+  - msc/team
   - element/podcast
   - element/edgenotes

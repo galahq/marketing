@@ -7,6 +7,8 @@ html {
   @include breakpoint($mq-small) {
     font-size: 0.95em;
   }
+
+  overflow-x: hidden;
 }
 
 // Set max-width
@@ -47,12 +49,14 @@ html {
 // Image classes
 .image-float-left img{
   float: left;
-  max-width: 400px;
-  margin: 0px 15px 0 0px;
+  max-width: 600px;
+  margin: 0px 15px 0 -100px;
   border-radius: 5px;
 
   @include breakpoint($mq-small) {
-    max-width: 200px;
+    float: none;
+    max-width: 100%;
+    margin: 0;
   }
 }
 
@@ -62,11 +66,13 @@ html {
 
 .image-float-right img{
   float: right;
-  max-width: 400px;
-  margin: 0px 15px 0 0px;
+  max-width: 600px;
+  margin: 0px -100px 0 15px;
   border-radius: 5px;
 
   @include breakpoint($mq-small) {
-    max-width: 200px;
+    float: none;
+    max-width: 100%;
+    margin: 0;
   }
 }
