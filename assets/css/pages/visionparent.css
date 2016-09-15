@@ -1,26 +1,46 @@
 /*
-Error: Undefined variable: "$galablue".
-        on line 4 of /var/www/html/assets/stylesheets/pages/visionparent.scss
+Error: Undefined variable: "$ltgrey".
+        on line 13 of /var/www/html/assets/stylesheets/pages/visionparent.scss
 
-1: .vision-child-links li {
-2:   list-style: none;
-3:   padding: 0.5em;
-4:   border-top: solid 1px $galablue;
-5:   border-bottom: solid 1px $galablue;
-6:   margin-bottom: 2em;
-7: 
-8:   &:hover {
-9:     border-top: solid 2px $galablue;
+8:     }
+9: 
+10:     p{
+11:       font-size: 0.9em;
+12:       line-height: 1.2em;
+13:       color: $ltgrey;
+14:       &:hover {
+15:         color: $umblue;
+16:       }
+17:     }
+18:   }
 
 Backtrace:
-/var/www/html/assets/stylesheets/pages/visionparent.scss:4
+/var/www/html/assets/stylesheets/pages/visionparent.scss:13
 /var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
 /var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
-/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/script/tree/list_literal.rb:63:in `block in _perform'
-/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/script/tree/list_literal.rb:63:in `map'
-/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/script/tree/list_literal.rb:63:in `_perform'
-/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
 /var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:397:in `visit_prop'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `block (2 levels) in visit_rule'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `map'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `block in visit_rule'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:181:in `with_environment'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:431:in `visit_rule'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:115:in `with_frame'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `with_base'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `visit'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `block (2 levels) in visit_rule'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `map'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:433:in `block in visit_rule'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:181:in `with_environment'
+/var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:431:in `visit_rule'
 /var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/base.rb:36:in `visit'
 /var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
 /var/lib/gems/1.9.1/gems/sass-3.4.22/lib/sass/stack.rb:79:in `block in with_base'
@@ -69,4 +89,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$galablue\".\A         on line 4 of /var/www/html/assets/stylesheets/pages/visionparent.scss\A \A 1: .vision-child-links li {\A 2:   list-style: none;\A 3:   padding: 0.5em;\A 4:   border-top: solid 1px $galablue;\A 5:   border-bottom: solid 1px $galablue;\A 6:   margin-bottom: 2em;\A 7: \A 8:   &:hover {\A 9:     border-top: solid 2px $galablue;"; }
+  content: "Error: Undefined variable: \"$ltgrey\".\A         on line 13 of /var/www/html/assets/stylesheets/pages/visionparent.scss\A \A 8:     }\A 9: \A 10:     p{\A 11:       font-size: 0.9em;\A 12:       line-height: 1.2em;\A 13:       color: $ltgrey;\A 14:       &:hover {\A 15:         color: $umblue;\A 16:       }\A 17:     }\A 18:   }"; }
