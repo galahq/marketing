@@ -12,11 +12,9 @@
     </article>
 
 
-    <section class="vision-child-links site">
+    <section class="vision-child-links blog site">
         <?php echo str_replace('(\\', '(', kirbytext($page->tagline())) ?>
     </section>
-
-
 
   </div>
 
