@@ -25,6 +25,8 @@ MSC employs student authors who write the cases, curate the Edgenotes, and produ
 *Open Access Library, for stories that evolve*
 MSC provides a library of cases that are modular to fit into a variety of classrooms, or configured in “stacks” which form cohesive curricula. This library is open access for ongoing collaboration and development. In other words, life goes on, and so do our cases. 
 
+(youtube: https://www.youtube.com/watch?v=xr6UoCW4YwY width:100% height:500px caption: This presentation was given by Associate Professor Rebecca Hardin, Director of MSC, at the UM-Biostation Scientist Winter Research Retreat in February 2016. The content applies to a broader audience who are interested in MSC.)
+
 ###MSC Aspirations 
 
 Our overarching didactical ambition is to help students achieve sustainability competencies including: systems-thinking, anticipatory, normative, strategic, and interpersonal.* These skills will help develop critical, reflective and thoughtful future sustainability leaders. 

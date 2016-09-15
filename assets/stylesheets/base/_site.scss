@@ -47,11 +47,14 @@ html {
 }
 
 // Image classes
-.image-float-left img{
+.image-float-left {
   float: left;
   max-width: 600px;
   margin: 0px 15px 0 -100px;
-  border-radius: 5px;
+
+  img {
+    border-radius: 5px;
+  }
 
   @include breakpoint($mq-small) {
     float: none;
@@ -60,19 +63,46 @@ html {
   }
 }
 
-.image-full-width img{
-  border-radius:5px;
+.image-full-width{
+  img {border-radius:5px;
+  }
+  .imgix-screenshot-caption {
+    margin-top: -0.9em;
+    text-align: center;
+    font-size: 90%;
+    font-style: italic;
+  }
 }
 
-.image-float-right img{
+.image-float-right {
   float: right;
   max-width: 600px;
   margin: 0px -100px 0 15px;
-  border-radius: 5px;
+
+  img {
+    border-radius: 5px;
+  }
 
   @include breakpoint($mq-small) {
     float: none;
     max-width: 100%;
     margin: 0;
   }
+}
+
+//image caption
+.caption {
+  display: block;
+  color: black;
+}
+.imgix-screenshot-caption {
+  margin-top: -0.6em;
+  margin-left: 1.3em;
+  font-size: 90%;
+  font-style: italic;
+}
+
+//video
+.video figcaption {
+  font-style: italic;
 }
