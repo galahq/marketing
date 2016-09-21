@@ -28,3 +28,6 @@ fields:
   link:
     label: link
     type: text
+  wbg:
+    label: with background
+    type: textarea
