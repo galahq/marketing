@@ -9,6 +9,10 @@ role: admin
 history:
   - element/narrative
   - element/podcast
+  - element/podcast
+  - msc
+  - msc/team
+  - msc/vision
   - element/edgenotes
   - element
   - element/exercise
