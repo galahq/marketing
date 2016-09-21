@@ -90,6 +90,19 @@ html {
   }
 }
 
+//headshots
+.headshots-float-left {
+  float: left;
+  width: 120px;
+  margin: 0px 15px 0 15px;
+}
+
+.headshots-float-right {
+  float: right;
+  max-width: 120px;
+  margin: 0px 15px 0 15px;
+}
+
 //image caption
 .caption {
   display: block;
