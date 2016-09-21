@@ -2,7 +2,7 @@ Title: Narrative
 
 ----
 
-Tagline: Real world situation and dilemma.
+Tagline: Real world situations and dilemmas.
 
 ----
 
@@ -10,47 +10,32 @@ Description: Each MSC tells a story that presents a real-world problem with a ch
 
 ----
 
-Pagetagline: Read a story to enter the decision maker’s world.
+Pagetagline: Enter the decision maker's world
 
 ----
 
-Pagesubtagline: Easy to understand &middot; Take you into the situation.
+Pagesubtagline: First-hand accounts &middot; First-hand experience
 
 ----
 
 Text: 
 
-At the heart of it, our cases are stories: they begin with a decision maker and center around a problem that need to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of the core competencies of the field.
+At the heart, our cases are stories. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of how sustainability problems can be approached. 
 
-Many of these cases are created from practitioners experiences in the field.  Situations that can be lost in academic articles but are sometimes more valuable than the dry data from research.
+By reading our stories, you will get to:
+(image: https://msc-public.imgix.net/josh_castonguay.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-left)
+Visualize yourself as the Green Mountain Power’s Chief Innovation Officer and Director of Generation and Renewable Innovation, who is weighing the pros and cons of pairing up with Tesla and offering its Powerwall as a “behind the meter” option to GMP’s customers…
 
-### Topics
-water quality
-alternative energy
-food systems
+(image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-right)
+Put yourself in the shoes of the co-founder and current President of the Michigan Urban Farming Initiative (MUFI). MUFI is a volunteer-run community urban agriculture organization. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding. Yet, doing so would fundamentally challenge the core of MUFI's identity…
 
-### Locations
-everywhere around the world, from developing to developed, from rural to urban.
+(image: https://msc-public.imgix.net/nikki_rothwell.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-left)
+Imagine that you are the Coordinator of the Northwest Michigan Horticultural Research Center, a unique cooperative partnership between Michigan fruit growers and Michigan State University. As coordinator, you are responsible to develop a management plan for the center to ensure the viability of cherry growing in Michigan. Yet, unpredictable weather patterns are increasing…
 
-### Scale
-a wide range of scales, from local, to regional, to global.
+(image: https://msc-public.imgix.net/laure_katz.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-right)
+Picture yourself as the Director of the Bird’s Head Seascapes Initiative at the global NGO, Conservation International. Prompted by recent shifts in Seascape’s traditional funding structure, you must rapidly formulate a strategy to transfer management to local bodies and establish a sustainable funding model for effective, community-driven conservation…
 
-### Organization types
-NGO
-Private sector
-Industrial
-Indigenous group
-
-### Examples
-Imaging yourself as the Green Mountain Power’s Chief Innovation Officer and Director of Generation and Renewable Innovation, who is weighing the pros and cons of pairing up with Tesla and offering its Powerwall as a “behind the meter” option to GMP’s customers. 
-
-Imagine yourself as the co-founder and current President of Michigan Urban Farming Initiative (MUFI).  MUFI is a volunteer-run community urban agriculture organization; who must decide if hiring a paid grant-writer on their staff could help them secure more steady streams of funding, but to do so would fundamentally challenge core elements of MUFI's identity.
-
-Imaging you are the Coordinator of the Northwest Michigan Horticultural Research Center, a unique cooperative partnership between Michigan fruit growers and Michigan State University.  As coordinator, Dr. Rothwell must develop a management plan for the center to ensure the viability of cherry growing in Michigan with unpredictable weather patterns.
-
-Imaging you are Director of the Bird’s Head Seascapes Initiative at Conservation International.  Prompted by recent shifts in Seascape’s traditional funding structure, Laure must rapidly formulate a strategy to transfer management to local bodies and establish a sustainable funding model as a global model for effective, community-driven conservation.
-
-###Inspiration
+Above are just some examples from MSCs. The narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles.
 
 ----
 
@@ -58,4 +43,27 @@ Link: element/narrative
 
 ----
 
-Subdescription: Each MSC tells a story that presents real-world based problem with a challenging decision. A standard MSC is composed of a clear narrative with a decision problem, one or more decision points, and several available solutions. Around the problem, key decision makers and stakeholders as well as their stakes are being presented.
+Subdescription: Each MSC tells a story of real-world problem with a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses. As the problem unfolds, key decision makers and stakeholders are introduced, alongside their stakes and tradeoffs.
+
+----
+
+Wbg: 
+
+###Our stories are found everywhere. 
+
+#####Topics
+####MSC authors come from a variety of disciplines interested in diverse topics 
+
+(image: https://msc-public.imgix.net/narrative-banner.jpg class:child-bg-image caption:Current MSCs touch on human wildlife conflicts, water scarcity, alternative energy, food security, land tenure, climate adaptation and mitigation, forest conservation, and many more.)
+
+
+#####Scales and locations
+####MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
+
+(image: https://msc-public.imgix.net/msc-location-map.png class:child-bg-image caption:This map shows some locations that our MSCs are. )
+
+#####Sectors
+####MSCs work across public, private, non-profit, and other sectors.
+(image: https://msc-public.imgix.net/msc-location-map.png class:child-bg-image caption:This map shows some locations that our MSCs are. )
+
+<p class="cf">&nbsp;</p>
