@@ -3,15 +3,21 @@
 
 <main class="main child-page" role="main">
 
-  <div>
 
-    <article class="site blog cf">
+    <section class="site blog cf">
 
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
 
-    </article>
+    </section>
 
-  </div>
+    <section class="child-background">
+      <div class="site blog">
+        <?php
+        if($page->content()->has('wbg')) {
+          echo $page->wbg()->kirbytext();
+        }
+        ?>
+      </div>
 
 </main>
 
