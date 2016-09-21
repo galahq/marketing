@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,sBAAuB;EACrB,UAAU,EAAE,IAAI;EAIhB,4BAAQ;IAGN,UAAU,EAAE,qBAAqB;EAGnC,wBAAC;IACC,SAAS,EAAE,KAAK;IAChB,WAAW,EAAE,KAAK",
-"sources": ["../../stylesheets/pages/visionparent.scss"],
-"names": [],
-"file": "visionparent.css"
-}
