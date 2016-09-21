@@ -18,7 +18,7 @@
     <h3>Get Involved with MSC:</h3>
   </section>
 
-  <div class="actions site">
+  <div class="actions site blog">
     <?php foreach($pages->find('action')->children() as $action): ?>
       <a href="<?php echo $action->link() ?>">
         <section class="flex-container">
