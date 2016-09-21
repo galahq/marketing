@@ -8,7 +8,7 @@
   </div>
 
 
-  <section class="site">
+  <section class="site blog">
     <?php foreach($page->children() as $element): ?>
       <section class="flex-container flip-flop site">
       <?php imgix($element->slug().'-icon.png', $element->title(), 280) ?>
