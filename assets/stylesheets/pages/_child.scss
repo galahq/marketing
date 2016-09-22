@@ -3,27 +3,25 @@
 }
 
 .child-background {
+  margin-top: 2.5em;
   background-color: $offwhite;
   margin-bottom: 0;
-  padding: 2em 0;
+  padding: 2em 0 2em 0;
   margin-bottom: -4em;
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h5 {
+    margin-top: 3em;
+  }
 }
 
 .child-bg-image {
   max-width: 100%;
-  margin: 1.5em 0 1em 0;
+  margin: 0.5em 0;
   border-radius: 3px;
-  
-  @include breakpoint($mq-small) {
-    max-width: 100%;
-    margin: 0 0;
-  }
-}
-
-.child-logo-image {
-  float: left;
-  width: 25%;
-  margin: 20px 10px 10px 0;
 }
 
 .child figcaption {
@@ -32,4 +30,8 @@
   background-color: #fffef8;
   padding: 0.3em 1em;
   line-height: 1.2em;
+}
+
+audio {
+  float: right;
 }
