@@ -27,12 +27,13 @@ html {
   margin-top: 2em;
   clear:inherit;
 
-  p, figure, ul, ol {
-    margin-bottom: 1.5em;
+  p, figure, ol {
+    margin-bottom: 1em;
   }
   
   ul {
     margin-left: 1.5em;
+    margin-bottom: 1em;
   }
 
   a {
@@ -101,7 +102,7 @@ html {
 .image-float-left {
   float: left;
   max-width: 400px;
-  margin: 0 15px 0 0;
+  margin: 15px 15px 0 0;
 
   img {
     border-radius: 5px;
@@ -117,7 +118,7 @@ html {
 .image-float-right {
   float: right;
   max-width: 400px;
-  margin: 0 0 0 15px;
+  margin: 15px 0 0 15px;
 
   img {
     border-radius: 5px;
