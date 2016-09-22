@@ -12,46 +12,11 @@ Description:
 
 Text: 
 
-When students start learning through MSC, they can choose to subscribe to different groups. These groups are established by disciplines, locations, classrooms, and individual study groups. Comments from different groups are shared, generating discussion through peer-to-peer learning. These discussions are preserved and passed on to new case learners, making the cases living documents that are constantly evolving.
+Collaboration features at many points in MSC, from case inception to final decision-making. Right now, we are developing an additional function to further promote collaboration at different scales. Online groups formed by interest, discipline, location, classrooms or study group, will provide unique lenses to shift amongst perspectives on any given case.
+(imgix_screenshot: policy-wonks.jpg alt: case cover page class: image-float-right-parent caption: collaboration board of an MSC)
+As you explore a case, you can turn comments off and read it with your own eyes. Then, make visible the comments by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments go right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
 
-Comments from different groups are shared, generating discussion through peer-to-peer learning.
-
-# Groups
-## Public Groups
-Public groups can be joined by everyone who wishes to subscribe. Subscribing to these groups allow learners to read the case from a different sense. Public access of these groups also allow broader participation of people who have knowledge regarding the cases. These groups are established by:
-- Different disciplines, such as engineering, policy, and design, etc.
-- Different locales, such as U.S., China, and Africa, etc.
-## Private groups
-These groups can be established by:
-- Classrooms
-- Individual study groups
-
-
-We will apply engaged learning cases to makerspaces, but also incorporate of notes, video,
-blueprints and other materials from makerspaces into online cases. This pushes on an existing
-partnership between "maker" movements and "hacker" movements to make more modular, open access,
-dynamic modules that can capture the knowledge sharing that happens in informal learning environments.
-The case method, suitably reimagined and transformed, holds substantial promise to enhance
-informal learning. The "maker movement," slowly standardizing toward wider communities of
-practice through trade associations and standard operating procedures, stands to contribute
-new insights to those working on collaborative and adaptive virtual learning environments,
-where some face to face or hands on component can reinforce multimodal online content delivery.
-This integrative framework emerges from the conditions of case production, whereby recent
-software innovations enable learners, teachers and practitioners together would create, curate,
-pilot and test cases, incorporating live comments on "channels" from various generations and
-types of users. This provides practical benefits in preparing high school and early college
-students to partner with professionals and practitioners not only as learners but also as
-authors of teaching materials; it enables embedded assessment to feel less like a stressor
-and more like a skill, with choice and agency for learners.
-
-Broader Impacts :
-The modules that could emerge from effectively integrated virtual and practical platforms
-would be equally suited to a computer in a makerspace or a projector in a classroom. Cases
-themselves can transition between formal and informal learning environments, and foster higher
-self confidence and comfort for learners to do so as well. We can thus advance understandings
-of how informal learning flows back to and transforms formal settings, but also how informal
-learning can be networked and leveraged across cultural groups, geographical distances, or
-temporal cohorts for more types of learners, motivated by urgently needed sustainability competencies.
+Discussion streams thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
 
 ----
 
@@ -72,3 +37,22 @@ Subdescription: Collaboratively problem-solve in class through group activities 
 ----
 
 Wbg: 
+
+##How the Groups Work?
+###Private groups
+For quick access to the thoughts of your peers, these groups can be established by:
+- Campus 
+- Classroom
+- Individual study group
+Not restricted to formal education institutions, ‘classrooms’ can also be established in private organizations like NGOs or companies. 
+
+Certain private comment streams can (with permission) be lifted into other private as well as public groups. In this way, discussions are preserved and passed on to new learners, making the cases living entities that are constantly evolving. 
+
+###Public Groups
+Public groups are open access, for broader participation of those who have first-hand knowledge of or a stake in the cases. These groups are established by:
+- Interest, such as with regard to specific policy or advocacy standpoints, farmers, unions…
+- Identity, such as indigenous, women, feminists, capitalists, neo-Marxists…
+- Discipline, such as engineering, anthropology, planning or design…
+- Place, such as by country (e.g. China, Bolivia) or region (e.g. west Africa, northeast USA)…
+- and whatever else develops organically through user involvement…
+Motivated by urgent sustainability challenges, the informal learning produced by these groups transcends geographical, cultural, and generational distances.

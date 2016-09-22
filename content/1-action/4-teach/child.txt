@@ -12,50 +12,13 @@ Description:
 
 Text: 
 
-Introducing an innovate, engaging, and participatory learning experience in the environmental sustainability field. MSC captures real problems and real decision makers, and equips students with problem solving skills applicable in the real  world.
+Teaching the next generation of sustainability leaders?
 
-The modularity of MSCs can suit a variety of classrooms and teaching schedules. Use one case for a few class hours or configure “stacks” of cases to form a cohesive curriculum. Our cases leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts.
+The next generation of scientists, policy makers, entrepreneurs and engineers need innovative approaches and thoughtful guidance to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties and social asymmetries, pedagogical methods must enable thinking that is systematic, creative, socially just and inter-culturally intelligent. 
 
-Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which suppress student interest. However, there is much promise in a problem-driven, solution-focused approach that emphasizes experiential learning in the best tradition of case-based teaching. The Michigan Sustainability Cases (MSC) initiative is therefore building a case-based curriculum for sustainability education that incorporates engaged learning exercises and audiovisual materials, which are supported by an interactive digital platform.
+Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which suppress student interest. The Michigan Sustainability Cases (MSC) initiative is expanding upon the best of case-based learning, building problem-driven, solution-focused approaches emphasizing student-driven experiential learning.  Learn more about how MSC envisions sustainability education of the future, here.   
 
-MSC is interdisciplinary per se, and potentially applicable to all fields.
-
-## Student engagement
-Our cases are fun and engaging, encourage student participation. Instead of passively accepting knowledge, MSCs facilitates peer-to-peer learning, hands-on practice, and instructor-student co-driven. Students also have more control over their learning pace, which creates a sense of ownership to their learning experience.
-
-## Effective
-_(MSC is a much more effective to equip students with the competencies to solve complex problems.)_
-Core competencies: Systemic; Anticipatory, Normative, Strategic, Interpersonal
-Overarching goals: Social responsibility, Intercultural intelligence, Communication.
-
-The complexity and connectedness of human-environmental interactions demands that educational institutions, nonprofits, corporations, and government agencies implement strategies that help the next generation of scientists, policy makers, entrepreneurs and engineers learn to acknowledge the difficulties in solving sustainability dilemmas, but also become accustomed to thinking through these difficulties. Operating effectively in a context of information deficits, uncertainties, and social asymmetries of wicked sustainability dilemmas requires a greater focus on decision making in these contexts, from the very beginning when decision makers arrive in classrooms (Skerlos, 2015). Innovative pedagogical methods must focus on enabling decision makers to think systematically, collaboratively, creatively, and with intercultural intelligence. They must learn to work together to craft solutions drawing upon insights from multiple relevant disciplines and fields of knowledge.
-Urgent calls for innovative sustainability pedagogies (Segalas et al (2010), Cotton and Winter (2010), Wiek et al (2011)) have accompanied emerging key competencies expected from professionals in the sustainability field. They conclude that future sustainability professionals are expected to craft cost-effective solutions, design and implement strategic interventions, communicate effectively, and work collaboratively to solve problems. One might add that many of the problems they confront are likely to occur in environments with low information, high uncertainty, and multiple competing interests. Conventional pedagogical methods, in formal settings focused often on information delivery and communication of factual knowledge through lectures and problem sets, are ill-equipped to support the development of these core-competencies. This combination of sites and networks of stakeholders can give rise to curricular tools that would have global impact, rooted in specific tethering of face to face collaborations to build and make sustainable technologies, with cases that offer insights into the social contexts and scientific concepts that surround, enable, and suffuse those technologies
-
-## Core competencies:
-Systemic; Anticipatory, Normative, Strategic, Interpersonal
-## Overarching goals:
-Social responsibility, Intercultural intelligence, Communication.
-## Evaluate
-What to see how much your students are gaining from a particular case? Work with the MSC team to begin assessment on how helpful these cases are at teaching them material.
-Watch testimonials from teachers and students who have used MSCs \>
-Evaluation results from classes piloted MSCs \>
-Related evaluation theories \>
-Check out on going evaluation of learning outcomes >
-
-## Accessibility
-MSCs are digitally enhanced, modular, and easy to adapt.
-Allowing easy access from different devices around the world.
-MSCs are digital. This allows students from all over the world to easily access them. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. And offer students the opportunity to listen and learn on the go.
-## MODULARITY
-For different timelines and classrooms.
-The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula. Our cases are produced by teams of students and faculty with outside practitioners to leverage hands-on knowledge in relation to theory, and showcase local and global collaborative efforts. The modularity of MSCs can suit a variety of classrooms. The cases can fit into any teaching schedule. Use one case for a few class hours or configure “stacks” of cases to form cohesive curricula.
-
-##Use a Case
-Can’t wait to use a case in your classroom? Awesome! • explore our available cases • watch testimonials from teachers who have used MSCs • check out on going evaluation of learning outcomes
-
-####Evaluate a Case
-####Update a Case
-####Propose Updates
+Watch testimonials from teachers and students who have used MSCs >
 
 ----
 
@@ -63,7 +26,7 @@ Link: action/teach
 
 ----
 
-Pagetagline: Engage, Effective, Easy to use.
+Pagetagline: Effective, Easy to Use
 
 ----
 
@@ -76,3 +39,27 @@ Subdescription: MSC works through both practice and theory; MSC’s modularity s
 ----
 
 Wbg: 
+
+## Some Heading
+###‘Blended’ learning
+MSCs were conceptualized to support blended learning approaches, harnessing the best of online and face to face learning. MSCs ‘flip’ classrooms, equipping students before they get to class, for face to face engagement. This minimizes the need for traditional top down lectures that restrict active participation. 
+
+Instructors can also choose to go fully online for distance learning. 
+
+###Modular
+Because MSCs are both interdisciplinary and modular, they are useful to many types of classrooms and teaching schedules. Bring in a single case or configure “stacks” of cases to form a cohesive curriculum. Each case leverages hands-on knowledge in relation to theory and emphasizes practical skill development.
+
+###Accessible 
+MSCs are digitally enhanced to allow easy access from different devices around the world. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. It offers students the opportunity to listen and learn on the go.
+
+###Effective
+MSC is much more effective in equipping students with the competencies to solve complex problems.
+- (link:action/teach/evaluation text:Related evaluation theories >)
+
+What to see how much your students are gaining from a particular case? 
+- Work with the MSC team to begin (link:action/teach/evaluation text: assessment on how helpful these cases are at teaching them material >)
+- (link:action/teach/evaluation text: Check out ongoing evaluation of learning outcomes >)
+
+Ready to bring MSCs into your classroom? 
+- (link:action/teach/teaching-guide text:Check out the general teaching guide >)
+- (link:http://www.learnmsc.org text:Explore our available cases >)
