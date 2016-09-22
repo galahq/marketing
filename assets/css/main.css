@@ -405,10 +405,11 @@ html {
 .main {
   margin-top: 2em;
   clear: inherit; }
-  .main p, .main figure, .main ul, .main ol {
-    margin-bottom: 1.5em; }
+  .main p, .main figure, .main ol {
+    margin-bottom: 1em; }
   .main ul {
-    margin-left: 1.5em; }
+    margin-left: 1.5em;
+    margin-bottom: 1em; }
   .main a {
     border-bottom: 2px solid #ddd; }
     .main a:hover {
@@ -454,7 +455,7 @@ html {
 .image-float-left {
   float: left;
   max-width: 400px;
-  margin: 0 15px 0 0; }
+  margin: 15px 15px 0 0; }
   .image-float-left img {
     border-radius: 5px; }
   @media (max-width: 768px) {
@@ -466,7 +467,7 @@ html {
 .image-float-right {
   float: right;
   max-width: 400px;
-  margin: 0 0 0 15px; }
+  margin: 15px 0 0 15px; }
   .image-float-right img {
     border-radius: 5px; }
   @media (max-width: 768px) {
@@ -1211,15 +1212,10 @@ main.home section {
       .vision-child-links li p:hover {
         color: #02284b; }
 
-.child-page {
-  margin-bottom: 4em; }
-
 .child-background {
   margin-top: 2.5em;
   background-color: #ebeae4;
-  margin-bottom: 0;
-  padding: 2em 0 2em 0;
-  margin-bottom: -4em; }
+  padding: 2em 0; }
   .child-background h2 {
     text-align: center; }
   .child-background h5 {
@@ -1230,10 +1226,10 @@ main.home section {
   margin: 0.5em 0;
   border-radius: 3px; }
 
-.child figcaption {
+.child-bg-image figcaption {
   font-size: 0.8em;
   font-style: italic;
-  background-color: #fffef8;
+  background-color: #F9F8F2;
   padding: 0.3em 1em;
   line-height: 1.2em; }
 
