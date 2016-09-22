@@ -23,17 +23,20 @@ Text:
 At the heart, our cases are stories. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of how sustainability problems can be approached. 
 
 By reading our stories, you will get to:
+
 (image: https://msc-public.imgix.net/josh_castonguay.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-left)
-Visualize yourself as the Green Mountain Power’s Chief Innovation Officer and Director of Generation and Renewable Innovation, who is weighing the pros and cons of pairing up with Tesla and offering its Powerwall as a “behind the meter” option to GMP’s customers…
-
-(image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-right)
-Put yourself in the shoes of the co-founder and current President of the Michigan Urban Farming Initiative (MUFI). MUFI is a volunteer-run community urban agriculture organization. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding. Yet, doing so would fundamentally challenge the core of MUFI's identity…
-
-(image: https://msc-public.imgix.net/nikki_rothwell.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-left)
-Imagine that you are the Coordinator of the Northwest Michigan Horticultural Research Center, a unique cooperative partnership between Michigan fruit growers and Michigan State University. As coordinator, you are responsible to develop a management plan for the center to ensure the viability of cherry growing in Michigan. Yet, unpredictable weather patterns are increasing…
+Visualize yourself as the Green Mountain Power’s Chief Innovation Officer and Director of Generation and Renewable Innovation, Josh Castonguay, who is weighing the pros and cons of pairing up with Tesla and offering its Powerwall as a “behind the meter” option to GMP’s customers. one more line of content is needed here. another line of content needed.....
 
 (image: https://msc-public.imgix.net/laure_katz.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-right)
-Picture yourself as the Director of the Bird’s Head Seascapes Initiative at the global NGO, Conservation International. Prompted by recent shifts in Seascape’s traditional funding structure, you must rapidly formulate a strategy to transfer management to local bodies and establish a sustainable funding model for effective, community-driven conservation…
+Picture yourself as Laure Katz, the Director of the Bird’s Head Seascapes Initiative at the global NGO, Conservation International. Prompted by recent shifts in Seascape’s traditional funding structure, you must rapidly formulate a strategy to transfer management to local bodies and establish a sustainable funding model for effective, community-driven conservation…
+
+(image: https://msc-public.imgix.net/nikki_rothwell.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-left)
+Imagine that you are the Coordinator of the Northwest Michigan Horticultural Research Center, Nikki Rothwell, a unique cooperative partnership between Michigan fruit growers and Michigan State University. As coordinator, you are responsible to develop a management plan for the center to ensure the viability of cherry growing in Michigan. Yet, unpredictable weather patterns are increasing…
+
+(image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-right)
+Put yourself in the shoes of Tyson Gersh, the co-founder and current President of the Michigan Urban Farming Initiative (MUFI). MUFI is a volunteer-run community urban agriculture organization. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding. Yet, doing so would fundamentally challenge the core of MUFI's identity…
+
+
 
 Above are just some examples from MSCs. The narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles.
 

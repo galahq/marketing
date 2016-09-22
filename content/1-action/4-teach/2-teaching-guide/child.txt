@@ -1,8 +1,11 @@
 Title: Teaching Guide
 
 ----
-Text:
+
+Text: 
+
 # General Teaching Guide
+Every case has a specific teaching guide associates with it. This page presents a general teaching guide. 
 
 (toc)
 ## Selecting a case to use
@@ -12,3 +15,31 @@ Text:
 ## create your own discussion group
 ## adapting case material to your class and timeline
 ## Evaluation
+
+----
+
+Tagline: 
+
+----
+
+Description: 
+
+----
+
+Pagetagline: 
+
+----
+
+Pagesubtagline: 
+
+----
+
+Subdescription: 
+
+----
+
+Link: 
+
+----
+
+Wbg: 

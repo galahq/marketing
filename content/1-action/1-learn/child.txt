@@ -20,32 +20,7 @@ MSCs provide an immersive and exploratory educational approach to acquire practi
 
 (imgix: learnwithpodcast.jpg class: image-full-width alt: Learn with MSC podcast)
 
-Learning through MSC is fun and effective. Real problems are narrated through the eyes of real decision makers that present students with different aspects of solving complex problems in the real world.
-
-The multifarious challenges of ‘wicked’ problems like climate changes and energy security bring to light the complex reality of sustainability in our world. In response, we are building critical interdisciplinary skills that will last beyond the classroom.
-
-### Shortcut to experience
-
-1. The (link:element/narrative text:narrative) leads to inductive learning.
-2. The (link:element/podcast text:podcast) allows you an insider view by listening to direct conversations between stakeholders and practitioners..
-3. The (link:element/edgenote text:multimedia Edgenotes) give you outside perspectives about the case at hand.
-4. The (link:element/exercise text:engaged learning exercise)engaged learning exercise allows you to practice the skills.
-
-The themes of the cases are within the context of sustainability but the skills developed here are core competencies required for high education.
-
-### Fun
-Engaging information that is enjoyable to work with. 
-(imgix: learnwithvideo.jpg class: image-float-left)
-The case text is a narrative that provides a story about the decision being made. You get to put yourself into the decision maker's shoes and face the same dilemma that he or she is facing. Along the story line, you will get to "meet" with different stakeholders and hear their perspectives via audiovisual Edgenotes. You can dig deeper into facts through graphics and technical report.
-
-Then, you will get to solve the problem along the engaged learning exercises. The interactive learning exercises provide a vessel to fully immerse yourself in an environment where you are able to apply your knowledge and come to real life decisions.
-
-### Real (imgix: learnwitharticle.jpg class: image-float-right)
-Where the cases are coming from. Real world decisions being made. Examples of where MSC are coming from: 
-
-FOX Detroit did a piece on....
-Flint is facing water crises....
-Saline is dealing with dioxane plume....
+The multifarious challenges of ‘wicked’ problems like climate changes and energy security bring to light the complex reality of sustainability in our world. In response, we are building critical interdisciplinary skills that will last beyond the classroom. Real problems are narrated through the eyes of real decision makers and stakeholders that present students with different aspects of solving complex problems in the real world.
 
 ----
 
@@ -62,3 +37,27 @@ Subdescription: Unfold challenging problems through the eyes of key actors; expl
 ----
 
 Wbg: 
+
+### Shortcut to experience
+
+- The (link:element/narrative text:narrative) style leads to inductive learning.
+- The (link:element/podcast text:podcast) provides an insider’s view — you can listen in to conversations between stakeholders and practitioners.
+- The (link:element/edgenote text:multimedia Edgenotes) extend the spectrum of perspectives about the case at hand.
+- The (link:element/exercise text:engaged learning exercises) allow you to put skills into practice.
+
+### Fun
+Learning through MSC is fun and effective. Our cases pull learners quickly into the story. 
+(imgix: learnwithvideo.jpg class: image-float-right)
+- Start by seeing problems through the eyes of decision–makers.  
+- “Meet" different stakeholders and hear their perspectives via audiovisual Edgenotes. 
+- Dig deeper into facts through graphics and technical reports. 
+- Work with others in exercises designed to build practical skills, from quantitative analysis to stronger collaboration. 
+- Finally, it’s time to react. Apply your knowledge and come to real-life decisions.
+
+### Real 
+Some MSCs come from right on our doorstep; others come from the other side of the world. All are grounded in actual sustainability crises. For instance: 
+(imgix: learnwitharticle.jpg class: image-float-right)
+- In May 2016, Michigan local media MLive published an article titled *Should cleaning up the Gelman dioxane plume be a national priority?*, MSC author Anna Prushinskaya has been following up with the issue and producing a case on how city, county, and federal actors confer about whether or not Ann Arbor should be a super fund site when limited remediation where cleanup is too costly. 
+- Since 2014, major medias like the BBC news has talked about the E-waste problem in Ghana. Tapping into an existing University of Michigan project, student authors Anne Canavati and Jayson Toweh traveled along with their faculty advisor Adam Simon to the site and interview local people and companies about this issue.
+- In 2014, Fair Trade USA on fair trade coffee in Peru and that it is the perfect merge of quality and sustainability. After looking more into the issue, student author Carissa de Young and faculty advisor Joe Arvai realized that certification is a complex process and consumers increasingly have alternatives. They are now working on an MSC that looks into whether or not direct trade supply chains better for Peruvian coffee producers.
+- ...Our case authors find inspiration in recent and ongoing research, activism, journalism and much more.
