@@ -16,13 +16,13 @@ Pagetagline: Enjoy Learning
 
 Text: 
 
-MSCs provide an immersive and exploratory educational approach to aquire practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual sources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
+MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
 
 (imgix: learnwithpodcast.jpg class: image-full-width alt: Learn with MSC podcast)
 
 Learning through MSC is fun and effective. Real problems are narrated through the eyes of real decision makers that present students with different aspects of solving complex problems in the real world.
 
-The increasing challenges of wicked problems like climate changes and energy descent pose across disciplines is something that should be included in core curriculums. We are making it more approachable and more engaging while building critical skills beyond the classroom.
+The multifarious challenges of ‘wicked’ problems like climate changes and energy security bring to light the complex reality of sustainability in our world. In response, we are building critical interdisciplinary skills that will last beyond the classroom.
 
 ### Shortcut to experience
 
@@ -57,4 +57,8 @@ Pagesubtagline: Fun &middot; Tangible &middot;  Practical
 
 ----
 
-Subdescription: Unfold challenging problems through key actors' eyes; explore solutions considering stakeholder perspectives presented by podcasts and videos; and apply skills gained through hands-on practice.
+Subdescription: Unfold challenging problems through the eyes of key actors; explore solutions via podcasts and videos; apply skills through hands-on practice.
+
+----
+
+Wbg: 

@@ -67,4 +67,8 @@ Pagesubtagline: Grasp &middot; Contribute &middot;  Connect
 
 ----
 
-Subdescription: Collaborative problem solving in class with the opportunity to explore further through online discussion boards established by disciplines, locations, classrooms, and individual study groups.
+Subdescription: Collaboratively problem-solve in class through group activities and online via discussion communities established by discipline, location and classroom.
+
+----
+
+Wbg: 

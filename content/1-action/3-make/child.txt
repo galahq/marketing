@@ -53,4 +53,8 @@ Pagesubtagline: Define &middot;  Participate &middot;  Grow
 
 ----
 
-Subdescription: Turn an inspiration into a teaching case; Design, shape, and drive the active learning experience; Gain practical skills through working in a team of students, faculty, and practitioners.
+Subdescription: Turn an inspiration into an active learning experience; Gain practical skills through teamwork with students, faculty and practitioners.
+
+----
+
+Wbg: 

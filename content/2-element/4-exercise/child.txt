@@ -12,37 +12,23 @@ Description: Foster the practice of analytical, communicational, and intercultur
 
 Text: 
 
-The interactive learning exercises provide students with experiential experience with case material that allows students to dive deeper to practice and gain skills. It is an opportunity for students to understand the implications that this case carries with it and apply it to problem-solving.
+Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Activities like role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries and apply new knowledge to problem-solving. Field excursions and summer travel programs are an option for some cases and students.
 
-Maybe you could add that excursions and summer travel programs abroad are also potential ways of an interactive learning experience.
+(imgix: role-play.jpg alt: role play class: image-float-right)
+In the Michigan Wolf Wars case, students learn about the conflicts of solving ecological conflicts. Students practice their conflict resolution skills through a role-play.
+<p class="cf"></p>
 
-Depart from online learning. 
+(imgix: cost-benefit-analysis.jpg alt: cost benefit analysis page class: image-float-right)
+In the Ethiopia NAPA case, students learn about multi-facet climate change challenges in Ethiopia, then practice economic and social Cost-Benefit Analysis through prioritizing projects that best protect Ethiopian people from climate change.
+<p class="cf"></p>
 
-###Types
-role play
-
-field exercise
-
-analysis
-
-design excursions and summer travel programs abroad are also potential ways of an interactive learning experience
-
-###Examples
-a role play that asks students to reflect on views of various stakeholders. In the Michigan Wolf Wars case, students learn about the conflicts of solving ecological conflicts. Students practice their conflict resolution skills through a role play. 
-
-the application of economic or social cost-benefit analysis
-
-an assignment to develop a digital media skills, such as write a blog or tweet, and track their impact
-
-a project to build part of a prototype, like solar installations or straw bale construction
-
-In the Ethiopia NAPA case, students learn about multi-facet climate change challenges in Ethiopia, then practice economic and social Cost-Benefit Analysis through prioritizing projects that best protect Ethiopian people from climate change. 
-
-In Ohio RPS case study, student practice on how to analyze a proposed energy bill from multiple lenses; impact on state’s economy, impact on the environment, and understanding politics behind formation of policies at state level. Eventually, readers learn about the importance of scientific communication and practice on informing energy policies by using various modes of communication.
+(imgix: field-trip.jpg alt: field trip class: image-float-right)
+In the dam removal case, students take a field trip to the UM biostation.
+<p class="cf"></p>
 
 ----
 
-Pagetagline: Shortcut to Experience
+Pagetagline: Shortcut to Skill-building
 
 ----
 
@@ -55,3 +41,18 @@ Pagesubtagline: Hands-on &middot; Fun &middot; Different Formats
 ----
 
 Subdescription: Interactive learning exercises enhance students’ mastery of specific tools and wider skills. They provide a spectrum of quantitative, technical, analytical and creative competencies. Exercises are designed to foster collaboration, agency and intercultural communication.
+
+----
+
+Wbg: 
+
+##Some Heading
+
+#####Some heading
+###Some heading
+
+#####Some heading
+###Some heading
+
+#####Some heading
+###Some heading
