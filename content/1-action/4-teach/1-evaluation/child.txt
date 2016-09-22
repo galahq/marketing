@@ -4,11 +4,26 @@ Title: Evaluation
 
 Text: 
 
-# Evaluation
+The MSC approach of problem-driven, interdisciplinary case-based learning is more effective in equipping students to solve complex problems.
 
-(need numbers)
+##Theories
+Problem-based and case-based learning have long and successful track records in education (e.g. Stauffacher et al. 2006; Saverly 2006). MSCs are taking these methods further by harnessing new technologies to both activate students throughout the learning process and expose them to the increasingly complex reality of today’s world. 
 
-What to see how much your students are gaining from a particular case? Work with the MSC team to begin assessment on how helpful these cases are at teaching them material.
+Through our unique platform, MSC is working to rectify two problems in current education: 1) the weak linkages between educational innovation, basic scientific and technical concepts, and a widening experiential base of sustainability challenges; and 2) insufficient access for students to spaces of international engagement and professional interaction in their early training, which can build confidence and an understanding of professional cultures.
+
+MSC is being critically assessed by in-house scholars.  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), while another study of an MSC development process demonstrated MSC’s pedagogical commitment to making clear to students the challenges of decision-making with imperfect information (Golrokhian et al. 2016). 
+
+References:
+
+*Golrokhian et al. 2016….*
+
+*Hardin et al. ….*
+
+*Stauffacher M., A.I. Walter D.J. Lang A. Wiek R.W. Scholz, (2006),"Learning to research environmental problems from a functional socio-cultural constructivism perspective", International Journal of Sustainability in Higher Education, Vol. 7 Iss 3 pp. 252 – 275*
+
+*Savery, J. R. (2006). Overview of Problem-based Learning: Deﬁnitions and Distinctions.Interdisciplinary Journal of Problem-Based Learning, 1(1). *
+
+MSC’s ambition is that rigorous evaluation will continue.  You can work with the MSC team to begin assessment on how helpful these cases are at teaching them material. 
 
 Check out on going evaluation of learning outcomes.
 
@@ -17,11 +32,7 @@ We would have statistics and analytics about time spent with complementary mater
 Studies show that students learn best by active participation in the learning process. At the heart of it, the cases are stories; they begin with a decision maker and center around a problem that needs solution oriented thinking. The cases introduce different sets of interests and perspectives, present options and trade-offs, and challenge students to make difficult choices. By working toward a successful case, students gain an inductive understanding of the core competencies of the field. Engagement in the experience leads to skills development in terms of self-confidence in STEM fields, and social skills of particular relevance to sustainability education, i.e. collaboration, communication, and intercultural and civic engagement.
 
 ###Previous Assessment Data.
-
-
 ###Quantitative Assessment.
-
-
 ###Qualitative Assessment.
 
 &nbsp;
@@ -40,7 +51,7 @@ Description:
 
 ----
 
-Pagetagline: 
+Pagetagline: Proven Effective
 
 ----
 
@@ -53,3 +64,7 @@ Pagesubtagline:
 ----
 
 Subdescription: 
+
+----
+
+Wbg: 
