@@ -36,9 +36,11 @@
 .flip-flop {
   &:nth-child(odd) > img {
     padding-left: 4em;
+    padding-top: 3em;
   }
   &:nth-child(even) > img {
     padding-right: 4em;
+    padding-top: 3em;
   }
 }
 
@@ -47,10 +49,12 @@
     &:nth-child(odd) > img {
       padding-left: 0;
       padding-bottom: 1.5em;
+      padding-top: 0;
     }
     &:nth-child(even) > img {
       padding-right: 0;
       padding-bottom: 1.5em;
+      padding-top: 0;
     }
   }
 }
