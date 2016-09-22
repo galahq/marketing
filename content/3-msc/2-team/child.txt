@@ -23,6 +23,11 @@ Megan Czerwinski — Evaluation Coordinator
 Arman Golrokhian — Production and Assessment Coordinator
 Alex Truelove — Music Director
 
+### Team Contributors
+Marie Hooper — Web Interface Consultant
+Kris Steinhoff — Software Architecture Consultant
+Rebecca Rutt — Marketing Consultant
+Nick Kemp — Photo Contributor
 
 ### Curricular Advisors
 
@@ -88,3 +93,7 @@ Link:
 ----
 
 Subdescription: 
+
+----
+
+Wbg: 
