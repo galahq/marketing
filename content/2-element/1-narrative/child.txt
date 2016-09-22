@@ -49,21 +49,21 @@ Subdescription: Each MSC tells a story of real-world problem with a challenging 
 
 Wbg: 
 
-###Our stories are found everywhere. 
+##Our stories are found everywhere. 
 
 #####Topics
-####MSC authors come from a variety of disciplines interested in diverse topics 
+###MSC authors come from a variety of disciplines interested in diverse topics 
 
 (image: https://msc-public.imgix.net/narrative-banner.jpg class:child-bg-image caption:Current MSCs touch on human wildlife conflicts, water scarcity, alternative energy, food security, land tenure, climate adaptation and mitigation, forest conservation, and many more.)
 
 
 #####Scales and locations
-####MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
+###MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
 
 (image: https://msc-public.imgix.net/msc-location-map.png class:child-bg-image caption:This map shows some locations that our MSCs are. )
 
 #####Sectors
-####MSCs work across public, private, non-profit, and other sectors.
+###MSCs work across public, private, non-profit, and other sectors.
 (image: https://msc-public.imgix.net/msc-location-map.png class:child-bg-image caption:This map shows some locations that our MSCs are. )
 
 <p class="cf">&nbsp;</p>

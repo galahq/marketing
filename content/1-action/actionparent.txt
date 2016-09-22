@@ -8,9 +8,9 @@ Description:
 
 Text: 
 
-MSC’s innovative approach strives to make sustainability teaching and learning more case-based, dynamic, and engaging. Through our platform, students, instructors, and practitioners are encouraged to participate in case creating, learning, teaching, and sharing processes. 
+MSC strives to unpack the complexities of sustainability through more case-based, dynamic and engaged teaching and learning. Our collaborative platform expands the conversation, encouraging students, instructors and practitioners to get involved at every step.
 
-###Why is MSC unique and makes it worthwhile to engage with?
+###Why is MSC unique?
 
 ----
 
@@ -26,7 +26,7 @@ Link:
 
 ----
 
-Pagesubtagline: Shape Your Experiece &middot;  Pioneer Innovative Design
+Pagesubtagline: Reshape Your Experiece &middot;  Pioneer Innovative Design
 
 ----
 
@@ -34,45 +34,37 @@ Reasons:
 
 - 
   heading: Experience Oriented
-  text: >
-    Depart from input/lecture to output/test
-    model, MSC provides hands-on, practical
-    approach, with the involvement experts
-    in the field.
+  text: 'Rejecting the input/lecture -> output/test model, MSC creates a hands-on, practical environment involving experts and stakeholders.'
 - 
-  text: >
-    Depart from sender/teacher to
-    receiver/student learning model, MSC
-    encourages student, instructor, and
-    practitioner co-driving in all
-    processes.
+  text: 'Opposing the sender/teacher -> receiver/student learning model, MSC positions student, instructors and practitioners in multiple roles.'
   heading: Student Led
 - 
   text: >
-    Depart from solely text-based method,
-    MSC incorporates materials for both
-    visual and auditory learners, taking the
-    student from a classic text experience
-    into a more diversified learning
-    environment.
+    Inspiration for MSCs come from right on
+    our doorstep to halfway across the world
+    – but they are always real problems
+    demanding real responses.
+  heading: Real-life issues
+- 
+  text: >
+    Departing from traditional text-based
+    methods, MSC incorporates multimedia
+    tools and materials, to support more
+    learner needs and preferences.
   heading: Diversified Learning Medium
 - 
-  text: "MSC's digital environment allows students to engage with different case elements easily, and access cases from different devices all over the world."
+  text: "MSC's digital platform is designed to give students access to cases with ease, using different devices, located all around the world."
   heading: Digitally Enhanced
 - 
   text: >
-    MSC collections offer perspectives that
-    span many disciplines and yet the
-    materials included can be catered to
-    different fields and learning purposes.
-  heading: Modular and Easy to Adapt
+    MSC’s case library spans disciplines
+    and can cater to different didactical
+    purposes.
+  heading: Modular and Adaptable
 - 
+  heading: Constantly Evolving
   text: >
-    MSCs documents input from classes and
-    invites comments from different
-    communities, there is no information
-    loss in the process but allows the case
-    to evolve through time.
-  heading: >
-    Constantly Evolving Through Community
-    Support
+    Student reflections are fed back in
+    while inputs are welcomed at all stages,
+    for a natural evolution of these
+    real-life phenomena.
