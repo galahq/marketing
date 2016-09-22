@@ -30,6 +30,10 @@ html {
   p, figure, ul, ol {
     margin-bottom: 1.5em;
   }
+  
+  ul {
+    margin-left: 1.5em;
+  }
 
   a {
     border-bottom: 2px solid $ltltgrey;
@@ -46,8 +50,22 @@ html {
   margin: 0 auto;
 }
 
-// Image classes
-.image-float-left {
+//images
+
+.image-full-width{
+  img {border-radius:5px;
+  }
+  .imgix-screenshot-caption {
+    margin-top: -0.9em;
+    text-align: center;
+    font-size: 90%;
+    font-style: italic;
+  }
+}
+
+
+// Image classes for parent pages
+.image-float-left-parent {
   float: left;
   max-width: 600px;
   margin: 0px 15px 0 -100px;
@@ -63,21 +81,43 @@ html {
   }
 }
 
-.image-full-width{
-  img {border-radius:5px;
+.image-float-right-parent {
+  float: right;
+  max-width: 600px;
+  margin: 0px -100px 0 15px;
+
+  img {
+    border-radius: 5px;
   }
-  .imgix-screenshot-caption {
-    margin-top: -0.9em;
-    text-align: center;
-    font-size: 90%;
-    font-style: italic;
+
+  @include breakpoint($mq-small) {
+    float: none;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+// Image classes for child pages
+.image-float-left {
+  float: left;
+  max-width: 400px;
+  margin: 0 15px 0 0;
+
+  img {
+    border-radius: 5px;
+  }
+
+  @include breakpoint($mq-small) {
+    float: none;
+    max-width: 100%;
+    margin: 0;
   }
 }
 
 .image-float-right {
   float: right;
-  max-width: 600px;
-  margin: 0px -100px 0 15px;
+  max-width: 400px;
+  margin: 0 0 0 15px;
 
   img {
     border-radius: 5px;
