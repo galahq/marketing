@@ -2,7 +2,7 @@ Title: Learn
 
 ----
 
-Tagline: Multimedia engagement for all learners; practical skills for complex problems.
+Tagline: Multimedia for diverse learners; Skills for complex problems.
 
 ----
 
@@ -16,7 +16,7 @@ Pagetagline: Enjoy Learning
 
 Text: 
 
-MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story: First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Lastly, interactive learning exercises for students to analyze priorities and tradeoffs.
+MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Finally, interactive learning exercises for students to analyze priorities and tradeoffs.
 
 (imgix: learnwithpodcast.jpg class: image-full-width alt: Learn with MSC podcast)
 
@@ -38,26 +38,16 @@ Subdescription: Unfold challenging problems through the eyes of key actors; expl
 
 Wbg: 
 
-### Shortcut to experience
-
-- The (link:element/narrative text:narrative) style leads to inductive learning.
-- The (link:element/podcast text:podcast) provides an insider’s view — you can listen in to conversations between stakeholders and practitioners.
-- The (link:element/edgenote text:multimedia Edgenotes) extend the spectrum of perspectives about the case at hand.
-- The (link:element/exercise text:engaged learning exercises) allow you to put skills into practice.
-
-### Fun
-Learning through MSC is fun and effective. Our cases pull learners quickly into the story. 
+### Shortcut your skill-building through fun activities
+Our cases pull learners quickly into the story, making learning fun and effective.
 (imgix: learnwithvideo.jpg class: image-float-right)
-- Start by seeing problems through the eyes of decision–makers.  
-- “Meet" different stakeholders and hear their perspectives via audiovisual Edgenotes. 
-- Dig deeper into facts through graphics and technical reports. 
-- Work with others in exercises designed to build practical skills, from quantitative analysis to stronger collaboration. 
-- Finally, it’s time to react. Apply your knowledge and come to real-life decisions.
+- Start by seeing problems through the eyes of decision–makers. Our (link:element/narrative text:narrative) style leads to inductive learning.
+- “Meet" different stakeholders and experts and dig deeper into facts via (link:element/edgenote text:multimedia Edgenotes) and the (link:element/podcast text:podcast). These elements expand the spectrum of perspectives.
+- Finally, it’s time to react. (link:element/exercise text:Engaged learning exercises)  allow you to build skills while putting them into practice. Apply your knowledge and come to real-life decisions. 
 
-### Real 
-Some MSCs come from right on our doorstep; others come from the other side of the world. All are grounded in actual sustainability crises. For instance: 
+### Inspiration from the world around us
+Some MSCs come from right on our doorstep; others come from the other side of the world. Our case authors find inspiration in recent and ongoing research, activism and journalism. All are grounded in actual sustainability crises. Here are just a few examples: 
 (imgix: learnwitharticle.jpg class: image-float-right)
-- In May 2016, Michigan local media MLive published an article titled *Should cleaning up the Gelman dioxane plume be a national priority?*, MSC author Anna Prushinskaya has been following up with the issue and producing a case on how city, county, and federal actors confer about whether or not Ann Arbor should be a super fund site when limited remediation where cleanup is too costly. 
-- Since 2014, major medias like the BBC news has talked about the E-waste problem in Ghana. Tapping into an existing University of Michigan project, student authors Anne Canavati and Jayson Toweh traveled along with their faculty advisor Adam Simon to the site and interview local people and companies about this issue.
-- In 2014, Fair Trade USA on fair trade coffee in Peru and that it is the perfect merge of quality and sustainability. After looking more into the issue, student author Carissa de Young and faculty advisor Joe Arvai realized that certification is a complex process and consumers increasingly have alternatives. They are now working on an MSC that looks into whether or not direct trade supply chains better for Peruvian coffee producers.
-- ...Our case authors find inspiration in recent and ongoing research, activism, journalism and much more.
+- A May 2016 article by Michigan local media MLive, *Should cleaning up the Gelman dioxane plume be a national priority?*, addresses an issue of great interest to UM student Anna Prushinskaya. Anna has been producing an MSC on how city, county, and federal actors come to a decision on whether a full scale clean-up of this environmental disaster, or just a 'mitigation' of the risks, is most appropriate.
+- Since 2014, e-waste in Ghana has attracted enormous international media attention. Joining forces with an ongoing University of Michigan project, students Anne Canavati and Jayson Toweh traveled in mid 2016, along with faculty advisor Adam Simon, around Ghana. Their mission: to bring the voices of residents and companies on the risks and potentials of e-waste into their own MSC.
+- In 2014, an article by Fair Trade USA described fair trade coffee in Peru as "the perfect merge of quality and sustainability". Inspired to dig deeper, student Carissa de Young and faculty advisor Joe Arvai quickly realized that certification in Peru is more complicated than the "perfect" picture presented in the article. They are now writing an MSC that examines the effects of direct trade supply chains for Peruvian coffee producers.
