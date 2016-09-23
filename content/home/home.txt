@@ -45,7 +45,7 @@ Visionheading: Transforming pedagogy in the sustainability field.
 
 ----
 
-Actionlearnmore: Learn more about actions to take with MSC
+Actionlearnmore: Learn more about actions you can take with MSC
 
 ----
 
@@ -53,4 +53,4 @@ Elementlearnmore: Learn more about MSC elements
 
 ----
 
-Visionlearnmore: Learn more about our vision for MSC
+Visionlearnmore: Learn more about the MSC initiative

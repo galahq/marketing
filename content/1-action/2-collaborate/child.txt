@@ -2,7 +2,7 @@ Title: Collaborate
 
 ----
 
-Tagline: Learn from previous learners; leave a legacy for future learners.
+Tagline: Learn from past participants; Leave a legacy for those to come.
 
 ----
 
@@ -12,9 +12,9 @@ Description:
 
 Text: 
 
-Collaboration features at many points in MSC, from case inception to final decision-making. Right now, we are developing an additional function to further promote collaboration at different scales. Online groups formed by interest, discipline, location, classrooms or study group, will provide unique lenses to shift amongst perspectives on any given case.
-(imgix_screenshot: policy-wonks.jpg alt: case cover page class: image-float-right-parent caption: collaboration board of an MSC)
-As you explore a case, you can turn comments off and read it with your own eyes. Then, make visible the comments by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments go right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
+Collaboration drives MSC, from case inception all the way to final decision-making. Right now, we are developing an additional function to promote collaboration at different scales. Online groups formed by interest, discipline, location, classrooms or study groups will provide unique lenses for students and others to shift amongst perspectives on any given case.
+(imgix_screenshot: policy-wonks.jpg alt: case cover page class: image-float-right-parent caption: Comment stream on an MSC)
+As you explore a case, you can turn comments off and read it with your own eyes. Then, make visible the comments by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
 
 Discussion streams thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
 
@@ -38,21 +38,21 @@ Subdescription: Collaboratively problem-solve in class through group activities 
 
 Wbg: 
 
-##How the Groups Work?
-###Private groups
-For quick access to the thoughts of your peers, these groups can be established by:
+##Using the Groups function to expand your learning
+###Private Groups
+For quick access to insights from your peers, establish groups by:
 - Campus 
 - Classroom
 - Individual study group
-Not restricted to formal education institutions, ‘classrooms’ can also be established in private organizations like NGOs or companies. 
 
-Certain private comment streams can (with permission) be lifted into other private as well as public groups. In this way, discussions are preserved and passed on to new learners, making the cases living entities that are constantly evolving. 
+Not restricted to formal education institutions, private groups can also be established in organizations like NGOs or companies. Certain private comment streams can (with permission) be lifted into other private as well as public groups. In this way, discussions are preserved and passed on to new learners, making the cases living entities that are constantly evolving. 
 
 ###Public Groups
 Public groups are open access, for broader participation of those who have first-hand knowledge of or a stake in the cases. These groups are established by:
-- Interest, such as with regard to specific policy or advocacy standpoints, farmers, unions…
-- Identity, such as indigenous, women, feminists, capitalists, neo-Marxists…
-- Discipline, such as engineering, anthropology, planning or design…
-- Place, such as by country (e.g. China, Bolivia) or region (e.g. west Africa, northeast USA)…
-- and whatever else develops organically through user involvement…
+- Interest, such as with regard to specific policy or advocacy standpoints, farmers, unions, …
+- Identity, such as indigenous, women, feminists, capitalists, neo-Marxists, …
+- Discipline, such as engineering, anthropology, planning or design, …
+- Place, such as by country (e.g. China, Bolivia) or region (e.g. west Africa, northeast USA), …
+- and whatever else develops organically through user involvement, …
+
 Motivated by urgent sustainability challenges, the informal learning produced by these groups transcends geographical, cultural, and generational distances.

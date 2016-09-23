@@ -6,15 +6,15 @@
     <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
   </section>
 
-  <section class="child-background">
-    <div class="site blog">
-      <?php
-      if($page->content()->has('wbg')) {
-        echo $page->wbg()->kirbytext();
-      }
-      ?>
-    </div>
-  </section>
+
+  <?php if($page->wbg()->isNotEmpty()) { ?>
+    <section class="child-background">
+      <div class="site blog">
+        <?php echo $page->wbg()->kirbytext(); ?>
+      </div>
+    </section>
+  <?php } ?>
+
 </main>
 
 <?php snippet('footer') ?>

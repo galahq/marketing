@@ -19,10 +19,10 @@ Like traditional case studies, a standard MSC is composed of a clear narrative w
 *Cases lead students through complex issues and help knowledge to ‘stick’. *
 Emerging ‘wicked’ sustainability problems produced by for instance climate change are no longer limited to traditional environmental fields. They are complicated, posing challenges and requiring knowledge across disciplines- yet they deserve attention even in core curriculums. Case-based learning creates space for such complexity, conveying a bigger picture even when addressing site-specific sustainability challenges.  
 
-*Designed by students, for students*
+*Designed by students, for students.*
 MSC employs student authors who write the cases, curate the Edgenotes, and produce the podcasts themselves, in consultation with faculty, practitioners, and MSC staff. This allows for a secondary learning objective for student MSC makers, to develop skills in critical thought, time management, teaching and teamwork.
 
-*Open Access Library, for stories that evolve*
+*Open Access Library, for stories that evolve.*
 MSC provides a library of cases that are modular to fit into a variety of classrooms, or configured in “stacks” which form cohesive curricula. This library is open access for ongoing collaboration and development. In other words, life goes on, and so do our cases. 
 
 (youtube: https://www.youtube.com/watch?v=xr6UoCW4YwY width:100% height:500px caption: This presentation was given by Associate Professor Rebecca Hardin, Director of MSC, at the UM-Biostation Scientist Winter Research Retreat in February 2016. The content applies to a broader audience who are interested in MSC.)
@@ -56,3 +56,7 @@ Pagesubtagline: Transform sustainability education by transforming teaching meth
 ----
 
 Subdescription: 
+
+----
+
+Wbg: 

@@ -53,7 +53,7 @@
     <?php endforeach ?>
   </div>
 
-  <a class="learn-more-link" href="vision">
+  <a class="learn-more-link" href="msc">
     <h6><?php echo ($page->visionlearnmore())?> ›</h6>
   </a>
 </section>
