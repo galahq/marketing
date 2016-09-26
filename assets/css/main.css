@@ -410,10 +410,6 @@ html {
   .main ul {
     margin-left: 1.5em;
     margin-bottom: 1em; }
-  .main a {
-    border-bottom: 2px solid #ddd; }
-    .main a:hover {
-      border-color: #02284b; }
 
 .blog {
   position: relative;
@@ -511,47 +507,45 @@ a {
   a:hover {
     color: #02284b; }
 
-h1, h2, h3, h4, h5 {
-  font-family: "clarendon-urw", serif;
-  line-height: 110%; }
+.main a {
+  border-bottom: 2px solid #ddd; }
+  .main a:hover {
+    border-color: #02284b; }
 
 h1 {
-  font-size: 2em;
-  font-weight: 700;
-  margin-bottom: 0.5em;
-  clear: both; }
+  font-family: "jubilat", serif;
+  font-style: italic; }
+
+h2, h3, h4 {
+  font-family: "clarendon-urw", serif;
+  line-height: 110%;
+  margin-bottom: 0.5em; }
 
 h2 {
-  font-size: 1.7em;
+  font-size: 1.5em;
   font-weight: 400;
-  margin-bottom: 0.5em;
   clear: both; }
 
-h3 {
-  font-size: 1.4em;
-  font-weight: 400;
-  margin-bottom: 0.5em;
-  clear: both; }
-
-h4 {
-  font-size: 1.125em;
-  font-weight: 400;
-  margin-bottom: 0.5em;
-  clear: both; }
-
-h5 {
+h2 span {
   font-family: "tenso", sans-serif;
   font-weight: 300;
   margin-bottom: 0.5em;
   text-transform: uppercase;
-  letter-spacing: 0.05em; }
+  letter-spacing: 0.05em;
+  line-height: 110%;
+  display: block;
+  font-size: 0.6em; }
 
-h6 {
-  font-family: "tenso", sans-serif;
-  font-weight: 300;
-  font-size: 0.9em; }
+h3 {
+  font-size: 1.125em;
+  font-weight: 400;
+  clear: both; }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h4 {
+  font-size: 1em;
+  font-weight: 400; }
+
+h1 a, h2 a, h3 a, h4 a {
   color: inherit;
   border: 0 !important; }
 
@@ -571,6 +565,44 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 .uppercase {
   text-transform: uppercase;
   letter-spacing: 0.05em; }
+
+.intro h1 {
+  font-weight: 100;
+  font-size: 44pt; }
+
+.actiontext h3 {
+  font-family: "tenso", sans-serif;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 110%;
+  font-size: 0.9em; }
+
+.element-description h3 {
+  font-family: "tenso", sans-serif;
+  color: #35536f;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 110%;
+  font-size: 0.9em;
+  margin-top: 0.7em;
+  display: inline-block; }
+.element-description a {
+  color: inherit;
+  border-bottom: none; }
+
+span.number-value {
+  font-family: "tenso", sans-serif;
+  font-weight: 500;
+  font-size: 1.2em; }
+
+.learn-more-link h4 {
+  font-family: "tenso", sans-serif;
+  font-weight: 300;
+  font-size: 0.9em; }
 
 .menu {
   float: right; }
@@ -755,10 +787,6 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: #F9F8F2;
   height: 450px; }
   .intro h1 {
-    font-family: "jubilat", serif;
-    font-weight: 100;
-    font-size: 44pt;
-    font-style: italic;
     line-height: 90%;
     margin: 4.8em 0 0.1em 0; }
     @media (max-width: 768px) {
@@ -863,20 +891,25 @@ footer > div {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  transition: all 0.1s ease 0.1s; }
-  .button h5, .button h6 {
-    padding: 0;
-    margin: 0; }
+  transition: all 0.1s ease 0.1s;
+  margin: 0;
+  font-family: "tenso", sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 110%;
+  font-size: 1em; }
   .button:hover {
     background-color: #35536f;
     color: #F9F8F2; }
   .buttonondark {
     background-color: #f6eabc;
     border: none; }
-    .buttonondark h5, .buttonondark h6 {
-      font-size: 1em; }
     .buttonondark:hover {
       background-color: #E6C64C; }
+
+.blog .button {
+  font-size: 0.9em; }
 
 ul.toc {
   margin: 0;
@@ -902,8 +935,6 @@ main.home section {
     color: #9c9c9c;
     font-size: 0.9em;
     font-weight: 300; }
-  main.home section h5 {
-    font-weight: 350; }
 
 .learn-more-link {
   font-size: 1.1em; }
@@ -936,7 +967,7 @@ main.home section {
     line-height: 1.4em; }
   .action-items > div:hover {
     transform: scale(1.02); }
-    .action-items > div:hover h5 {
+    .action-items > div:hover h3 {
       color: #056ac7; }
 
 .actiontext {
@@ -963,8 +994,6 @@ main.home section {
   padding: 1.7em 0.6em;
   text-align: left;
   transition: transform 0.1s ease 0.1s; }
-  .element-description h5 {
-    margin-top: 0.8em; }
   .element-description p {
     color: #8f8f8f !important;
     line-height: 1.4em; }
@@ -978,7 +1007,7 @@ main.home section {
     -moz-border-radius: 0.2rem;
     -ms-border-radius: 0.2rem;
     border-radius: 0.2rem; }
-    .element-description:hover h5 {
+    .element-description:hover h3 {
       color: #056ac7; }
 
 .img-inline {
@@ -1023,11 +1052,9 @@ main.home section {
   -ms-border-radius: 4rem;
   border-radius: 4rem;
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 1.2rem;
   border-width: 3px;
-  border-style: solid;
-  font-weight: 500;
-  font-size: 140%; }
+  border-style: solid; }
 
 .number:nth-of-type(1) .number-value {
   border-color: #35536f; }
@@ -1091,13 +1118,13 @@ main.home section {
 @media screen and (max-width: 40em) {
   .flip-flop > div {
     padding: 0; } }
-.intro-text h4 {
+.intro-text h3 {
   padding-top: 0.2rem; }
   @media (max-width: 768px) {
-    .intro-text h4 {
+    .intro-text h3 {
       padding-top: 0.4rem; } }
 
-.intro-text h3 {
+.intro-text h2 {
   margin-bottom: 1.2em; }
 
 .custom-counter,
@@ -1132,7 +1159,7 @@ main.home section {
 
 .actions {
   margin-bottom: 3em; }
-  .actions h3 {
+  .actions h2 {
     margin-top: -0.8em;
     margin-bottom: 1.5em; }
   .actions section {
@@ -1155,10 +1182,10 @@ main.home section {
       .actions img {
         max-width: 35%;
         border-radius: 0 1rem 1rem 0; } }
-  .actions h4 {
+  .actions h3 {
     margin-top: 0.2em; }
     @media screen and (max-width: 450px) {
-      .actions h4 {
+      .actions h3 {
         margin-top: 0; } }
   .actions p {
     margin-top: 1em;

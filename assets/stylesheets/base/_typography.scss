@@ -23,55 +23,54 @@ a {
   }
 }
 
+.main a {
+    border-bottom: 2px solid $ltltgrey;
+    &:hover {
+      border-color: $umblue;
+    }
+  }
+
 // Headings
-h1, h2, h3, h4, h5 {
-  font-family: $heading-default;
-  line-height: 110%;
+h1 {
+  font-family: $banner-heading;
+  font-style: italic;
 }
 
-h1 {
-  font-size: 2em;
-  font-weight: 700;
+h2, h3, h4 {
+  font-family: $heading-default;
+  line-height: 110%;
   margin-bottom: 0.5em;
-  clear: both;
 }
 
 h2 {
-  font-size: 1.7em;
+  font-size: 1.5em;
   font-weight: 400;
-  margin-bottom: 0.5em;
   clear: both;
 }
 
-h3 {
-  font-size: 1.4em;
-  font-weight: 400;
-  margin-bottom: 0.5em;
-  clear: both;
-}
-
-h4 {
-  font-size: 1.125em;
-  font-weight: 400;
-  margin-bottom: 0.5em;
-  clear: both;
-}
-
-h5 {
+h2 span {
   font-family: $heading-small;
   font-weight: 300;
   margin-bottom: 0.5em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  line-height: 110%;
+  display: block;
+  font-size: 0.6em;
 }
 
-h6 {
-  font-family: $heading-small;
-  font-weight: 300;
-  font-size: 0.9em;
+h3 {
+  font-size: 1.125em;
+  font-weight: 400;
+  clear: both;
 }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h4 {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+h1 a, h2 a, h3 a, h4 a {
   color: inherit;
   border: 0 !important;
 }
@@ -101,4 +100,52 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 .uppercase {
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+//Home page headings
+.intro h1 {
+  font-weight: 100;
+  font-size: 44pt;
+}
+
+.actiontext h3 {
+  font-family: $heading-small;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 110%;
+  font-size: 0.9em;
+}
+
+.element-description {
+  h3 {
+  font-family: $heading-small;
+  color: $galablue;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 110%;
+  font-size: 0.9em;
+  margin-top: 0.7em;
+  display: inline-block;
+  }
+
+  a {
+    color: inherit;
+    border-bottom: none;
+  }
+}
+
+span.number-value {
+  font-family: $body-text;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+.learn-more-link h4 {
+  font-family: $heading-small;
+  font-weight: 300;
+  font-size: 0.9em;
 }

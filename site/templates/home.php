@@ -4,7 +4,7 @@
 <main class="home main" role="main">
 
 <section>
-  <h3 class="site heading"><?php echo ($page->actionheading()) ?></h3>
+  <h2 class="site heading"><?php echo ($page->actionheading()) ?></h2>
 
   <div class="action-items flex-container site">
     <?php foreach($pages->find('action')->children() as $action): ?>
@@ -13,12 +13,12 @@
   </div>
 
   <a class="learn-more-link" href="action">
-    <h6><?php echo ($page->actionlearnmore())?> ›</h6>
+    <h4><?php echo ($page->actionlearnmore())?> ›</h4>
   </a>
 </section>
 
 <section>
-  <h3 class="heading site"><?php echo ($page->elementheading()) ?></h3>
+  <h2 class="heading site"><?php echo ($page->elementheading()) ?></h2>
 
   <div class="flex-container flex-column site">
     <div class="flex-growing flex-container">
@@ -37,24 +37,24 @@
   </div>
 
   <a class="learn-more-link" href="element">
-    <h6><?php echo ($page->elementlearnmore())?> ›</h6>
+    <h4><?php echo ($page->elementlearnmore())?> ›</h4>
   </a>
 </section>
 
 <section>
-  <h3 class="heading site"><?php echo ($page->visionheading()) ?></h3>
+  <h2 class="heading site"><?php echo ($page->visionheading()) ?></h2>
 
   <div class="vision-data flex-container site">
     <?php foreach($page->numbers()->toStructure() as $number): ?>
       <div class="number">
-        <span class="number-value"><?php echo $number->number() ?></span>
-        <h4 class="number-description"><?php echo $number->description() ?></h4>
+        <h3><span class="number-value"><?php echo $number->number() ?></span>
+        <span class="number-description"><?php echo $number->description() ?></span></h3>
       </div>
     <?php endforeach ?>
   </div>
 
   <a class="learn-more-link" href="msc">
-    <h6><?php echo ($page->visionlearnmore())?> ›</h6>
+    <h4><?php echo ($page->visionlearnmore())?> ›</h4>
   </a>
 </section>
 
