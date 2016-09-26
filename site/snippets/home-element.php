@@ -6,7 +6,7 @@
 
   <?php imgix($element->slug() . '-thumb.png', $element->title(), 50, [], ['class' => 'img-inline']) ?>
 
-  <h5 class="uppercase cf"><?php echo $element->title() ?></h5>
+  <h3><?php echo $element->title() ?></h3>
 
   <p><?php echo $element->description() ?></p>
 

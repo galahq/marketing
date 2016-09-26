@@ -1,5 +1,5 @@
 //Intro
-.intro-text h4 {
+.intro-text h3 {
   padding-top: 0.2rem;
 
   @include breakpoint($mq-small) {
@@ -7,7 +7,7 @@
   }
 }
 
-.intro-text h3 {
+.intro-text h2 {
   margin-bottom: 1.2em;
 }
 
@@ -48,7 +48,7 @@
 //Action items
 .actions {
   margin-bottom: 3em;
-  h3 {
+  h2 {
     margin-top: -0.8em;
     margin-bottom: 1.5em;
   }
@@ -75,7 +75,7 @@
     }
   }
 
-  h4 {
+  h3 {
     margin-top: 0.2em;
     @media screen and (max-width: 450px) {
       margin-top: 0;

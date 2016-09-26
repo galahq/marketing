@@ -9,13 +9,13 @@
     <ol class="custom-counter">
       <?php foreach($page->reasons()->toStructure() as $reason): ?>
         <li>
-          <h4><?php echo $reason->heading()?></h4>
+          <h3><?php echo $reason->heading()?></h3>
           <p><?php echo $reason->text()?></p>
         </li>
       <?php endforeach ?>
     </ol>
     </div>
-    <h3>Get Involved with MSC:</h3>
+    <h2>Get Involved with MSC:</h2>
   </section>
 
   <div class="actions site blog">
@@ -24,7 +24,7 @@
         <section class="flex-container">
           <?php imgix($action->slug() . '-homethumb.jpg', $action->title(), 330) ?>
           <div class="actiontext-vertical">
-            <h4><?php echo html($action->title()) ?></h4>
+            <h3><?php echo html($action->title()) ?></h3>
             <p><?php echo html($action->subdescription()) ?></p>
           </div>
           <div class="actions-arrow"><span>›</span></div>

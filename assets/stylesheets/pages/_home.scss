@@ -12,10 +12,6 @@ main.home section {
   font-size: 0.9em;
   font-weight: 300;
   }
-
-  h5 {
-    font-weight: 350;
-  }
 }
 
 .learn-more-link {
@@ -58,7 +54,7 @@ main.home section {
 
   &>div:hover {
     transform: scale(1.02);
-    h5 {
+    h3 {
       color: $vividblue;
     }
   }
@@ -95,10 +91,6 @@ main.home section {
   text-align: left;
   transition: transform 0.1s ease 0.1s;
 
-  h5 {
-    margin-top: 0.8em;
-  }
-
   p {
     color: darken($ltgrey, 5%) !important;
     line-height: 1.4em;
@@ -112,7 +104,7 @@ main.home section {
   &:hover {
     transform: scale(1.03);
     @include border-radius(0.2rem);
-    h5 {
+    h3 {
       color: $vividblue;
     }
   }
@@ -171,11 +163,9 @@ main.home section {
   height: 4rem;
   @include border-radius(4rem);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 1.2rem;
   border-width: 3px;
   border-style: solid;
-  font-weight: 500;
-  font-size: 140%;
 }
 .number:nth-of-type(1) .number-value { border-color: $galablue }
 .number:nth-of-type(2) .number-value { border-color: $brown }

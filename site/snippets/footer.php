@@ -6,7 +6,7 @@
   <div class="site">
     <div class="footerheading">
       <h4>Start learning with MSC. </h4>
-      <button class="button buttonondark" onclick="window.location.href='http://www.learnmsc.org'"><h5>Case Gallery</h5></button>
+      <button class="button buttonondark" onclick="window.location.href='http://www.learnmsc.org'">Case Gallery</button>
     </div> <!--footerheading-->
     <nav class="footerflex flex-container">
       <?php foreach($items as $item): ?>
