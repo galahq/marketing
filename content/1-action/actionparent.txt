@@ -34,9 +34,9 @@ Reasons:
 
 - 
   heading: Experience Oriented
-  text: 'Rejecting the input/lecture -> output/test model, MSC creates a hands-on, practical environment involving experts and stakeholders.'
+  text: 'Rejecting the input/lecture –> output/test model, MSC creates a hands-on, practical environment involving experts and stakeholders.'
 - 
-  text: 'Opposing the sender/teacher -> receiver/student learning model, MSC positions student, instructors and practitioners in multiple roles.'
+  text: 'Opposing the sender/teacher –> receiver/student learning model, MSC positions student, instructors and practitioners in multiple roles.'
   heading: Student Led
 - 
   text: >
