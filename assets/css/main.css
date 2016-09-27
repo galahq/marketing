@@ -403,7 +403,7 @@ html {
       padding: 0 1em; } }
 
 .main {
-  margin-top: 2em;
+  margin-top: 1.6em;
   clear: inherit; }
   .main p, .main figure, .main ol {
     margin-bottom: 1em; }
@@ -810,9 +810,7 @@ span.number-value {
   text-align: center; }
   .centerbox h1 {
     padding-top: 7.5em;
-    font-family: "jubilat", serif;
-    font-weight: 200;
-    font-style: italic; }
+    font-weight: 200; }
   .centerbox p {
     font-weight: 300; }
 
@@ -820,7 +818,11 @@ span.number-value {
   background: none;
   margin-top: -2em; }
   .hero-child .centerbox h1 {
-    padding-top: 2em; }
+    padding-top: 1.7em;
+    margin-bottom: 0.4em; }
+    @media (max-width: 768px) {
+      .hero-child .centerbox h1 {
+        padding-top: 1.2em; } }
 
 .footer {
   background-color: #02284b;
