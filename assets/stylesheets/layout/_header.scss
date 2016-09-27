@@ -72,9 +72,7 @@
 
   h1 {
     padding-top: 7.5em;
-    font-family: $banner-heading;
     font-weight: 200;
-    font-style: italic;
   }
 
   p {
@@ -89,7 +87,12 @@
 
   .centerbox {
    h1 {
-     padding-top: 2em;
+     padding-top: 1.7em;
+     margin-bottom: 0.4em;
+
+     @include breakpoint($mq-small) {
+       padding-top: 1.2em;
+     }
    }
- }
+  }
 }
