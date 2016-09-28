@@ -26,7 +26,9 @@
 
     			<div class="timeline-content">
             <?php echo str_replace('(\\', '(', kirbytext($timelineitem->content())) ?>
-            <a href="<?php echo $timelineitem->newslink() ?>" class="timeline-read-more">Read More ›</a>
+            <?php if($timelineitem->newslink()->isNotEmpty()) { ?>
+              <a href="<?php echo $timelineitem->newslink() ?>" class="timeline-read-more">Read More ›</a>
+            <?php } ?>
     				<span class="timeline-date"><?php echo $timelineitem->dateofevent() ?></span>
     			</div> <!-- timeline-content -->
     		</div> <!-- timeline-block -->
