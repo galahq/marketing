@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - msc/milestones
+  - action/teach/evaluation/initial-assessment
   - action
   - element/podcast
   - action/make/proposal
-  - action/make
