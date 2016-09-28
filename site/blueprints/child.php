@@ -31,3 +31,21 @@ fields:
   wbg:
     label: with background
     type: textarea
+  timeline:
+    label: Timeline
+    type: structure
+    entry: >
+      {{icon}} {{content}} {{dateofevent}} {{newslink}}
+    fields:
+      icon:
+        label: Icon
+        type: text
+      content:
+        label: Content
+        type: textarea
+      dateofevent:
+        label: Date
+        type: text
+      newslink:
+        label: News link
+        type: text
