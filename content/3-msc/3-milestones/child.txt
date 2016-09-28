@@ -1,0 +1,117 @@
+Title: Milestones
+
+----
+
+Text: 
+
+----
+
+Tagline: 
+
+----
+
+Description: 
+
+----
+
+Pagetagline: Milestones
+
+----
+
+Pagesubtagline: From an idea to on the ground practice, we are gradually making our visions come true.
+
+----
+
+Link: 
+
+----
+
+Subdescription: 
+
+----
+
+Wbg: 
+
+----
+
+Timeline: 
+
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Putting together proposals
+    Pulling from experience in It's Hot in Here, and ..., we put together this proposal to...
+  date: ""
+  newslink: >
+    http://thirdcentury.umich.edu/michigan-sustainability-cases/
+  dateofevent: Summer 2015
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Got the grant
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?
+  date: ""
+  newslink: >
+    http://worldclass.umich.edu/projects-receive-engaged-learning-transformation-grants-new-program-announced/
+  dateofevent: December 2015
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Case pilots
+    Piloted three cases in one undergrad class and one grad class and gained initial assessment result
+  date: ""
+  newslink: '#0'
+  dateofevent: Winter 2016
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Partnership building with AI
+    Built partnership....
+  dateofevent: March 2016
+  newslink: '#0'
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Initial Assessment
+    Initial quantitative and qualitative assessment
+  dateofevent: Winter 2016
+  newslink: '#0'
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##First Curricular Advisors Meeting
+    Review submitted proposals
+  dateofevent: April 2016
+  newslink: '#0'
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Wolf case being taught in Gabon
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?
+  dateofevent: June 2016
+  newslink: '#0'
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##MSC overview article published in WDP
+    This article provides...
+  dateofevent: June 2016
+  newslink: >
+    http://www.sciencedirect.com/science/article/pii/S2452292916300820
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Ethiopia article published in WDP
+    This article provides...
+  dateofevent: July 2016
+  newslink: >
+    http://www.sciencedirect.com/science/article/pii/S2452292916300856
