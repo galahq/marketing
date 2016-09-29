@@ -2,6 +2,14 @@
 <?php snippet('header') ?>
 
 <main class="main" role="main">
+  <?php if($page->pagetagline()->isEmpty()) { ?>
+    <div class="blog site">
+    <h1 class="subpage-title">
+      <?php echo $page->title(); ?>
+    </h1>
+    </div>
+  <?php } ?>
+
   <?php if($page->text()->isNotEmpty()) { ?>
     <section class="site blog cf">
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
