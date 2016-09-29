@@ -40,8 +40,8 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##Putting Together Grant Proposal
-    Inspired by case based approach and the It's Hot in Here radio show, MSC team put together a proposal to carry multimodal case approach further.
+    ##The incubation stage
+    Inspired by case-based teaching and the It's Hot in Here radio show, the MSC team sat down together to put ideas for new, multimodal cases into a project proposal.
   date: ""
   newslink: >
     http://thirdcentury.umich.edu/michigan-sustainability-cases/
@@ -50,8 +50,8 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##Got the Grant
-    Along with two other projects, MSC won a grant of 1.6 million dollars for the course of four years to build a case based curricular for the sustainability field. The grant then was dispersed in January 2016.
+    ##Resources secured
+    The MSC initiative won a 4-year 1.6 million dollar grant to build a case-based curriculum for the sustainability field. The grant was dispersed in January 2016.
   date: ""
   newslink: >
     http://worldclass.umich.edu/projects-receive-engaged-learning-transformation-grants-new-program-announced/
@@ -60,8 +60,8 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##Pilot cases in SNRE classes
-    Three cases were piloted during the winter term of 2016. Two cases was piloted in Dr. Rebecca Hardin's undergraduate class, and one case was piloted in Dr. Arun Agrawal's graduate level class. Focus group discussions were conducted to gain student feedback.
+    ##From an idea to implementation: Pilot cases
+    Three new MSCs were piloted during the winter term: two in Dr. Rebecca Hardin's undergraduate class; one in Professor Arun Agrawal's graduate class. Subsequent   student discussion groups produced feedback on both the cases and their use in the classroom.
   date: ""
   newslink: ""
   dateofevent: Winter 2016
@@ -69,23 +69,7 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##Partner with WDP
-    MSC established partnership with Elsevier journal, the (link:http://www.journals.elsevier.com/world-development-perspectives/ text: World Development Perspectives). This journal is promised to publish one to three MSCs in each issue.
-  dateofevent: Feb 2016
-  newslink: ""
-- 
-  icon: >
-    https://msc-public.imgix.net/white-dot.png
-  content: |
-    ##Partnership Established with Academic Innovation
-    Partnership is established with the University of Michigan (link:http://ai.umich.edu/ text:Academic Innovation), who is a pioneer in providing alternatives to traditional way of teaching using digitally enhanced tools.
-  dateofevent: March 2016
-  newslink: ""
-- 
-  icon: >
-    https://msc-public.imgix.net/white-dot.png
-  content: |
-    ##Initial Assessment
+    ##Initial assessment
     Initial quantitative and qualitative assessments were conducted during Dr. Rebecca Hardin's winter undergraduate level class.
   dateofevent: Winter 2016
   newslink: >
@@ -94,24 +78,40 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##First Curricular Advisors Meeting
-    First curricular Advisors Meeting was held in April 2016. During this meeting, curricular advisors gathered and reviewed submitted proposals. Both to give feedback to the proposals, and to examine the variety of MSCs.
+    ##Partnership with a scholarly journal
+    To bring MSC case research to a broader audience, MSC partnered with Elsevier’s (link:http://www.journals.elsevier.com/world-development-perspectives/ text: World Development Perspectives) (WDP) journal. The journal promised to publish one to three MSCs in each issue.
+  dateofevent: Feb 2016
+  newslink: ""
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##Partnership for academic innovation
+    MSC joined forced with University of Michigan’s Office of (link:http://ai.umich.edu/ text:Academic Innovation), a pioneer in using digitally enhanced tools for better teaching.
+  dateofevent: March 2016
+  newslink: ""
+- 
+  icon: >
+    https://msc-public.imgix.net/white-dot.png
+  content: |
+    ##First Curricular Advisors meeting
+    Curricular advisors from diverse sectors gathered to review submitted proposals for potential MSCs, and provide input on which would receive support to help them come to fruition.
   dateofevent: April 2016
   newslink: ""
 - 
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##Wolf case being taught in Gabon
-    In collaboration with the (link:http://thirdcentury.umich.edu/refresch/ text: REFRESCH) project, the (link:http://www.learnmsc.org/cases/mi-wolves#/ text: Wolf case) was used in a partners meeting in Gabon.
+    ##Wolf Wars case translated and taught in Gabon
+    In collaboration with the (link:http://thirdcentury.umich.edu/refresch/ text: REFRESCH project), this MSC was (link:http://www.learnmsc.org/fr/cases/mi-wolves#/ text:translated into French) and then ‘taught’ at a partner’s meeting in Gabon.
   dateofevent: June 2016
   newslink: ""
 - 
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##MSC overview article published in WDP
-    Peer review article *Towards a revolution in sustainability education: Vision, architecture, and assessment in a case-based approach* was published in WDP. The article provides an overview of the whole MSC project, justified theories and the expected impact of the project, and shared initial assessment results.
+    ##First MSC academic article published in WDP
+    *‘Towards a revolution in sustainability education: Vision, architecture, and assessment in a case-based approach ’* was peer reviewed and published in WDP. The article provides an overview of the MSC project, presenting its core pedagogical theories, expected impact, and initial positive assessment results.
   dateofevent: June 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300820
@@ -119,8 +119,8 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##Ethiopia article published in WDP
-    Peer review article *A National Adaptation Programme of Action: Ethiopia’s responses to climate change* was published. This article tells the story of how the Ethiopia case came together and introduced the partitioners who contributed to the podcast.
+    ##Adaptation in Ethiopia MSC article published
+    Telling the story of how the Ethiopia case came together, *‘A National Adaptation Programme of Action: Ethiopia’s responses to climate change*’ was published in WDP. The article also introduces the practitioners who contributed to the podcast.
   dateofevent: July 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300856
