@@ -1,5 +1,5 @@
 .flex-container {
-	display: flex;
+	@include display-flex;
   justify-content: center;
   flex-flow: row wrap;
 }
