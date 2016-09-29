@@ -31,6 +31,46 @@
      </div>
    </div>
 
+   <?php foreach($pages->visible() as $child): ?>
+     <?php if($page->isChildOf($child)) { ?>
+     <ul class="hiddencrumb breadcrumb blog site">
+       <?php foreach($site->breadcrumb() as $crumb): ?>
+       <li>
+         <a href="<?php echo $crumb->url() ?>">
+           <?php echo html($crumb->title()) ?>
+         </a>
+       </li>
+       <?php endforeach ?>
+     </ul>
+     <?php } ?>
+   <?php endforeach ?>
+
+   <?php foreach($pages->visible()->children() as $grandchild): ?>
+   <?php if($page->isChildOf($grandchild)) { ?>
+     <ul class="breadcrumb blog site">
+       <?php foreach($site->breadcrumb() as $crumb): ?>
+       <li>
+         <a href="<?php echo $crumb->url() ?>">
+           <?php echo html($crumb->title()) ?>
+         </a>
+       </li>
+       <?php endforeach ?>
+     </ul>
+     <?php } ?>
+   <?php endforeach ?>
+
+   <?php if($page->isInvisible()) { ?>
+     <ul class="breadcrumb blog site">
+       <?php foreach($site->breadcrumb() as $crumb): ?>
+       <li>
+         <a href="<?php echo $crumb->url() ?>">
+           <?php echo html($crumb->title()) ?>
+         </a>
+       </li>
+       <?php endforeach ?>
+     </ul>
+     <?php } ?>
+
    <?php if($site->children()->has($page)): ?>
      <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
 
