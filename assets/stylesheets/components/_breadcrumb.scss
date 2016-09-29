@@ -1,0 +1,30 @@
+.breadcrumb {
+  margin-top: 1em;
+  @include breakpoint($mq-small) {
+    margin-top: 0;
+  }
+
+  li {
+    list-style: none;
+    display: inline-block;
+    font-size: 0.9em;
+
+    &::after {
+      content: '›';
+    }
+
+    &:last-child {
+      &::after {
+        content: '';
+      }
+    }
+  }
+}
+
+.hiddencrumb {
+  display: none;
+
+  @include breakpoint($mq-small) {
+    display: block;
+  }
+}
