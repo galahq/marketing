@@ -4,3 +4,9 @@
       -ms-border-radius: $radius;
           border-radius: $radius;
 }
+
+@mixin display-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
