@@ -10,7 +10,18 @@ Description: Foster the practice of analytical, communicational, and intercultur
 
 ----
 
-Text: Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Activities like role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries and apply new knowledge to problem-solving. Field excursions and summer travel programs are an option for some cases and students.
+Text: 
+
+Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries. Field excursions and summer travel programs are an option for some cases and students.
+
+###Adaptable
+MSC exercises are designed to be challenging; they are also adaptable, to be appropriate for different levels, from undergraduates to practitioners and policy makers.
+
+###Unscripted and improvisational 
+Representative of real-life situations, MSC exercises provide space for  creativity, self expression and constructive conflict to emerge. 
+
+###Integrative and decision-oriented
+Integrating experiential and analytical learning, activities guide students toward applying new knowledge to problem-solving - culminating in skills that allow for a decision.
 
 ----
 
@@ -32,18 +43,24 @@ Subdescription: Interactive learning exercises enhance students’ mastery of sp
 
 Wbg: 
 
-Using MSC exercises, you get to:
+###MSC exercises takes advantage of face to face interaction.
 (imgix: role-play.jpg alt: role play class: image-float-right)
-In the Michigan Wolf Wars case, students learn about the conflicts of solving ecological conflicts. Students practice their conflict resolution skills through a role-play.
+####Wear the shoes
+In the Wolf Wars case, students use role play to learn more about solving ecological conflicts while practicing their conflict resolution skills. 
 <p class="cf"></p>
 
+####Do the calculations
 (imgix: cost-benefit-analysis.jpg alt: cost benefit analysis page class: image-float-right)
-In the Ethiopia NAPA case, students learn about multi-facet climate change challenges in Ethiopia, then practice economic and social Cost-Benefit Analysis through prioritizing projects that best protect Ethiopian people from climate change.
+In the National Adaptation case, students practice economic and social Cost-Benefit Analysis to rank projects that can best protect Ethiopian people from climate changes.
 <p class="cf"></p>
 
+####Map and explore
 (imgix: field-trip.jpg alt: field trip class: image-float-right)
-In the dam removal case, students take a field trip to the UM biostation.
+In the Urban Farming case, students use an interactive map called Social Explorer to visualize land allocation and use, then take a field trip to observe urban farms in Detroit with their own eyes.
 <p class="cf"></p>
+
+####Get into the water
+In the Dam Removal case, students explore actual dams, getting them into the water to use tools and techniques to answer questions about the surrounding habitat.
 
 ----
 

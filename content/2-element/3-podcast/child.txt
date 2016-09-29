@@ -12,23 +12,13 @@ Description: Conversations with relevant actors that expose students to differen
 
 Text: 
 
-MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts and decision-makers. Through a free form discussion driven approach, our podcasts shed light on underexplored aspects of the case material. 
+MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts and decision-makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion driven approach, our podcasts shed light on under-explored aspects of the case material. 
 
-Here are some clips pulled from existing MSC podcast to give you a taste of how MSC podcasts: 
+###Conversational and provocative
+Lasting about 30 minutes to an hour, MSC podcasts feature background information, conversations about key concepts or methods, dialogue that untangles challenges and assumptions, and debate over objectives and tradeoffs. MSC podcasts often incorporate relevant music following the exceptional tastes of our MSC hosts.
 
-##Some Heading
-
-#####Style
-###Some Heading
-Lasting about 30 minutes to an hour, MSC podcasts often take advantage of the great music selection at the University of Michigan’s student run radio station, WCBN FM. 
-
-#####Topics
-###Some Heading
-MSC podcast features discussion about the background of the case, conversation about key concepts or methods, dialogue that untangles challenges and assumptions, debate over objectives and tradeoffs.
-
-#####Format
-###Conversational, free-form radio lab quality.
-Connects experts and citizens, bridging research and practice.
+###Studio quality
+MSC has partnered with the tech savvy students running the University of Michigan radio station, taking advantage of their in-house expertise and quality equipment.
 
 ----
 
@@ -50,7 +40,7 @@ Subdescription: MSC podcasts are radio segments produced by case authors in coll
 
 Wbg: 
 
-Listen to MSC podcasts, you will get to:
+Here is a taste of our podcasts. Through these, you will get to:
 ###Unpack complex issues
 <audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3"></audio>
 Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears. 
