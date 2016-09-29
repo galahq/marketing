@@ -98,14 +98,6 @@
     display: block;
   }
 
-  .second-level li {
-    border-bottom: solid 1px $white;
-    &:last-child {
-      border: none;
-      padding-bottom: 1.5em;
-    }
-  }
-
   a {
     padding: 10px;
     text-decoration: none;
@@ -124,6 +116,27 @@
   font-weight: bold;
   letter-spacing: 1px;
   background: $offwhite;
+
+  li a.active {
+    background-color: $galablue;
+    color: $white;
+  }
+}
+
+.second-level li {
+  border-bottom: solid 1px $white;
+  &:last-child {
+    border: none;
+    padding-bottom: 1.5em;
+  }
+
+  .active {
+    background-color: $galablue;
+    color: $white;
+  }
+  a {
+    padding-left: 2em;
+  }
 }
 
 .menu-mobile-close {
