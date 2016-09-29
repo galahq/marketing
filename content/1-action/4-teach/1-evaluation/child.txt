@@ -4,42 +4,17 @@ Title: Evaluation
 
 Text: 
 
-The MSC approach of problem-driven, interdisciplinary case-based learning is more effective in equipping students to solve complex problems.
+Problem-based and case-based learning have long and successful track records in education. MSCs are taking these methods further, by harnessing new technologies to both activate students throughout the learning process and expose them to the increasingly complex reality of today’s world. 
 
-##Theories
-Problem-based and case-based learning have long and successful track records in education (e.g. Stauffacher et al. 2006; Saverly 2006). MSCs are taking these methods further by harnessing new technologies to both activate students throughout the learning process and expose them to the increasingly complex reality of today’s world. 
+MSC is being critically assessed by in-house scholars.  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), INSERT 1-2 Graphs from that paper, plus very brief explanations...
 
-Through our unique platform, MSC is working to rectify two problems in current education: 1) the weak linkages between educational innovation, basic scientific and technical concepts, and a widening experiential base of sustainability challenges; and 2) insufficient access for students to spaces of international engagement and professional interaction in their early training, which can build confidence and an understanding of professional cultures.
+*"To be honest, this case is the first assigned reading I have actually completed all the reading for this term. It was more contained, easier to focus on, more fun to read because of the videos and the visual aids."*  -Student from MSC pilot course, Winter 2016
 
-MSC is being critically assessed by in-house scholars.  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), while another study of an MSC development process demonstrated MSC’s pedagogical commitment to making clear to students the challenges of decision-making with imperfect information (Golrokhian et al. 2016). 
+Another study of an MSC development process demonstrated MSC’s pedagogical commitment to making clear to students the challenges of decision-making with imperfect information (Golrokhian et al. 2016). 
 
-References:
+MSC is dedicated to continuous evaluation. We seek feedback from users of all types. We are also committed to following cutting edge pedagogical debates. These efforts will be visible in updates to current cases and future case production.
 
-*Golrokhian et al. 2016….*
-
-*Hardin et al. ….*
-
-*Stauffacher M., A.I. Walter D.J. Lang A. Wiek R.W. Scholz, (2006),"Learning to research environmental problems from a functional socio-cultural constructivism perspective", International Journal of Sustainability in Higher Education, Vol. 7 Iss 3 pp. 252 – 275*
-
-*Savery, J. R. (2006). Overview of Problem-based Learning: Deﬁnitions and Distinctions.Interdisciplinary Journal of Problem-Based Learning, 1(1). *
-
-MSC’s ambition is that rigorous evaluation will continue.  You can work with the MSC team to begin assessment on how helpful these cases are at teaching them material. 
-
-Check out on going evaluation of learning outcomes.
-
-We would have statistics and analytics about time spent with complementary material.
-
-Studies show that students learn best by active participation in the learning process. At the heart of it, the cases are stories; they begin with a decision maker and center around a problem that needs solution oriented thinking. The cases introduce different sets of interests and perspectives, present options and trade-offs, and challenge students to make difficult choices. By working toward a successful case, students gain an inductive understanding of the core competencies of the field. Engagement in the experience leads to skills development in terms of self-confidence in STEM fields, and social skills of particular relevance to sustainability education, i.e. collaboration, communication, and intercultural and civic engagement.
-
-###Previous Assessment Data.
-###Quantitative Assessment.
-###Qualitative Assessment.
-
-&nbsp;
-
-Benefits of our approach also include the ways our process, regardless of data and outcomes, will address two fundamental priorities in current STEM formal and informal education models. First, that too little educational innovation is occurring to link the widening experiential base of sustainability challenges to better uptake of basic scientific and technical concepts relevant to local and more global food, water,
-and energy needs. Second, too few students from first generation or non traditional learning backgrounds are given access to international engagement and professional interaction in their early training, enabling them to assimilate to shifting professional cultures on sustainability challenges, and to learn by doing in ways that enable paths into (and back out of!) formal education, attaining confidence (Harvin 2015;
-Magolda 2008).
+**Keep an eye on this page as our project and case assessments progress.**
 
 ----
 
@@ -68,3 +43,7 @@ Subdescription:
 ----
 
 Wbg: 
+
+----
+
+Timeline: 
