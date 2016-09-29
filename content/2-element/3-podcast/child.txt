@@ -16,18 +16,19 @@ MSC podcasts present the material in the form of a lively conversation. Providin
 
 Here are some clips pulled from existing MSC podcast to give you a taste of how MSC podcasts: 
 
-###Unpack complex issues
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3"></audio>
-Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears. 
+##Some Heading
 
+#####Style
+###Some Heading
+Lasting about 30 minutes to an hour, MSC podcasts often take advantage of the great music selection at the University of Michigan’s student run radio station, WCBN FM. 
 
-###Critique dominant narratives
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/7g24g2b2ud20uzocqg8lf8ug5xykjcwq.mp3"></audio>
-Urban farming organizations aim to improve food access in Detroit.  We hear from a board member of one organization, about the challenges and opportunities of running an all-volunteer farm, while two activists and organizers explain the need for Detroiters to be a part of the conversation. 
+#####Topics
+###Some Heading
+MSC podcast features discussion about the background of the case, conversation about key concepts or methods, dialogue that untangles challenges and assumptions, debate over objectives and tradeoffs.
 
-###Expand the conversation
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/h3pvusrxe5ehet1roqz41fynbzoup379.mp3"></audio>
-Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this conversation beyond State borders, exploring human-wildlife conflicts in India and Yellowstone National Park, and the narratives that shape them.
+#####Format
+###Conversational, free-form radio lab quality.
+Connects experts and citizens, bridging research and practice.
 
 ----
 
@@ -49,16 +50,20 @@ Subdescription: MSC podcasts are radio segments produced by case authors in coll
 
 Wbg: 
 
-##Some Heading
+Listen to MSC podcasts, you will get to:
+###Unpack complex issues
+<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3"></audio>
+Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears. 
 
-#####Style
-###Some Heading
-Lasting about 30 minutes to an hour, MSC podcasts often take advantage of the great music selection at the University of Michigan’s student run radio station, WCBN FM. 
 
-#####Topics
-###Some Heading
-MSC podcast features discussion about the background of the case, conversation about key concepts or methods, dialogue that untangles challenges and assumptions, debate over objectives and tradeoffs.
+###Critique dominant narratives
+<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/7g24g2b2ud20uzocqg8lf8ug5xykjcwq.mp3"></audio>
+Urban farming organizations aim to improve food access in Detroit.  We hear from a board member of one organization, about the challenges and opportunities of running an all-volunteer farm, while two activists and organizers explain the need for Detroiters to be a part of the conversation. 
 
-#####Format
-###Conversational, free-form radio lab quality.
-Connects experts and citizens, bridging research and practice.
+###Expand the conversation
+<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/h3pvusrxe5ehet1roqz41fynbzoup379.mp3"></audio>
+Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this conversation beyond State borders, exploring human-wildlife conflicts in India and Yellowstone National Park, and the narratives that shape them.
+
+----
+
+Timeline: 

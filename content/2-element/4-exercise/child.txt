@@ -10,21 +10,7 @@ Description: Foster the practice of analytical, communicational, and intercultur
 
 ----
 
-Text: 
-
-Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Activities like role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries and apply new knowledge to problem-solving. Field excursions and summer travel programs are an option for some cases and students.
-
-(imgix: role-play.jpg alt: role play class: image-float-right)
-In the Michigan Wolf Wars case, students learn about the conflicts of solving ecological conflicts. Students practice their conflict resolution skills through a role-play.
-<p class="cf"></p>
-
-(imgix: cost-benefit-analysis.jpg alt: cost benefit analysis page class: image-float-right)
-In the Ethiopia NAPA case, students learn about multi-facet climate change challenges in Ethiopia, then practice economic and social Cost-Benefit Analysis through prioritizing projects that best protect Ethiopian people from climate change.
-<p class="cf"></p>
-
-(imgix: field-trip.jpg alt: field trip class: image-float-right)
-In the dam removal case, students take a field trip to the UM biostation.
-<p class="cf"></p>
+Text: Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Activities like role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries and apply new knowledge to problem-solving. Field excursions and summer travel programs are an option for some cases and students.
 
 ----
 
@@ -46,13 +32,19 @@ Subdescription: Interactive learning exercises enhance students’ mastery of sp
 
 Wbg: 
 
-##Some Heading
+Using MSC exercises, you get to:
+(imgix: role-play.jpg alt: role play class: image-float-right)
+In the Michigan Wolf Wars case, students learn about the conflicts of solving ecological conflicts. Students practice their conflict resolution skills through a role-play.
+<p class="cf"></p>
 
-#####Some heading
-###Some heading
+(imgix: cost-benefit-analysis.jpg alt: cost benefit analysis page class: image-float-right)
+In the Ethiopia NAPA case, students learn about multi-facet climate change challenges in Ethiopia, then practice economic and social Cost-Benefit Analysis through prioritizing projects that best protect Ethiopian people from climate change.
+<p class="cf"></p>
 
-#####Some heading
-###Some heading
+(imgix: field-trip.jpg alt: field trip class: image-float-right)
+In the dam removal case, students take a field trip to the UM biostation.
+<p class="cf"></p>
 
-#####Some heading
-###Some heading
+----
+
+Timeline: 
