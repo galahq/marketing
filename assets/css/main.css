@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -516,6 +517,11 @@ h1 {
   font-family: "jubilat", serif;
   font-style: italic; }
 
+h1.subpage-title {
+  font-family: "clarendon-urw", serif;
+  font-style: normal;
+  font-weight: 100; }
+
 h2, h3, h4 {
   font-family: "clarendon-urw", serif;
   line-height: 110%;
@@ -677,11 +683,6 @@ span.number-value {
   .menu-mobile ul, .menu-mobile li, .menu-mobile li a {
     list-style: none;
     display: block; }
-  .menu-mobile .second-level li {
-    border-bottom: solid 1px white; }
-    .menu-mobile .second-level li:last-child {
-      border: none;
-      padding-bottom: 1.5em; }
   .menu-mobile a {
     padding: 10px;
     text-decoration: none;
@@ -696,6 +697,20 @@ span.number-value {
   font-weight: bold;
   letter-spacing: 1px;
   background: #ebeae4; }
+  .first-level li a.active {
+    background-color: #35536f;
+    color: white; }
+
+.second-level li {
+  border-bottom: solid 1px white; }
+  .second-level li:last-child {
+    border: none;
+    padding-bottom: 1.5em; }
+  .second-level li .active {
+    background-color: #35536f;
+    color: white; }
+  .second-level li a {
+    padding-left: 2em; }
 
 .menu-mobile-close {
   background-color: #f6eabc;
@@ -733,6 +748,8 @@ span.number-value {
       background-color: rgba(0, 0, 0, 0.7) !important; } }
 
 .flex-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   justify-content: center;
   flex-flow: row wrap; }
@@ -924,6 +941,26 @@ ul.toc {
     font-size: .9em; }
     ul.toc a:hover {
       color: #68bf70; }
+
+.breadcrumb {
+  margin-top: 1em; }
+  @media (max-width: 768px) {
+    .breadcrumb {
+      margin-top: 0; } }
+  .breadcrumb li {
+    list-style: none;
+    display: inline-block;
+    font-size: 0.9em; }
+    .breadcrumb li::after {
+      content: '›'; }
+    .breadcrumb li:last-child::after {
+      content: ''; }
+
+.hiddencrumb {
+  display: none; }
+  @media (max-width: 768px) {
+    .hiddencrumb {
+      display: block; } }
 
 main.home section {
   padding-top: 2.8em;
@@ -1286,7 +1323,7 @@ audio {
     left: 50%;
     height: 100%;
     width: 4px;
-    background: #35536f; }
+    background: #ebeae4; }
     @media (max-width: 1024px) {
       #timeline::before {
         left: 18px; } }
@@ -1303,16 +1340,16 @@ audio {
   .timeline-block:last-child {
     margin-bottom: 0; }
   .timeline-block:nth-child(odd) .timeline-img {
-    background: #68bf70; }
+    background: #35536f; }
   .timeline-block:nth-child(even) .timeline-img {
-    background: #ae8059; }
+    background: #35536f; }
   .timeline-block:nth-child(even) .timeline-content {
     float: right; }
     @media (max-width: 1024px) {
       .timeline-block:nth-child(even) .timeline-content {
         float: none; } }
     .timeline-block:nth-child(even) .timeline-content::before {
-      top: 24px;
+      top: 15px;
       left: auto;
       right: 100%;
       border-color: transparent;
@@ -1345,7 +1382,8 @@ audio {
       width: 40px;
       height: 40px;
       left: 0;
-      margin: 0 auto; } }
+      margin: 0 auto;
+      top: 12px; } }
 
 .timeline-date {
   position: absolute;
@@ -1364,7 +1402,7 @@ audio {
   padding: 1.6em;
   margin-left: 0;
   width: 45%;
-  box-shadow: 0 2px 8px #35536f; }
+  box-shadow: 0 3px 0 #ebeae4; }
   @media (max-width: 1024px) {
     .timeline-content {
       margin-left: 60px;
@@ -1377,11 +1415,11 @@ audio {
   .timeline-content::before {
     content: '';
     position: absolute;
-    top: 24px;
+    top: 15px;
     left: 100%;
     height: 0;
     width: 0;
-    border: 7px solid transparent;
+    border: 15px solid transparent;
     border-left-color: white; }
     @media (max-width: 1024px) {
       .timeline-content::before {

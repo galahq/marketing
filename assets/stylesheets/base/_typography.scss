@@ -36,6 +36,12 @@ h1 {
   font-style: italic;
 }
 
+h1.subpage-title {
+  font-family: $heading-default;
+  font-style: normal;
+  font-weight: 100;
+}
+
 h2, h3, h4 {
   font-family: $heading-default;
   line-height: 110%;
