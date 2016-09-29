@@ -37,7 +37,6 @@ James DeVaney — Associate Vice Provost, Academic Innovation
 Nadine Hubbs — Professor, Women's Studies
 Jeremiah Johnson — Assistant Professor, SNRE
 Stephanie Kusano — Assessment and Evaluation Postdoctoral Research Associate, CRLT
-Steve Lonn — Assistant Director for Assessment and Evaluation, Academic Innovation
 Knute Nadelhoffer — Professor, EEB; Director, UM Biostation
 Jefferey Pearson — Associate Librarian, Askwith Media Library
 Steve Skerlos — Associate Professor, Civil & Environmental Engineering
@@ -69,6 +68,7 @@ Katherine Browne — PHD candidate at SNRE
 Claire Poeking — M.S. candidate at SNRE
 Harold Rice — B.S. at Program in the Environment
 Mary Wright —
+Steve Lonn — previous Assistant Director for Assessment and Evaluation, Academic Innovation
 
 ----
 
@@ -97,3 +97,7 @@ Subdescription:
 ----
 
 Wbg: 
+
+----
+
+Timeline: 
