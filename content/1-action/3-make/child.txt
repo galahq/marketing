@@ -22,7 +22,7 @@ Ready to get started?
 
 For step by step details, take a look at our Production Guide.
 
-<iframe src="https://docs.google.com/presentation/d/1F14lsBrqmlJcKSkeWPGHVCYxQ4Wdp08DxuJGA7P04fo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="847" height="1158" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1F14lsBrqmlJcKSkeWPGHVCYxQ4Wdp08DxuJGA7P04fo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ----
 
@@ -43,3 +43,7 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 ----
 
 Wbg: MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. When you’re ready, (link:action/make/proposal text: submit a proposal >)
+
+----
+
+Timeline: 
