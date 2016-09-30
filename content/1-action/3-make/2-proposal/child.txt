@@ -4,7 +4,7 @@ Title: Submit Proposal
 
 Text: 
 
-MSC accepts proposals on a rolling basis year round. The MSC curricular advisors meet at least once a semester to review proposals. Therefore your submitted proposals will be reviewed within four months of submission. We will notify you if your proposal is selected. 
+MSC accepts proposals on a rolling basis, year round, but the MSC curricular advisors meet at least once a semester to review proposals. Therefore your submitted proposals will be reviewed within four months of submission. We will notify you if your proposal is selected. 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2i8-4V81pJ6cX1gcI9NzxIE9WOpyB4PyOhmy8bpJw6ZIazQ/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
@@ -18,7 +18,7 @@ Description:
 
 ----
 
-Pagetagline: Submit Proposal
+Pagetagline: Submit a Proposal for an MSC
 
 ----
 
