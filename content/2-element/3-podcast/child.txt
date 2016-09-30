@@ -40,7 +40,8 @@ Subdescription: MSC podcasts are radio segments produced by case authors in coll
 
 Wbg: 
 
-Here is a taste of our podcasts. Through these, you will get to:
+Have a taste of our podcasts, where you can:
+
 ###Unpack complex issues
 <audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3"></audio>
 Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears. 

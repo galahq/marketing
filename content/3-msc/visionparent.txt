@@ -56,7 +56,7 @@ Learn more about MSC's activities by exploring:
 
 ----
 
-Pagetagline: What is and Why ‘MSC’
+Pagetagline: What is MSC?
 
 ----
 
@@ -64,4 +64,4 @@ Link:
 
 ----
 
-Pagesubtagline: Environmentally-themed Sustainability Cases &middot; Transform Pedagogy &middot; Connect Global Communities
+Pagesubtagline: Sustainability Stories &middot; Transformative Pedagogy &middot; Global Connections
