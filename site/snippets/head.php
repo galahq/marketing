@@ -9,6 +9,9 @@
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
   <?php echo css('assets/css/main.css') ?>
+  <link rel="icon"
+      type="image/png"
+      href="https://msc-public.imgix.net/msc-favicon.png" />
 
   <script src="https://use.typekit.net/fxq4rje.js"></script>
   <script>try{Typekit.load({ async: true  });}catch(e){}</script>
