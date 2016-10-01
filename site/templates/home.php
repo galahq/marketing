@@ -27,7 +27,7 @@
     </div>
 
     <figure class="flex-center-img">
-      <?php imgix('elements.png', "MSC interface example", 975) ?>
+      <img style='width:100%;'srcset="https://msc-public.imgix.net/elements.png?w=975&amp; 1x,https://msc-public.imgix.net/elements.png?w=1950&amp; 2x,https://msc-public.imgix.net/elements.png?w=2925&amp; 3x," src="https://msc-public.imgix.net/elements.png?w=975&amp;" alt="MSC interface example">
     </figure>
 
     <div class="flex-growing flex-container">
