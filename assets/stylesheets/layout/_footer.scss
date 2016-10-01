@@ -53,22 +53,7 @@
 .copyright {
   text-align: left;
   color: $ltgrey;
-  padding: 0.5em 0;
-}
-
-.colophon {
-  text-align: right;
-}
-
-.colophon a {
-    display: block;
-    color: $offwhite;
-    padding: 0.5em 0;
-
-    &:hover {
-      color: $yellow;
-      text-decoration: none;
-    }
+  padding: 2em 0;
 }
 
 footer > div {
