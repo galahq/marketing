@@ -1,20 +1,22 @@
 .flex-container {
 	@include display-flex;
-  justify-content: center;
-  flex-flow: row wrap;
+  @include justify-content(center);
+  @include flex-direction-row;
+	@include flex-wrap(wrap);
 }
 
 .flex-column-grid {
-  flex-direction: column;
+  @include flex-direction-column;
 }
 
 .flex-growing {
-	flex: 1;
+	@include flex(1);
 }
 
 .flex-column {
   @include breakpoint($mq-medium) {
-    flex-flow: column nowrap;
+    @include flex-direction-column;
+		@include flex-wrap(nowrap);
   }
   @include breakpoint($mq-small) {
     padding-bottom: 0.8em;

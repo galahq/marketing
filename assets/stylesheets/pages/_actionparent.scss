@@ -66,7 +66,7 @@
   }
   img {
     border-radius: 1rem 0 0 1rem;
-    flex: 3;
+    @include flex(3);
     object-fit: cover;
     max-width: 30%;
 
@@ -93,10 +93,10 @@
 
   &-arrow {
     width: 2em;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    @include display-flex;
+    @include flex-direction-column;
+    @include justify-content(center);
+    @include flex-align-items(center);
     padding-right: 2rem;
 
     span {
@@ -121,13 +121,13 @@
       }
     }
     @media screen and (max-width: 450px) {
-      flex-direction:row-reverse;
+      @include flex-direction-row-reverse;
     }
   }
 }
 
 .actiontext-vertical {
-  flex: 7;
+  @include flex(7);
   padding: 1.5em 1.5em 0.5em 0.5em;
   margin-left: 1em;
 
