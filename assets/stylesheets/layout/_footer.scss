@@ -14,10 +14,10 @@
 
 .footerflex {
   margin-top: 2.2em;
-  justify-content: space-between;
+  @include justify-content-space-between;
 
   @include breakpoint($mq-small) {
-    justify-content: center;
+    @include justify-content(center);
   }
 }
 
