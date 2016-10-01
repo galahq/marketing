@@ -74,7 +74,7 @@
    <?php if($site->children()->has($page)): ?>
      <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
 
-      <section class="hero" style='background: -webkit-linear-gradient(top, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+      <section class="hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
     <?php else: ?>
       <section class="hero-child">
     <?php endif ?>
