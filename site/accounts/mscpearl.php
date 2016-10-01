@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - msc/milestones
   - home/contact
   - action/make
   - action/make/proposal
   - action/teach/evaluation
-  - element/exercise

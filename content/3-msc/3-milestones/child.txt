@@ -72,8 +72,7 @@ Timeline:
     ##Initial assessment
     Initial quantitative and qualitative assessments were conducted during Dr. Rebecca Hardin's winter undergraduate level class.
   dateofevent: Winter 2016
-  newslink: >
-    ../action/teach/evaluation/initial-assessment
+  newslink: ../action/teach/evaluation
 - 
   icon: >
     https://msc-public.imgix.net/white-dot.png
