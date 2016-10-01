@@ -26,9 +26,9 @@
         <nav>
           <ul class="footermenu">
             <li><a href="<?php echo $pages->find('action')->find('teach')->find('evaluation')->url() ?>"><?php echo $pages->find('action')->find('teach')->find('evaluation')->title() ?></a></li>
-            <li><a href="<?php echo $pages->find('action')->find('teach')->find('teaching-guide')->url() ?>"><?php echo $pages->find('action')->find('teach')->find('teaching-guide')->title() ?></a></li>
             <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
             <li><a href="<?php echo $pages->find('action')->find('make')->find('proposal')->url() ?>"><?php echo $pages->find('action')->find('make')->find('proposal')->title() ?></a></li>
+            <li><a href="home/contact">Contact Us</a></li>
           </ul>
         </nav>
       </div><!--footerflexitem-->
@@ -38,9 +38,6 @@
       <div class="flex-growing copyright">
         <?php echo $site->copyright()->kirbytext() ?>
       </div><!--copyright-->
-      <div class="flex-growing colophon">
-        <a href="contact"> Contact Us </a>
-      </div><!--colophon-->
     </div><!--footerbottom-->
   </div><!--site-->
 </footer>

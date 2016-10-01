@@ -6,7 +6,7 @@ Author: The MSC Team
 
 ----
 
-Description: Introducing a new way of teaching and learning in the sustainability field. 
+Description: Introducing a new way of teaching and learning in the sustainability field.
 
 ----
 
@@ -14,7 +14,7 @@ Keywords: MSC, Michigan, Sustainability, Cases, Teaching, Learning, Innovation.
 
 ----
 
-Copyright: © MSC 2016
+Copyright: © 2016 The Regents of the University of Michigan
 
 ----
 

@@ -22,6 +22,8 @@ Ready to get started?
 
 For step by step details, take a look at our Production Guide.
 
+Please note that the MSC team is currently working on a more detailed production guide. Please check back to this page. 
+
 <iframe src="https://docs.google.com/presentation/d/1F14lsBrqmlJcKSkeWPGHVCYxQ4Wdp08DxuJGA7P04fo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ----
