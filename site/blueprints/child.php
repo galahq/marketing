@@ -34,6 +34,42 @@ fields:
   featureimg:
     label: Feature image
     type: textarea
+  umschools:
+    label: UM Schools
+    type: structure
+    entry: >
+      {{logo}} {{link}}
+    fields:
+      logo:
+        label: Logo
+        type: text
+      link:
+        label: link
+        type: text
+  umunits:
+    label: UM Units
+    type: structure
+    entry: >
+      {{logo}} {{link}}
+    fields:
+      logo:
+        label: Logo
+        type: text
+      link:
+        label: link
+        type: text
+  otherpartners:
+    label: Partners beyond UM
+    type: structure
+    entry: >
+      {{logo}} {{link}}
+    fields:
+      logo:
+        label: Logo
+        type: text
+      link:
+        label: link
+        type: text
   wbg:
     label: with background
     type: textarea

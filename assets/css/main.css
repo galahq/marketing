@@ -1421,6 +1421,54 @@ audio {
   .keyfeature-container {
     display: block; } }
 
+.partners h2 {
+  margin-bottom: 1em; }
+
+.um-logos {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin-bottom: 1em; }
+  @media (max-width: 320px) {
+    .um-logos {
+      display: block; } }
+  .um-logos figure {
+    -webkit-box-flex: 0;
+    -moz-box-flex: 0;
+    -ms-flex: 0 1 48%;
+    flex: 0 1 48%;
+    margin-right: 2%;
+    opacity: 0.85;
+    transition: opacity 0.02s ease 0.02s; }
+    .um-logos figure img {
+      width: 100%; }
+    .um-logos figure:hover {
+      opacity: 1; }
+
+.beyond-um-logos {
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  margin-bottom: 2em; }
+  .beyond-um-logos figure {
+    -webkit-box-flex: 0;
+    -moz-box-flex: 0;
+    -ms-flex: 0 1 23%;
+    flex: 0 1 23%;
+    margin-right: 2%;
+    opacity: 0.85;
+    transition: opacity 0.02s ease 0.02s; }
+    .beyond-um-logos figure img {
+      width: 100%; }
+    .beyond-um-logos figure:hover {
+      opacity: 1; }
+    @media (max-width: 320px) {
+      .beyond-um-logos figure {
+        -webkit-box-flex: 0;
+        -moz-box-flex: 0;
+        -ms-flex: 0 1 45%;
+        flex: 0 1 45%; } }
+
 .timeline-container {
   width: 90%; }
   .timeline-container:after {
