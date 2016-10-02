@@ -12,19 +12,14 @@ Description:
 
 Text: 
 
-So you want to build a case? That’s great! 
+MSCs are created through teamwork, comprised of a mix of students, faculty and practitioners. Each case requires a dynamic, narrative body of main text, multi-media Edgenotes, a podcast, learning exercises, and teaching guide. 
 
-Please keep in mind that MSCs are created through teamwork, comprised of a mix of students, faculty and practitioners. Each case requires a dynamic, narrative body of main text, multi-media Edgenotes, a podcast, learning exercises, and teaching guide. 
+This process is student-drive, on the one hand allowing students to design for students, on the other hand, enabling students to partner with professors, practitioners, and media design specialists to hone their analytical, professional networking, and communication skills. 
 
-Most of all, each case requires an important sustainability challenge. Inspiration for existing cases have come from local news, research articles and first-hand experiences. We look forward to turning your idea into an MSC.
+> I honed my writing and content development skills during the case creation process. I further gained my presentational and facilitation skills in implementing the case for an undergraduate class in winter 2016. – <span>Arman Golrokhian, author for the Ethiopia National Adaptation case</span>
 
-Ready to get started?
-
-For step by step details, take a look at our Production Guide.
-
-Please note that the MSC team is currently working on a more detailed production guide. Please check back to this page. 
-
-<iframe src="https://docs.google.com/presentation/d/1F14lsBrqmlJcKSkeWPGHVCYxQ4Wdp08DxuJGA7P04fo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>&nbsp;</p>
+(add video of Ashwini)
 
 ----
 
@@ -44,8 +39,29 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 ----
 
-Wbg: MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. When you’re ready, (link:action/make/proposal text: submit a proposal >)
+Wbg: 
+
+So you want to build a case? That’s great! 
+
+Each case requires an important sustainability challenge. Inspiration for existing cases have come from local news, research articles and first-hand experiences. We look forward to turning your idea into an MSC.
+
+For step by step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3-6 weeks. *
+
+MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. 
+When you are ready to get started  –› <a class="button" href="make/proposal">submit a proposal</a>
+
+<iframe src="https://docs.google.com/presentation/d/1F14lsBrqmlJcKSkeWPGHVCYxQ4Wdp08DxuJGA7P04fo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p>&nbsp;</p>
 
 ----
 
 Timeline: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
