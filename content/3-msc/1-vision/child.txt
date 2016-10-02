@@ -12,26 +12,24 @@ Besides MSCs campus-wide influence, we expect to have a worldwide impact by buil
 
 Text: 
 
-###The MSC Approach
-*Stories that revolve around critical issues and key players.*
+##The MSC Approach
+1. ###Stories that revolve around critical issues and key players.
 Like traditional case studies, a standard MSC is composed of a clear narrative with a decision problem, one or more decision points, and several available solutions. With a seamless incorporation of diverse audiovisual sources and in-depth interviews with real-world decision makers, MSCs revolutionize traditional case-based learning, providing a more immersive and nuanced educational experience in sustainability and environmental decision making.
 
-*Cases lead students through complex issues and help knowledge to ‘stick’. *
+2. ###Cases lead students through complex issues and help knowledge to ‘stick’. 
 Emerging ‘wicked’ sustainability problems produced by for instance climate change are no longer limited to traditional environmental fields. They are complicated, posing challenges and requiring knowledge across disciplines- yet they deserve attention even in core curriculums. Case-based learning creates space for such complexity, conveying a bigger picture even when addressing site-specific sustainability challenges.  
 
-*Designed by students, for students.*
+3. ###Designed by students, for students.
 MSC employs student authors who write the cases, curate the Edgenotes, and produce the podcasts themselves, in consultation with faculty, practitioners, and MSC staff. This allows for a secondary learning objective for student MSC makers, to develop skills in critical thought, time management, teaching and teamwork.
 
-*Open Access Library, for stories that evolve.*
+4. ###Open Access Library, for stories that evolve.
 MSC provides a library of cases that are modular to fit into a variety of classrooms, or configured in “stacks” which form cohesive curricula. This library is open access for ongoing collaboration and development. In other words, life goes on, and so do our cases. 
 
 (youtube: https://www.youtube.com/watch?v=xr6UoCW4YwY width:100% height:500px caption: This presentation was given by Associate Professor Rebecca Hardin, Director of MSC, at the UM-Biostation Scientist Winter Research Retreat in February 2016. The content applies to a broader audience who are interested in MSC.)
 
-###MSC Aspirations 
+##MSC Aspirations 
 
-Our overarching didactical ambition is to help students achieve sustainability competencies including: systems-thinking, anticipatory, normative, strategic, and interpersonal.* These skills will help develop critical, reflective and thoughtful future sustainability leaders. 
-
-*See Arnim Wiek, Lauren Withycombe, and Carles L. Redman, 2011, Key competencies in sustainability: a reference framework for academic program development, Sustain Sci, 6:203-218
+Our overarching didactical ambition is to help students achieve sustainability competencies including: systems-thinking, anticipatory, normative, strategic, and interpersonal. These skills will help develop critical, reflective and thoughtful future sustainability leaders. 
 
 With thoughtful pedagogy guiding the use of innovative e-tools and an engaging narrative style, MSC will transform sustainability learning on UM campuses as well as serving as a model for sustainability education globally. MSC will also facilitate a global sustainability learning community by building global partnerships, with resources and support for students who are interested in this ever-growing field to participate. 
 
@@ -60,3 +58,15 @@ Subdescription:
 ----
 
 Wbg: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Timeline: 
