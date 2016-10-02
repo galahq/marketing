@@ -1219,12 +1219,6 @@ main.home section {
 @media screen and (max-width: 40em) {
   .flip-flop > div {
     padding: 0; } }
-.intro-text h3 {
-  padding-top: 0.2rem; }
-  @media (max-width: 768px) {
-    .intro-text h3 {
-      padding-top: 0.4rem; } }
-
 .intro-text h2 {
   margin-bottom: 1em;
   margin-top: 1em; }
@@ -1239,6 +1233,13 @@ main.home section {
   .main.child > li, .site.blog ol > li {
     margin: 1em 0;
     text-align: -webkit-match-parent; }
+    .custom-counter > li h3,
+    .main.child > li h3, .site.blog ol > li h3 {
+      padding-top: 0.23rem; }
+      @media (max-width: 768px) {
+        .custom-counter > li h3,
+        .main.child > li h3, .site.blog ol > li h3 {
+          padding-top: 0.4rem; } }
     .custom-counter > li::before,
     .main.child > li::before, .site.blog ol > li::before {
       border-radius: 50%;
