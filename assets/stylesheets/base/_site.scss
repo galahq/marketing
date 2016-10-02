@@ -47,6 +47,9 @@ html {
 //images
 
 .image-full-width{
+  figcaption {
+    font-style: italic;
+  }
   img {border-radius:5px;
   }
   .imgix-screenshot-caption {
@@ -138,10 +141,6 @@ html {
 }
 
 //image caption
-.caption {
-  display: block;
-  color: black;
-}
 .imgix-screenshot-caption {
   margin-top: -0.6em;
   margin-left: 1.3em;
