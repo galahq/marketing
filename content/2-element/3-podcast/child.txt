@@ -10,15 +10,7 @@ Description: Conversations with relevant actors that expose students to differen
 
 ----
 
-Text: 
-
-MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts and decision-makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion driven approach, our podcasts shed light on under-explored aspects of the case material. 
-
-###Conversational and provocative
-Lasting about 30 minutes to an hour, MSC podcasts feature background information, conversations about key concepts or methods, dialogue that untangles challenges and assumptions, and debate over objectives and tradeoffs. MSC podcasts often incorporate relevant music following the exceptional tastes of our MSC hosts.
-
-###Studio quality
-MSC has partnered with the tech savvy students running the University of Michigan radio station, taking advantage of their in-house expertise and quality equipment.
+Text: MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts and decision-makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion driven approach, our podcasts shed light on under-explored aspects of the case material.
 
 ----
 
@@ -58,3 +50,16 @@ Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this c
 ----
 
 Timeline: 
+
+----
+
+Feature: 
+
+1. ###Conversational and provocative
+Lasting about 30 minutes to an hour, MSC podcasts feature background information, conversations about key concepts or methods, dialogue that untangles challenges and assumptions, and debate over objectives and tradeoffs. MSC podcasts often incorporate relevant music following the exceptional tastes of our MSC hosts.
+2. ###Studio quality
+MSC has partnered with the tech savvy students running the University of Michigan radio station, taking advantage of their in-house expertise and quality equipment.
+
+----
+
+Featureimg: (image:https://msc-public.imgix.net/podcast-iphone.png class: img-float-right alt: Learn with MSC podcast)
