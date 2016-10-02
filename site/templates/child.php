@@ -13,6 +13,16 @@
   <?php if($page->text()->isNotEmpty()) { ?>
     <section class="site blog cf">
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
+      <?php if($page->feature()->isNotEmpty()) { ?>
+        <div class="flex-container keyfeature-container">
+          <div class="keyfeature">
+            <?php echo str_replace('(\\', '(', kirbytext($page->feature())) ?>
+          </div>
+          <figure class="keyfeature-img">
+            <?php echo str_replace('(\\', '(', kirbytext($page->featureimg())) ?>
+          </figure>
+        </div>
+      <?php } ?>
     </section>
   <?php } ?>
 
