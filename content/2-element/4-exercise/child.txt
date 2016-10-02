@@ -14,13 +14,13 @@ Text:
 
 Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries. Field excursions and summer travel programs are an option for some cases and students.
 
-###Adaptable
+1. ###Adaptable
 MSC exercises are designed to be challenging; they are also adaptable, to be appropriate for different levels, from undergraduates to practitioners and policy makers.
 
-###Unscripted and improvisational 
+2. ###Unscripted and improvisational 
 Representative of real-life situations, MSC exercises provide space for  creativity, self expression and constructive conflict to emerge. 
 
-###Integrative and decision-oriented
+3. ###Integrative and decision-oriented
 Integrating experiential and analytical learning, activities guide students toward applying new knowledge to problem-solving - culminating in skills that allow for a decision.
 
 ----
@@ -65,3 +65,11 @@ In the Dam Removal case, students explore actual dams, getting them into the wat
 ----
 
 Timeline: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
