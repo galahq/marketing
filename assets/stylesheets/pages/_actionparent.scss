@@ -14,7 +14,7 @@
 
 //List
 .custom-counter,
-.main.child-page .site.blog ol {
+.main.child, .site.blog ol {
   list-style-type: none;
   counter-reset: section;
   margin-left: 3em;
