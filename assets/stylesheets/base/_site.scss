@@ -152,3 +152,16 @@ html {
 .video figcaption {
   font-style: italic;
 }
+
+//Quote
+blockquote {
+  font-style: italic;
+  background-color: $ltltgrey;
+  padding: 1em 0.5em 0.1em 1em;
+  border-radius: 5px;
+
+  span {
+    font-style: normal;
+    font-size: 0.9em;
+  }
+}
