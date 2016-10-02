@@ -28,6 +28,12 @@ fields:
   link:
     label: link
     type: text
+  feature:
+    label: Key feature
+    type: textarea
+  featureimg:
+    label: Feature image
+    type: textarea
   wbg:
     label: with background
     type: textarea

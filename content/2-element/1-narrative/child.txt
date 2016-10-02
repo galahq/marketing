@@ -22,17 +22,15 @@ Text:
 
 At the heart, our cases are stories. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of how sustainability problems can be approached. 
 
-##Our stories are found everywhere. 
+##Our stories are found everywhere.
+1. ###Topics
+MSC authors come from a variety of disciplines interested in diverse topics.
+2. ###Sectors
+MSCs work across public, private, non-profit, and other sectors.
+3. ###Scales and locations
+MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
 
-#####Topics
-###MSC authors come from a variety of disciplines interested in diverse topics 
-#####Scales and locations
-###MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
-
-(image: https://msc-public.imgix.net/msc-location-map.png class:child-bg-image caption:This map shows some locations that our MSCs are. )
-
-#####Sectors
-###MSCs work across public, private, non-profit, and other sectors.
+(image: https://msc-public.imgix.net/msc-location-map.png class:image-full-width caption:This map shows where some of our MSCs are located. )
 
 ----
 
@@ -65,3 +63,11 @@ Above are just some examples from MSCs. The narrative style allows students to i
 ----
 
 Timeline: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
