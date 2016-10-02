@@ -4,56 +4,6 @@ Title: Partners
 
 Text: 
 
-####UM Units:
-(link:http://www.snre.umich.edu/ text:School of Natural Resources and Environment (SNRE))
-The home-base of MSC, SNRE's overarching objective is to contribute to the protection of the Earth's resources and the achievement of a sustainable society. 
-
-(link:https://sph.umich.edu/ text:School of Public Health)
-The School of Public Health believes that public health should respond to core issues of the human condition such as disparities, the global community, access to information, policies, the social and cultural determinants of disease, genetics, nutrition, the environment, and more.
-
-(link:http://www.nursing.umich.edu/ text:School of Nursing)
-The School of Nursing is committed to creating a rich scholarly community that supports the advancement of both nursing as a field and the community's individual members.
-
-(link:http://obgyn.med.umich.edu/ text: Department of Obstetrics and Gynecology (OB-GYN))
-The OBGYN Department provides excellent treatment and care for patients with normal and high-risk pregnancies, and we expertly address a wide range of gynecologic and women's health concerns. 
-
-(link:http://www.engin.umich.edu/college/ text:College of Engineering)
-The Engineering College has renowned technical leadership and superb career preparation, and focuses on growing a creative community.
-
-(link:http://clasp.engin.umich.edu/ text:Climate and Space Sciences and Engineering Department (EES-AOSS))
-Climate & Space combines science and engineering, offering an integrated view of Earth and space for climate studies, planetary science, instrumentation and large-scale modeling.
-
-(link:http://ssw.umich.edu/ text:School of Social Work)
-The School of Social Work seeks to develop a more equitable, caring, and socially just society that meets basic human needs, eliminates social and economic inequities, and empowers individuals, their communities, and institutions to reach their aspirations. 
-
-####UM Campus:
-(link:http://www.crlt.umich.edu/ text:Center for Research on Learning and Teaching (CRLT))
-CRLT works with faculty, graduate student instructors and academic administrators in all nineteen schools and colleges to support and enhance learning and teaching across U-M.
-
-(link:http://ai.umich.edu/ text:Office of Academic Innovation (AI))
-AI is creating a culture of innovation in learning, aiming to shape the future of learning and redefine public residential education by unlocking new opportunities and enabling personalized, engaged, and lifelong learning for the U-M community and learners around the world.
-
-(link:https://diversity.umich.edu/ text:Diversity, Equity & inclusion (DEI))
-DEI aims to ensure that each member of our community has full opportunity to thrive in our environment, for we believe that diversity is key to individual flourishing, educational excellence and the advancement of knowledge.
-
-(link:http://www.crlt.umich.edu/programs/psot text:Provost’s Seminars on Teaching)
-Provost’s Seminars on Teaching provide an opportunity for lively and substantive dialogue about a wide range of teaching and learning issues campus wide, across disciplinary boundaries.
-
-(link:http://www.snre.umich.edu/facilities/biological_station text:University of Michigan Biological Station)
-The Biostation is a research and teaching facility with 150 buildings for housing, dining, teaching, research, maintenance, and recreation.The actual campus is laid out in the form of a small village along South Fishtail Bay on Douglas Lake.
-
-(link:https://lsa.umich.edu/sweetland text:Sweetland Center for Writing)
-Sweetland is a comprehensive writing center, existing to support student writing at all levels and in all forms and modes.
-
-####Beyond:
-(link: http://www.isb.edu/centre-for-learning-and-management-practice text: Indian School of Business)
-(link: http://www.journals.elsevier.com/world-development-perspectives/ text: World Development Perspective Journal)
-(link: https://www.sesync.org/ text: National Socio-Environmental Synthesis Center (SESYNC))
-(link: http://www.ucla.edu/ text: University of California, Los Angeles (UCLA))
-(link: http://web.mit.edu/ text: Massachusetts Institute of Technology (MIT))
-(link: http://www.harvard.edu/ text: Harvard University)
-(link: http://www.yale.edu/ text: Yale University)
-
 ----
 
 Tagline: 
@@ -81,3 +31,88 @@ Subdescription:
 ----
 
 Wbg: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Umschools: 
+
+- 
+  logo: '(image:https://msc-public.imgix.net/snre-logo.png  alt: School of Natural Resources and Environment)'
+  link: http://snre.umich.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/sph-logo.png  alt: School of Public Health)'
+  link: https://sph.umich.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/schoolofnursing-logo.png  alt: School of Nursing)'
+  link: http://www.nursing.umich.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/schoolofengineering-logo.png  alt: College of Engineering)'
+  link: http://www.engin.umich.edu/college/
+- 
+  logo: '(image:https://msc-public.imgix.net/aoss-logo.png  alt: Climate and Space Sciences and Engineering Department )'
+  link: http://clasp.engin.umich.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/ssw-logo.png  alt: School of Social Work)'
+  link: http://ssw.umich.edu/
+
+----
+
+Umunits: 
+
+- 
+  logo: '(image:https://msc-public.imgix.net/crlt-logo.png  alt: Center for Research on Learning and Teaching)'
+  link: www.crlt.umich.edu
+- 
+  logo: '(image:https://msc-public.imgix.net/ai-logo.png  alt: Academic Innovation)'
+  link: http://ai.umich.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/dei-logo.png  alt: Diversity, Equity & Inclusion)'
+  link: https://diversity.umich.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/biostation-logo.png  alt: UM Biostation)'
+  link: http://lsa.umich.edu/umbs
+- 
+  logo: '(image:https://msc-public.imgix.net/sweetland-logo.png  alt: Sweetland Writing Center)'
+  link: https://lsa.umich.edu/sweetland
+- 
+  logo: '(image:https://msc-public.imgix.net/obgyn-logo.png  alt: Department of Obstetrics and Gynecology)'
+  link: http://obgyn.med.umich.edu/
+
+----
+
+Otherpartners: 
+
+- 
+  logo: '(image:https://msc-public.imgix.net/isb-logo.png  alt: Indian School of Business)'
+  link: http://www.isb.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/wdp-logo.png  alt: World Development Perspectives)'
+  link: >
+    http://www.journals.elsevier.com/world-development-perspectives/
+- 
+  logo: '(image:https://msc-public.imgix.net/sesync-logo.png  alt: National Socio-Environmental Synthesis Center)'
+  link: https://www.sesync.org/
+- 
+  logo: '(image:https://msc-public.imgix.net/harvard-logo.png  alt: Harvard University)'
+  link: http://www.harvard.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/ucla-logo.png  alt: University of California, Los Angeles)'
+  link: http://www.ucla.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/mit-logo.png  alt: Massachusetts Institute of Technology)'
+  link: http://web.mit.edu/
+- 
+  logo: '(image:https://msc-public.imgix.net/yale-logo.png  alt: Yale University)'
+  link: http://www.yale.edu/
+
+----
+
+Timeline: 
