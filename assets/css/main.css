@@ -494,6 +494,15 @@ html {
 .video figcaption {
   font-style: italic; }
 
+blockquote {
+  font-style: italic;
+  background-color: #ddd;
+  padding: 1em 0.5em 0.1em 1em;
+  border-radius: 5px; }
+  blockquote span {
+    font-style: normal;
+    font-size: 0.9em; }
+
 body {
   color: #3b3f4e;
   line-height: 1.5em;
