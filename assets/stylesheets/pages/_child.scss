@@ -45,3 +45,58 @@ audio {
     display: block;
   }
 }
+
+//Logos
+.partners {
+  h2 {
+    margin-bottom: 1em;
+  }
+}
+
+.um-logos {
+  @include justify-content-start;
+  margin-bottom: 1em;
+
+  @include breakpoint ($mq-extra-small) {
+    display: block;
+  }
+
+  figure {
+    @include flex-tri-parameters(0, 1, 48%);
+    margin-right: 2%;
+    opacity: 0.85;
+    transition: opacity 0.02s ease 0.02s;
+
+    img {
+      width: 100%;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+.beyond-um-logos {
+  @include justify-content-start;
+  margin-bottom: 2em;
+
+  figure {
+    @include flex-tri-parameters(0, 1, 23%);
+    margin-right: 2%;
+    opacity: 0.85;
+    transition: opacity 0.02s ease 0.02s;
+
+    img {
+      width: 100%;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+
+    @include breakpoint ($mq-extra-small) {
+      @include flex-tri-parameters(0, 1, 45%);
+    }
+  }
+}
