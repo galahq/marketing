@@ -40,15 +40,29 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 
 Wbg: 
 
+<div class="gala-embedded-card">
 Engage with MSC Edgenotes, you get to explore:
 - a video of a specific stakeholder’s perspective
 - an audio clip of a report on the particular issue
 - an article the puts the problem in context
-- a map of the region where the decision is made
+- a <a data-edgenote="bill-impacts">map of the region</a> where the decision is made
 - a video of a community dealing with the construction of a free trade zone port in Nigeria
-- an audio clip of an interview with a landowner petitioning for grazing rights on state land.
+- an audio clip of an interview with a <a data-edgenote="michigan">landowner petitioning</a> for grazing rights on state land.
 - Curated portions of an article that draw on previously published work concerning the issues
 - A published report from the organization the decision maker works for ….
+</div>
+
+<div class="gala-embedded-card">
+Engage with MSC Edgenotes, you get to explore:
+- a video of a specific stakeholder’s perspective
+- an audio clip of a report on the particular issue
+- an article the puts the problem in context
+- a <a data-edgenote="bill-impacts">map of the region</a> where the decision is made
+- a video of a community dealing with the construction of a free trade zone port in Nigeria
+- an audio clip of an interview with a for grazing rights on state land.
+- Curated portions of an article that draw on previously published work concerning the issues
+- A published report from the organization the decision maker works for ….
+</div>
 
 ----
 
@@ -61,3 +75,15 @@ Feature:
 ----
 
 Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 

@@ -71,6 +71,7 @@
         <?php echo $page->wbg()->kirbytext(); ?>
       </div>
     </section>
+    <?php echo js('assets/js/edgenote.bundle.js'); ?>
   <?php } ?>
 
   <?php if($page->timeline()->isNotEmpty()) { ?>
