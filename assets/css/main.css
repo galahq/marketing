@@ -477,6 +477,9 @@ html {
       max-width: 100%;
       margin: 0; } }
 
+.image-small {
+  max-width: 300px; }
+
 .headshots-float-left {
   float: left;
   width: 120px;
@@ -1381,8 +1384,6 @@ main.home section {
   margin-top: 2.5em;
   background-color: #ebeae4;
   padding: 2em 0; }
-  .child-background h2 {
-    text-align: center; }
   .child-background h5 {
     margin-top: 3em; }
 
@@ -1481,6 +1482,9 @@ audio {
   margin-top: 2.5em;
   margin-left: 3em;
   margin-bottom: 1em; }
+
+.no-clear h3 {
+  clear: none; }
 
 .timeline-container {
   width: 90%; }
