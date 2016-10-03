@@ -4,15 +4,15 @@ Title: Evaluation
 
 Text: 
 
-Problem-based and case-based learning have long and successful track records in education. MSCs are taking these methods further, by harnessing new technologies to both activate students throughout the learning process and expose them to the increasingly complex reality of today’s world. 
+Problem-based and case-based learning have long and successful track records in education. MSC takes these methods further, by **harnessing new technologies** to both **activate students** throughout the learning process and **expose them** to the increasingly **complex reality** of today’s world. 
 
-MSC is being critically assessed by in-house scholars.  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), INSERT 1-2 Graphs from that paper, plus very brief explanations... (image: https://msc-public.imgix.net/evaluation-fig-satisfaction.png class:image-float-right)
+MSC is being critically assessed by in-house scholars in partnership with the Center for Research on Learning and Teaching (CRLT).  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), INSERT 1-2 Graphs from that paper, plus very brief explanations... (image: https://msc-public.imgix.net/evaluation-fig-satisfaction.png class:image-float-right)
 
 *"To be honest, this case is the first assigned reading I have actually completed all the reading for this term. It was more contained, easier to focus on, more fun to read because of the videos and the visual aids."*  -Student from MSC pilot course, Winter 2016. 
 
 Another study of an MSC development process demonstrated MSC’s pedagogical commitment to making clear to students the challenges of decision-making with imperfect information (Golrokhian et al. 2016). 
 
-MSC is dedicated to continuous evaluation. We seek feedback from users of all types. We are also committed to following cutting edge pedagogical debates. These efforts will be visible in updates to current cases and future case production.
+MSC is committed to **continuous evaluation**. We actively seek user feedback and stay abreast of cutting-edge pedagogical debates. These efforts will inform udates to current cases and future case production.
 
 *Keep an eye on this page as our project and case assessments progress.*
 

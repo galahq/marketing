@@ -20,7 +20,6 @@
                         'assets/js/vendor/jquery.easing.min.js',
                         'assets/js/menu-mobile.js'
                       )) ?>
-
-
+                      
 </head>
 <body class="<?php echo str_replace('.', '-', $page->template()) ?>" id="top">
