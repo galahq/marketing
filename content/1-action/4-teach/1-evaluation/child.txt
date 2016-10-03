@@ -4,7 +4,7 @@ Title: Evaluation
 
 Text: 
 
-Problem-based and case-based learning have long and successful track records in education. MSCs are taking these methods further, by harnessing new technologies to both activate students throughout the learning process and expose them to the increasingly complex reality of today’s world. 
+Problem-based and case-based learning have long and successful track records in education. MSCs are taking these methods further, by *harnessing new technologies to both activate students* throughout the learning process and expose them to the increasingly complex reality of today’s world. 
 
 MSC is being critically assessed by in-house scholars.  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), INSERT 1-2 Graphs from that paper, plus very brief explanations...
 
