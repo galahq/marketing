@@ -47,7 +47,6 @@ Wbg:
 ----
 
 Timeline: 
-<<<<<<< ours
 
 ----
 
@@ -68,8 +67,3 @@ Umunits:
 ----
 
 Otherpartners: 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> theirs
->>>>>>> writing
