@@ -39,7 +39,8 @@ Subdescription: Collaboratively problem-solve in class through group activities 
 Wbg: 
 
 ##Using the Groups function to expand your learning
-###Private Groups
+(image: https://msc-public.imgix.net/private-group.png class:child-icon)
+<div class="icon-h3"><h3>Private Groups</h3></div>
 For quick access to insights from your peers, establish groups by:
 - Campus 
 - Classroom
@@ -47,7 +48,8 @@ For quick access to insights from your peers, establish groups by:
 
 Not restricted to formal education institutions, private groups can also be established in organizations like NGOs or companies. Certain private comment streams can (with permission) be lifted into other private as well as public groups. In this way, discussions are preserved and passed on to new learners, making the cases living entities that are constantly evolving. 
 
-###Public Groups
+(image: https://msc-public.imgix.net/public-group.png class:child-icon)
+<div class="icon-h3"><h3>Public Groups</h3></div>
 Public groups are open access, for broader participation of those who have first-hand knowledge of or a stake in the cases. These groups are established by:
 - Interest, such as with regard to specific policy or advocacy standpoints, farmers, unions, …
 - Identity, such as indigenous, women, feminists, capitalists, neo-Marxists, …
@@ -56,3 +58,27 @@ Public groups are open access, for broader participation of those who have first
 - and whatever else develops organically through user involvement, …
 
 Motivated by urgent sustainability challenges, the informal learning produced by these groups transcends geographical, cultural, and generational distances.
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Timeline: 
