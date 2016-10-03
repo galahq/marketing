@@ -1471,6 +1471,17 @@ audio {
         -ms-flex: 0 1 45%;
         flex: 0 1 45%; } }
 
+.child-icon img {
+  width: 50px;
+  float: left;
+  margin-top: 1em; }
+
+.icon-h3 h3 {
+  clear: right;
+  margin-top: 2.5em;
+  margin-left: 3em;
+  margin-bottom: 1em; }
+
 .timeline-container {
   width: 90%; }
   .timeline-container:after {
