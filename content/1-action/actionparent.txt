@@ -47,11 +47,9 @@ Reasons:
   heading: Real-life issues
 - 
   text: >
-    Departing from traditional text-based
-    methods, MSC incorporates multimedia
-    tools and materials, to support more
-    learner needs and preferences.
-  heading: Diversified Learning Medium
+    Acknowledging that people learn differently, MSC incorporates a variety of multimedia
+    tools and materials to support more needs and preferences.
+  heading: Inclusive Learning Platform
 - 
   text: "MSC's digital platform is designed to give students access to cases with ease, using different devices, from all around the world."
   heading: Digitally Enhanced
