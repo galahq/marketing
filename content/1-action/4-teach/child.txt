@@ -12,7 +12,7 @@ Description:
 
 Text: 
 
-Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need **innovative approaches and thoughtful guidance** to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is **systematic, creative, socially just** and **inter-culturally intelligent**. 
+Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need **innovative approaches** and **thoughtful guidance** to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is **systematic, creative, socially just** and **inter-culturally intelligent**. 
 
 Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which are found to suppress student creativity and engagement. MSC is expanding upon the best of case-based learning, building problem-driven, solution-focused, multi-modal approaches emphasizing experiential learning. Learn more about how MSC envisions sustainability education of the future, here.
 
@@ -51,6 +51,7 @@ MSCs are digitally enhanced to allow easy access from different devices around t
 
 4. ###Effective
 MSC is much more effective in equipping students with the competencies to solve complex problems. (link:action/teach/evaluation text: Check out MSC evaluation >)
+
 
 Ready to bring MSCs into your classroom? (link:http://www.learnmsc.org text:Explore our available cases >)
 
