@@ -12,7 +12,7 @@ Description:
 
 Text: 
 
-Student achievement is the cornerstone of MSC. Students take the lead, designing MSCs with future students in mind, while benefitting from productive partnerships with professors, practitioners, and media design specialists. Analytical, professional networking, and communication skills are sharpened along the way. 
+**Student achievement** is the cornerstone of MSC. Students take the lead, designing MSCs with future students in mind, while benefitting from productive partnerships with professors, practitioners, and media design specialists. Analytical, professional networking, and communication skills are sharpened along the way. 
 
 > I honed my writing and content development skills during the case creation process. I further gained presentation and facilitation skills in implementing the case for an undergraduate class in winter 2016. – <span>Arman Golrokhian, UM Master student and author of the Ethiopia National Adaptation case</span>
 
@@ -39,11 +39,11 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 Wbg: 
 
-So you want to build a case? That’s great! 
+So, you want to build a case? That’s great! 
 
 Each case requires an important sustainability challenge. Inspiration for existing cases have come from local news, research articles and first-hand experiences. We look forward to turning your idea into an MSC.
 
-For step by step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3-6 weeks. *
+For step-by-step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3-6 weeks.*
 
 MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. 
 When you are ready to get started  –› <a class="button" href="make/proposal">submit a proposal</a>
@@ -62,4 +62,4 @@ Feature:
 
 ----
 
-Featureimg: 
+Featuring: 
