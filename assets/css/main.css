@@ -411,6 +411,8 @@ html {
   .main ul {
     margin-left: 1.5em;
     margin-bottom: 1em; }
+    .main ul li {
+      margin-bottom: 0.6em; }
 
 .blog {
   position: relative;
