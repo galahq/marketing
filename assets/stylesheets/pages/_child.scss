@@ -3,10 +3,6 @@
   background-color: $offwhite;
   padding: 2em 0;
 
-  h2 {
-    text-align: center;
-  }
-
   h5 {
     margin-top: 3em;
   }
@@ -115,4 +111,8 @@ audio {
   margin-top: 2.5em;
   margin-left: 3em;
   margin-bottom: 1em;
+}
+//No clear h3
+.no-clear h3{
+  clear: none;
 }

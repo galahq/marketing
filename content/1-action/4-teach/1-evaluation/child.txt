@@ -8,7 +8,6 @@ Problem-based and case-based learning have long and successful track records in 
 
 MSC is being critically assessed by in-house scholars in partnership with the Center for Research on Learning and Teaching (CRLT).  For instance, a study of the first stages of MSC implementation in two classrooms produced positive results (Hardin et al. 2016), INSERT 1-2 Graphs from that paper, plus very brief explanations...(image: https://msc-public.imgix.net/evaluation-fig-satisfaction.png class:image-float-right)
 
-
 *"To be honest, this case is the first assigned reading I have actually completed all the reading for this term. It was more contained, easier to focus on, more fun to read because of the videos and the visual aids."*  -Student from MSC pilot course, Winter 2016. 
 
 Another study of an MSC development process demonstrated MSC’s pedagogical commitment to making clear to students the challenges of decision-making with imperfect information (Golrokhian et al. 2016). 
@@ -69,5 +68,8 @@ Umunits:
 ----
 
 Otherpartners: 
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> theirs
+>>>>>>> writing

@@ -18,6 +18,8 @@ The next generation of scientists, policy makers, entrepreneurs and engineers ne
 
 Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which suppress student interest. The Michigan Sustainability Cases (MSC) initiative is expanding upon the best of case-based learning, building problem-driven, solution-focused approaches emphasizing student-driven experiential learning.  Learn more about how MSC envisions sustainability education of the future, here.
 
+(youtube: https://www.youtube.com/watch?v=H3qJf8pXOJQ width:100% height:500px caption: Professor Steve Yaffee, author and instructor of the wolf case)
+
 ----
 
 Link: action/teach
@@ -38,23 +40,41 @@ Subdescription: MSC works through both practice and theory; MSC’s modularity s
 
 Wbg: 
 
-## Some Heading
-###‘Blended’ learning
+1. ###‘Blended’ learning
 MSCs were conceptualized to support blended learning approaches, harnessing the best of online and face to face learning. MSCs ‘flip’ classrooms, equipping students before they get to class, for face to face engagement. This minimizes the need for traditional top down lectures that restrict active participation. Instructors can also choose to go fully online for distance learning. 
 
-###Modular
+2. ###Modular
 Because MSCs are both interdisciplinary and modular, they are useful to many types of classrooms and teaching schedules. Bring in a single case or configure “stacks” of cases to form a cohesive curriculum. Each case leverages hands-on knowledge in relation to theory and emphasizes practical skill development.
 
-###Accessible 
+3. ###Accessible 
 MSCs are digitally enhanced to allow easy access from different devices around the world. The platform is responsive to different screen sizes, so students can engage via a computer, tablet or smartphone. It offers students the opportunity to listen and learn on the go.
 
-###Effective
-MSC is much more effective in equipping students with the competencies to solve complex problems.
-- (link:action/teach/evaluation text: Check out MSC evaluation >)
+4. ###Effective
+MSC is much more effective in equipping students with the competencies to solve complex problems. (link:action/teach/evaluation text: Check out MSC evaluation >)
 
 Ready to bring MSCs into your classroom? 
-- (link:http://www.learnmsc.org text:Explore our available cases >)
+(link:http://www.learnmsc.org text:Explore our available cases >)
 
 ----
 
 Timeline: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
