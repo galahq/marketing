@@ -12,7 +12,7 @@ Description:
 
 Text: 
 
-Collaboration is critical to MSC, from case inception to in-class exercises and all the way to final decision making. Yet, MSC also wants to promote collaboration at **different scales**. So, an additional function is currently under development: **online groups**, formed by interest, discipline, location, classrooms or study groups. These groups will provide **unique lenses** for students and others to shift amongst perspectives on any given case. 
+Collaboration is critical to MSC, from case inception to in-class exercises and all the way to final decision making. Yet, MSC also wants to facilitate collaboration at **different scales**. To do so, we are currently develping an additional function: **online groups**, formed by interest, discipline, location, classrooms or study groups. These groups will provide **unique lenses** for students and others to shift amongst perspectives on any given case. 
 (imgix_screenshot: policy-wonks.jpg alt: case cover page class: image-float-right-parent caption: Comment stream on an MSC)
 As you explore a case, turn comments off and read it through your own eyes. Then, make visible the comments by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
 
