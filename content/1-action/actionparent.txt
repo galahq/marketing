@@ -53,7 +53,7 @@ Reasons:
     learner needs and preferences.
   heading: Diversified Learning Medium
 - 
-  text: "MSC's digital platform is designed to give students access to cases with ease, using different devices, located all around the world."
+  text: "MSC's digital platform is designed to give students access to cases with ease, using different devices, from all around the world."
   heading: Digitally Enhanced
 - 
   text: >
