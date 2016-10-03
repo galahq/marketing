@@ -38,14 +38,14 @@ Subdescription: Unfold challenging problems through the eyes of key actors; expl
 
 Wbg: 
 
-### Shortcut your skill-building through fun activities
+## Shortcut your skill-building through fun activities
 Our cases pull learners quickly into the story, making learning fun and effective.
 (imgix: learnwithvideo.jpg class: image-float-right)
 - Start by seeing problems through the eyes of decision–makers. Our (link:element/narrative text:narrative) style leads to inductive learning.
 - “Meet" different stakeholders and experts and dig deeper into facts via (link:element/edgenote text:multimedia Edgenotes) and the (link:element/podcast text:podcast). These elements expand the spectrum of perspectives.
 - Finally, it’s time to react. (link:element/exercise text:Engaged learning exercises)  allow you to build skills while putting them into practice. Apply your knowledge and come to real-life decisions. 
 
-### Inspiration from the world around us
+## Inspiration from the world around us
 Some MSCs come from right on our doorstep; others come from the other side of the world. Our case authors find inspiration in recent and ongoing research, activism and journalism. All are grounded in actual sustainability crises. Here are just a few examples: 
 (imgix: learnwitharticle2.jpg class: image-float-right)
 - A May 2016 article by Michigan local media MLive, *Should cleaning up the Gelman dioxane plume be a national priority?*, addresses an issue of great interest to UM student Anna Prushinskaya. Anna has been producing an MSC on how city, county, and federal actors come to a decision on whether a full scale clean-up of this environmental disaster, or just a 'mitigation' of the risks, is most appropriate.
@@ -63,3 +63,15 @@ Featureimg:
 ----
 
 Timeline: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
