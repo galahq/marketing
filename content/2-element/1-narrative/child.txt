@@ -22,7 +22,7 @@ Text:
 
 At the heart, our cases are stories. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of how sustainability problems can be approached. 
 
-##Our stories are wide-ranging, traversing an impressive array of:
+##MSCs are wide-ranging, traversing an impressive array of:
 1. ###Topics
 MSC authors come from a variety of disciplines interested in diverse topics.
 2. ###Sectors
