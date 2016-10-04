@@ -1,7 +1,7 @@
 <?php snippet('head') ?>
 <?php snippet('header') ?>
 
-<main class="main" role="main">
+<main class="main" id="<?php echo $page->uid() ?>" role="main">
   <?php if($page->pagetagline()->isEmpty()) { ?>
     <div class="blog site">
     <h1 class="subpage-title">
