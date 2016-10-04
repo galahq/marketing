@@ -12,7 +12,7 @@ Description:
 
 Text: 
 
-Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need **innovative approaches** and **thoughtful guidance** to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is **systematic, creative, socially just**, and **inter-culturally intelligent**. 
+Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need *innovative approaches* and *thoughtful guidance* to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is *systematic, creative, socially just*, and *inter-culturally intelligent*. 
 
 Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which are found to suppress student creativity and engagement. MSC is expanding upon the best of case-based learning, building problem-driven, solution-focused, multi-modal approaches emphasizing experiential learning. Learn more here about how MSC envisions sustainability education of the future.
 
@@ -37,6 +37,7 @@ Subdescription: MSC works through both practice and theory; MSC’s modularity s
 ----
 
 Wbg: 
+
 ##How can MSCs serve you?##
 MSCs impart enormous benefits for instructors.
 
@@ -44,7 +45,7 @@ MSCs impart enormous benefits for instructors.
 MSCs were conceptualized to support blended learning approaches, harnessing the best of online and face to face learning. MSCs ‘flip’ classrooms, equipping students before they get to class, for meaningful discussions. This minimizes the need for traditional top-down lectures that restrict active participation. Instructors can also choose to go fully online for distance learning. 
 
 2. ###Modular
-Because MSCs are both interdisciplinary and modular, they are useful to many types of classrooms and teaching schedules. Bring in a single case or configure stacks of cases to form a cohesive curriculum. Each case leverages hands-on knowledge in relation to theory and emphasizes practical skill development.
+Because MSCs are both interdisciplinary and modular, they are useful to many types of classrooms and teaching schedules. Bring in a single case or configure stacks of cases to form a cohesive curriculum. Each case leverages hands-on knowledge in relation to theory and emphasizes practical skill development. 
 
 3. ###Accessible 
 MSCs are digitally enhanced to allow easy access from different devices around the world. The platform is responsive to different screen sizes, so students can take part via a computer, tablet, or smartphone. It offers students the opportunity to listen and learn on the go.
@@ -52,7 +53,7 @@ MSCs are digitally enhanced to allow easy access from different devices around t
 4. ###Effective
 MSC is much more effective in equipping students with the competencies needed to solve complex problems. (link:action/teach/evaluation text: Check out MSC evaluation >)
 
-
+(imgix: teach-in-group.jpg class:image-full-width)
 Ready to bring MSCs into your classroom? (link:http://www.learnmsc.org text:Explore our available cases >)
 
 ----
