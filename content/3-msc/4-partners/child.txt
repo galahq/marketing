@@ -45,22 +45,22 @@ Featureimg:
 Umschools: 
 
 - 
-  logo: '(image:https://msc-public.imgix.net/snre-logo.png  alt: School of Natural Resources and Environment)'
+  logo: '(imgix: snre-logo.png  alt: School of Natural Resources and Environment)'
   link: http://snre.umich.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/sph-logo.png  alt: School of Public Health)'
+  logo: '(imgix: sph-logo.png  alt: School of Public Health)'
   link: https://sph.umich.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/schoolofnursing-logo.png  alt: School of Nursing)'
+  logo: '(imgix: schoolofnursing-logo.png  alt: School of Nursing)'
   link: http://www.nursing.umich.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/schoolofengineering-logo.png  alt: College of Engineering)'
+  logo: '(imgix: schoolofengineering-logo.png  alt: College of Engineering)'
   link: http://www.engin.umich.edu/college/
 - 
-  logo: '(image:https://msc-public.imgix.net/aoss-logo.png  alt: Climate and Space Sciences and Engineering Department )'
+  logo: '(imgix: aoss-logo.png  alt: Climate and Space Sciences and Engineering Department )'
   link: http://clasp.engin.umich.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/ssw-logo.png  alt: School of Social Work)'
+  logo: '(imgix: ssw-logo.png  alt: School of Social Work)'
   link: http://ssw.umich.edu/
 
 ----
@@ -68,22 +68,22 @@ Umschools:
 Umunits: 
 
 - 
-  logo: '(image:https://msc-public.imgix.net/crlt-logo.png  alt: Center for Research on Learning and Teaching)'
+  logo: '(imgix: crlt-logo.png  alt: Center for Research on Learning and Teaching)'
   link: www.crlt.umich.edu
 - 
-  logo: '(image:https://msc-public.imgix.net/ai-logo.png  alt: Academic Innovation)'
+  logo: '(imgix: ai-logo.png  alt: Academic Innovation)'
   link: http://ai.umich.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/dei-logo.png  alt: Diversity, Equity & Inclusion)'
+  logo: '(imgix: dei-logo.png  alt: Diversity, Equity & Inclusion)'
   link: https://diversity.umich.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/biostation-logo.png  alt: UM Biostation)'
+  logo: '(imgix: biostation-logo.png  alt: UM Biostation)'
   link: http://lsa.umich.edu/umbs
 - 
-  logo: '(image:https://msc-public.imgix.net/sweetland-logo.png  alt: Sweetland Writing Center)'
+  logo: '(imgix: sweetland-logo.png  alt: Sweetland Writing Center)'
   link: https://lsa.umich.edu/sweetland
 - 
-  logo: '(image:https://msc-public.imgix.net/obgyn-logo.png  alt: Department of Obstetrics and Gynecology)'
+  logo: '(imgix: obgyn-logo.png  alt: Department of Obstetrics and Gynecology)'
   link: http://obgyn.med.umich.edu/
 
 ----
@@ -91,26 +91,26 @@ Umunits:
 Otherpartners: 
 
 - 
-  logo: '(image:https://msc-public.imgix.net/isb-logo.png  alt: Indian School of Business)'
+  logo: '(imgix: isb-logo.png  alt: Indian School of Business)'
   link: http://www.isb.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/wdp-logo.png  alt: World Development Perspectives)'
+  logo: '(imgix: wdp-logo.png  alt: World Development Perspectives)'
   link: >
     http://www.journals.elsevier.com/world-development-perspectives/
 - 
-  logo: '(image:https://msc-public.imgix.net/sesync-logo.png  alt: National Socio-Environmental Synthesis Center)'
+  logo: '(imgix: sesync-logo.png  alt: National Socio-Environmental Synthesis Center)'
   link: https://www.sesync.org/
 - 
-  logo: '(image:https://msc-public.imgix.net/harvard-logo.png  alt: Harvard University)'
+  logo: '(imgix: harvard-logo.png  alt: Harvard University)'
   link: http://www.harvard.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/ucla-logo.png  alt: University of California, Los Angeles)'
+  logo: '(imgix: ucla-logo.png  alt: University of California, Los Angeles)'
   link: http://www.ucla.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/mit-logo.png  alt: Massachusetts Institute of Technology)'
+  logo: '(imgix: mit-logo.png  alt: Massachusetts Institute of Technology)'
   link: http://web.mit.edu/
 - 
-  logo: '(image:https://msc-public.imgix.net/yale-logo.png  alt: Yale University)'
+  logo: '(imgix: yale-logo.png  alt: Yale University)'
   link: http://www.yale.edu/
 
 ----
