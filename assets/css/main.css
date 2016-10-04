@@ -1009,10 +1009,7 @@ ul.toc {
   flex-flow: row wrap;
   justify-content: flex-start; }
   .gala-embedded-card section > div {
-    flex: 0 1 23em; }
-    @media screen and (max-width: 1440px) {
-      .gala-embedded-card section > div {
-        flex: 0 1 27em; } }
+    flex: 1 1 21em; }
     .gala-embedded-card section > div a[data-edgenote] {
       text-decoration: none;
       color: inherit;
@@ -1023,7 +1020,7 @@ ul.toc {
         background-color: #6acb72;
         color: inherit; }
   .gala-embedded-card section aside.edgenotes {
-    flex: 1 1 20em;
+    flex: 1 1 22em;
     background-color: #3b3f4e; }
     .gala-embedded-card section aside.edgenotes figcaption {
       letter-spacing: 0.1px; }
@@ -1519,7 +1516,8 @@ audio {
   clear: none; }
 
 #edgenotes .gala-embedded-card h3 {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  margin-top: 1em; }
 
 .timeline-container {
   width: 90%; }

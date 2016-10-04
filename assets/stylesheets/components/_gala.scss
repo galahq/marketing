@@ -4,10 +4,7 @@
   justify-content: flex-start;
 
   & > div {
-    flex: 0 1 23em;
-    @media screen and (max-width: 1440px) {
-      flex: 0 1 27em;
-    }
+    flex: 1 1 21em;
 
     a[data-edgenote] {
       text-decoration: none;
@@ -25,7 +22,7 @@
   }
 
   aside.edgenotes {
-    flex: 1 1 20em;
+    flex: 1 1 22em;
         background-color: $darkgrey;
 
           figcaption {
