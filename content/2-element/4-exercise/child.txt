@@ -43,7 +43,7 @@ Subdescription: Interactive learning exercises enhance students’ mastery of sp
 
 Wbg: 
 
-##MSC exercises takes advantage of face to face interaction.
+##MSC exercises challenge you to:
 
 (imgix: role-play.jpg alt: role play class: image-float-right image-small)
 <p>&nbsp;</p>
