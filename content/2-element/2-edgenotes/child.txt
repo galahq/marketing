@@ -64,7 +64,7 @@ Sample our Edgenotes to see how they help you explore:
 In the <a href="">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
 </div>
 <div class="gala-embedded-card">
-While in the Baltimore smart meters case, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
+While in the <a href="">Baltimore smart meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
 </div>
 
 ----
