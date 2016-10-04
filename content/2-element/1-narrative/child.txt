@@ -28,7 +28,7 @@ MSC authors represent a variety of disciplines interested in diverse topics.
 2. ###Sectors
 MSCs engage with public, private, non-profit, and other sectors.
 3. ###Scales and locations
-MSCs occur at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
+MSCs occur at multiple scales and locations, ranging from global to national and subnational, pre to post industrial, and rural to urban. 
 
 (image: https://msc-public.imgix.net/msc-location-map.png class:image-full-width caption: The locations of some of our MSCs. )
 
@@ -38,7 +38,7 @@ Link: element/narrative
 
 ----
 
-Subdescription: Each MSC tells a story of a real-world problem with a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses. As the problem unfolds, key decision makers and stakeholders are introduced, alongside their stakes and tradeoffs.
+Subdescription: Each MSC tells the story of a real-world problem with a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses. As the problem unfolds, key decision makers and stakeholders are introduced, alongside their stakes and tradeoffs.
 
 ----
 
