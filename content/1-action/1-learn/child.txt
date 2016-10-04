@@ -39,8 +39,8 @@ Subdescription: Unfold challenging problems through the eyes of key actors; expl
 Wbg: 
 
 ## Making learning fun and effective
-(imgix: learnwithvideo.jpg class: image-float-right)
 Our cases pull you quickly into the story, immersing you in challenging sustainablity puzzles.
+(imgix: learnwithvideo.jpg class: image-float-right)
 - Start by seeing problems through the eyes of decision–makers. Our (link:element/narrative text:narrative) style leads to inductive learning.
 - “Meet" different stakeholders and experts and dig deeper into facts via (link:element/edgenote text:multimedia Edgenotes) and the (link:element/podcast text:podcast). These elements expand the spectrum of perspectives.
 - Finally, it’s time to react. (link:element/exercise text:Engaged learning exercises)  allow you to build skills while putting them into practice. Apply your knowledge and come to real-life decisions. 
