@@ -22,15 +22,15 @@ Text:
 
 At the heart, our cases are stories. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of how sustainability problems can be approached. 
 
-##Our stories are found everywhere.
+##Our stories are wide-ranging, traversing an array of:
 1. ###Topics
-MSC authors come from a variety of disciplines interested in diverse topics.
+MSC authors represent a variety of disciplines interested in diverse topics.
 2. ###Sectors
-MSCs work across public, private, non-profit, and other sectors.
+MSCs engage with public, private, non-profit, and other sectors.
 3. ###Scales and locations
-MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
+MSCs occur at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
 
-(image: https://msc-public.imgix.net/msc-location-map.png class:image-full-width caption:This map shows where some of our MSCs are located. )
+(image: https://msc-public.imgix.net/msc-location-map.png class:image-full-width caption:A map displaying the location of some of our MSCs. )
 
 ----
 
@@ -44,7 +44,7 @@ Subdescription: Each MSC tells a story of real-world problem with a challenging 
 
 Wbg: 
 
-By reading our stories, you will get to:
+##Reading our stories gives you the chance to:
 
 (image: https://msc-public.imgix.net/josh_castonguay.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-left)
 Visualize yourself as Chief Innovation Officer of Vermont’s Green Mountain Power utility company, Josh Castonguay. You are weighing the pros and cons of pairing up with Tesla and offering its new ‘Powerwall’ battery as a “behind the meter” renewable energy option to your customers. Yet, many uncertainties exist with regard to customer uptake and interactions with the standard utility grid.  Should you try to find a way to bring new energy technologies to your clients? If so, how exactly?
@@ -58,7 +58,8 @@ Imagine that you are Nikki Rothwell, the Coordinator of the Northwest Michigan H
 (image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop class: headshots-float-right)
 Put yourself in the shoes of the co-founder and President of the Michigan Urban Farming Initiative (MUFI), Tyson Gersh. MUFI is a volunteer-run community urban agriculture organization subsisting off of the fundraising efforts of its 35,000 social media supporters. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding, or fundamentally challenge the core of MUFI's identity. Which strategy best empowers communities, to empower themselves?
 
-Above are just some examples from MSCs. The narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles.
+
+The above are just a first taste of our MSC storylines. MSC's narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles.
 
 ----
 

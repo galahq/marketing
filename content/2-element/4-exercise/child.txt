@@ -12,20 +12,20 @@ Description: Foster the practice of analytical, communication, and intercultural
 
 Text: 
 
-Interactive learning exercises provide students with experiences to dive deeper into practice and quickly gain skills. Role-playing, design challenges and quantitative analysis guide students toward an understanding of the implications that a case carries. Field excursions and summer travel programs are an option for some cases and students.
+Interactive learning exercises such as role-play, design challenges, and quantitative analysis provide students with experiences to dive deeper into practice and quickly strengthen skills. Field excursions and summer travel programs are an option for some cases and students. Overall, MSC exercises are:
 
 1. ###Adaptable
-MSC exercises are designed to be challenging; they are also adaptable, to be appropriate for different levels, from undergraduates to practitioners and policy makers.
+Designed to be challenging, they are also adaptable to be appropriate for different levels, from undergraduates to practitioners and policy makers.
 
 2. ###Unscripted and improvisational 
-Representative of real-life situations, MSC exercises provide space for  creativity, self expression and constructive conflict to emerge. 
+Reflecting real-life situations, MSC exercises provide space for  creativity, self expression, and constructive conflict to emerge. 
 
 3. ###Integrative and decision-oriented
 Integrating experiential and analytical learning, activities guide students toward applying new knowledge to problem-solving - culminating in skills that allow for a decision.
 
 ----
 
-Pagetagline: Shortcut to Skill-building
+Pagetagline: Put Skills into Practice
 
 ----
 
@@ -33,7 +33,7 @@ Link: element/exercise
 
 ----
 
-Pagesubtagline: Hands-on &middot; Fun &middot; Different Formats
+Pagesubtagline:   Stimulating &middot; Hands-on &middot; Diverse Formats
 
 ----
 
