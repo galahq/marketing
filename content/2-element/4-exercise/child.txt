@@ -33,7 +33,7 @@ Link: element/exercise
 
 ----
 
-Pagesubtagline:   Stimulating &middot; Hands-on &middot; Diverse Formats
+Pagesubtagline: Stimulating &middot; Hands-on &middot; Diverse Formats
 
 ----
 
@@ -57,16 +57,17 @@ In the Wolf Wars case, students use role play to learn more about solving ecolog
 In the National Adaptation case, students practice economic and social Cost-Benefit Analysis to rank projects that can best protect Ethiopian people from climate changes.
 <p class="cf"></p>
 
-(imgix: field-trip.jpg alt: field trip class: image-float-right image-small)
+(imgix: exercise-mufi.jpg alt: field trip class: image-float-right image-small)
 <p>&nbsp;</p>
 <div class="no-clear"><h3>Map and explore</h3></div>
-In the Urban Farming case, students use an interactive map called Social Explorer to visualize land allocation and use, then take a field trip to observe urban farms in Detroit with their own eyes.
+In the Urban Farming case, students use an interactive map called *Social Explorer* to visualize land allocation and use, then take a field trip to observe urban farms in Detroit with their own eyes.
 <p class="cf"></p>
 
 (imgix: field-trip.jpg alt: field trip class: image-float-left image-small)
 <p>&nbsp;</p>
 <div class="no-clear"><h3>Get into the water</h3></div>
 In the Dam Removal case, students explore actual dams, getting them into the water to use tools and techniques to answer questions about the surrounding habitat.
+<p>&nbsp;</p>
 
 ----
 
