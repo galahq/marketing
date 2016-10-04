@@ -10,7 +10,7 @@ Description: Conversations with relevant actors expose students to different sid
 
 ----
 
-Text: MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts and decision-makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion driven approach, our podcasts shed light on under-explored aspects of the case material.
+Text: MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts, and decision makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion-driven approach, our podcasts shed light on under-explored aspects of the case material.
 
 ----
 
@@ -26,7 +26,7 @@ Pagesubtagline: Conversational &middot; First Hand &middot; Learn on the Go
 
 ----
 
-Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station, WCBN FM. Podcasts allow students to hear conversations among key actors and relevant experts and stakeholders and thus be exposed to different sides of the issue.
+Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station, WCBN FM. Podcasts allow students to hear conversations among key actors and relevant experts and stakeholders, and thus be exposed to different sides of the issue.
 
 ----
 
