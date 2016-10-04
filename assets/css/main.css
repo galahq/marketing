@@ -1518,6 +1518,9 @@ audio {
 .no-clear h3 {
   clear: none; }
 
+#edgenotes .gala-embedded-card h3 {
+  margin-bottom: 1em; }
+
 .timeline-container {
   width: 90%; }
   .timeline-container:after {

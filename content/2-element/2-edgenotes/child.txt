@@ -40,28 +40,31 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 
 Wbg: 
 
+Have a taste of our Edgenotes, engage with them helps you explore:
 <div class="gala-embedded-card">
-Engage with MSC Edgenotes, you get to explore:
-- a video of a specific stakeholder’s perspective
-- an audio clip of a report on the particular issue
-- an article the puts the problem in context
-- a <a data-edgenote="bill-impacts">map of the region</a> where the decision is made
-- a video of a community dealing with the construction of a free trade zone port in Nigeria
-- an audio clip of an interview with a <a data-edgenote="michigan">landowner petitioning</a> for grazing rights on state land.
-- Curated portions of an article that draw on previously published work concerning the issues
-- A published report from the organization the decision maker works for ….
+<h3>Background and context of the decision</h3>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, you get to see a <a data-edgenote="michigan">detailed map of the region</a> where the decision is taking place. </p>
+<p>And in the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia conservation finance case</a>, you got introduced to the <a data-edgenote="unrivaled-biodiversity">unrivaled biodiversity behaviors of sharks</a>. </p>
 </div>
 
 <div class="gala-embedded-card">
-Engage with MSC Edgenotes, you get to explore:
-- a video of a specific stakeholder’s perspective
-- an audio clip of a report on the particular issue
-- an article the puts the problem in context
-- a <a data-edgenote="bill-impacts">map of the region</a> where the decision is made
-- a video of a community dealing with the construction of a free trade zone port in Nigeria
-- an audio clip of an interview with a for grazing rights on state land.
-- Curated portions of an article that draw on previously published work concerning the issues
-- A published report from the organization the decision maker works for ….
+<h3>Detailed data about the region</h3>
+<p>In the <a href="">Baltimore smart meters case</a>, you get to manipulate an <a data-edgenote="bill-impacts">interactive map</a> to find out specific energy burdens that can be caused by the proposed bill. </p>
+<p>In other Edgenotes, you get to find out specific costs by different sites of a proposed area by looking at infographics, charts, and reports.</p>
+</div>
+
+<div class="gala-embedded-card">
+<h3>Stakeholder perspectives</h3>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, you get to view different videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos is <a data-edgenote="a-heated-debate">capturing interviews with different actors</a>. </p>
+<p>In the same case, you get to read an article that discussed the <a data-edgenote="hunting-conservation-economics">particular concerns regarding conservation and economics</a>. You also get to dive deeper into the reasons of different perspective by the Edgenotes that link you to specific reports put out by an organization. </p>
+</div>
+
+<div class="gala-embedded-card">
+<h3>Digestable concepts</h3>
+In the <a href="">Ethiopia case</a>, you get to learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis in an explanatory video</a>. 
+</div>
+<div class="gala-embedded-card">
+While in the Baltimore smart meters case, you get to quick grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
 </div>
 
 ----
