@@ -38,7 +38,7 @@ Link: element/narrative
 
 ----
 
-Subdescription: Each MSC tells a story of real-world problem with a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses. As the problem unfolds, key decision makers and stakeholders are introduced, alongside their stakes and tradeoffs.
+Subdescription: Each MSC tells a story of a real-world problem with a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses. As the problem unfolds, key decision makers and stakeholders are introduced, alongside their stakes and tradeoffs.
 
 ----
 
