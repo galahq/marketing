@@ -15,7 +15,7 @@ Text:
 Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps- all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experience as they explore the case material.
 
 1. ###Carefully curated content
-We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. This thoughtful curation helps students quickly identify the most relevant pieces of information, but also gives them the option to explore further if they are inspired by a specific Edgenote.
+We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. Thoughtful curation helps students quickly identify the most relevant pieces of information, but also provides the option to explore further if they are inspired by a specific Edgenote.
 
 2. ###Closely tied to narrative
 Rejecting the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait to the end and explore them all at once in the Edgenote gallery.
@@ -41,27 +41,15 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 Wbg: 
 
 <div class="gala-embedded-card">
-Engage with MSC Edgenotes, you get to explore:
-- a video of a specific stakeholder’s perspective
-- an audio clip of a report on the particular issue
-- an article the puts the problem in context
-- a <a data-edgenote="bill-impacts">map of the region</a> where the decision is made
-- a video of a community dealing with the construction of a free trade zone port in Nigeria
-- an audio clip of an interview with a <a data-edgenote="michigan">landowner petitioning</a> for grazing rights on state land.
-- Curated portions of an article that draw on previously published work concerning the issues
-- A published report from the organization the decision maker works for ….
-</div>
+##Engage with MSC Edgenotes and explore:
 
-<div class="gala-embedded-card">
-Engage with MSC Edgenotes, you get to explore:
-- a video of a specific stakeholder’s perspective
-- an audio clip of a report on the particular issue
-- an article the puts the problem in context
-- a <a data-edgenote="bill-impacts">map of the region</a> where the decision is made
-- a video of a community dealing with the construction of a free trade zone port in Nigeria
-- an audio clip of an interview with a for grazing rights on state land.
-- Curated portions of an article that draw on previously published work concerning the issues
-- A published report from the organization the decision maker works for ….
+- a <a data-edgenote="bill-impacts">detailed map of the region</a> where the decision is taking place
+- a video displaying the community where the dilemma is being experienced
+- a stakeholder <a data-edgenote="michigan">explaining their own perspective</a>  
+- a published report by the decision maker's organization
+- local, national or internatina news articles 
+- sections from a peer-reviewed research paper
+- and much more...
 </div>
 
 ----
