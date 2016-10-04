@@ -464,6 +464,16 @@ html {
       float: none;
       max-width: 100%;
       margin: 0; } }
+  .image-float-left figcaption {
+    font-style: italic; }
+
+.evaluation {
+  max-width: 300px;
+  margin-left: 90px; }
+  @media (max-width: 768px) {
+    .evaluation {
+      float: none;
+      max-width: 60%; } }
 
 .image-float-right {
   float: right;
@@ -476,6 +486,8 @@ html {
       float: none;
       max-width: 100%;
       margin: 0; } }
+  .image-float-right figcaption {
+    font-style: italic; }
 
 .image-small {
   max-width: 300px; }
