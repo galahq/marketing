@@ -26,7 +26,7 @@ Pagesubtagline: Conversational &middot; First Hand &middot; Learn on the Go
 
 ----
 
-Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station, WCBN FM. Podcasts allow students to hear conversations amongst key actors and relevant experts and stakeholders and thus be exposed to different sides of the issue.
+Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station, WCBN FM. Podcasts allow students to hear conversations among key actors and relevant experts and stakeholders and thus be exposed to different sides of the issue.
 
 ----
 
