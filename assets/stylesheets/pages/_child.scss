@@ -146,3 +146,113 @@ audio {
     margin-top: 2em;
   }
 }
+
+//Elements examples
+.element-examples {
+  .flex-container {
+    margin-bottom: 0.7em;
+    margin-top: 0.7em;
+  }
+
+  .background {
+    width: 100%;
+
+    img {
+      border-radius: 5px;
+    }
+  }
+
+  .description {
+    flex: 1 1 20em;
+  }
+
+  & > div:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+}
+
+#podcast .element-examples {
+  .figures {
+    height: 10em;
+    background-size: cover;
+    border-radius: 2pt;
+    display: flex;
+    align-items: flex-end;
+    audio {
+      border-bottom: 4px solid #6ACB72;
+      border-radius: 2pt;
+    }
+  }
+
+  div.description {
+    margin-right: 1.5em;
+  }
+
+  & > div:nth-child(odd) {
+    flex-direction: row-reverse;
+  }
+}
+
+#narrative .element-examples {
+  & > div:nth-child(odd) {
+    .figures {
+      margin-right: 1em;
+    }
+  }
+
+  & > div:nth-child(even) {
+    .figures {
+      margin-left: 1em;
+    }
+  }
+
+  .figures {
+  flex: 0 1 15em;
+  height: 10em;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  position: relative;
+  margin-top: 0.3em;
+    & > figure {
+      width: 60%;
+      padding: 1em;
+      img {
+        border-radius: 100%;
+        box-shadow: 0 0 3em 0 rgba(black, .5);
+      }
+    }
+  }
+}
+
+#exercise .element-examples {
+  div.description {
+    margin-top: 0.5em;
+  }
+
+  & > div:nth-child(even) {
+    flex-direction: initial;
+    .figures {
+      margin-right: 1.5em;
+    }
+  }
+
+  & > div:nth-child(odd) {
+    flex-direction: row-reverse;
+    .figures {
+      margin-left: 1em;
+    }
+  }
+
+  .figures {
+  flex: 0 1 20em;
+    figure {
+
+      img {
+        width: 100%;
+        border-radius: 5px;
+      }
+    }
+  }
+}

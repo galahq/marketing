@@ -489,19 +489,6 @@ html {
   .image-float-right figcaption {
     font-style: italic; }
 
-.image-small {
-  max-width: 300px; }
-
-.headshots-float-left {
-  float: left;
-  width: 120px;
-  margin: 0px 15px 0 15px; }
-
-.headshots-float-right {
-  float: right;
-  max-width: 120px;
-  margin: 0px 15px 0 15px; }
-
 .imgix-screenshot-caption {
   margin-top: -0.6em;
   margin-left: 1.3em;
@@ -1521,6 +1508,75 @@ audio {
 
 #make .image-float-right {
   margin-top: 5px; }
+
+#vision figcaption {
+  margin-bottom: 2em; }
+#vision section {
+  margin-bottom: 3em; }
+#vision .video {
+  margin-top: 2em; }
+
+.element-examples .flex-container {
+  margin-bottom: 0.7em;
+  margin-top: 0.7em; }
+.element-examples .background {
+  width: 100%; }
+  .element-examples .background img {
+    border-radius: 5px; }
+.element-examples .description {
+  flex: 1 1 20em; }
+.element-examples > div:nth-child(even) {
+  flex-direction: row-reverse; }
+
+#podcast .element-examples .figures {
+  height: 10em;
+  background-size: cover;
+  border-radius: 2pt;
+  display: flex;
+  align-items: flex-end; }
+  #podcast .element-examples .figures audio {
+    border-bottom: 4px solid #6ACB72;
+    border-radius: 2pt; }
+#podcast .element-examples div.description {
+  margin-right: 1.5em; }
+#podcast .element-examples > div:nth-child(odd) {
+  flex-direction: row-reverse; }
+
+#narrative .element-examples > div:nth-child(odd) .figures {
+  margin-right: 1em; }
+#narrative .element-examples > div:nth-child(even) .figures {
+  margin-left: 1em; }
+#narrative .element-examples .figures {
+  flex: 0 1 15em;
+  height: 10em;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  position: relative;
+  margin-top: 0.3em; }
+  #narrative .element-examples .figures > figure {
+    width: 60%;
+    padding: 1em; }
+    #narrative .element-examples .figures > figure img {
+      border-radius: 100%;
+      box-shadow: 0 0 3em 0 rgba(0, 0, 0, 0.5); }
+
+#exercise .element-examples div.description {
+  margin-top: 0.5em; }
+#exercise .element-examples > div:nth-child(even) {
+  flex-direction: initial; }
+  #exercise .element-examples > div:nth-child(even) .figures {
+    margin-right: 1.5em; }
+#exercise .element-examples > div:nth-child(odd) {
+  flex-direction: row-reverse; }
+  #exercise .element-examples > div:nth-child(odd) .figures {
+    margin-left: 1em; }
+#exercise .element-examples .figures {
+  flex: 0 1 20em; }
+  #exercise .element-examples .figures figure img {
+    width: 100%;
+    border-radius: 5px; }
 
 .timeline-container {
   width: 90%; }
