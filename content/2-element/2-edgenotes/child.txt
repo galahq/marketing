@@ -55,8 +55,7 @@ Have a taste of our Edgenotes, engage with them helps you explore:
 
 <div class="gala-embedded-card">
 <h3>Stakeholder perspectives</h3>
-<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, you get to view different videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos is <a data-edgenote="a-heated-debate">capturing interviews with different actors</a>. </p>
-<p>In the same case, you get to read an article that discussed the <a data-edgenote="hunting-conservation-economics">particular concerns regarding conservation and economics</a>. You also get to dive deeper into the reasons of different perspective by the Edgenotes that link you to specific reports put out by an organization. </p>
+In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, you get to view different videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos is <a data-edgenote="a-heated-debate">capturing interviews with different actors</a>. In addition, you get to read an article that discussed the <a data-edgenote="hunting-conservation-economics">particular concerns regarding conservation and economics</a>. You also get to dive deeper into the reasons of different perspective by the Edgenotes that link you to specific reports put out by an organization. 
 </div>
 
 <div class="gala-embedded-card">
