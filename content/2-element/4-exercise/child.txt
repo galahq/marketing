@@ -66,7 +66,7 @@ In the Urban Farming case, students use an interactive map called Social Explore
 (imgix: field-trip.jpg alt: field trip class: image-float-left image-small)
 <p>&nbsp;</p>
 <div class="no-clear"><h3>Get into the water</h3></div>
-In the Dam Removal case, students explore actual dams, getting them into the water to use tools and techniques to answer questions about the surrounding habitat.
+In the Dam Removal case, students explore actual dams, getting into the water to use tools and techniques to answer questions about the surrounding habitat.
 
 ----
 
