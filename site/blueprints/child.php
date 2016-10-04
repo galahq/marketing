@@ -91,3 +91,18 @@ fields:
       newslink:
         label: News link
         type: text
+  elementexamples:
+    label: Examples
+    type: structure
+    entry: >
+      {{background}} {{foreground}} {{description}}
+    fields:
+      background:
+        label: Background
+        type: text
+      foreground:
+        label: Foreground
+        type: text
+      description:
+        label: Description
+        type: textarea

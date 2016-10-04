@@ -69,6 +69,22 @@
     <section class="child-background">
       <div class="site blog">
         <?php echo $page->wbg()->kirbytext(); ?>
+        <?php if($page->elementexamples()->isNotEmpty()) { ?>
+          <div class="flex-container element-examples">
+          <?php foreach($page->elementexamples()->toStructure() as $elementexample): ?>
+            <div class="flex-container">
+              <div class="figures"
+                style="background-image: url(<?php echo $elementexample->background();?>)"
+              >
+                <?php echo str_replace('(\\', '(', kirbytext($elementexample->foreground())) ?>
+              </div>
+              <div class="description">
+              <?php echo str_replace('(\\', '(', kirbytext($elementexample->description())) ?>
+              </div>
+            </div>
+          <?php endforeach ?>
+          </div>
+        <?php } ?>
       </div>
     </section>
     <?php echo js('assets/js/edgenote.bundle.js'); ?>
