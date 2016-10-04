@@ -41,6 +41,7 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 Wbg: 
 
 <div class="gala-embedded-card">
+
 ##Engage with MSC Edgenotes and explore:
 
 - a <a data-edgenote="bill-impacts">detailed map of the region</a> where the decision is taking place
@@ -50,6 +51,7 @@ Wbg:
 - local, national or internatina news articles 
 - sections from a peer-reviewed research paper
 - and much more...
+
 </div>
 
 ----
