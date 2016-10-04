@@ -56,15 +56,15 @@ Sample our Edgenotes to see how they help you explore:
 <div class="gala-embedded-card">
 <h3>Stakeholder perspectives</h3>
 <p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, view videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos <a data-edgenote="a-heated-debate">captures interviews offering different points of view</a>. </p>
-<p>In the same case, read an article that discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics</a>. Also, dive deeper into the reasons behind different perspective using the Edgenotes that link you to specific reports put out by an organization. </p>
+<p>In the same case, read an article that discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics</a>. Also, dive deeper into the reasons behind different perspectives using the Edgenotes that link you to relevant reports put out by an organization. </p>
 </div>
 
 <div class="gala-embedded-card">
-<h3>Digestable concepts</h3>
-In the <a href="">Ethiopia case</a>, you get to learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis in an explanatory video</a>. 
+<h3>Digestible concepts</h3>
+In the <a href="">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
 </div>
 <div class="gala-embedded-card">
-While in the Baltimore smart meters case, you get to quick grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
+While in the Baltimore smart meters case, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
 </div>
 
 ----
