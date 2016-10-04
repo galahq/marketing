@@ -12,7 +12,7 @@ Description: Foster the practice of analytical, communication, and intercultural
 
 Text: 
 
-Interactive learning exercises such as role-play, design challenges, and quantitative analysis provide students with experiences to dive deeper into practice and quickly strengthen skills. Field excursions and summer travel programs are an option for some cases and students. Overall, MSC exercises are:
+Interactive learning exercises such as role play, design challenges, and quantitative analysis provide students with experiences to dive deeper into practice and quickly strengthen skills. Field excursions and summer travel programs are an option for some cases and students. Overall, MSC exercises are:
 
 1. ###Adaptable
 Designed to be challenging, they are also adaptable to be appropriate for different levels, from undergraduates to practitioners and policy makers.
@@ -37,7 +37,7 @@ Pagesubtagline: Stimulating &middot; Hands-on &middot; Diverse Formats
 
 ----
 
-Subdescription: Interactive learning exercises enhance students’ mastery of specific tools and wider skills. They provide a spectrum of quantitative, technical, analytical and creative competencies. Exercises are designed to foster collaboration, agency and intercultural communication.
+Subdescription: Interactive learning exercises enhance students’ mastery of specific tools and wider skill sets. They provide a spectrum of quantitative, technical, analytical, and creative competencies. Exercises are designed to foster collaboration, agency, and intercultural communication.
 
 ----
 
