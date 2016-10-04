@@ -1519,6 +1519,9 @@ audio {
   margin-bottom: 1em;
   margin-top: 1em; }
 
+#make .image-float-right {
+  margin-top: 5px; }
+
 .timeline-container {
   width: 90%; }
   .timeline-container:after {
