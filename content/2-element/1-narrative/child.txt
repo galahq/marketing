@@ -24,11 +24,11 @@ At the heart, our cases are stories. Many draw from practitioners’ own experie
 
 ##Our stories are wide-ranging, traversing an array of:
 1. ###Topics
-MSC authors come from a variety of disciplines interested in diverse topics.
+MSC authors represent a variety of disciplines interested in diverse topics.
 2. ###Sectors
-MSCs work across public, private, non-profit, and other sectors.
+MSCs engage in public, private, non-profit, and other sectors.
 3. ###Scales and locations
-MSCs engage at multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
+MSCs emerge from multiple scales and locations, ranging from global, national and subnational, pre to post industrial, rural to urban. 
 
 (image: https://msc-public.imgix.net/msc-location-map.png class:image-full-width caption:This map shows where some of our MSCs are located. )
 
