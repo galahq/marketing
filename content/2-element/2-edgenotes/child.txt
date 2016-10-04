@@ -44,7 +44,7 @@ Sample our Edgenotes to see how they help you explore:
 <div class="gala-embedded-card">
 <h3>Background and context of the decision</h3>
 <p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, see a <a data-edgenote="michigan">detailed map of the region</a> where the decision is taking place. </p>
-<p>And in the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia conservation finance case</a>, you are introduced to the <a data-edgenote="unrivaled-biodiversity">unrivaled biodiversity behaviors of sharks</a>. </p>
+<p>And in the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia conservation finance case</a>, get introduced to the <a data-edgenote="unrivaled-biodiversity">unrivaled biodiversity behaviors of sharks</a>. </p>
 </div>
 
 <div class="gala-embedded-card">
@@ -55,8 +55,8 @@ Sample our Edgenotes to see how they help you explore:
 
 <div class="gala-embedded-card">
 <h3>Stakeholder perspectives</h3>
-<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, you get to view different videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos is <a data-edgenote="a-heated-debate">capturing interviews with different actors</a>. </p>
-<p>In the same case, you get to read an article that discussed the <a data-edgenote="hunting-conservation-economics">particular concerns regarding conservation and economics</a>. You also get to dive deeper into the reasons of different perspective by the Edgenotes that link you to specific reports put out by an organization. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, view videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos <a data-edgenote="a-heated-debate">captures interviews offering different points of view</a>. </p>
+<p>In the same case, read an article that discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics</a>. Also, dive deeper into the reasons behind different perspective using the Edgenotes that link you to specific reports put out by an organization. </p>
 </div>
 
 <div class="gala-embedded-card">
