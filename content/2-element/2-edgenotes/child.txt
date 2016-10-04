@@ -40,23 +40,23 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 
 Wbg: 
 
-Sample our Edgenotes to see how they help you explore:
+Sample our Edgenotes and begin to explore:
 <div class="gala-embedded-card">
-<h3>Background and context of the decision</h3>
-<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, see a <a data-edgenote="michigan">detailed map of the region</a> where the decision is taking place. </p>
-<p>And in the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia conservation finance case</a>, get introduced to the <a data-edgenote="unrivaled-biodiversity">unrivaled biodiversity behaviors of sharks</a>. </p>
+<h3>Background and context of the sustainability challenge</h3>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">Michigan Wolf Wars case</a>, a <a data-edgenote="michigan">detailed map of the region</a> displays the area where the challenge is unfolding. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia Conservation Funding case</a>, WHAT IS THIS? A VIDEO? displays the <a data-edgenote="unrivaled-biodiversity">spectacular behaviors of sharks and their importance to local biodiversity</a>. </p>
 </div>
 
 <div class="gala-embedded-card">
 <h3>Detailed data about the region</h3>
-<p>In the <a href="">Baltimore smart meters case</a>, manipulate an <a data-edgenote="bill-impacts">interactive map</a> to reveal specific energy burdens that could be imposed by the proposed bill. </p>
-<p>In other Edgenotes, discover specific costs incurred at different sites of a proposed area by examining infographics, charts, and reports.</p>
+<p>In the <a href="">Baltimore Smart Meters case</a>, explore infographics, charts, and reports to understand potential costs of the proposed bill. Manipulate an <a data-edgenote="bill-impacts">interactive map</a> to reveal specific energy burdens that could result. </p>
 </div>
 
 <div class="gala-embedded-card">
 <h3>Stakeholder perspectives</h3>
-<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, view videos from different stakeholders, including residents, environmentalists, and hunters. To show the heated debate, one of these videos <a data-edgenote="a-heated-debate">captures interviews offering different points of view</a>. </p>
-<p>In the same case, read an article that discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics</a>. Also, dive deeper into the reasons behind different perspectives using the Edgenotes that link you to relevant reports put out by an organization. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">Wolf Wars case</a>, <a data-edgenote="a-heated-debate"> videos give voice to the conflicting perspectives </a> of stakeholders like residents, environmentalists, and hunters. </p>
+
+<p>In the same case, an ACADEMIC OR NEWS? article discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics.</a> </p>
 </div>
 
 <div class="gala-embedded-card">
