@@ -30,22 +30,7 @@ Subdescription: MSC podcasts are radio segments produced by case authors in coll
 
 ----
 
-Wbg: 
-
-Have a taste of our podcasts, where you can:
-
-###Unpack complex issues
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3"></audio>
-Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears. 
-
-
-###Critique dominant narratives
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/7g24g2b2ud20uzocqg8lf8ug5xykjcwq.mp3"></audio>
-Urban farming organizations aim to improve food access in Detroit.  We hear from a board member of one organization, about the challenges and opportunities of running an all-volunteer farm, while two activists and organizers explain the need for Detroiters to be a part of the conversation. 
-
-###Expand the conversation
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/h3pvusrxe5ehet1roqz41fynbzoup379.mp3"></audio>
-Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this conversation beyond State borders, exploring human-wildlife conflicts in India and Yellowstone National Park, and the narratives that shape them.
+Wbg: Have a taste of our podcasts, where you can:
 
 ----
 
@@ -63,3 +48,41 @@ MSC has partnered with the tech savvy students running the University of Michiga
 ----
 
 Featureimg: (image:https://msc-public.imgix.net/podcast-iphone.png class: img-float-right alt: Learn with MSC podcast)
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Elementexamples: 
+
+- 
+  background: >
+    https://msc-public.imgix.net/tesla-podcast-cover.jpg
+  foreground: '<audio src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3" controls="" preload="auto" data-reactid=".0.1.1.0.2"></audio>'
+  description: |
+    ###Unpack complex issues
+    Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears.
+- 
+  background: >
+    https://msc-gala.imgix.net/mufi-podcast-cover.jpg
+  foreground: '<audio src="https://umich.box.com/shared/static/7g24g2b2ud20uzocqg8lf8ug5xykjcwq.mp3" controls="" preload="auto" data-reactid=".0.1.1.0.2"></audio>'
+  description: |
+    ###Critique dominant narratives
+    Urban farming organizations aim to improve food access in Detroit.  We hear from a board member of one organization, about the challenges and opportunities of running an all-volunteer farm, while two activists and organizers explain the need for Detroiters to be a part of the conversation.
+- 
+  background: >
+    https://www.nps.gov/common/uploads/photogallery/imr/park/yell/954CBB82-155D-451F-6759DA7CD789DC9F/954CBB82-155D-451F-6759DA7CD789DC9F.jpg
+  foreground: '<audio src="https://umich.box.com/shared/static/h3pvusrxe5ehet1roqz41fynbzoup379.mp3" controls="" preload="auto" data-reactid=".0.1.1.0.2"></audio>'
+  description: |
+    ###Expand the conversation
+    Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this conversation beyond State borders, exploring human-wildlife conflicts in India and Yellowstone National Park, and the narratives that shape them.
