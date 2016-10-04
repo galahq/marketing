@@ -12,13 +12,13 @@ Description: Curated audiovisual resources provide diverse insights for deeper e
 
 Text: 
 
-Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps- all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experience as they explore the case material.
+Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps - all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail, and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experiences as they explore the case material.
 
 1. ###Carefully curated content
 We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. Thoughtful curation helps students quickly identify the most relevant pieces of information, but also provides the option to explore further if they are inspired by a specific Edgenote.
 
 2. ###Closely tied to narrative
-Rejecting the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait to the end and explore them all at once in the Edgenote gallery.
+Rejecting the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait until the end and explore them all at once in the Edgenote gallery.
 
 ----
 
@@ -40,17 +40,17 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 
 Wbg: 
 
-Have a taste of our Edgenotes, engage with them helps you explore:
+Sample our Edgenotes to see how they help you explore:
 <div class="gala-embedded-card">
 <h3>Background and context of the decision</h3>
-<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, you get to see a <a data-edgenote="michigan">detailed map of the region</a> where the decision is taking place. </p>
-<p>And in the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia conservation finance case</a>, you got introduced to the <a data-edgenote="unrivaled-biodiversity">unrivaled biodiversity behaviors of sharks</a>. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">wolf hunt case</a>, see a <a data-edgenote="michigan">detailed map of the region</a> where the decision is taking place. </p>
+<p>And in the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia conservation finance case</a>, you are introduced to the <a data-edgenote="unrivaled-biodiversity">unrivaled biodiversity behaviors of sharks</a>. </p>
 </div>
 
 <div class="gala-embedded-card">
 <h3>Detailed data about the region</h3>
-<p>In the <a href="">Baltimore smart meters case</a>, you get to manipulate an <a data-edgenote="bill-impacts">interactive map</a> to find out specific energy burdens that can be caused by the proposed bill. </p>
-<p>In other Edgenotes, you get to find out specific costs by different sites of a proposed area by looking at infographics, charts, and reports.</p>
+<p>In the <a href="">Baltimore smart meters case</a>, manipulate an <a data-edgenote="bill-impacts">interactive map</a> to reveal specific energy burdens that could be imposed by the proposed bill. </p>
+<p>In other Edgenotes, discover specific costs incurred at different sites of a proposed area by examining infographics, charts, and reports.</p>
 </div>
 
 <div class="gala-embedded-card">
