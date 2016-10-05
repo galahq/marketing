@@ -12,7 +12,7 @@ Description: Curated audiovisual resources provide diverse insights for deeper e
 
 Text: 
 
-Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps - all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail, and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experiences as they explore the case material.
+Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps—all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail, and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experiences as they explore the case material.
 
 1. ###Carefully curated content
 We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. Thoughtful curation helps students quickly identify the most relevant pieces of information, but also provides the option to explore further if they are inspired by a specific Edgenote.
