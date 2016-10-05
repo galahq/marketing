@@ -1,3 +1,7 @@
+#vision section.blog, #team section.blog {
+  margin-bottom: 3em;
+}
+
 .child-background {
   margin-top: 2.5em;
   background-color: $offwhite;
@@ -136,10 +140,6 @@ audio {
 #vision {
   figcaption {
     margin-bottom: 2em;
-  }
-
-  section {
-    margin-bottom: 3em;
   }
 
   .video {
