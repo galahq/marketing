@@ -43,19 +43,24 @@
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .site {
+    width: 100%;
+  }
 
   h1 {
     line-height: 90%;
-    margin: 4.8em 0 0.1em 0;
-
-    @include breakpoint($mq-small) {
-      margin-top: 3.8em;
-    }
+    margin: 0 auto;
+    margin-bottom: 0.2em;
   }
 
   p {
     font-weight: 300;
     max-width: 40em;
+    padding-bottom: 1.5em;
   }
 }
 
