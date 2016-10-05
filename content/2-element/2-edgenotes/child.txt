@@ -49,7 +49,7 @@ Sample our Edgenotes to see how they help you explore:
 
 <div class="gala-embedded-card">
 <h3>Detailed data about the region</h3>
-<p>In the <a href="">Baltimore smart meters case</a>, manipulate an <a data-edgenote="bill-impacts">interactive map</a> to reveal specific energy burdens that could be imposed by the proposed bill. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/baltimore-smart-meters#/">Baltimore smart meters case</a>, manipulate an <a data-edgenote="bill-impacts">interactive map</a> to reveal specific energy burdens that could be imposed by the proposed bill. </p>
 <p>In other Edgenotes, discover specific costs incurred at different sites of a proposed area by examining infographics, charts, and reports.</p>
 </div>
 
@@ -61,10 +61,10 @@ Sample our Edgenotes to see how they help you explore:
 
 <div class="gala-embedded-card">
 <h3>Digestible concepts</h3>
-In the <a href="">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
+In the <a href="http://www.learnmsc.org/cases/ethiopia-napa#/">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
 </div>
 <div class="gala-embedded-card">
-While in the <a href="">Baltimore smart meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
+While in the <a href="http://www.learnmsc.org/cases/baltimore-smart-meters#/">Baltimore smart meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
 </div>
 
 ----
@@ -90,3 +90,7 @@ Umunits:
 ----
 
 Otherpartners: 
+
+----
+
+Elementexamples: 
