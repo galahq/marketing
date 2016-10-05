@@ -95,7 +95,6 @@
       <?php foreach($page->timeline()->toStructure() as $timelineitem): ?>
         <div class="timeline-block">
     			<div class="timeline-img">
-    				<img src="<?php echo $timelineitem->icon() ?>" alt="icon">
     			</div> <!-- timeline-img -->
 
     			<div class="timeline-content">
