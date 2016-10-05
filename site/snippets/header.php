@@ -82,7 +82,7 @@
   <div class="site">
     <div class="centerbox">
       <h1><?php echo $page->pagetagline() ?></h1>
-      <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
+      <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
     </div>
     </div>
   </section>
