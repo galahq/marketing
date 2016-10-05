@@ -44,7 +44,7 @@ Sample our Edgenotes and begin to explore:
 <div class="gala-embedded-card">
 <h3>Background and context of the sustainability challenge</h3>
 <p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">Michigan Wolf Wars case</a>, a <a data-edgenote="michigan">detailed map of the region</a> displays the area where the challenge is unfolding. </p>
-<p>In the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia Conservation Funding case</a>, WHAT IS THIS? A VIDEO? displays the <a data-edgenote="unrivaled-biodiversity">spectacular behaviors of sharks and their importance to local biodiversity</a>. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia Conservation Funding case</a>, a video displays the <a data-edgenote="unrivaled-biodiversity">spectacular behaviors of sharks and their importance to local biodiversity</a>. </p>
 </div>
 
 <div class="gala-embedded-card">
@@ -56,15 +56,15 @@ Sample our Edgenotes and begin to explore:
 <h3>Stakeholder perspectives</h3>
 <p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">Wolf Wars case</a>, <a data-edgenote="a-heated-debate"> videos give voice to the conflicting perspectives </a> of stakeholders like residents, environmentalists, and hunters. </p>
 
-<p>In the same case, an ACADEMIC OR NEWS? article discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics.</a> </p>
+<p>In the same case, a news article discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics.</a> </p>
 </div>
 
 <div class="gala-embedded-card">
 <h3>Digestible concepts</h3>
-In the <a href="">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
+In the <a href="">Ethiopia Climate Change Adaptation case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
 </div>
 <div class="gala-embedded-card">
-While in the <a href="">Baltimore smart meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
+While in the <a href="">Baltimore Smart Meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
 </div>
 
 ----
