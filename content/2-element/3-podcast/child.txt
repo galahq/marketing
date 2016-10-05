@@ -47,7 +47,7 @@ MSC has partnered with the tech-savvy students running the University of Michiga
 
 ----
 
-Featureimg: (image:https://msc-public.imgix.net/podcast-iphone.png class: img-float-right alt: Learn with MSC podcast)
+Featureimg: (imgix:podcast-iphone.png class: img-float-right alt: Learn with MSC podcast size:240)
 
 ----
 

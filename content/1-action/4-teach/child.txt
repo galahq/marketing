@@ -53,7 +53,7 @@ MSCs are digitally enhanced to allow easy access from different devices around t
 4. ###Effective
 MSC is much more effective in equipping students with the competencies needed to solve complex problems. (link:action/teach/evaluation text: Check out MSC evaluation >)
 
-(imgix: teach-in-group.jpg class:image-full-width)
+(imgix: teach-in-group.jpg alt:use MSC in class class:image-full-width)
 Ready to bring MSCs into your classroom? (link:http://www.learnmsc.org text:Explore our available cases >)
 
 ----
@@ -79,3 +79,7 @@ Umunits:
 ----
 
 Otherpartners: 
+
+----
+
+Elementexamples: 
