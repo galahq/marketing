@@ -42,7 +42,7 @@ Wbg:
 
 So, you want to make a case? That’s great! 
 
-For step-by-step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3-6 weeks.*
+For step-by-step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3–6 weeks.*
 
 MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. 
 When you are ready to get started  –› <a class="button" href="make/proposal">submit a proposal</a>
