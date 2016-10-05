@@ -7,7 +7,7 @@ Text:
 We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
 
 ###Director
-Rebecca Hardin — Associate Professor, SNRE
+(link:http://www.snre.umich.edu/profile/rebecca_d_hardin_phd text:Rebecca Hardin) — Associate Professor, SNRE
 
 ### MSC Team
 Meghan Wagner — Project Coordinator
@@ -15,8 +15,9 @@ Pearl Zeng — Learning Platform and Web Manager
 Cameron Bothner — Software Engineer
 Edward Waisanen — Podcast Director
 Micheal Burbidge — Media Coordinator
-Anil Bhargava — Evaluation Coordinator
+Christopher Askew-Merwin — Podcast Coordinator 
 Megan Czerwinski — Evaluation Coordinator
+Anil Bhargava — Evaluation Coordinator
 Arman Golrokhian — Production and Assessment Coordinator
 Alex Truelove — Music Director
 
@@ -27,18 +28,18 @@ Rebecca Rutt — Communications Consultant
 Nick Kemp — Photo Contributor
 
 ### Curricular Advisors
-Jemermy Bassis — Associate Professor, AOSS
-Laura Beny — Professor, Law
-James DeVaney — Associate Vice Provost, Academic Innovation
-Nadine Hubbs — Professor, Women's Studies
-Jeremiah Johnson — Assistant Professor, SNRE
-Stephanie Kusano — Assessment and Evaluation Postdoctoral Research Associate, CRLT
-Knute Nadelhoffer — Professor, EEB; Director, UM Biostation
-Jefferey Pearson — Associate Librarian, Askwith Media Library
-Steve Skerlos — Associate Professor, Civil & Environmental Engineering
-Joe Trumpey — Associate Professor, Art & Design
-Lori Tschirhart — Librarian, SNRE
-Michaela Zint — Professor, SNRE
+(link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jemermy Bassis) — Associate Professor, AOSS
+(link:https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
+(link:http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
+(link:http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
+(link:http://www.snre.umich.edu/profile/jeremiah_johnson text:Jeremiah Johnson) — Assistant Professor, SNRE
+(link:https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
+(link:https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, EEB; Director, UM Biostation
+(link:http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library
+(link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, Civil & Environmental Engineering
+(link:http://stamps.umich.edu/people/detail/joseph_trumpey text:Joe Trumpey) — Associate Professor, Art & Design
+(link:http://www.lib.umich.edu/users/ltz text:Lori Tschirhart) — Librarian, SNRE
+(link:http://www.snre.umich.edu/faculty/michaela_zint text:Michaela Zint) — Professor, SNRE
 
 ### Strategic Advisors
 (link: http://www.snre.umich.edu/profile/arun_agrawal_phd text: Arun Agrawal) — Professor, SNRE, Co-PI of MSC
@@ -109,3 +110,7 @@ Umunits:
 ----
 
 Otherpartners: 
+
+----
+
+Elementexamples: 
