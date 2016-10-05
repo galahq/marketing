@@ -1396,6 +1396,9 @@ main.home section {
       .vision-child-links li p:hover {
         color: #02284b; }
 
+#vision section.blog, #team section.blog {
+  margin-bottom: 3em; }
+
 .child-background {
   margin-top: 2.5em;
   background-color: #ebeae4;
@@ -1511,8 +1514,6 @@ audio {
 
 #vision figcaption {
   margin-bottom: 2em; }
-#vision section {
-  margin-bottom: 3em; }
 #vision .video {
   margin-top: 2em; }
 
