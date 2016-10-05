@@ -256,3 +256,30 @@ audio {
     }
   }
 }
+
+//Contact page
+#contact {
+  section.hero {
+    display: none;
+  }
+
+  h1 {
+    display: none;
+  }
+}
+
+//iframe
+#contact {
+  iframe {
+    margin-bottom: 1.5em;
+  }
+
+  section.blog {
+    margin-bottom: 3em;
+  }
+
+  h3 {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+  }
+}
