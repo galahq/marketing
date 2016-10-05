@@ -4,6 +4,7 @@ Title: Team
 
 Text: 
 
+(imgix: msc-group.jpg alt:MSC group picture class:image-full-width)
 We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
 
 ###Director
