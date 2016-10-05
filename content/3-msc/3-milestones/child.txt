@@ -51,7 +51,7 @@ Timeline:
     https://msc-public.imgix.net/white-dot.png
   content: |
     ##Resources secured
-    The MSC initiative won a 4-year 1.6 million dollar grant to build a case-based curriculum for the sustainability field. The grant was dispersed in January 2016.
+    The MSC initiative won a 4-year, $1.6 million grant to build a case-based curriculum for the sustainability field. The grant was disbursed in January 2016.
   date: ""
   newslink: >
     http://worldclass.umich.edu/projects-receive-engaged-learning-transformation-grants-new-program-announced/
@@ -86,7 +86,7 @@ Timeline:
     https://msc-public.imgix.net/white-dot.png
   content: |
     ##Partnership for academic innovation
-    MSC joined forced with University of Michigan’s Office of (link:http://ai.umich.edu/ text:Academic Innovation), a pioneer in using digitally enhanced tools for better teaching.
+    MSC joined forces with University of Michigan’s Office of (link:http://ai.umich.edu/ text:Academic Innovation), a pioneer in using digitally-enhanced tools for better teaching.
   dateofevent: March 2016
   newslink: ""
 - 
