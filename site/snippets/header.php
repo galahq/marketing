@@ -13,7 +13,7 @@
       </div>
       <div class="site">
         <h1><?php echo $page->tagline() ?></h1>
-        <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
+        <?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?>
       </div>
     </section>
 
