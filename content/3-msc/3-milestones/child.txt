@@ -93,7 +93,7 @@ Timeline:
   icon: >
     https://msc-public.imgix.net/white-dot.png
   content: |
-    ##First Curricular Advisors meeting
+    ##First curricular advisors meeting
     Curricular advisors from diverse sectors gathered to review submitted proposals for potential MSCs, and provide input on which would receive support to help them come to fruition.
   dateofevent: April 2016
   newslink: ""
