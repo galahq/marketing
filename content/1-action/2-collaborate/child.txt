@@ -16,7 +16,7 @@ Collaboration is critical to MSC, from case inception to (link:../elements/exerc
 (imgix_screenshot: policy-wonks.png alt: case cover page class: image-float-right-parent caption: [Available Soon] Comment stream on an MSC)
 As you explore a case, turn comments off and read it through your own eyes. Then, make comments visible by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
 
-*Discussion streams* thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
+*Comment streams* thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
 
 ----
 
