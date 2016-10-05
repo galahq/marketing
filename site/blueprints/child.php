@@ -77,11 +77,8 @@ fields:
     label: Timeline
     type: structure
     entry: >
-      {{icon}} {{content}} {{dateofevent}} {{newslink}}
+      {{content}} {{dateofevent}} {{newslink}}
     fields:
-      icon:
-        label: Icon
-        type: text
       content:
         label: Content
         type: textarea
