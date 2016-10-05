@@ -283,3 +283,13 @@ audio {
     margin-bottom: 1em;
   }
 }
+
+//image on collaborate
+#collaborate {
+  .image-float-right-parent {
+    img {border-radius: 0;
+    border: solid 5px $ltltgrey
+  }
+
+  }
+}
