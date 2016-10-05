@@ -4,7 +4,7 @@ Title: Team
 
 Text: 
 
-We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
+We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.
 
 ###Director
 Rebecca Hardin — Associate Professor, SNRE
@@ -72,7 +72,6 @@ Pagetagline: Meet the Team
 
 ----
 
-Pagesubtagline: Interdisciplinary folks with different backgrounds and cultures.
 
 ----
 
