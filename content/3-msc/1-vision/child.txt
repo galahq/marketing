@@ -29,7 +29,7 @@ MSC provides a library of cases that are modular to fit into a variety of classr
 
 ##MSC Aspirations 
 
-Our overarching didactical ambition is to help students achieve sustainability competencies including: systems thinking, anticipatory, normative, strategic, and interpersonal. These skills will help develop **critical and reflective future sustainability leaders**. 
+Our overarching didactical ambition is to help students achieve sustainability competencies. These skills will help develop **critical and reflective future sustainability leaders**. 
 
 With thoughtful pedagogy guiding the use of innovative e-tools and an engaging narrative style, MSC will transform sustainability learning on UM campuses as well as **serve as a model** for sustainability education globally. MSC will also facilitate a global sustainability learning community by building global partnerships, with resources and support for students who are interested in this ever-growing field to participate. 
 
