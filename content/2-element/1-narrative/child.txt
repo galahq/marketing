@@ -76,13 +76,11 @@ Otherpartners:
 Elementexamples: 
 
 - 
-  background: >
-    https://msc-public.imgix.net/tesla-narrative-cover.jpg
+  background: 'https://msc-public.imgix.net/tesla-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/josh_castonguay.jpg?w=200&h=200&crop=faces&fit=crop alt:Josh Castonguay)'
   description: 'Visualize yourself as Chief Innovation Officer of Vermont’s Green Mountain Power utility company, Josh Castonguay. You are weighing the pros and cons of pairing up with Tesla and offering its new ‘Powerwall’ battery as a “behind the meter” renewable energy option to your customers. Yet, many uncertainties exist with regard to customer uptake and interactions with the standard utility grid.  Should you try to find a way to bring new energy technologies to your clients? If so, how exactly?'
 - 
-  background: >
-    https://msc-public.imgix.net/indonesia-narrative-cover.jpg
+  background: 'https://msc-public.imgix.net/indonesia-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/laure_katz.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop alt:Laure Katz)'
   description: >
     Picture yourself as Laure Katz, the
@@ -98,8 +96,7 @@ Elementexamples:
     conservation. The incredible ecology of
     West Papua, Indonesia is at stake…
 - 
-  background: >
-    https://msc-public.imgix.net/cherry-narrative-cover.jpg
+  background: 'https://msc-public.imgix.net/cherry-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/nikki_rothwell.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop alt: Nikki Rothwell)'
   description: >
     Imagine that you are Nikki Rothwell, the
@@ -114,7 +111,6 @@ Elementexamples:
     unpredictable weather patterns are
     increasing…
 - 
-  background: >
-    https://msc-public.imgix.net/mufi-narrative-cover.jpg
+  background: 'https://msc-public.imgix.net/mufi-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop alt:Tyson Gersh)'
   description: "Put yourself in the shoes of the co-founder and President of the Michigan Urban Farming Initiative (MUFI), Tyson Gersh. MUFI is a volunteer-run community urban agriculture organization subsisting off of the fundraising efforts of its 35,000 social media supporters. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding, or fundamentally challenge the core of MUFI's identity. Which strategy best empowers communities, to empower themselves?"

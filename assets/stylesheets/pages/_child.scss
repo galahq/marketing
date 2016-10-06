@@ -216,6 +216,10 @@ audio {
     margin-top: 0.7em;
   }
 
+  .figures {
+    margin-bottom: 1em;
+  }
+
   .background {
     width: 100%;
 
@@ -259,24 +263,30 @@ audio {
   & > div:nth-child(odd) {
     .figures {
       margin-right: 1em;
+
+      @media screen and (max-width: 560px){
+        margin-right: 0;
+      }
     }
   }
 
   & > div:nth-child(even) {
     .figures {
       margin-left: 1em;
+
+      @media screen and (max-width: 560px){
+        margin-left: 0;
+      }
     }
   }
 
   .figures {
-  @include flex-tri-parameters (0,1,15em);
-  height: 10em;
+  @include flex-tri-parameters (1,1,15em);
   border-radius: 5px;
   @include display-flex;
   justify-content: center;
   background-size: cover;
   position: relative;
-  margin-top: 0.3em;
     & > figure {
       width: 60%;
       padding: 1em;
