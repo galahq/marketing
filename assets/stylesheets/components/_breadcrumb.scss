@@ -30,6 +30,16 @@
   }
 }
 
+.partialcrumb {
+  li {
+    &:last-child {
+      a {
+        margin-left: 0;
+      }
+    }
+  }
+}
+
 .hiddencrumb {
   display: none;
 

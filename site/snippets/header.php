@@ -47,27 +47,31 @@
 
    <?php foreach($pages->visible()->children() as $grandchild): ?>
    <?php if($page->isChildOf($grandchild)) { ?>
-     <ul class="breadcrumb blog site">
-       <?php foreach($site->breadcrumb() as $crumb): ?>
+     <ul class="breadcrumb partialcrumb blog site">
        <li>
-         <a href="<?php echo $crumb->url() ?>">
-           <?php echo html($crumb->title()) ?>
+         <a href="<?php echo $page->parent()->url() ?>">
+           <?php echo html($page->parent()->title()) ?>
+       </li>
+       <li>
+         <a href="<?php echo $page->url() ?>">
+           <?php echo html($page->title()) ?>
          </a>
        </li>
-       <?php endforeach ?>
      </ul>
      <?php } ?>
    <?php endforeach ?>
 
    <?php if($page->isInvisible()) { ?>
-     <ul class="breadcrumb blog site">
-       <?php foreach($site->breadcrumb() as $crumb): ?>
+     <ul class="breadcrumb partialcrumb blog site">
        <li>
-         <a href="<?php echo $crumb->url() ?>">
-           <?php echo html($crumb->title()) ?>
+         <a href="<?php echo $page->parent()->url() ?>">
+           <?php echo html($page->parent()->title()) ?>
+       </li>
+       <li>
+         <a href="<?php echo $page->url() ?>">
+           <?php echo html($page->title()) ?>
          </a>
        </li>
-       <?php endforeach ?>
      </ul>
      <?php } ?>
 
