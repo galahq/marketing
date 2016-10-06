@@ -15,10 +15,6 @@
 .footerflex {
   margin-top: 2.2em;
   @include justify-content-space-between;
-
-  @include breakpoint($mq-small) {
-    @include justify-content(center);
-  }
 }
 
 .footerflexitem {
@@ -48,12 +44,21 @@
     border-top: 1px solid $ltgrey;
     justify-content: space-between;
     margin-top: 2em;
+
+    @include breakpoint($mq-small) {
+      margin-top: 0.5em;
+    }
 }
 
 .copyright {
   text-align: left;
   color: $ltgrey;
   padding: 2em 0;
+
+  @include breakpoint($mq-small) {
+    padding-bottom: 0;
+    text-align: center;
+  }
 }
 
 footer > div {
