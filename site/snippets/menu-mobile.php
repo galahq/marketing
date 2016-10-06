@@ -1,6 +1,6 @@
 <?php $items = $pages->visible();?>
 
-<h5 class="button" id="menu-mobile-open">MENU</h5>
+<h5 class="button" id="menu-mobile-open">☰</h5>
 
 <nav class="menu-mobile no-scroll-lock">
   <h5 class="menu-mobile-close">&larr; Close Menu</h5>
