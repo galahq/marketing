@@ -65,8 +65,8 @@
 
 .button#menu-mobile-open {
   margin-top: 0.1em;
-  border: solid 1px $white !important;
   font-size: 0.9em;
+  position: fixed;
 }
 
 #menu-mobile-open {
@@ -86,6 +86,12 @@
 
   @include breakpoint($mq-small) {
     display: block;
+  }
+}
+
+#home {
+  .button#menu-mobile-open {
+    border: solid 1px $white !important;
   }
 }
 
