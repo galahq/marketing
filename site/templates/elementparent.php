@@ -11,7 +11,9 @@
   <section class="site blog">
     <?php foreach($page->children() as $element): ?>
       <section class="flex-container flip-flop site">
-      <?php imgix($element->slug().'-icon.png', $element->title(), 280) ?>
+      <figure>
+       <?php imgix($element->slug().'-icon.png', $element->title(), 280) ?>
+      </figure>
       <div>
         <h2><span><?php echo $element->title() ?></span>
         <?php echo $element->tagline() ?></h2>

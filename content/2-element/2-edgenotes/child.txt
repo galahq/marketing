@@ -12,13 +12,13 @@ Description: Curated audiovisual resources provide diverse insights for deeper e
 
 Text: 
 
-Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps- all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experience as they explore the case material.
+Edgenotes are jumping-off points for deeper exploration. Video and audio bites, articles, reports, newspaper clips, social media posts, and maps—all contribute to a richer learning experience. At MSC, we curate multimedia content to provide greater context, detail, and opportunities for further investigation. Through “Edgenotes,” students are able to shape their individual learning experiences as they explore the case material.
 
 1. ###Carefully curated content
-We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. This thoughtful curation helps students quickly identify the most relevant pieces of information, but also gives them the option to explore further if they are inspired by a specific Edgenote.
+We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. Thoughtful curation helps students quickly identify the most relevant pieces of information, but also provides the option to explore further if they are inspired by a specific Edgenote.
 
 2. ###Closely tied to narrative
-Rejecting the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait to the end and explore them all at once in the Edgenote gallery.
+Rejecting the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait until the end and explore them all at once in the Edgenote gallery.
 
 ----
 
@@ -40,15 +40,33 @@ Subdescription: Edgenotes are audiovisual materials that *complement*, rather th
 
 Wbg: 
 
-Engage with MSC Edgenotes, you get to explore:
-- a video of a specific stakeholder’s perspective
-- an audio clip of a report on the particular issue
-- an article the puts the problem in context
-- a map of the region where the decision is made
-- a video of a community dealing with the construction of a free trade zone port in Nigeria
-- an audio clip of an interview with a landowner petitioning for grazing rights on state land.
-- Curated portions of an article that draw on previously published work concerning the issues
-- A published report from the organization the decision maker works for ….
+Sample our Edgenotes and begin to explore:
+<div class="gala-embedded-card">
+<h3>Background and context of the sustainability challenge</h3>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">Michigan Wolf Wars case</a>, a <a data-edgenote="michigan">detailed map of the region</a> displays the area where the challenge is unfolding. </p>
+<p>In the <a href="http://www.learnmsc.org/cases/indonesia-conservation#/">Indonesia Conservation Funding case</a>, a video displays the <a data-edgenote="unrivaled-biodiversity">spectacular behaviors of sharks and their importance to local biodiversity</a>. </p>
+</div>
+
+<div class="gala-embedded-card">
+<h3>Detailed data about the region</h3>
+<p>In the <a href="http://www.learnmsc.org/cases/baltimore-smart-meters#/">Baltimore smart meters case</a>, explore infographics, charts, and reports to understand potential costs of the proposed bill. Manipulate an <a data-edgenote="bill-impacts">interactive map</a> to reveal specific energy burdens that could result. </p>
+<p>In other Edgenotes, discover specific costs incurred at different sites of a proposed area by examining infographics, charts, and reports.</p>
+</div>
+
+<div class="gala-embedded-card">
+<h3>Stakeholder perspectives</h3>
+<p>In the <a href="http://www.learnmsc.org/cases/mi-wolves#/">Wolf Wars case</a>, <a data-edgenote="a-heated-debate"> videos give voice to the conflicting perspectives </a> of stakeholders like residents, environmentalists, and hunters. </p>
+
+<p>In the same case, a news article discusses <a data-edgenote="hunting-conservation-economics">particular concerns around conservation and economics.</a> </p>
+</div>
+
+<div class="gala-embedded-card">
+<h3>Digestible concepts</h3>
+In the <a href="http://www.learnmsc.org/cases/ethiopia-napa#/">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
+</div>
+<div class="gala-embedded-card">
+While in the <a href="http://www.learnmsc.org/cases/baltimore-smart-meters#/">Baltimore smart meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
+</div>
 
 ----
 
@@ -61,3 +79,19 @@ Feature:
 ----
 
 Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Elementexamples: 

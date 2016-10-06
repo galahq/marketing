@@ -34,9 +34,17 @@ Reasons:
 
 - 
   heading: Experience Oriented
-  text: 'Rejecting the input/lecture –> output/test model, MSC creates a hands-on, practical environment involving experts and stakeholders.'
+  text: >
+    Rejecting the input/lecture →
+    output/test model, MSC creates a
+    hands-on, practical environment
+    involving experts and stakeholders.
 - 
-  text: 'Opposing the sender/teacher –> receiver/student learning model, MSC positions student, instructors and practitioners in multiple roles.'
+  text: >
+    Opposing the sender/teacher →
+    receiver/student learning model, MSC
+    positions students, instructors and
+    practitioners in multiple roles.
   heading: Student Led
 - 
   text: >
@@ -47,13 +55,13 @@ Reasons:
   heading: Real-life issues
 - 
   text: >
-    Departing from traditional text-based
-    methods, MSC incorporates multimedia
-    tools and materials, to support more
-    learner needs and preferences.
-  heading: Diversified Learning Medium
+    Acknowledging that people learn
+    differently, MSC incorporates a variety
+    of multimedia tools and materials to
+    support more needs and preferences.
+  heading: Inclusive Learning Platform
 - 
-  text: "MSC's digital platform is designed to give students access to cases with ease, using different devices, located all around the world."
+  text: "MSC's digital platform is designed to give students access to cases with ease, using different devices, from all around the world."
   heading: Digitally Enhanced
 - 
   text: >

@@ -1,0 +1,34 @@
+.gala-embedded-card section{
+  @include display-flex;
+  @include flex-direction-row;
+  @include flex-wrap(wrap);
+  @include justify-content-start;
+
+  & > div {
+    @include flex-tri-parameters(1,1,21em);
+
+    a[data-edgenote] {
+      text-decoration: none;
+      color: inherit;
+      box-shadow: rgb(106, 203, 114) 0px -0.23em 0px inset;
+      border-bottom: 3px solid rgb(106, 203, 114);
+      transition: background 0.15s cubic-bezier(0.33, 0.66, 0.66, 1);
+
+      &:hover {
+        background-color: rgb(106, 203, 114);
+        color: inherit;
+      }
+
+    }
+  }
+
+  aside.edgenotes {
+    @include flex-tri-parameters(1,1,22em);
+        background-color: $darkgrey;
+
+          figcaption {
+            letter-spacing: 0.1px;
+          }
+
+  }
+}

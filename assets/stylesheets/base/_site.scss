@@ -96,6 +96,10 @@ html {
     max-width: 100%;
     margin: 0;
   }
+
+  figcaption {
+    font-style: italic;
+  }
 }
 
 // Image classes for child pages
@@ -113,6 +117,20 @@ html {
     max-width: 100%;
     margin: 0;
   }
+
+  figcaption {
+    font-style: italic;
+  }
+}
+
+.evaluation {
+  max-width: 300px;
+  margin-left: 90px;
+
+  @include breakpoint($mq-small) {
+    float: none;
+    max-width: 60%;
+  }
 }
 
 .image-float-right {
@@ -129,22 +147,10 @@ html {
     max-width: 100%;
     margin: 0;
   }
-}
 
-.image-small {
-  max-width: 300px;
-}
-//headshots
-.headshots-float-left {
-  float: left;
-  width: 120px;
-  margin: 0px 15px 0 15px;
-}
-
-.headshots-float-right {
-  float: right;
-  max-width: 120px;
-  margin: 0px 15px 0 15px;
+  figcaption {
+    font-style: italic;
+  }
 }
 
 //image caption

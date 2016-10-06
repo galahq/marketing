@@ -1,0 +1,50 @@
+Title: Contact Us
+
+----
+
+Tagline:
+
+----
+
+Description:
+
+----
+
+Pagetagline:
+
+----
+
+Pagesubtagline:
+
+----
+
+Subdescription:
+
+----
+
+Text:
+
+msc-contact@umich.edu
+school of natural resources and environment
+During Fall 2016, MSC program coordinator Meghan Wagner has office hours every Tuesday 1-2pm and Thursday 10-11am.
+
+general questions: msc-contact@umich.edu; web related issues: msc-develop@umich.edu
+
+location:
+
+Michigan Sustainability Cases Initiative
+
+Office 2351 and 2355
+
+School of Natural Resources and Environment, University of Michigan
+
+440 Church Street
+Ann Arbor, Michigan 48109
+
+----
+
+Link:
+
+----
+
+Wbg:

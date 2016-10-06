@@ -13,7 +13,7 @@
       </div>
       <div class="site">
         <h1><?php echo $page->tagline() ?></h1>
-        <p><?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?></p>
+        <?php echo str_replace('(\\', '(', kirbytext($page->subtagline())) ?>
       </div>
     </section>
 
@@ -47,27 +47,31 @@
 
    <?php foreach($pages->visible()->children() as $grandchild): ?>
    <?php if($page->isChildOf($grandchild)) { ?>
-     <ul class="breadcrumb blog site">
-       <?php foreach($site->breadcrumb() as $crumb): ?>
+     <ul class="breadcrumb partialcrumb blog site">
        <li>
-         <a href="<?php echo $crumb->url() ?>">
-           <?php echo html($crumb->title()) ?>
+         <a href="<?php echo $page->parent()->url() ?>">
+           <?php echo html($page->parent()->title()) ?>
+       </li>
+       <li>
+         <a href="<?php echo $page->url() ?>">
+           <?php echo html($page->title()) ?>
          </a>
        </li>
-       <?php endforeach ?>
      </ul>
      <?php } ?>
    <?php endforeach ?>
 
    <?php if($page->isInvisible()) { ?>
-     <ul class="breadcrumb blog site">
-       <?php foreach($site->breadcrumb() as $crumb): ?>
+     <ul class="breadcrumb partialcrumb blog site">
        <li>
-         <a href="<?php echo $crumb->url() ?>">
-           <?php echo html($crumb->title()) ?>
+         <a href="<?php echo $page->parent()->url() ?>">
+           <?php echo html($page->parent()->title()) ?>
+       </li>
+       <li>
+         <a href="<?php echo $page->url() ?>">
+           <?php echo html($page->title()) ?>
          </a>
        </li>
-       <?php endforeach ?>
      </ul>
      <?php } ?>
 
@@ -82,7 +86,7 @@
   <div class="site">
     <div class="centerbox">
       <h1><?php echo $page->pagetagline() ?></h1>
-      <p><?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?></p>
+      <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
     </div>
     </div>
   </section>

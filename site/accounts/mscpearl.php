@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - action/teach
-  - element/exercise
-  - action/teach/evaluation
-  - action/collaborate
+  - element
+  - element/narrative
+  - action/make
   - action/learn
+  - msc/vision
