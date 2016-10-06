@@ -1,3 +1,7 @@
+#vision section.blog, #team section.blog {
+  margin-bottom: 3em;
+}
+
 .child-background {
   margin-top: 2.5em;
   background-color: $offwhite;
@@ -49,6 +53,12 @@ audio {
   }
 }
 
+#partners {
+  main {
+    margin-bottom: 3em;
+  }
+}
+
 .um-logos {
   @include justify-content-start;
   margin-bottom: 1em;
@@ -75,7 +85,7 @@ audio {
 
 .beyond-um-logos {
   @include justify-content-start;
-  margin-bottom: 2em;
+  margin-bottom: 0.8em;
 
   figure {
     @include flex-tri-parameters(0, 1, 23%);
@@ -108,11 +118,266 @@ audio {
 
 .icon-h3 h3{
   clear:right;
-  margin-top: 2.5em;
+  margin-top: 2.8em;
   margin-left: 3em;
   margin-bottom: 1em;
 }
 //No clear h3
 .no-clear h3{
   clear: none;
+}
+
+//page id=edgenotes
+#edgenotes {
+  .gala-embedded-card h3 {
+    margin-bottom: 1em;
+    margin-top: 1em;
+  }
+}
+
+//#make
+#make {
+  .image-float-right {
+    margin-top: 5px;
+  }
+
+  .button {
+    margin-top: 0.5em;
+  }
+
+  iframe {
+    width:100%;
+    height:1000px;
+
+    @include breakpoint ($mq-small){
+      height: 600px;
+    }
+  }
+}
+
+#teach {
+  iframe {
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
+#learn {
+  iframe {
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
+#make {
+  .video iframe {
+    margin-top: 2em;
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
+//#vision
+#vision {
+  figcaption {
+    margin-bottom: 2em;
+  }
+
+  .video {
+    margin-top: 2em;
+  }
+
+  iframe {
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
+//Elements examples
+.element-examples {
+  .flex-container {
+    margin-bottom: 0.7em;
+    margin-top: 0.7em;
+  }
+
+  .figures {
+    margin-bottom: 1em;
+  }
+
+  .background {
+    width: 100%;
+
+    img {
+      border-radius: 5px;
+    }
+  }
+
+  .description {
+    @include flex-tri-parameters (1,1,20em);
+  }
+
+  & > div:nth-child(even) {
+    @include flex-direction-row-reverse;
+  }
+}
+
+#podcast .element-examples {
+  .figures {
+    height: 11em;
+    @include flex-tri-parameters (1,1,15em);
+    background-size: cover;
+    border-radius: 2pt;
+    @include display-flex;
+    @include flex-align-items-end;
+    audio {
+      border-bottom: 4px solid #6ACB72;
+      border-radius: 2pt;
+      width: 100%;
+    }
+    @media screen and (max-width: 580px) {
+      height: 12em;
+    }
+  }
+
+  div.description {
+    margin-right: 1.5em;
+    @media screen and (max-width: 580px) {
+      margin-right: 0;
+    }
+  }
+
+  & > div:nth-child(odd) {
+    @include flex-direction-row-reverse;
+  }
+}
+
+#narrative .element-examples {
+  & > div:nth-child(odd) {
+    .figures {
+      margin-right: 1em;
+
+      @media screen and (max-width: 575px){
+        margin-right: 0;
+      }
+    }
+  }
+
+  & > div:nth-child(even) {
+    .figures {
+      margin-left: 1em;
+
+      @media screen and (max-width: 575px){
+        margin-left: 0;
+      }
+    }
+  }
+
+  .figures {
+  @include flex-tri-parameters (1,1,15em);
+  border-radius: 5px;
+  @include display-flex;
+  justify-content: center;
+  background-size: cover;
+  position: relative;
+    & > figure {
+      width: 60%;
+      padding: 1em;
+      img {
+        border-radius: 100%;
+        box-shadow: 0 0 3em 0 rgba(black, .5);
+      }
+    }
+  }
+}
+
+#exercise .element-examples {
+  div.description {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
+  & > div:nth-child(even) {
+    @include flex-direction-initial;
+    .figures {
+      margin-right: 1.5em;
+      @media screen and (max-width: 620px) {
+        margin-right: 0;
+      }
+    }
+  }
+
+  & > div:nth-child(odd) {
+    @include flex-direction-row-reverse;
+    .figures {
+      margin-left: 1em;
+      @media screen and (max-width: 620px) {
+        margin-left: 0;
+      }
+    }
+  }
+
+  .figures {
+    margin-bottom: 0;
+    @include flex-tri-parameters (1,1,18em);
+    figure {
+
+      img {
+        width: 100%;
+        border-radius: 5px;
+      }
+    }
+  }
+}
+
+//Contact page
+#contact {
+  section.hero {
+    display: none;
+  }
+
+  h1 {
+    display: none;
+  }
+}
+
+//iframe
+#contact {
+  iframe {
+    margin-bottom: 1.5em;
+  }
+
+  section.blog {
+    margin-bottom: 3em;
+  }
+
+  h3 {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+  }
+}
+
+//image on collaborate
+#collaborate {
+  .image-float-right-parent {
+    img {border-radius: 0;
+    border: solid 5px $ltltgrey
+  }
+
+  }
 }

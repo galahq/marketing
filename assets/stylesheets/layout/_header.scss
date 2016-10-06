@@ -4,7 +4,11 @@
 
 //The background opacity on homepage header top.
 .headerbg {
-  background-color: rgba(249, 248, 242, 0.6);
+  -webkit-backdrop-filter: blur(5px) brightness(150%);
+  background-color: rgba(249, 248, 242, 0.3);
+  @supports not (-webkit-backdrop-filter: blur(5px)) {
+    background-color: rgba(249, 248, 242, 0.8);
+  }
   padding-bottom: 0.8em;
 }
 
@@ -14,17 +18,10 @@
 
   img{
      width: 20em;
-     @include breakpoint($mq-extra-small) {
-       width: 15em;
-     }
-
-     @include breakpoint($mq-small) {
-       width: 17em;
-     }
    }
 
    @include breakpoint($mq-small) {
-     margin-left: 5em;
+     margin-left: 4.5em;
    }
 }
 
@@ -39,19 +36,24 @@
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 450px;
+  @include display-flex;
+  @include flex-direction-column;
+  @include justify-content-space-between;
+
+  .site {
+    width: 100%;
+  }
 
   h1 {
     line-height: 90%;
-    margin: 4.8em 0 0.1em 0;
-
-    @include breakpoint($mq-small) {
-      margin-top: 3.8em;
-    }
+    margin: 0 auto;
+    margin-bottom: 0.2em;
   }
 
   p {
     font-weight: 300;
     max-width: 40em;
+    padding-bottom: 1.5em;
   }
 }
 
@@ -73,6 +75,12 @@
   h1 {
     padding-top: 7.5em;
     font-weight: 200;
+    line-height: 110%;
+    margin-bottom: 0.2em;
+
+    @include breakpoint ($mq-small){
+      padding-top: 9em;
+    }
   }
 
   p {

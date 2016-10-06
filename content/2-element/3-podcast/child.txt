@@ -10,11 +10,11 @@ Description: Conversations with relevant actors expose students to different sid
 
 ----
 
-Text: MSC podcasts present the material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts and decision-makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion driven approach, our podcasts shed light on under-explored aspects of the case material.
+Text: MSC podcasts present material in the form of a lively conversation. Providing an opportunity to untangle case narratives and assumptions and develop potential solutions, the podcasts engage stakeholders, experts, and decision makers. Connecting experts and citizens, the podcasts bridge research and practice. Through a discussion-driven approach, our podcasts shed light on underexplored aspects of the case material.
 
 ----
 
-Pagetagline: Insiders’ View
+Pagetagline: Insider Views
 
 ----
 
@@ -26,26 +26,11 @@ Pagesubtagline: Conversational &middot; First Hand &middot; Learn on the Go
 
 ----
 
-Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student run radio station, WCBN FM. Podcasts allow students to hear conversations amongst key actors and relevant experts and stakeholders and thus be exposed to different sides of the issue.
+Subdescription: MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student-run radio station, WCBN-FM. Podcasts allow students to hear conversations among key actors and relevant experts and stakeholders, and thus be exposed to different sides of the issue.
 
 ----
 
-Wbg: 
-
-Have a taste of our podcasts, where you can:
-
-###Unpack complex issues
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3"></audio>
-Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears. 
-
-
-###Critique dominant narratives
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/7g24g2b2ud20uzocqg8lf8ug5xykjcwq.mp3"></audio>
-Urban farming organizations aim to improve food access in Detroit.  We hear from a board member of one organization, about the challenges and opportunities of running an all-volunteer farm, while two activists and organizers explain the need for Detroiters to be a part of the conversation. 
-
-###Expand the conversation
-<audio controls="" preload="auto" data-reactid=".0.1.1.0.2" src="https://umich.box.com/shared/static/h3pvusrxe5ehet1roqz41fynbzoup379.mp3"></audio>
-Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this conversation beyond State borders, exploring human-wildlife conflicts in India and Yellowstone National Park, and the narratives that shape them.
+Wbg: Have a taste of our podcasts, where you can:
 
 ----
 
@@ -56,10 +41,48 @@ Timeline:
 Feature: 
 
 1. ###Conversational and provocative
-Lasting about 30 minutes to an hour, MSC podcasts feature background information, conversations about key concepts or methods, dialogue that untangles challenges and assumptions, and debate over objectives and tradeoffs. MSC podcasts often incorporate relevant music following the exceptional tastes of our MSC hosts.
+Lasting about 30 minutes to an hour, MSC podcasts feature background information, conversations about key concepts or methods, dialogue that challenges assumptions, and debate over objectives and tradeoffs. MSC podcasts often incorporate relevant music following the exceptional tastes of our MSC hosts.
 2. ###Studio quality
-MSC has partnered with the tech savvy students running the University of Michigan radio station, taking advantage of their in-house expertise and quality equipment.
+MSC has partnered with the tech-savvy students running the University of Michigan radio station, taking advantage of their in-house expertise and quality equipment.
 
 ----
 
-Featureimg: (image:https://msc-public.imgix.net/podcast-iphone.png class: img-float-right alt: Learn with MSC podcast)
+Featureimg: (imgix:podcast-iphone.png class: img-float-right alt: Learn with MSC podcast size:240)
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Elementexamples: 
+
+- 
+  background: >
+    https://msc-public.imgix.net/tesla-podcast-cover.jpg
+  foreground: '<audio src="https://umich.box.com/shared/static/y2llmnufsbfztpe69iqr4maeyjomwbwy.mp3" controls="" preload="auto" data-reactid=".0.1.1.0.2"></audio>'
+  description: |
+    ###Unpack complex issues
+    Can Green Mountain and Tesla solve the “peak problem”?  Energy storage is popularly assumed to be a ‘green’ technology.  We hear firsthand from a company implementing household storage and learn why the ‘greenness’ of storage is more complicated than it appears.
+- 
+  background: >
+    https://msc-gala.imgix.net/mufi-podcast-cover.jpg
+  foreground: '<audio src="https://umich.box.com/shared/static/7g24g2b2ud20uzocqg8lf8ug5xykjcwq.mp3" controls="" preload="auto" data-reactid=".0.1.1.0.2"></audio>'
+  description: |
+    ###Critique dominant narratives
+    Urban farming organizations aim to improve food access in Detroit.  We hear from a board member of one organization, about the challenges and opportunities of running an all-volunteer farm, while two activists and organizers explain the need for Detroiters to be a part of the conversation.
+- 
+  background: >
+    https://www.nps.gov/common/uploads/photogallery/imr/park/yell/954CBB82-155D-451F-6759DA7CD789DC9F/954CBB82-155D-451F-6759DA7CD789DC9F.jpg
+  foreground: '<audio src="https://umich.box.com/shared/static/h3pvusrxe5ehet1roqz41fynbzoup379.mp3" controls="" preload="auto" data-reactid=".0.1.1.0.2"></audio>'
+  description: |
+    ###Expand the conversation
+    Should we hunt gray wolves in Michigan? The ‘Wolf Wars’ podcast takes this conversation beyond State borders, exploring human-wildlife conflicts in India and Yellowstone National Park, and the narratives that shape them.

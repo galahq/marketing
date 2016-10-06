@@ -12,12 +12,12 @@ Description:
 
 Text: 
 
-Student achievement is the cornerstone of MSC. Students take the lead, designing MSCs with future students in mind, while benefitting from productive partnerships with professors, practitioners, and media design specialists. Analytical, professional networking, and communication skills are sharpened along the way. 
+(imgix:make-interview.jpg alt:doing interview class:image-float-right size:400)
+*Student achievement* is the cornerstone of MSC. Students take the lead, designing MSCs with future students in mind, while benefitting from productive partnerships with professors, practitioners, and media design specialists. Analytical, professional networking, and communication skills are sharpened along the way. 
 
-> I honed my writing and content development skills during the case creation process. I further gained presentation and facilitation skills in implementing the case for an undergraduate class in winter 2016. – <span>Arman Golrokhian, UM Master student and author of the Ethiopia National Adaptation case</span>
+>I honed my writing and content development skills during the case creation process. I further gained presentation and facilitation skills in implementing the case for an undergraduate class in Winter 2016. <span> &#8212;&#8239;Arman Golrokhian, UM Master's student and author of the Ethiopia National Adaptation case</span>
 
-<p>&nbsp;</p>
-(add video of Ashwini)
+(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:MSC has partnership with World Development Perspectives journal to publish some of our cases. In this video, WDP's Editor-in-Chief Ashwini Chhatre talks about why he thinks that producing MSC is a great opportunity. class:video)
 
 ----
 
@@ -25,7 +25,7 @@ Link: action/make
 
 ----
 
-Pagetagline: Driven by you
+Pagetagline: Driven by You
 
 ----
 
@@ -39,18 +39,14 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 Wbg: 
 
-So you want to build a case? That’s great! 
+So, you want to make a case? That’s great! 
 
-Each case requires an important sustainability challenge. Inspiration for existing cases have come from local news, research articles and first-hand experiences. We look forward to turning your idea into an MSC.
-
-For step by step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3-6 weeks. *
+For step-by-step details, take a look at our Production Guide below. *Please note that the MSC team is currently working on a more detailed production guide and will update this page in the next 3–6 weeks.*
 
 MSC accepts case proposals on a rolling basis. Funding is available for accepted proposals. 
-When you are ready to get started  –› <a class="button" href="make/proposal">submit a proposal</a>
+<a class="button" href="make/proposal">submit a proposal</a>
 
-<iframe src="https://docs.google.com/presentation/d/1F14lsBrqmlJcKSkeWPGHVCYxQ4Wdp08DxuJGA7P04fo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<p>&nbsp;</p>
+<iframe src="https://docs.google.com/viewerng/viewer?url=https://s3-us-west-2.amazonaws.com/msc-public/msc-production-guide.pdf&embedded=true" frameborder="0"></iframe>
 
 ----
 
@@ -62,4 +58,24 @@ Feature:
 
 ----
 
+Featuring: 
+
+----
+
 Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Elementexamples: 

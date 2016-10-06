@@ -63,16 +63,21 @@
 
 //Mobile menu starts here
 
+.button#menu-mobile-open {
+  font-size: 0.9em;
+  position: fixed;
+}
+
 #menu-mobile-open {
   display: none;
   cursor: pointer;
   position: absolute;
-  left: 0.4em;
-  top: 0.5em;
+  left: 0.1em;
+  top: 0.7em;
   z-index: 100;
   font-size: 1em;
   padding: 0.5em 1em;
-  background: $ltyellow;
+  background: $ltltyellow;
 
   &:hover {
     color: $galablue;
@@ -80,6 +85,12 @@
 
   @include breakpoint($mq-small) {
     display: block;
+  }
+}
+
+#home {
+  .button#menu-mobile-open {
+    border: solid 1px $white !important;
   }
 }
 
@@ -127,7 +138,7 @@
   border-bottom: solid 1px $white;
   &:last-child {
     border: none;
-    padding-bottom: 1.5em;
+    padding-bottom: 1em;
   }
 
   .active {
@@ -140,11 +151,14 @@
 }
 
 .menu-mobile-close {
-  background-color: lighten($yellow, 25%);
+  background-color: $ltltyellow;
   color: $galablue;
   padding: 1em;
-  font-size: 0.9em;
+  text-transform: uppercase;
   cursor: pointer;
+  font-family: "tenso", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.05em;
   margin: 0;
 }
 

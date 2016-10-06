@@ -7,7 +7,16 @@
   li {
     list-style: none;
     display: inline-block;
-    font-size: 0.9em;
+
+    a {
+      margin-right: 0.8em;
+    }
+
+    &:not(:first-child) {
+      a {
+        margin-left: 0.8em;
+      }
+    }
 
     &::after {
       content: '›';
@@ -16,6 +25,16 @@
     &:last-child {
       &::after {
         content: '';
+      }
+    }
+  }
+}
+
+.partialcrumb {
+  li {
+    &:last-child {
+      a {
+        margin-left: 0;
       }
     }
   }

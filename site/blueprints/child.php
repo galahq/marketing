@@ -77,11 +77,8 @@ fields:
     label: Timeline
     type: structure
     entry: >
-      {{icon}} {{content}} {{dateofevent}} {{newslink}}
+      {{content}} {{dateofevent}} {{newslink}}
     fields:
-      icon:
-        label: Icon
-        type: text
       content:
         label: Content
         type: textarea
@@ -91,3 +88,18 @@ fields:
       newslink:
         label: News link
         type: text
+  elementexamples:
+    label: Examples
+    type: structure
+    entry: >
+      {{background}} {{foreground}} {{description}}
+    fields:
+      background:
+        label: Background
+        type: text
+      foreground:
+        label: Foreground
+        type: text
+      description:
+        label: Description
+        type: textarea

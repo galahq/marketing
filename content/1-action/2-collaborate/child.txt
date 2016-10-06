@@ -12,11 +12,11 @@ Description:
 
 Text: 
 
-Collaboration is critical to MSC, from case inception all the way to final decision making. Yet, MSC also wants to promote collaboration at **different scales**. So, an additional function is currently under development: **online groups**, formed by interest, discipline, location, classrooms or study groups. These groups will provide **unique lenses** for students and others to shift amongst perspectives on any given case. 
-(imgix_screenshot: policy-wonks.jpg alt: case cover page class: image-float-right-parent caption: Comment stream on an MSC)
-As you explore a case, you can turn comments off and read it with your own eyes. Then, make visible the comments by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
+Collaboration is critical to MSC, from case inception to (link:../element/exercise text:in-class interactive exercises) and all the way to final decision making. Yet, MSC also wants to facilitate collaboration at *different scales*. To do so, we are currently develping an additional function: *online groups*, formed by interest, discipline, location, classrooms, or study groups. These groups will provide *unique lenses* for students and others to shift amongst perspectives on any given case. 
+(imgix: policy-wonks.jpg alt: comment stream demo class: image-float-right-parent caption: [Available Soon] Comment stream on an MSC)
+As you explore a case, turn comments off and read it through your own eyes. Then, make comments visible by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
 
-Discussion streams thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
+*Comment streams* thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
 
 ----
 
@@ -32,30 +32,30 @@ Pagesubtagline: Grasp &middot; Contribute &middot;  Connect
 
 ----
 
-Subdescription: Collaboratively problem-solve in class through group activities and online via discussion communities established by discipline, location and classroom.
+Subdescription: Collaboratively problem-solve in class through group activities and online via discussion communities established by discipline, location, and classroom.
 
 ----
 
 Wbg: 
 
-##Using the Groups function to expand your learning
-(image: https://msc-public.imgix.net/private-group.png class:child-icon)
+##Expand your learning with communities of practice.
+(imgix: private-group.png alt: icon for private groups class:child-icon size:50)
 <div class="icon-h3"><h3>Private Groups</h3></div>
 For quick access to insights from your peers, establish groups by:
 - Campus 
 - Classroom
 - Individual study group
 
-Not restricted to formal education institutions, private groups can also be established in organizations like NGOs or companies. Certain private comment streams can (with permission) be lifted into other private as well as public groups. In this way, discussions are preserved and passed on to new learners, making the cases living entities that are constantly evolving. 
+Not restricted to formal educational institutions, private groups can also be established in organizations like NGOs or companies. Certain private comment streams can (with permission) be lifted into other private as well as public groups. In this way, discussions are preserved and passed on to new learners, making the cases living entities that are constantly evolving. 
 
-(image: https://msc-public.imgix.net/public-group.png class:child-icon)
+(imgix: public-group.png alt: icon for public groups class:child-icon size:50)
 <div class="icon-h3"><h3>Public Groups</h3></div>
 Public groups are open access, for broader participation of those who have first-hand knowledge of or a stake in the cases. These groups are established by:
-- Interest, such as with regard to specific policy or advocacy standpoints, farmers, unions, …
-- Identity, such as indigenous, women, feminists, capitalists, neo-Marxists, …
-- Discipline, such as engineering, anthropology, planning or design, …
-- Place, such as by country (e.g. China, Bolivia) or region (e.g. west Africa, northeast USA), …
-- and whatever else develops organically through user involvement, …
+- Interest — such as on policy standpoints, activism, urban gardening, beekeeping, …
+- Identity — such as indigenous, feminist, capitalist, neo-Marxist, …
+- Discipline — such as engineering, anthropology, planning, public health, design, …
+- Place — such as by country, region, town, village, …
+- and anything else that develops organically through user involvement.
 
 Motivated by urgent sustainability challenges, the informal learning produced by these groups transcends geographical, cultural, and generational distances.
 
@@ -82,3 +82,7 @@ Otherpartners:
 ----
 
 Timeline: 
+
+----
+
+Elementexamples: 

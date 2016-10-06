@@ -8,7 +8,6 @@
     <?php foreach($items as $item): ?>
     <?php $children = $item->children();?>
     <li>
-
       <a href="<?php echo $item->url() ?>" class="<?php e($item->isOpen() && !$children->findOpen(), 'active') ?>"><?php echo $item->title()->html() ?></a>
         <ul class="second-level">
           <?php foreach($children as $child): ?>
@@ -17,6 +16,14 @@
         </ul>
     </li>
     <?php endforeach ?>
+    <li><a href"0#">Resources</a>
+      <ul class="second-level">
+        <li><a href="<?php echo $pages->find('action')->find('teach')->find('evaluation')->url() ?>"><?php echo $pages->find('action')->find('teach')->find('evaluation')->title() ?></a></li>
+        <li><a href="<?php echo $pages->find('action')->find('make')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+        <li><a href="<?php echo $pages->find('action')->find('make')->find('proposal')->url() ?>"><?php echo $pages->find('action')->find('make')->find('proposal')->title() ?></a></li>
+        <li><a href="<?php echo $pages->find('contact')->url() ?>">Contact Us</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
 
