@@ -4,6 +4,10 @@
 
   figure {
     @include flex-tri-parameters(0, 1, 10em);
+
+    img {
+      width: 100%;
+    }
   }
 
   div {

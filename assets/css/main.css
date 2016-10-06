@@ -1255,6 +1255,8 @@ main.home section {
     -moz-box-flex: 0;
     -ms-flex: 0 1 10em;
     flex: 0 1 10em; }
+    .flip-flop figure img {
+      width: 100%; }
   .flip-flop div {
     -webkit-box-flex: 2;
     -moz-box-flex: 2;
@@ -1610,6 +1612,8 @@ audio {
 .element-examples .flex-container {
   margin-bottom: 0.7em;
   margin-top: 0.7em; }
+.element-examples .figures {
+  margin-bottom: 1em; }
 .element-examples .background {
   width: 100%; }
   .element-examples .background img {
@@ -1650,14 +1654,19 @@ audio {
 
 #narrative .element-examples > div:nth-child(odd) .figures {
   margin-right: 1em; }
+  @media screen and (max-width: 560px) {
+    #narrative .element-examples > div:nth-child(odd) .figures {
+      margin-right: 0; } }
 #narrative .element-examples > div:nth-child(even) .figures {
   margin-left: 1em; }
+  @media screen and (max-width: 560px) {
+    #narrative .element-examples > div:nth-child(even) .figures {
+      margin-left: 0; } }
 #narrative .element-examples .figures {
-  -webkit-box-flex: 0;
-  -moz-box-flex: 0;
-  -ms-flex: 0 1 15em;
-  flex: 0 1 15em;
-  height: 10em;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-flex: 1 1 15em;
+  flex: 1 1 15em;
   border-radius: 5px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1666,8 +1675,7 @@ audio {
   display: flex;
   justify-content: center;
   background-size: cover;
-  position: relative;
-  margin-top: 0.3em; }
+  position: relative; }
   #narrative .element-examples .figures > figure {
     width: 60%;
     padding: 1em; }
