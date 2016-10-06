@@ -264,7 +264,7 @@ audio {
     .figures {
       margin-right: 1em;
 
-      @media screen and (max-width: 560px){
+      @media screen and (max-width: 575px){
         margin-right: 0;
       }
     }
@@ -274,7 +274,7 @@ audio {
     .figures {
       margin-left: 1em;
 
-      @media screen and (max-width: 560px){
+      @media screen and (max-width: 575px){
         margin-left: 0;
       }
     }
@@ -301,12 +301,16 @@ audio {
 #exercise .element-examples {
   div.description {
     margin-top: 0.5em;
+    margin-bottom: 0.5em;
   }
 
   & > div:nth-child(even) {
     @include flex-direction-initial;
     .figures {
       margin-right: 1.5em;
+      @media screen and (max-width: 620px) {
+        margin-right: 0;
+      }
     }
   }
 
@@ -314,11 +318,15 @@ audio {
     @include flex-direction-row-reverse;
     .figures {
       margin-left: 1em;
+      @media screen and (max-width: 620px) {
+        margin-left: 0;
+      }
     }
   }
 
   .figures {
-  @include flex-tri-parameters (0,1,20em);
+    margin-bottom: 0;
+    @include flex-tri-parameters (1,1,18em);
     figure {
 
       img {
