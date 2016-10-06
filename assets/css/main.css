@@ -917,13 +917,6 @@ span.number-value {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between; }
-  @media (max-width: 768px) {
-    .footerflex {
-      -webkit-box-pack: center;
-      -moz-box-pack: center;
-      -ms-flex-pack: center;
-      -moz-justify-content: center;
-      justify-content: center; } }
 
 .footerflexitem {
   color: #9c9c9c;
@@ -944,11 +937,18 @@ span.number-value {
   border-top: 1px solid #9c9c9c;
   justify-content: space-between;
   margin-top: 2em; }
+  @media (max-width: 768px) {
+    .footerbottom {
+      margin-top: 0.5em; } }
 
 .copyright {
   text-align: left;
   color: #9c9c9c;
   padding: 2em 0; }
+  @media (max-width: 768px) {
+    .copyright {
+      padding-bottom: 0;
+      text-align: center; } }
 
 footer > div {
   font-size: .9em;
@@ -1589,6 +1589,8 @@ audio {
   @media (max-width: 768px) {
     #learn iframe {
       height: 300px; } }
+#learn h2:not(:first-child) {
+  margin-top: 1.2em; }
 
 #make .video iframe {
   margin-top: 2em;
