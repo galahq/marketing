@@ -51,13 +51,11 @@
 
 .submenu-bg {
   background-color: $ltyellow;
-  margin-top: 1em;
   border-top: 2px solid $ltyellow;
 
   @include breakpoint($mq-small) {
     background-color: transparent;
     border: none;
-    margin-top: 2.5em;
   }
 }
 
@@ -72,11 +70,11 @@
   display: none;
   cursor: pointer;
   position: absolute;
-  left: 0.1em;
+  left: 0.6em;
   top: 0.7em;
   z-index: 100;
   font-size: 1em;
-  padding: 0.5em 1em;
+  padding: 0.5em .75em;
   background: $ltltyellow;
 
   &:hover {
@@ -90,7 +88,7 @@
 
 #home {
   .button#menu-mobile-open {
-    border: solid 1px $white !important;
+    border: solid 1px $galablue !important;
   }
 }
 
