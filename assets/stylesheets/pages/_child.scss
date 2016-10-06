@@ -239,7 +239,8 @@ audio {
 
 #podcast .element-examples {
   .figures {
-    height: 10em;
+    height: 11em;
+    @include flex-tri-parameters (1,1,15em);
     background-size: cover;
     border-radius: 2pt;
     @include display-flex;
@@ -247,11 +248,18 @@ audio {
     audio {
       border-bottom: 4px solid #6ACB72;
       border-radius: 2pt;
+      width: 100%;
+    }
+    @media screen and (max-width: 580px) {
+      height: 12em;
     }
   }
 
   div.description {
     margin-right: 1.5em;
+    @media screen and (max-width: 580px) {
+      margin-right: 0;
+    }
   }
 
   & > div:nth-child(odd) {
