@@ -18,17 +18,10 @@
 
   img{
      width: 20em;
-     @include breakpoint($mq-extra-small) {
-       width: 15em;
-     }
-
-     @include breakpoint($mq-small) {
-       width: 17em;
-     }
    }
 
    @include breakpoint($mq-small) {
-     margin-left: 5em;
+     margin-left: 4.5em;
    }
 }
 
