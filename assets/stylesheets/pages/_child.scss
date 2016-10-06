@@ -175,6 +175,10 @@ audio {
       height:300px;
     }
   }
+
+  h2:not(:first-child){
+    margin-top: 1.2em;
+  }
 }
 
 #make {
@@ -375,9 +379,9 @@ audio {
 //image on collaborate
 #collaborate {
   .image-float-right-parent {
-    img {border-radius: 0;
-    border: solid 5px $ltltgrey
-  }
-
+    img {
+      border-radius: 0;
+      border: solid 5px $ltltgrey
+    }
   }
 }
