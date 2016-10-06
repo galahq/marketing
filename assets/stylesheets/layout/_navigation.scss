@@ -64,7 +64,6 @@
 //Mobile menu starts here
 
 .button#menu-mobile-open {
-  margin-top: 0.1em;
   font-size: 0.9em;
   position: fixed;
 }
@@ -73,8 +72,8 @@
   display: none;
   cursor: pointer;
   position: absolute;
-  left: 0.4em;
-  top: 0.5em;
+  left: 0.1em;
+  top: 0.7em;
   z-index: 100;
   font-size: 1em;
   padding: 0.5em 1em;
