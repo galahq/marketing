@@ -21,7 +21,7 @@
         </div><!--footerflexitem-->
       <?php endforeach ?>
 
-      <div class="footerflexitem">
+      <div class="footerflexitem hide">
         <h4>Resources</h4>
         <nav>
           <ul class="footermenu">
