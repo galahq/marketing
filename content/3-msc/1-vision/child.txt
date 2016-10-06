@@ -29,11 +29,11 @@ MSC provides a library of cases that are modular to fit into a variety of classr
 
 ##MSC Aspirations 
 
-Our overarching didactical ambition is to help students achieve sustainability competencies including: systems-thinking, anticipatory, normative, strategic, and interpersonal. These skills will help develop **critical and reflective future sustainability leaders**. 
+Our overarching didactical ambition is to help students achieve sustainability competencies including: systems-thinking, anticipatory, normative, strategic, and interpersonal. These skills will help develop *critical and reflective future sustainability leaders*. 
 
-With thoughtful pedagogy guiding the use of innovative e-tools and an engaging narrative style, MSC will transform sustainability learning on UM campuses as well as **serving as a model** for sustainability education globally. MSC will also facilitate a global sustainability learning community by building global partnerships, with resources and support for students who are interested in this ever-growing field to participate. 
+With thoughtful pedagogy guiding the use of innovative e-tools and an engaging narrative style, MSC will transform sustainability learning on UM campuses as well as *serving as a model* for sustainability education globally. MSC will also facilitate a global sustainability learning community by building global partnerships, with resources and support for students who are interested in this ever-growing field to participate. 
 
-With 200 cases by 2020 and some publicly accessible 150-200 individual case studies, MSC hopes to **capture the attention** of pre-college and current students around the world and promote the University of Michigan as a leader in sustainability education.
+With 200 cases by 2020 and some publicly accessible 150-200 individual case studies, MSC hopes to *capture the attention* of pre-college and current students around the world and promote the University of Michigan as a leader in sustainability education.
 
 ----
 
@@ -70,3 +70,19 @@ Featureimg:
 ----
 
 Timeline: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Elementexamples: 
