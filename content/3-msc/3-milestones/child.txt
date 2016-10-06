@@ -18,7 +18,7 @@ Pagetagline: Milestones
 
 ----
 
-Pagesubtagline: From an idea to on the ground practice, we are gradually making our visions come true.
+Pagesubtagline: From an idea to on-the-ground practice, we are gradually making our vision come true.
 
 ----
 
@@ -90,14 +90,14 @@ Timeline:
   icon: ""
   content: |
     ##Initial assessment
-    Initial quantitative and qualitative assessments were conducted during Dr. Rebecca Hardin's winter undergraduate level class.
+    Initial quantitative and qualitative assessments were conducted during Dr. Rebecca Hardin’s winter undergraduate level class.
   dateofevent: Winter 2016
   newslink: ../action/teach/evaluation
 - 
   icon: ""
   content: |
     ##From an idea to implementation: Pilot cases
-    Three new MSCs were piloted during the winter term: two in Dr. Rebecca Hardin's undergraduate class; one in Professor Arun Agrawal's graduate class. Subsequent   student discussion groups produced feedback on both the cases and their use in the classroom.
+    Three new MSCs were piloted during the winter term: two in Dr. Rebecca Hardin’s undergraduate class; one in Professor Arun Agrawal’s graduate class. Subsequent   student discussion groups produced feedback on both the cases and their use in the classroom.
   date: ""
   newslink: ""
   dateofevent: Winter 2016
@@ -114,7 +114,7 @@ Timeline:
   icon: ""
   content: |
     ##The incubation stage
-    Inspired by case-based teaching and the It's Hot in Here radio show, the MSC team sat down together to put ideas for new, multimodal cases into a project proposal.
+    Inspired by case-based teaching and the It’s Hot in Here radio show, the MSC team sat down together to put ideas for new, multimodal cases into a project proposal.
   date: ""
   newslink: >
     http://thirdcentury.umich.edu/michigan-sustainability-cases/

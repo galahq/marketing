@@ -12,7 +12,7 @@ Description:
 
 Text: 
 
-Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need *innovative approaches* and *thoughtful guidance* to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is *systematic, creative, socially just*, and *inter-culturally intelligent*. 
+Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need *innovative approaches* and *thoughtful guidance* to be ready to respond to increasingly wicked sustainability dilemmas. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is *systematic, creative, socially just*, and *interculturally intelligent*. 
 
 Current modes of sustainability education typically rely on the outdated pedagogy of traditional lectures, which are found to suppress student creativity and engagement. MSC is expanding upon the best of case-based learning, building problem-driven, solution-focused, multi-modal approaches emphasizing experiential learning. Learn more here about how MSC envisions sustainability education of the future.
 
@@ -51,10 +51,10 @@ Because MSCs are both interdisciplinary and modular, they are useful to many typ
 MSCs are digitally enhanced to allow easy access from different devices around the world. The platform is responsive to different screen sizes, so students can take part via a computer, tablet, or smartphone. It offers students the opportunity to listen and learn on the go.
 
 4. ###Effective
-MSC is much more effective in equipping students with the competencies needed to solve complex problems. </br>(link:action/teach/evaluation text: Check out MSC evaluation ›)
+MSC is much more effective in equipping students with the competencies needed to solve complex problems.<br>(link:action/teach/evaluation text: Check out MSC evaluation ›)
 
 (imgix: teach-in-group.jpg alt:use MSC in class class:image-full-width)
-Ready to bring MSCs into your classroom? (link:http://www.learnmsc.org text:Explore our available cases ›)
+Ready to bring MSCs into your classroom?<br>(link:http://www.learnmsc.org text:Explore our available cases ›)
 
 ----
 

@@ -5,7 +5,7 @@ Title: Team
 Text: 
 
 (imgix: msc-group.jpg alt:MSC group picture class:image-full-width)
-We have a team of interdisciplinary folks with different backgrounds and cultures. We also have student contributors during different phases of the project.
+We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.
 
 ###Director
 (link:http://www.snre.umich.edu/profile/rebecca_d_hardin_phd text:Rebecca Hardin) — Associate Professor, SNRE
@@ -15,8 +15,9 @@ Meghan Wagner — Project Coordinator
 Pearl Zeng — Learning Platform and Web Manager
 Cameron Bothner — Software Engineer
 Edward Waisanen — Podcast Director
-Micheal Burbidge — Media Coordinator
+Michael Burbidge — Media Coordinator
 Christopher Askew-Merwin — Podcast Coordinator 
+Anil Bhargava — Evaluation Coordinator
 Megan Czerwinski — Evaluation Coordinator
 Anil Bhargava — Evaluation Coordinator
 Arman Golrokhian — Production and Assessment Coordinator
@@ -56,7 +57,7 @@ Nick Kemp — Photo Contributor
 ### Team Alumni  
 Katherine Browne — PHD candidate at SNRE
 Steve Lonn — Director of Enrollment Research and Data Management, UM
-Claire Poeking — M.S. candidate at SNRE
+Claire Poelking — M.S. candidate at SNRE
 Harold Rice — B.S., Program in the Environment, UM
 Mary Wright — Director, Sheridan Center for Teaching and Learning, Brown University
 
