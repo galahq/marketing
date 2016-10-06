@@ -19,7 +19,7 @@
 
  <?php else: ?>
 
-   <section class="header cf site">
+   <section class="header headerbg cf site">
      <a class="logo" href="<?php echo url() ?>">
        <?php imgix('logo.png', $site->title(), 373.33) ?>
      </a>
