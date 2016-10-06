@@ -18,7 +18,7 @@ Text:
 
 MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Finally, interactive learning exercises for students to analyze priorities and tradeoffs.
 
-(imgix: learnwithpodcast.jpg class: image-full-width alt: Learn with MSC podcast)
+(youtube: https://www.youtube.com/watch?v=IUExl5-wwaA caption: Dr. Rebecca Hardin piloted two cases in her winter 2016 class. In this video, students talk about how they like learning with MSC.)
 
 The multifarious challenges of ‘wicked’ problems like climate change and energy security bring to light the complex reality of sustainability in our world. In response, MSCs build critical interdisciplinary skills that will last beyond the classroom. Real problems are narrated through the eyes of real decision makers and stakeholders, presenting different perspectives that reveal the difficulties of leadership and decision making.
 

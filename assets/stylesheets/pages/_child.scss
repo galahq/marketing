@@ -166,6 +166,29 @@ audio {
   }
 }
 
+#learn {
+  iframe {
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
+#make {
+  .video iframe {
+    margin-top: 2em;
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
 //#vision
 #vision {
   figcaption {
