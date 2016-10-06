@@ -10,7 +10,7 @@ Description: Each MSC tells a story that presents a real-world problem with a ch
 
 ----
 
-Pagetagline: Enter the Decision Maker’s World
+Pagetagline: Become Decision Makers
 
 ----
 
@@ -20,11 +20,11 @@ Pagesubtagline: First-hand accounts &middot; First-hand experience
 
 Text: 
 
-At heart, our cases are stories. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask students to make a choice. In this way, a successful case can guide students to an inductive understanding of how sustainability problems can be approached. 
+At heart, our cases are stories. Some even seem like puzzles. Many draw from practitioners’ own experiences. They begin with a decision maker and center around a problem that needs to be solved. The cases introduce different sets of interests, present options and tradeoffs, and ask learners to make a choice. In this way, a successful case can guide students through complex information, to inductive understanding of how sustainability problems can be approached, analyzed, and altered. 
 
-##Our stories are wide-ranging, traversing an array of:
+##Our stories are wide-ranging:
 1. ###Topics
-MSC authors represent a variety of disciplines interested in diverse topics.
+MSC authors represent a variety of disciplines and research domains.
 2. ###Sectors
 MSCs engage with public, private, non-profit, and other sectors.
 3. ###Scales and locations
@@ -44,8 +44,8 @@ Subdescription: Each MSC tells the story of a real-world problem with a challeng
 
 Wbg: 
 
-##Reading our stories gives you the chance to:
-*MSC’s narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles. Below are just a first taste of our MSC storylines.*
+##Reading our stories
+MSC’s narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles. Below are just a first taste of our MSC storylines.
 
 ----
 
@@ -78,39 +78,28 @@ Elementexamples:
 - 
   background: 'https://msc-public.imgix.net/tesla-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/josh_castonguay.jpg?w=200&h=200&crop=faces&fit=crop alt:Josh Castonguay)'
-  description: 'Visualize yourself as Chief Innovation Officer of Vermont’s Green Mountain Power utility company, Josh Castonguay. You are weighing the pros and cons of pairing up with Tesla and offering its new ‘Powerwall’ battery as a “behind the meter” renewable energy option to your customers. Yet, many uncertainties exist with regard to customer uptake and interactions with the standard utility grid.  Should you try to find a way to bring new energy technologies to your clients? If so, how exactly?'
+  description: |
+    *Can new battery technologies solve problems of peak demand in energy grids?*
+    
+    Visualize yourself as Chief Innovation Officer of Vermont’s Green Mountain Power utility company, Josh Castonguay. You are weighing the pros and cons of pairing up with Tesla and offering its new ‘Powerwall’ battery as a “behind the meter” renewable energy option to your customers. Yet, many uncertainties exist with regard to customer uptake and interactions with the standard utility grid.  Should you try to find a way to bring new energy technologies to your clients? If so, exactly how will you proceed?
 - 
   background: 'https://msc-public.imgix.net/indonesia-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/laure_katz.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop alt:Laure Katz)'
-  description: >
-    Picture yourself as Laure Katz, the
-    Director of the Bird’s Head Seascapes
-    Initiative at the global NGO,
-    Conservation International. Prompted by
-    recent shifts in Seascape’s
-    traditional funding structure, you must
-    rapidly formulate a strategy to transfer
-    management to local bodies and establish
-    a sustainable funding model for
-    effective, community-driven
-    conservation. The incredible ecology of
-    West Papua, Indonesia is at stake…
+  description: |
+    *Marine conservation happens at geological time scales; conservation finance doesn't.*
+    
+    Picture yourself as Laure Katz, the Director of the Bird’s Head Seascapes Initiative at the global NGO, Conservation International. Prompted by recent shifts in Seascape’s traditional funding structure, you must rapidly formulate a strategy to transfer management to local bodies and establish a sustainable funding model for effective, community-driven conservation. The incredible ecology of West Papua, Indonesia is at stake…
 - 
   background: 'https://msc-public.imgix.net/cherry-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/nikki_rothwell.jpg?w=200&mask=ellipse&h=200&fm=png&fit=crop alt: Nikki Rothwell)'
-  description: >
-    Imagine that you are Nikki Rothwell, the
-    Coordinator of the Northwest Michigan
-    Horticultural Research Center, a unique
-    cooperative partnership between Michigan
-    fruit growers and Michigan State
-    University. As coordinator, you are
-    responsible to develop a management plan
-    for the center to ensure the viability
-    of cherry growing in Michigan. Yet,
-    unpredictable weather patterns are
-    increasing…
+  description: |
+    *Cherries are a key Michigan commodity, but earlier blooms are vulnerable to volatile frost cycles. *
+    
+    Imagine that you are Nikki Rothwell, the Coordinator of the Northwest Michigan Horticultural Research Center, a unique cooperative partnership between Michigan fruit growers and Michigan State University. As coordinator, you are responsible to develop a management plan for the center to ensure the viability of cherry growing in Michigan. Yet, unpredictable weather patterns are increasing…
 - 
   background: 'https://msc-public.imgix.net/mufi-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop alt:Tyson Gersh)'
-  description: "Put yourself in the shoes of the co-founder and President of the Michigan Urban Farming Initiative (MUFI), Tyson Gersh. MUFI is a volunteer-run community urban agriculture organization subsisting off of the fundraising efforts of its 35,000 social media supporters. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding, or fundamentally challenge the core of MUFI’s identity. Which strategy best empowers communities, to empower themselves?"
+  description: |
+    *A not-so-secret garden, weathering histories of inequality and tides of social change. *
+    
+    Put yourself in the shoes of the co-founder and President of the Michigan Urban Farming Initiative (MUFI), Tyson Gersh. MUFI is a volunteer-run community urban agriculture organization subsisting off of the fundraising efforts of its 35,000 social media supporters. You must decide if changing land use and social tensions in Detroit fundamentally challenge the core of MUFI’s identity, and the value of its contributions to long term residents of Detroit. What urban agriculture practices best empower communities themselves?

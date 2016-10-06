@@ -16,9 +16,9 @@ Pagetagline: Enjoy Learning
 
 Text: 
 
-MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, perspectives from key decision maker and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Finally, interactive learning exercises for students to analyze priorities and tradeoffs.
+MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, perspectives from key decision makers and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Finally, interactive learning exercises for students to analyze priorities and tradeoffs.
 
-(youtube: https://www.youtube.com/watch?v=IUExl5-wwaA caption: Dr. Rebecca Hardin piloted two cases in her winter 2016 class. In this video, students talk about how they like learning with MSC.)
+(youtube: https://www.youtube.com/watch?v=IUExl5-wwaA caption: Students talk about how they like learning with MSC in the Program in the Environment at U-M.)
 
 The multifarious challenges of ‘wicked’ problems like climate change and energy security bring to light the complex reality of sustainability in our world. In response, MSCs build critical interdisciplinary skills that will last beyond the classroom. Real problems are narrated through the eyes of real decision makers and stakeholders, presenting different perspectives that reveal the difficulties of leadership and decision making.
 
@@ -28,7 +28,7 @@ Link: action/learn
 
 ----
 
-Pagesubtagline: Fun &middot; Tangible &middot;  Practical
+Pagesubtagline: Interactive &middot; Fun &middot;  Accessible
 
 ----
 
@@ -38,14 +38,14 @@ Subdescription: Unfold challenging problems through the eyes of key actors; expl
 
 Wbg: 
 
-## Making learning fun and effective
+## Making learning stick
 Our cases pull you quickly into the story, immersing you in challenging sustainablity puzzles.
 (imgix: learnwithvideo.jpg class: image-float-right size: 400 alt: Learn with MSC Edgenotes)
 - Start by seeing problems through the eyes of decision-makers. Our (link:element/narrative text:narrative) style leads to inductive learning.
 - “Meet” different stakeholders and experts and dig deeper into facts via (link:element/edgenote text:multimedia Edgenotes) and the (link:element/podcast text:podcast). These elements expand the spectrum of perspectives.
 - Finally, it’s time to react. (link:element/exercise text:Engaged learning exercises)  allow you to build skills while putting them into practice. Apply your knowledge and come to real-life decisions. 
 
-## Inspiration from the world around us
+## Inspiration all around us
 MSCs come from right on our doorstep or the other side of the world, with authors finding inspiration in contemporary research, activism and journalism. All are grounded in actual sustainability crises. For example: 
 (imgix: learnwitharticle2.jpg class: image-float-right size: 400 alt: Learn with MSC Edgenotes)
 - A May 2016 article by Michigan local media MLive, *Should cleaning up the Gelman dioxane plume be a national priority?*, speaks to an issue of great interest to UM student Anna Prushinskaya. Anna is producing an MSC on how city, county, and federal actors decide whether a full-scale clean-up of this environmental disaster, or just a ‘mitigation’ of the risks, is most appropriate.

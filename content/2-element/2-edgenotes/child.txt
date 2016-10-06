@@ -18,11 +18,11 @@ Edgenotes are jumping-off points for deeper exploration. Video and audio bites, 
 We may extract a critical two-minute segment from a 16-minute video, or a 1-page excerpt from a 40-page technical report. Thoughtful curation helps students quickly identify the most relevant pieces of information, but also provides the option to explore further if they are inspired by a specific Edgenote.
 
 2. ###Closely tied to narrative
-Rejecting the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait until the end and explore them all at once in the Edgenote gallery.
+Transcending the traditional footnote, Edgenotes are presented right alongside the corresponding text. Learners control their own pace and way of exploring. They can visit Edgenotes along the way or wait until the end and explore them all at once in the Edgenote gallery.
 
 ----
 
-Pagetagline: Go Deeper Into the Case
+Pagetagline: Dive Deeper
 
 ----
 
@@ -30,7 +30,7 @@ Link: element/edgenotes
 
 ----
 
-Pagesubtagline: Immersive · Learner-Controlled Pace · For All Learning Styles
+Pagesubtagline: Provocative · Learner-Controlled · Illustrative
 
 ----
 
@@ -61,10 +61,11 @@ Sample our Edgenotes and begin to explore:
 </div>
 
 <div class="gala-embedded-card">
-<h3>Digestible concepts</h3>
-In the <a href="http://www.learnmsc.org/cases/ethiopia-napa#/">Ethiopia case</a>, learn how to do <a data-edgenote="basics-of-cba">cost-benefit analysis with an explanatory video</a>. 
+<h3>Fully cooked concepts</h3>
+In the <a href="http://www.learnmsc.org/cases/ethiopia-napa#/">Ethiopia case</a>, <a data-edgenote="basics-of-cba">learn how to do cost-benefit analysis</a> with an explanatory video. 
 </div>
 <div class="gala-embedded-card">
+<h3>Unpacking scientific principles</h3>
 While in the <a href="http://www.learnmsc.org/cases/baltimore-smart-meters#/">Baltimore smart meters case</a>, quickly grasp <a data-edgenote="electricity-generation-transmission-and-distribution">the difference between electricity generation, transmission, and distribution across the grid from an audio clip</a>.
 </div>
 

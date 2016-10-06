@@ -6,7 +6,7 @@ Tagline: Redesign Curriculum
 
 ----
 
-Subtagline: Real Cases &middot; Practical Engagement &middot; Effective Results
+Subtagline: Real Cases &middot; Practical Skills &middot; Powerful Science
 
 ----
 
@@ -33,19 +33,19 @@ Numbers:
 
 ----
 
-Actionheading: Learn, create, contribute, and innovate with MSC.
+Actionheading: Educate and innovate with MSC
 
 ----
 
-Elementheading: Stories with elements that are fun and engaging.
+Elementheading: Stories that stimulate
 
 ----
 
-Visionheading: Transforming pedagogy in the sustainability field.
+Visionheading: Sustainable pedagogy
 
 ----
 
-Actionlearnmore: Learn more about actions you can take with MSC
+Actionlearnmore: Learn more about MSC options
 
 ----
 

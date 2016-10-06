@@ -12,11 +12,11 @@ Description:
 
 Text: 
 
-Collaboration is critical to MSC, from case inception to (link:../element/exercise text:in-class interactive exercises) and all the way to final decision making. Yet, MSC also wants to facilitate collaboration at *different scales*. To do so, we are currently develping an additional function: *online groups*, formed by interest, discipline, location, classrooms, or study groups. These groups will provide *unique lenses* for students and others to shift amongst perspectives on any given case. 
+Collaboration is critical to MSC, from case inception to (link:../element/exercise text:in-class interactive exercises) and all the way to final decision making. Yet, MSC also wants to facilitate collaboration at *different scales*. So, we are develping an additional function: *online groups*, formed by interest, discipline, location, classrooms, or study groups. These groups will provide *unique lenses* for students and others to shift amongst perspectives on any given case. 
 (imgix: policy-wonks.jpg alt: comment stream demo class: image-float-right-parent caption: [Available Soon] Comment stream on an MSC)
-As you explore a case, turn comments off and read it through your own eyes. Then, make comments visible by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes (rather than in a list at the bottom of the page). Draw from the insights of others to help solve the sustainability dilemma. 
+As you explore a case, turn comments off and read it through your own eyes. Then, make comments visible by groups that interest you, such as your peers, engineers, policymakers, or planners. Comments are found right on the page where inspiration strikes. Draw from the insights of others to help solve the sustainability dilemma. 
 
-*Comment streams* thus highlight particular themes or interests and facilitate greater interdisciplinary learning.
+*Comment streams* highlight particular themes or interests and facilitate greater interdisciplinary learning.
 
 ----
 
@@ -28,7 +28,7 @@ Pagetagline: Collective Intelligence
 
 ----
 
-Pagesubtagline: Grasp &middot; Contribute &middot;  Connect
+Pagesubtagline: Consider &middot; Contribute &middot;  Connect
 
 ----
 
@@ -38,7 +38,7 @@ Subdescription: Collaboratively problem-solve in class through group activities 
 
 Wbg: 
 
-##Expand your learning with communities of practice.
+##Expand your learning with communities of practice
 (imgix: private-group.png alt: icon for private groups class:child-icon size:50)
 <div class="icon-h3"><h3>Private Groups</h3></div>
 For quick access to insights from your peers, establish groups by:
