@@ -141,6 +141,12 @@ audio {
     margin-top: 5px;
   }
 
+
+
+
+
+
+
   .button {
     margin-top: 0.5em;
   }
@@ -151,6 +157,30 @@ audio {
 
     @include breakpoint ($mq-small){
       height: 600px;
+    }
+  }
+
+  .element-examples {
+    .figures {
+      @include flex-tri-parameters (1,1,18em);
+      background-size: cover;
+    }
+
+    div {
+      @include flex-direction-row-reverse;
+      margin-right: 1em;
+    }
+
+    .call-to-action {
+      text-align: center;
+      background: $ltoffwhite;
+      padding: 3em 0;
+      border-radius: 3px;
+      letter-spacing: 0.05em;
+
+      .button {
+        margin-top: 1.5em;
+      }
     }
   }
 }
@@ -183,7 +213,6 @@ audio {
 
 #make {
   .video iframe {
-    margin-top: 2em;
     width:100%;
     height:475px;
 
