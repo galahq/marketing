@@ -36,9 +36,9 @@
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 450px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  @include display-flex;
+  @include flex-direction-column;
+  @include justify-content-space-between;
 
   .site {
     width: 100%;
@@ -76,6 +76,11 @@
     padding-top: 7.5em;
     font-weight: 200;
     line-height: 110%;
+    margin-bottom: 0.2em;
+
+    @include breakpoint ($mq-small){
+      padding-top: 9em;
+    }
   }
 
   p {

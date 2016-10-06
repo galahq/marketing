@@ -1,10 +1,11 @@
 .gala-embedded-card section{
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: flex-start;
+  @include display-flex;
+  @include flex-direction-row;
+  @include flex-wrap(wrap);
+  @include justify-content-start;
 
   & > div {
-    flex: 1 1 21em;
+    @include flex-tri-parameters(1,1,21em);
 
     a[data-edgenote] {
       text-decoration: none;
@@ -22,7 +23,7 @@
   }
 
   aside.edgenotes {
-    flex: 1 1 22em;
+    @include flex-tri-parameters(1,1,22em);
         background-color: $darkgrey;
 
           figcaption {

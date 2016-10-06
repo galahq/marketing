@@ -847,8 +847,17 @@ span.number-value {
   background-repeat: no-repeat;
   color: #F9F8F2;
   height: 450px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -moz-box;
+  display: -webkit-flex;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between; }
   .intro .site {
     width: 100%; }
@@ -876,7 +885,11 @@ span.number-value {
   .centerbox h1 {
     padding-top: 7.5em;
     font-weight: 200;
-    line-height: 110%; }
+    line-height: 110%;
+    margin-bottom: 0.2em; }
+    @media (max-width: 768px) {
+      .centerbox h1 {
+        padding-top: 9em; } }
   .centerbox p {
     font-weight: 300; }
 
@@ -1013,10 +1026,24 @@ ul.toc {
       display: block; } }
 
 .gala-embedded-card section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -moz-box;
+  display: -webkit-flex;
   display: flex;
-  flex-flow: row wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
   justify-content: flex-start; }
   .gala-embedded-card section > div {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -ms-flex: 1 1 21em;
     flex: 1 1 21em; }
     .gala-embedded-card section > div a[data-edgenote] {
       text-decoration: none;
@@ -1028,6 +1055,9 @@ ul.toc {
         background-color: #6acb72;
         color: inherit; }
   .gala-embedded-card section aside.edgenotes {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -ms-flex: 1 1 22em;
     flex: 1 1 22em;
     background-color: #3b3f4e; }
     .gala-embedded-card section aside.edgenotes figcaption {
@@ -1585,15 +1615,27 @@ audio {
   .element-examples .background img {
     border-radius: 5px; }
 .element-examples .description {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-flex: 1 1 20em;
   flex: 1 1 20em; }
 .element-examples > div:nth-child(even) {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
   flex-direction: row-reverse; }
 
 #podcast .element-examples .figures {
   height: 10em;
   background-size: cover;
   border-radius: 2pt;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -moz-box;
+  display: -webkit-flex;
   display: flex;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
   align-items: flex-end; }
   #podcast .element-examples .figures audio {
     border-bottom: 4px solid #6ACB72;
@@ -1601,6 +1643,9 @@ audio {
 #podcast .element-examples div.description {
   margin-right: 1.5em; }
 #podcast .element-examples > div:nth-child(odd) {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
   flex-direction: row-reverse; }
 
 #narrative .element-examples > div:nth-child(odd) .figures {
@@ -1608,9 +1653,16 @@ audio {
 #narrative .element-examples > div:nth-child(even) .figures {
   margin-left: 1em; }
 #narrative .element-examples .figures {
+  -webkit-box-flex: 0;
+  -moz-box-flex: 0;
+  -ms-flex: 0 1 15em;
   flex: 0 1 15em;
   height: 10em;
   border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -moz-box;
+  display: -webkit-flex;
   display: flex;
   justify-content: center;
   background-size: cover;
@@ -1626,14 +1678,23 @@ audio {
 #exercise .element-examples div.description {
   margin-top: 0.5em; }
 #exercise .element-examples > div:nth-child(even) {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: initial;
   flex-direction: initial; }
   #exercise .element-examples > div:nth-child(even) .figures {
     margin-right: 1.5em; }
 #exercise .element-examples > div:nth-child(odd) {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -ms-flex-direction: row-reverse;
   flex-direction: row-reverse; }
   #exercise .element-examples > div:nth-child(odd) .figures {
     margin-left: 1em; }
 #exercise .element-examples .figures {
+  -webkit-box-flex: 0;
+  -moz-box-flex: 0;
+  -ms-flex: 0 1 20em;
   flex: 0 1 20em; }
   #exercise .element-examples .figures figure img {
     width: 100%;

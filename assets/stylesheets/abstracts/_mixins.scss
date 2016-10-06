@@ -39,6 +39,13 @@
          flex-direction: row;
 }
 
+@mixin flex-direction-initial {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: initial;
+          flex-direction: initial;
+}
+
 @mixin flex-direction-column {
      -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -78,4 +85,10 @@
   -webkit-box-align: $align;
      -ms-flex-align: $align;
         align-items: $align;
+}
+
+@mixin flex-align-items-end {
+  -webkit-box-align: end;
+       -ms-flex-align: end;
+           align-items: flex-end;
 }
