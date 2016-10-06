@@ -1630,7 +1630,11 @@ audio {
   flex-direction: row-reverse; }
 
 #podcast .element-examples .figures {
-  height: 10em;
+  height: 11em;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-flex: 1 1 15em;
+  flex: 1 1 15em;
   background-size: cover;
   border-radius: 2pt;
   display: -webkit-box;
@@ -1643,9 +1647,16 @@ audio {
   align-items: flex-end; }
   #podcast .element-examples .figures audio {
     border-bottom: 4px solid #6ACB72;
-    border-radius: 2pt; }
+    border-radius: 2pt;
+    width: 100%; }
+  @media screen and (max-width: 580px) {
+    #podcast .element-examples .figures {
+      height: 12em; } }
 #podcast .element-examples div.description {
   margin-right: 1.5em; }
+  @media screen and (max-width: 580px) {
+    #podcast .element-examples div.description {
+      margin-right: 0; } }
 #podcast .element-examples > div:nth-child(odd) {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
@@ -1654,12 +1665,12 @@ audio {
 
 #narrative .element-examples > div:nth-child(odd) .figures {
   margin-right: 1em; }
-  @media screen and (max-width: 560px) {
+  @media screen and (max-width: 575px) {
     #narrative .element-examples > div:nth-child(odd) .figures {
       margin-right: 0; } }
 #narrative .element-examples > div:nth-child(even) .figures {
   margin-left: 1em; }
-  @media screen and (max-width: 560px) {
+  @media screen and (max-width: 575px) {
     #narrative .element-examples > div:nth-child(even) .figures {
       margin-left: 0; } }
 #narrative .element-examples .figures {
@@ -1684,7 +1695,8 @@ audio {
       box-shadow: 0 0 3em 0 rgba(0, 0, 0, 0.5); }
 
 #exercise .element-examples div.description {
-  margin-top: 0.5em; }
+  margin-top: 0.5em;
+  margin-bottom: 0.5em; }
 #exercise .element-examples > div:nth-child(even) {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -1692,6 +1704,9 @@ audio {
   flex-direction: initial; }
   #exercise .element-examples > div:nth-child(even) .figures {
     margin-right: 1.5em; }
+    @media screen and (max-width: 620px) {
+      #exercise .element-examples > div:nth-child(even) .figures {
+        margin-right: 0; } }
 #exercise .element-examples > div:nth-child(odd) {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
@@ -1699,11 +1714,15 @@ audio {
   flex-direction: row-reverse; }
   #exercise .element-examples > div:nth-child(odd) .figures {
     margin-left: 1em; }
+    @media screen and (max-width: 620px) {
+      #exercise .element-examples > div:nth-child(odd) .figures {
+        margin-left: 0; } }
 #exercise .element-examples .figures {
-  -webkit-box-flex: 0;
-  -moz-box-flex: 0;
-  -ms-flex: 0 1 20em;
-  flex: 0 1 20em; }
+  margin-bottom: 0;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-flex: 1 1 18em;
+  flex: 1 1 18em; }
   #exercise .element-examples .figures figure img {
     width: 100%;
     border-radius: 5px; }
