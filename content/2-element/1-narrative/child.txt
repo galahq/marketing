@@ -10,7 +10,7 @@ Description: Each MSC tells a story that presents a real-world problem with a ch
 
 ----
 
-Pagetagline: Enter the Decision Maker's World
+Pagetagline: Enter the Decision Maker’s World
 
 ----
 
@@ -45,7 +45,7 @@ Subdescription: Each MSC tells the story of a real-world problem with a challeng
 Wbg: 
 
 ##Reading our stories gives you the chance to:
-*MSC's narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles. Below are just a first taste of our MSC storylines.*
+*MSC’s narrative style allows students to immerse themselves in the context, an experience largely absent in typical academic articles. Below are just a first taste of our MSC storylines.*
 
 ----
 
@@ -113,4 +113,4 @@ Elementexamples:
 - 
   background: 'https://msc-public.imgix.net/mufi-narrative-cover.jpg?w=600&h=400'
   foreground: '(image: https://msc-public.imgix.net/tyson_gersh%E2%80%8B.png?w=200&mask=ellipse&h=200&fm=png&fit=crop alt:Tyson Gersh)'
-  description: "Put yourself in the shoes of the co-founder and President of the Michigan Urban Farming Initiative (MUFI), Tyson Gersh. MUFI is a volunteer-run community urban agriculture organization subsisting off of the fundraising efforts of its 35,000 social media supporters. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding, or fundamentally challenge the core of MUFI's identity. Which strategy best empowers communities, to empower themselves?"
+  description: "Put yourself in the shoes of the co-founder and President of the Michigan Urban Farming Initiative (MUFI), Tyson Gersh. MUFI is a volunteer-run community urban agriculture organization subsisting off of the fundraising efforts of its 35,000 social media supporters. You must decide if hiring a paid grant-writer will help MUFI secure steady streams of funding, or fundamentally challenge the core of MUFI’s identity. Which strategy best empowers communities, to empower themselves?"
