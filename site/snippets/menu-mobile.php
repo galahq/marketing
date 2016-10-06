@@ -5,6 +5,7 @@
 <nav class="menu-mobile no-scroll-lock">
   <h5 class="menu-mobile-close">&larr; Close Menu</h5>
   <ul class="first-level">
+    <li><a href="<?php echo url() ?>">Home</a></li>
     <?php foreach($items as $item): ?>
     <?php $children = $item->children();?>
     <li>
