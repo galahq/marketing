@@ -141,12 +141,6 @@ audio {
     margin-top: 5px;
   }
 
-
-
-
-
-
-
   .button {
     margin-top: 0.5em;
   }
@@ -160,26 +154,40 @@ audio {
     }
   }
 
+  .blank {
+    display: none;
+  }
+
   .element-examples {
     .figures {
-      @include flex-tri-parameters (1,1,18em);
       background-size: cover;
+      border: solid 4px $ltoffwhite;
+      margin-right: 0;
+
+      img {
+        width: 15em;
+        margin: 0 auto;
+      }
     }
 
     div {
       @include flex-direction-row-reverse;
       margin-right: 1em;
+
+      @media screen and (max-width: 600px) {
+        margin-right: 0;
+      }
     }
 
     .call-to-action {
       text-align: center;
       background: $ltoffwhite;
-      padding: 3em 0;
+      padding: 1.8em 0;
       border-radius: 3px;
       letter-spacing: 0.05em;
 
       .button {
-        margin-top: 1.5em;
+        margin-top: 0.7em;
       }
     }
   }
