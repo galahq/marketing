@@ -146,6 +146,10 @@
     width: calc(95% - 35px);
   }
 
+  p {
+    margin-bottom: 0.4em;
+  }
+
   &:after {
     content: "";
     display: table;
@@ -173,6 +177,6 @@
 
   .timeline-read-more{
     display: inline-block;
-    float: right;
+    float: left;
   }
 }

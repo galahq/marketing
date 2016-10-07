@@ -101,7 +101,7 @@
             <span class="timeline-date"><?php echo $timelineitem->dateofevent() ?></span>
             <?php echo str_replace('(\\', '(', kirbytext($timelineitem->content())) ?>
             <?php if($timelineitem->newslink()->isNotEmpty()) { ?>
-              <a href="<?php echo $timelineitem->newslink() ?>" class="timeline-read-more">Read More ›</a>
+              <a href="<?php echo $timelineitem->newslink() ?>" class="timeline-read-more">Read more ›</a>
             <?php } ?>
     			</div> <!-- timeline-content -->
     		</div> <!-- timeline-block -->
