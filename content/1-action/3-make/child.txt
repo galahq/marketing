@@ -39,7 +39,7 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 ----
 
-Wbg: <p>&nbsp;</p>
+Wbg: <p class="blank">&nbsp;</p>
 
 ----
 
@@ -75,7 +75,7 @@ Elementexamples:
 
 - 
   background: >
-    https://msc-public.imgix.net/msc-production-guide.jpg
+    https://msc-public.imgix.net/msc-production-guide.jpg?w=1000
   foreground: '<a href="https://docs.google.com/viewerng/viewer?url=https://s3-us-west-2.amazonaws.com/msc-public/msc-production-guide.pdf"><img src="https://msc-public.imgix.net/download-button.png" alt="download" class="download-button"></a>'
   description: |
     So, you want to make a case? That’s great!
@@ -84,6 +84,6 @@ Elementexamples:
     
     <div class="call-to-action">
     MAKE A CASE<br>
-    FUNDING AVAILABLE
+    FUNDING AVAILABLE<br>
     <a class="button" href="make/proposal">Submit a Proposal</a>
     </div>

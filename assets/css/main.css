@@ -486,8 +486,8 @@ html {
   @media (max-width: 768px) {
     .image-float-right {
       float: none;
-      max-width: 100%;
-      margin: 0; } }
+      margin: 0 auto;
+      margin-bottom: 1em; } }
   .image-float-right figcaption {
     font-style: italic; }
 
@@ -694,11 +694,14 @@ span.number-value {
   position: fixed;
   top: 0;
   left: -100%;
-  width: calc(100% - 5em);
+  width: 18em;
   max-height: 100%;
   z-index: 200;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch; }
+  @media screen and (max-width: 23em) {
+    .menu-mobile {
+      width: calc(100% - 5em); } }
   .menu-mobile ul, .menu-mobile li, .menu-mobile li a {
     list-style: none;
     display: block; }
@@ -1604,26 +1607,32 @@ audio {
   @media (max-width: 768px) {
     #make iframe {
       height: 600px; } }
+#make .blank {
+  display: none; }
 #make .element-examples .figures {
-  -webkit-box-flex: 1;
-  -moz-box-flex: 1;
-  -ms-flex: 1 1 18em;
-  flex: 1 1 18em;
-  background-size: cover; }
+  background-size: cover;
+  border: solid 4px #F9F8F2;
+  margin-right: 0; }
+  #make .element-examples .figures img {
+    width: 15em;
+    margin: 0 auto; }
 #make .element-examples div {
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
   -ms-flex-direction: row-reverse;
   flex-direction: row-reverse;
   margin-right: 1em; }
+  @media screen and (max-width: 600px) {
+    #make .element-examples div {
+      margin-right: 0; } }
 #make .element-examples .call-to-action {
   text-align: center;
   background: #F9F8F2;
-  padding: 3em 0;
+  padding: 1.8em 0;
   border-radius: 3px;
   letter-spacing: 0.05em; }
   #make .element-examples .call-to-action .button {
-    margin-top: 1.5em; }
+    margin-top: 0.7em; }
 
 #teach iframe {
   width: 100%;
@@ -1905,6 +1914,8 @@ audio {
       margin-left: 60px;
       padding: 1em;
       width: calc(95% - 35px); } }
+  .timeline-content p {
+    margin-bottom: 0.4em; }
   .timeline-content:after {
     content: "";
     display: table;
@@ -1927,6 +1938,6 @@ audio {
         border-left-color: transparent; } }
   .timeline-content .timeline-read-more {
     display: inline-block;
-    float: right; }
+    float: left; }
 
 /*# sourceMappingURL=main.css.map */
