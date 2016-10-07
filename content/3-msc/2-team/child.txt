@@ -26,6 +26,7 @@ Alex Truelove — Music Director
 Marie Hooper — Web Interface Consultant
 Kris Steinhoff — Software Architecture Consultant
 Rebecca Rutt — Communications Consultant
+Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
 
 ### Curricular Advisors
@@ -35,6 +36,7 @@ Nick Kemp — Photo Contributor
 (link:http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
 (link:http://www.snre.umich.edu/profile/jeremiah_johnson text:Jeremiah Johnson) — Assistant Professor, SNRE
 (link:https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
+(link:https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, CRLT
 (link:https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, EEB; Director, UM Biostation
 (link:http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library
 (link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, Civil & Environmental Engineering
