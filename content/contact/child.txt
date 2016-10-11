@@ -29,8 +29,8 @@ Text:
 To send a message to MSC, please use the above form. 
 
 ###Alternative contact methods
-- For general inquiries: msc-contact@umich.edu
-- For web related issues: msc-develop@umich.edu
+- For general inquiries: <msc-contact@umich.edu>
+- For web related issues: <msc-develop@umich.edu>
 - For face to face Q&A: During Fall term 2016, MSC Project Coordinator Meghan Wagner holds office hours Tuesdays 1-2pm and Thursdays 10-11am.
 
 ###Location
