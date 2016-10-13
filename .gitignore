@@ -3,6 +3,9 @@
 .sass-cache
 .vagrant/
 
+/site/accounts
+/site/cache
+/thumbs
 
 # Compiled source #
 ###################

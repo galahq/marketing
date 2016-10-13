@@ -7,6 +7,7 @@ password: >
 language: en
 role: admin
 history:
+  - contact
   - msc/team
   - action/make
   - msc/milestones
