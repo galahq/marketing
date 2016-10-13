@@ -6,6 +6,7 @@
 /site/accounts
 /site/cache
 /thumbs
+/site/config/config.teachmsc.org.php
 
 # Compiled source #
 ###################
