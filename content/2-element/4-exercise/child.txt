@@ -75,23 +75,23 @@ Elementexamples:
   background: ""
   foreground: '(imgix:role-play.jpg alt: role play exercise size:374)'
   description: |
-    ###Wear the shoes
-    In the Wolf Wars case, students use role play to learn more about solving ecological conflicts while practicing their conflict resolution skills.
+    ### Walk in Their Shoes
+    In the Michigan Wolf Wars case, students use stakeholder role plays to resolve political impasses while practicing wildlife-human conflict resolution and and policy negotiation skills.
 - 
   background: ""
   foreground: '(imgix: cost-benefit-analysis.jpg alt: cost benefit analysis size:374)'
   description: |
-    ###Do the calculations
-    In the National Adaptation case, students practice economic and social Cost-Benefit Analysis to rank projects that can best protect Ethiopian people from climate changes.
+    ### Run the Numbers
+    In the National Adaptation Plan of Action (or NAPA) case, students first master economic cost-benefit analysis and then run a more complex analysis with the addition of socio ecological parameters, to rank Ethiopia's proposed NAPAs for their protection of people from climate volatility.
 - 
   background: ""
   foreground: '(imgix: exercise-mufi.jpg alt:map and explore size:374)'
   description: |
-    ###Map and explore
-    In the Urban Farming case, students use an interactive map called *Social Explorer* to visualize land allocation and use, then take a field trip to observe urban farms in Detroit with their own eyes.
+    ###Map and Explore
+    In the Urban Farming case, students use an interactive map called *Social Explorer* to visualize land use allocation and zoning, then take a field trip to Detroit as participant observers of labor and social relationships on an urban farm.
 - 
   background: ""
   foreground: '(imgix: field-trip.jpg alt: field trip size:374)'
   description: |
-    ###Get into the water
-    In the Dam Removal case, students explore actual dams, getting them into the water to use tools and techniques to answer questions about the surrounding habitat.
+    ###Get into the Water
+    In the Maple River Dam Removal case, students encounter the technical, ecological and epidemiological up sides and down sides to removing a dam.  The case gets them into the water to take measurements and model results about the surrounding habitat: before, during, and after.

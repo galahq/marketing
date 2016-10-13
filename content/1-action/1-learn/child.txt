@@ -16,11 +16,11 @@ Pagetagline: Enjoy Learning
 
 Text: 
 
-MSCs provide an immersive and exploratory educational approach to acquire practical skills in environmental sustainability. Each MSC tells a story. First, a real-world based problem with a challenging decision. Then, perspectives from key decision makers and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Finally, interactive learning exercises for students to analyze priorities and tradeoffs.
+Each MSC imparts scientific skills and situational understanding. First, the story of a real-world based problem with a challenging decision. Then, perspectives from key decision makers and main stakeholders, accompanied by audiovisual resources providing diverse and in-depth insights. Finally, interactive learning exercises for students to analyze priorities, tradeoffs, and unintended consequences.
 
 (youtube: https://www.youtube.com/watch?v=IUExl5-wwaA caption: Students talk about how they like learning with MSC in the Program in the Environment at U-M.)
 
-The multifarious challenges of ‘wicked’ problems like climate change and energy security bring to light the complex reality of sustainability in our world. In response, MSCs build critical interdisciplinary skills that will last beyond the classroom. Real problems are narrated through the eyes of real decision makers and stakeholders, presenting different perspectives that reveal the difficulties of leadership and decision making.
+The challenges of ‘wicked’ problems like climate change and energy security bring to light the complex reality of sustainability in our world. In response, MSCs build critical interdisciplinary skills that extend beyond the classroom. Problems are narrated by real decision makers and stakeholders, presenting different perspectives that reveal the difficulties of analysis, leadership, and decision making.
 
 ----
 
@@ -43,14 +43,14 @@ Our cases pull you quickly into the story, immersing you in challenging sustaina
 (imgix: learnwithvideo.jpg class: image-float-right size: 400 alt: Learn with MSC Edgenotes)
 - Start by seeing problems through the eyes of decision-makers. Our (link:element/narrative text:narrative) style leads to inductive learning.
 - “Meet” different stakeholders and experts and dig deeper into facts via (link:element/edgenote text:multimedia Edgenotes) and the (link:element/podcast text:podcast). These elements expand the spectrum of perspectives.
-- Finally, it’s time to react. (link:element/exercise text:Engaged learning exercises)  allow you to build skills while putting them into practice. Apply your knowledge and come to real-life decisions. 
+- Finally, it’s time to act. (link:element/exercise text:Engaged learning exercises)  allow you to build skills while putting them into practice. Apply your knowledge and make informed decisions. 
 
 ## Inspiration all around us
-MSCs come from right on our doorstep or the other side of the world, with authors finding inspiration in contemporary research, activism and journalism. All are grounded in actual sustainability crises. For example: 
+MSCs come from right on our doorstep, or from the other side of the world. Our authors finding inspiration in contemporary research, activism and journalism. All are grounded in actual sustainability challenges. For example: 
 (imgix: learnwitharticle2.jpg class: image-float-right size: 400 alt: Learn with MSC Edgenotes)
-- A May 2016 article by Michigan local media MLive, *Should cleaning up the Gelman dioxane plume be a national priority?*, speaks to an issue of great interest to UM student Anna Prushinskaya. Anna is producing an MSC on how city, county, and federal actors decide whether a full-scale clean-up of this environmental disaster, or just a ‘mitigation’ of the risks, is most appropriate.
+- A May 2016 article by Michigan local media MLive asks: *Should cleaning up the Gelman dioxane plume be a national priority?* The article speaks to an issue of great interest to UM student Anna Prushinskaya, who has seen the chemical contaminate wells, lakes and ponds on the west side of Ann Arbor. Anna is producing an MSC on how city, county, and federal actors clash, but can also collaborate to decide whether a full-scale clean-up of this environmental disaster, or just a ‘mitigation’ of the risks, is most appropriate.
 - Since 2014, e-waste in Ghana has attracted enormous international media attention. UM students Anne Canavati and Jayson Toweh traveled in mid 2016 with faculty advisor Adam Simon around Ghana. Their mission: to bring the voices of residents and companies on the risks and potentials of e-waste into their own MSC.
-- In 2014, an article by Fair Trade USA described fair trade coffee in Peru as “the perfect merge of quality and sustainability”. Inspired to dig deeper, student Carissa de Young and faculty advisor Joe Arvai quickly realized that certification in Peru is more complicated than this “perfect” picture. Their MSC examines the effects of direct trade supply chains for Peruvian coffee producers.
+- In 2014, an article by Fair Trade USA described fair trade coffee in Peru as “the perfect merge of quality and sustainability”. Inspired to dig deeper, student Carissa de Young and faculty advisor Joe Arvai quickly realized that certification in Peru is more complicated than this “perfect” picture. Their MSC examines the effects of direct trade supply chains for Peruvian coffee producers and the brokers whose power is bolstered by certification processes.
 
 ----
 
