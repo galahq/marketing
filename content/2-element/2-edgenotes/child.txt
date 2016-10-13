@@ -2,7 +2,7 @@ Title: Multimedia Edgenotes
 
 ----
 
-Tagline: Curated media to capture the imagination.
+Tagline: Curated media captures imagination
 
 ----
 
@@ -34,7 +34,7 @@ Pagesubtagline: Provocative · Learner-Controlled · Illustrative
 
 ----
 
-Subdescription: Edgenotes are audiovisual materials that *complement*, rather than supplement the case content. They are jumping-off points for deeper exploration. Curated from audiovisual resources, Edgenotes offer insights into organizational and ecological histories, expert perspectives, core concepts and theories, and different voices around the case.
+Subdescription: Edgenotes are audiovisual materials that *complement*, rather than supplement the case content. They are jumping-off points for deeper exploration. Selected from audiovisual resources, Edgenotes offer insights into organizational and ecological histories, expert perspectives, core concepts and theories, and different voices around the case.
 
 ----
 

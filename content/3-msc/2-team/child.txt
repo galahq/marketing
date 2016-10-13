@@ -30,7 +30,7 @@ Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
 
 ### Curricular Advisors
-(link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jemermy Bassis) — Associate Professor, AOSS
+(link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
 (link:https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
 (link:http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
 (link:http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
@@ -42,6 +42,7 @@ Nick Kemp — Photo Contributor
 (link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, Civil & Environmental Engineering
 (link:http://stamps.umich.edu/people/detail/joseph_trumpey text:Joe Trumpey) — Associate Professor, Art & Design
 (link:http://www.lib.umich.edu/users/ltz text:Lori Tschirhart) — Librarian, SNRE
+(link:http://www.snre.umich.edu/profile/steven_yaffee text:Steve Yaffee) — Professor, SNRE
 (link:http://www.snre.umich.edu/faculty/michaela_zint text:Michaela Zint) — Professor, SNRE
 
 ### Strategic Advisors

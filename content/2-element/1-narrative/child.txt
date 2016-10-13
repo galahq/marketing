@@ -2,7 +2,7 @@ Title: Narrative
 
 ----
 
-Tagline: Real world situations and dilemmas.
+Tagline: Real world dilemmas
 
 ----
 
@@ -38,7 +38,7 @@ Link: element/narrative
 
 ----
 
-Subdescription: Each MSC tells the story of a real-world problem with a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses. As the problem unfolds, key decision makers and stakeholders are introduced, alongside their stakes and tradeoffs.
+Subdescription: Each MSC tells the story of a challenging decision. A standard MSC is composed of a clear narrative leading to the problem, one or more decision points, and several potential responses or consequences. As the situation unfolds, key decision makers and stakeholders are introduced, as are their motivations and considerations when faced with the case.
 
 ----
 
