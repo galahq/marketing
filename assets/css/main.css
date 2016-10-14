@@ -510,11 +510,6 @@ blockquote {
     font-style: normal;
     font-size: 0.9em; }
 
-.uniform__potty {
-  position: absolute;
-  top: -9999px;
-  left: -9999px; }
-
 body {
   color: #3b3f4e;
   line-height: 1.5em;
