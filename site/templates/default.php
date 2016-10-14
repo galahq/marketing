@@ -5,7 +5,7 @@
 
   <div>
 
-    <article class="site cf">
+    <article class="site cf blog">
 
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
 
