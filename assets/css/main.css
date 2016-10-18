@@ -1940,4 +1940,16 @@ audio {
     display: inline-block;
     float: left; }
 
+.guide-nav ul, .guide-nav li, .guide-nav li a {
+  list-style: none;
+  display: block; }
+.guide-nav a {
+  padding: 10px;
+  text-decoration: none;
+  transition: all .2s;
+  padding-left: 1rem; }
+.guide-nav li a:hover,
+.guide-nav li a:focus {
+  color: #056ac7; }
+
 /*# sourceMappingURL=main.css.map */
