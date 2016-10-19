@@ -1947,14 +1947,40 @@ audio {
     margin-left: auto; }
   .guide-nav ul, .guide-nav li, .guide-nav li a {
     list-style: none;
-    display: block; }
+    display: block;
+    margin-bottom: none; }
   .guide-nav a {
     text-decoration: none; }
   .guide-nav li a:hover,
   .guide-nav li a:focus {
     color: #056ac7; }
 
+.left-nav {
+  background: none; }
+
 .guide-content {
-  flex: 2; }
+  flex: 2;
+  min-width: 20em; }
+
+.table {
+  overflow: scroll; }
+
+table {
+  display: block;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  font-size: 0.9em;
+  margin-bottom: 1.5em;
+  border: solid 1px #ebeae4;
+  min-width: 30em; }
+
+th, td {
+  border: none;
+  text-align: left;
+  padding: 0.5em; }
+
+tr:nth-child(even) {
+  background-color: #ebeae4; }
 
 /*# sourceMappingURL=main.css.map */

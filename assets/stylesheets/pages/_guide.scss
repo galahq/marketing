@@ -9,6 +9,7 @@
   ul, li, li a {
     list-style: none;
     display: block;
+    margin-bottom: none;
   }
 
   a {
@@ -21,6 +22,36 @@
   }
 }
 
+.left-nav {
+  background: none;
+}
+
 .guide-content {
   flex: 2;
+  min-width: 20em;
+}
+
+.table {
+  overflow: scroll;
+}
+
+table {
+    display: block;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    font-size: 0.9em;
+    margin-bottom: 1.5em;
+    border: solid 1px $offwhite;
+    min-width: 30em;
+}
+
+th, td {
+    border: none;
+    text-align: left;
+    padding: 0.5em;
+}
+
+tr:nth-child(even){
+  background-color: $offwhite;
 }
