@@ -22,6 +22,7 @@
   li a:hover,
   li a:focus {
     color: $vividblue;
+    border-bottom: 2px solid $ltltgrey;
   }
 }
 
@@ -37,6 +38,10 @@
       color: $vividblue;
       background: none;
     }
+
+    a {
+      padding-bottom: 0.5em;
+    }
   }
 }
 
@@ -47,6 +52,11 @@
     &:last-child{
       border: auto;
       padding-bottom: initial;
+    }
+
+    a {
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
     }
 
     a.active {

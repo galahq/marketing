@@ -1954,7 +1954,8 @@ audio {
     text-decoration: none; }
   .guide-nav li a:hover,
   .guide-nav li a:focus {
-    color: #056ac7; }
+    color: #056ac7;
+    border-bottom: 2px solid #ddd; }
 
 .left-nav {
   background: none; }
@@ -1964,12 +1965,17 @@ audio {
   .left-nav.first-level li a.active {
     color: #056ac7;
     background: none; }
+  .left-nav.first-level li a {
+    padding-bottom: 0.5em; }
 
 .left-nav.second-level li {
   border-bottom: none; }
   .left-nav.second-level li:last-child {
     border: auto;
     padding-bottom: initial; }
+  .left-nav.second-level li a {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em; }
   .left-nav.second-level li a.active {
     color: #056ac7;
     background: none; }
