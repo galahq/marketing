@@ -4,12 +4,15 @@
 
   ul {
     margin-left: auto;
+
+    li {
+      margin-bottom: auto;
+    }
   }
 
   ul, li, li a {
     list-style: none;
     display: block;
-    margin-bottom: none;
   }
 
   a {
@@ -24,6 +27,33 @@
 
 .left-nav {
   background: none;
+}
+
+.left-nav.first-level{
+  font-weight: normal;
+
+  li {
+    a.active {
+      color: $vividblue;
+      background: none;
+    }
+  }
+}
+
+.left-nav.second-level {
+  li {
+    border-bottom: none;
+
+    &:last-child{
+      border: auto;
+      padding-bottom: initial;
+    }
+
+    a.active {
+      color: $vividblue;
+      background: none;
+    }
+  }
 }
 
 .guide-content {

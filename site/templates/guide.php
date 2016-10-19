@@ -7,12 +7,12 @@
 
     <nav class="guide-nav flex-growing">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children() ;?>
-      <ul class="first-level">
+      <ul class="first-level left-nav">
         <?php foreach($guideitems as $guideitem) :?>
         <?php $children = $guideitem->children();?>
         <li>
           <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
-          <ul class="second-level">
+          <ul class="second-level left-nav">
             <?php foreach($children as $child): ?>
               <li><a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>"><?php echo $child->title()?></a></li>
             <?php endforeach ?>

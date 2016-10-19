@@ -1945,10 +1945,11 @@ audio {
   margin-right: 2em; }
   .guide-nav ul {
     margin-left: auto; }
+    .guide-nav ul li {
+      margin-bottom: auto; }
   .guide-nav ul, .guide-nav li, .guide-nav li a {
     list-style: none;
-    display: block;
-    margin-bottom: none; }
+    display: block; }
   .guide-nav a {
     text-decoration: none; }
   .guide-nav li a:hover,
@@ -1957,6 +1958,21 @@ audio {
 
 .left-nav {
   background: none; }
+
+.left-nav.first-level {
+  font-weight: normal; }
+  .left-nav.first-level li a.active {
+    color: #056ac7;
+    background: none; }
+
+.left-nav.second-level li {
+  border-bottom: none; }
+  .left-nav.second-level li:last-child {
+    border: auto;
+    padding-bottom: initial; }
+  .left-nav.second-level li a.active {
+    color: #056ac7;
+    background: none; }
 
 .guide-content {
   flex: 2;
