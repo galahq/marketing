@@ -7,8 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - >
+    action/make/production-guide/deliverables/checklist
   - msc/team
   - msc/partners
   - element/exercise
   - element/podcast
-  - element/edgenotes

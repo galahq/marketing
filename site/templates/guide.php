@@ -3,33 +3,43 @@
 
 <main class="main" role="main">
 
-  <nav class="guide-nav">
-    <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children() ;?>
-    <ul>
-      <?php foreach($guideitems as $guideitem) :?>
-      <li>
-        <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
-      </li>
-      <?php endforeach ?>
-    </ul>
-  </nav>
+  <div class="flex-container site">
 
-  <article class="guide-content site">
-    <h1><?php echo html($page->title()) ?></h1>
+    <nav class="guide-nav flex-growing">
+      <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children() ;?>
+      <ul class="first-level">
+        <?php foreach($guideitems as $guideitem) :?>
+        <?php $children = $guideitem->children();?>
+        <li>
+          <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
+          <ul class="second-level">
+            <?php foreach($children as $child): ?>
+              <li><a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>"><?php echo $child->title()?></a></li>
+            <?php endforeach ?>
+          </ul>
+        </li>
+        <?php endforeach ?>
+      </ul>
+    </nav>
 
-    <?php if($page->text() == ''):?>
-    <p>Coming soon!</p>
-    <p>We are working hard on improving this section. Thanks for your patience! In case you've got an urgent question, please <a href="../../../contact">contact us via this page</a>.</p>
+    <article class="guide-content flex-growing">
+      <h1><?php echo html($page->title()) ?></h1>
 
-    <?php else: ?>
+      <?php if($page->text() == ''):?>
+      <p>Coming soon!</p>
+      <p>We are working hard on improving this section. Thanks for your patience! In case you've got an urgent question, please <a href="../../../contact">contact us via this page</a>.</p>
 
-    <?php if($page->text()->isNotEmpty()): ?>
-    <p><?php echo $page->text()?></p>
-    <?php endif ?>
+      <?php else: ?>
 
-    <?php endif ?>
+      <?php if($page->text()->isNotEmpty()): ?>
+      <p><?php echo str_replace('(\\', '(', kirbytext($page->text())) ?></p>
+      <?php endif ?>
 
-  </article>
+      <?php endif ?>
+
+    </article>
+
+  </div>
 
 </main>
 

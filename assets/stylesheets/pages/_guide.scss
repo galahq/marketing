@@ -1,18 +1,26 @@
 .guide-nav {
+  flex: 1;
+  margin-right: 2em;
+
+  ul {
+    margin-left: auto;
+  }
+
   ul, li, li a {
     list-style: none;
     display: block;
   }
 
   a {
-    padding: 10px;
     text-decoration: none;
-    transition: all .2s;
-    padding-left: 1rem;
   }
 
   li a:hover,
   li a:focus {
     color: $vividblue;
   }
+}
+
+.guide-content {
+  flex: 2;
 }
