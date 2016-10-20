@@ -2,35 +2,35 @@ Title: Checklist
 
 ----
 
-Pagetagline: 
+Pagetagline:
 
 ----
 
-Pagesubtagline: 
+Pagesubtagline:
 
 ----
 
-Text: 
+Text:
 
 The following checklist will be helpful to you as you make your case. For your case to be completed, we need:
 
-<input type="checkbox"> Cover Page
-<input type="checkbox"> Title (Question, Kicker, Dek)
-<input type="checkbox"> Author names in preferred order
-<input type="checkbox"> Case abstract
-<input type="checkbox"> Table of contents
-<input type="checkbox"> Cover image (3 to choose from)
-
-<input type="checkbox">Case narrative
-<input type="checkbox">Multimedia Edgenotes
-<input type="checkbox">Podcast
-<input type="checkbox">Engaged Learning Exercise
-<input type="checkbox">Teaching Guide
-
-----
-
-Link: 
+✓ Cover Page
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Title (Question, Kicker, Dek)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Author names in preferred order
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Case summary
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Table of contents for narrative
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Table of contents for exercise
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Cover image
+✓ Case narrative
+✓ Multimedia Edgenotes
+✓ Podcast
+✓ Engaged Learning Exercise
+✓ Teaching Guide
 
 ----
 
-Reasons: 
+Link:
+
+----
+
+Reasons:
