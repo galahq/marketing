@@ -1,7 +1,7 @@
 .guide-nav {
   flex: 1;
   margin-right: 2.5em;
-
+  margin-bottom: 2em;
   ul {
     margin-left: auto;
 
@@ -75,6 +75,13 @@ ul.left-nav.second-level {
 .guide-content {
   flex: 2.5;
   min-width: 20em;
+  margin-bottom: 2em;
+
+  @media screen and (max-width: 532px) {
+    margin-top: 1.5em;
+  }
+
+
 
   h1 {
     margin-top: 0;
