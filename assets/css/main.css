@@ -497,6 +497,10 @@ html {
   font-size: 90%;
   font-style: italic; }
 
+figcaption {
+  font-style: italic;
+  font-size: 90%; }
+
 .video figcaption {
   font-style: italic; }
 
@@ -1967,7 +1971,8 @@ audio {
     color: #056ac7;
     background: none; }
   .left-nav.first-level li a {
-    padding-bottom: 0.5em; }
+    padding-bottom: 0.5em;
+    padding-top: 0.5em; }
 
 .left-nav.second-level li {
   border-bottom: none; }
@@ -1981,8 +1986,11 @@ audio {
     color: #056ac7;
     background: none; }
 
+ul.left-nav.second-level {
+  margin-bottom: auto; }
+
 .guide-content {
-  flex: 2;
+  flex: 2.5;
   min-width: 20em; }
   .guide-content h1 {
     margin-top: 0; }
@@ -2013,5 +2021,15 @@ tr:nth-child(even) {
 
 .guidecrumb {
   margin-top: -1.5em; }
+  @media (max-width: 768px) {
+    .guidecrumb {
+      margin-top: 2em; } }
+
+code {
+  font-family: monospace, monospace;
+  font-size: 1em;
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+  background-color: #efd7ec; }
 
 /*# sourceMappingURL=main.css.map */

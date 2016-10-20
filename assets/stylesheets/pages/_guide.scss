@@ -42,6 +42,7 @@
 
     a {
       padding-bottom: 0.5em;
+      padding-top: 0.5em;
     }
   }
 }
@@ -67,8 +68,12 @@
   }
 }
 
+ul.left-nav.second-level {
+  margin-bottom: auto;
+}
+
 .guide-content {
-  flex: 2;
+  flex: 2.5;
   min-width: 20em;
 
   h1 {
@@ -109,4 +114,16 @@ tr:nth-child(even){
 
 .guidecrumb {
   margin-top: -1.5em;
+
+  @include breakpoint ($mq-small) {
+    margin-top: 2em;
+  }
+}
+
+code {
+    font-family: monospace, monospace;
+    font-size: 1em;
+    padding: 0.1em 0.2em;
+    border-radius: 2px;
+    background-color: $pink;
 }
