@@ -1,1 +1,16 @@
-Title: Production Guide
+Title: Introduction
+
+----
+
+Text:
+This document will guide you through the production, editing, and posting processes. Please read it through carefully. At each step of the way, our MSC team will be here to facilitate case development, but ultimately you and your team are the makers of your own destiny. By following these guidelines, and communicating closely with us, we can work to produce your MSC smoothly and swiftly.
+
+Each MSC tells a story. Readers are presented with a real-world problem and a challenging decision. Each case, therefore, centers on a real-life decision maker. In this way, MSCs differ from research papers and textbooks that you are probably familiar with, and may even have written. Many case authors come to us with an idea for a case study drawn from experience gained in a job or work completed on a research project. These ideas make for compelling cases! The case authors’ task, then, is to transform this knowledge into a story about a problem that has no clear solution.
+
+Therefore, as you begin to make your MSC, consider the following:
+- What is interesting or exciting to you about this case? Why did you think it would make a good MSC?
+- Where should case users invest their time and thinking? Why?
+- Who is the decision maker?
+- What is the decision to be made?
+
+Finally, remember that each MSC is a project that will have a life of its own. You may not always know where you are going, and you make take several turns along the way before coming to the end. That’s OK! Michigan Sustainability Cases staff are here to help you. Enjoy the journey.
