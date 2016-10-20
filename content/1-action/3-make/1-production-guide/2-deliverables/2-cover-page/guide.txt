@@ -1,0 +1,32 @@
+Title: Cover Page
+
+----
+
+Text:
+Description: This is what will appear on the learning platform when someone selects the case from the case library. The cover page introduces your case, and should entice the viewer to engage with the case components.
+
+(imgix: instruction-cover-page.png alt: cover page instruction)
+
+Requirements:
+- MSC title consisting of
+  - A kicker: A unique and catchy 2-4 word phrase.
+  - A question: Should reflect the central decision point/question of the case.
+  -	A dek: One sentence that explains the question and frames the case.
+
+-	Author list: List of authors with the intended order.
+
+-	Summary: 100-200 word summary of the case.
+
+-	Table of contents: List of section titles.
+
+-	Consider: List of engaged learning exercises with eye-catching titles.
+
+-	Cover image: A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
+
+  - (link:https://unsplash.com/ text:Unsplash)
+  - (link:https://creativecommons.org/ text:Creative Commons)
+  - (link:https://morguefile.com/ text:Morgue File)
+  - (link:http://openphoto.net/ text:Open Photo)
+  - (link:http://designinstruct.com/roundups/free-stock-photos/ text:Design Instruct)
+
+Important: Use the cover page template that has been shared with you to submit this case component.
