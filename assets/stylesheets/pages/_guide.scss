@@ -1,6 +1,6 @@
 .guide-nav {
   flex: 1;
-  margin-right: 2em;
+  margin-right: 2.5em;
 
   ul {
     margin-left: auto;
@@ -32,6 +32,7 @@
 
 .left-nav.first-level{
   font-weight: normal;
+  padding-top: initial;
 
   li {
     a.active {
@@ -69,6 +70,10 @@
 .guide-content {
   flex: 2;
   min-width: 20em;
+
+  h1 {
+    margin-top: 0;
+  }
 }
 
 .table {
@@ -94,4 +99,14 @@ th, td {
 
 tr:nth-child(even){
   background-color: $offwhite;
+}
+
+#production-guide {
+  .partialcrumb {
+    display: none;
+  }
+}
+
+.guidecrumb {
+  margin-top: -1.5em;
 }

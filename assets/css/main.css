@@ -1942,7 +1942,7 @@ audio {
 
 .guide-nav {
   flex: 1;
-  margin-right: 2em; }
+  margin-right: 2.5em; }
   .guide-nav ul {
     margin-left: auto; }
     .guide-nav ul li {
@@ -1961,7 +1961,8 @@ audio {
   background: none; }
 
 .left-nav.first-level {
-  font-weight: normal; }
+  font-weight: normal;
+  padding-top: initial; }
   .left-nav.first-level li a.active {
     color: #056ac7;
     background: none; }
@@ -1983,6 +1984,8 @@ audio {
 .guide-content {
   flex: 2;
   min-width: 20em; }
+  .guide-content h1 {
+    margin-top: 0; }
 
 .table {
   overflow: scroll; }
@@ -2004,5 +2007,11 @@ th, td {
 
 tr:nth-child(even) {
   background-color: #ebeae4; }
+
+#production-guide .partialcrumb {
+  display: none; }
+
+.guidecrumb {
+  margin-top: -1.5em; }
 
 /*# sourceMappingURL=main.css.map */

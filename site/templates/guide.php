@@ -1,5 +1,9 @@
 <?php snippet('head') ?>
 <?php snippet('header') ?>
+<ul class="breadcrumb guidecrumb site">
+  <li><a href="<?php echo $pages->find('action')->find('make')->url() ?>"><?php echo $pages->find('action')->find('make')->title() ?></a></li>
+  <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+</ul>
 
 <main class="main" role="main">
 
