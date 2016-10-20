@@ -2,7 +2,7 @@
 <?php snippet('header') ?>
 <ul class="breadcrumb guidecrumb site">
   <li><a href="<?php echo $pages->find('action')->find('make')->url() ?>"><?php echo $pages->find('action')->find('make')->title() ?></a></li>
-  <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+  <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>">Production Guide</a></li>
 </ul>
 
 <main class="main" role="main">
@@ -12,6 +12,7 @@
     <nav class="guide-nav flex-growing">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children() ;?>
       <ul class="first-level left-nav">
+        <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
         <?php foreach($guideitems as $guideitem) :?>
         <?php $children = $guideitem->children();?>
         <li>
