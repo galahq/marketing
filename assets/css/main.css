@@ -1948,6 +1948,9 @@ audio {
   flex: 1;
   margin-right: 2.5em;
   margin-bottom: 2em; }
+  @media screen and (max-width: 532px) {
+    .guide-nav {
+      margin: 0 auto; } }
   .guide-nav ul {
     margin-left: auto; }
     .guide-nav ul li {

@@ -2,6 +2,11 @@
   flex: 1;
   margin-right: 2.5em;
   margin-bottom: 2em;
+
+  @media screen and (max-width: 532px) {
+    margin: 0 auto;
+  }
+
   ul {
     margin-left: auto;
 
