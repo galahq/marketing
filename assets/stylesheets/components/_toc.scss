@@ -4,11 +4,15 @@ ul.toc {
 
   li {
     list-style: none;
+
+    &::before {
+      content: '→';
+    }
   }
 
   a {
     border: none;
-    padding: .75em 0 .75em 3em;
+    padding-left: 0.5em;
 
     &:hover {
       color: $green;
