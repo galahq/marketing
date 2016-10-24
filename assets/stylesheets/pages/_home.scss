@@ -1,3 +1,37 @@
+//Headings
+.home__hero h1 {
+  font-weight: 100;
+  font-size: 44pt;
+}
+
+.home {
+  h2 {
+    margin-bottom: 1em;
+  }
+
+  h3 {
+    font-family: $heading-small;
+    color: $galablue;
+    font-weight: 300;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    line-height: 110%;
+    font-size: 0.9em;
+  }
+}
+
+.home__learnmore h4 {
+  font-family: $heading-small;
+  font-weight: 300;
+  font-size: 1em;
+  &:hover {
+    text-decoration: underline;
+    color: $vividblue;
+  }
+}
+
+//Section layout
 main.home section {
   padding-top: 2.8em;
   &:first-child {padding-top: 0.8em;}
@@ -14,16 +48,8 @@ main.home section {
   }
 }
 
-.learn-more-link {
-  font-size: 1.1em;
-  &:hover {
-    text-decoration: underline;
-    color: $vividblue;
-  }
-}
-
 // Actions
-.action-items {
+.home__action {
   padding-top: 0.8em;
   padding-bottom: 1em;
 
@@ -41,6 +67,13 @@ main.home section {
     @include breakpoint($mq-extra-small) {
       @include flex-tri-parameters(1, 1, 98%);
     }
+
+    &:hover {
+      transform: scale(1.02);
+      h3 {
+        color: $vividblue;
+      }
+    }
   }
 
   img {
@@ -49,25 +82,18 @@ main.home section {
     border-radius: 0.2rem 0.2rem 0 0;
   }
 
-  p {
-    line-height: 1.4em;
-  }
+  &__text {
+    padding: 1.5em 0.5em 0.5em 0.5em;
+    text-align: center;
 
-  &>div:hover {
-    transform: scale(1.02);
-    h3 {
-      color: $vividblue;
+    p {
+      line-height: 1.4em;
     }
   }
 }
 
-.actiontext {
-  padding: 1.5em 0.5em 0.5em 0.5em;
-  text-align: center;
-}
-
 //Elements
-.flex-center-img{
+.o-flex-mid-column {
   @include flex(2);
   @include display-flex;
   @include flex-direction-column;
@@ -83,12 +109,22 @@ main.home section {
   }
 }
 
-.element-description {
+.home__element {
   @include flex-tri-parameters(1, 1, 15em);
   margin-top: 0.5em;
   padding: 1.7em 0.6em;
   text-align: left;
   transition: transform 0.1s ease 0.1s;
+
+  h3 {
+    margin-top: 0.7em;
+    display: inline-block;
+  }
+
+  a {
+    color: inherit;
+    border-bottom: none;
+  }
 
   p {
     color: darken($ltgrey, 5%) !important;
@@ -109,28 +145,15 @@ main.home section {
   }
 }
 
-.img-inline {
-  display: inline-block;
-  float: left;
-  height: 2em;
-  padding-right: 0.5em;
-}
-
 //Vision
-.number {
-  &-description {
-    margin-top: 1.5em;
-  }
-
-  &:nth-child(4) {
-    clear: left;
-  }
-}
-
-.vision-data {
+.home__vision {
   justify-content: center;
   text-align: left;
   padding: 1.4em 0 1.4em 2.4em;
+
+  h3 {
+    color: $darkgrey;
+  }
 
   @include breakpoint($mq-medium) {
     padding-left: 3.5em;
@@ -140,40 +163,47 @@ main.home section {
     display: block;
     margin: 0 auto;
   }
+
+  @include breakpoint($mq-medium) {
+    div:nth-child(3){
+      clear: left;
+    }
+    div:nth-child(4){
+      clear:none;
+    }
+  }
 }
 
-@include breakpoint($mq-medium) {
-  .vision-data div:nth-child(3){
-    clear: left;
-  }
-  .vision-data div:nth-child(4){
-    clear:none;
-  }
-}
-
-.number {
+.home__vision__number {
   @include flex-tri-parameters(1, 1, 17em);
   margin-bottom: 1em;
+
+  &:nth-child(4) {
+    clear: left;
+  }
+
+  &__value {
+    display: inline-block;
+    font-family: $body-text;
+    font-size: 1.2em;
+    width: 4rem;
+    height: 4rem;
+    @include border-radius(4rem);
+    text-align: center;
+    padding-top: 1.4rem;
+    border-width: 3px;
+    border-style: solid;
+  }
+
+  &__description {
+    display: inline;
+    margin-left: 0.5em;
+  }
 }
 
-.number-value {
-  display: inline-block;
-  width: 4rem;
-  height: 4rem;
-  @include border-radius(4rem);
-  text-align: center;
-  padding-top: 1.2rem;
-  border-width: 3px;
-  border-style: solid;
-}
-.number:nth-of-type(1) .number-value { border-color: $galablue }
-.number:nth-of-type(2) .number-value { border-color: $brown }
-.number:nth-of-type(3) .number-value { border-color: $yellow }
-.number:nth-of-type(4) .number-value { border-color: $purple }
-.number:nth-of-type(5) .number-value { border-color: $vividblue }
-.number:nth-of-type(6) .number-value { border-color: $green }
-
-.number-description {
-  display: inline;
-  margin-left: 0.5em;
-}
+.home__vision__number:nth-of-type(1) .home__vision__number__value { border-color: $galablue }
+.home__vision__number:nth-of-type(2) .home__vision__number__value { border-color: $brown }
+.home__vision__number:nth-of-type(3) .home__vision__number__value { border-color: $yellow }
+.home__vision__number:nth-of-type(4) .home__vision__number__value { border-color: $purple }
+.home__vision__number:nth-of-type(5) .home__vision__number__value { border-color: $vividblue }
+.home__vision__number:nth-of-type(6) .home__vision__number__value { border-color: $green }
