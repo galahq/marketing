@@ -25,23 +25,22 @@ var onScrollHandler = function (e) {
 };
 
 var openMenu = function() {
-  $("nav.menu-mobile").show().animate({ left: "0%"}, 200, "easeOutCubic");
-  $(".content-mask").fadeIn();
+  $("nav.c-menu-mobile").show().animate({ left: "0%"}, 200, "easeOutCubic");
+  $(".u-content-mask").fadeIn();
   $('body').on("wheel touchmove", onScrollHandler);
 };
 
 var closeMenu = function() {
-  $("nav.menu-mobile").animate({ left: "-100%"}, 200, "easeInCubic", function() { $(this).hide() });
-  $(".content-mask").fadeOut();
+  $("nav.c-menu-mobile").animate({ left: "-100%"}, 200, "easeInCubic", function() { $(this).hide() });
+  $(".u-content-mask").fadeOut();
   $("body").off("wheel touchmove");
 };
 
 $(document).ready(function(){
-  $('#menu-mobile-open').click(openMenu);
+  $('#c-menu-mobile--open').click(openMenu);
 
-  $(".menu-mobile-close, .content-mask").click(closeMenu);
+  $(".c-menu-mobile--close, .u-content-mask").click(closeMenu);
   $(document).keydown( function(e) {
     if (e.which === 27) { closeMenu(); }
   });
-
 });
