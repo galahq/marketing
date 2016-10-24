@@ -1,5 +1,7 @@
-.menu {
+.c-menu {
   float: right;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 
   a {
     display: block;
@@ -26,9 +28,20 @@
     float: left;
   }
 }
+.c-submenu__container {
+  background-color: $ltyellow;
+  border-top: 2px solid $ltyellow;
 
-.submenu {
+  @include breakpoint($mq-small) {
+    background-color: transparent;
+    border: none;
+  }
+}
+
+.c-submenu__item {
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 
   ul {
     display: inline-block;
@@ -49,24 +62,13 @@
   }
 }
 
-.submenu-bg {
-  background-color: $ltyellow;
-  border-top: 2px solid $ltyellow;
-
-  @include breakpoint($mq-small) {
-    background-color: transparent;
-    border: none;
-  }
-}
-
-//Mobile menu starts here
-
-.button#menu-mobile-open {
+//Mobile menu styles starts here
+.c-button#c-menu-mobile--open {
   font-size: 0.9em;
   position: fixed;
 }
 
-#menu-mobile-open {
+#c-menu-mobile--open {
   display: none;
   cursor: pointer;
   position: absolute;
@@ -86,13 +88,7 @@
   }
 }
 
-#home {
-  .button#menu-mobile-open {
-    border: solid 1px $galablue !important;
-  }
-}
-
-.menu-mobile {
+.c-menu-mobile {
   position: fixed;
   top: 0;
   left: -100%;
@@ -124,35 +120,7 @@
   }
 }
 
-.first-level {
-  padding-top: 1.5em;
-  font-weight: bold;
-  letter-spacing: 1px;
-  background: $offwhite;
-
-  li a.active {
-    background-color: $galablue;
-    color: $white;
-  }
-}
-
-.second-level li {
-  border-bottom: solid 1px $white;
-  &:last-child {
-    border: none;
-    padding-bottom: 1em;
-  }
-
-  .active {
-    background-color: $galablue;
-    color: $white;
-  }
-  a {
-    padding-left: 2em;
-  }
-}
-
-.menu-mobile-close {
+.c-menu-mobile--close {
   background-color: $ltltyellow;
   color: $galablue;
   padding: 1em;
@@ -164,20 +132,7 @@
   margin: 0;
 }
 
-.second-level {
-  font-weight: normal;
-  letter-spacing: 0;
-  background-color: $offwhite;
-  a{
-    color: $galablue;
-  }
-
-  li a {
-    padding-top: 10px;
-  }
-}
-
-.content-mask {
+.u-content-mask {
   display: none;
   position: fixed;
   z-index: 100;
@@ -195,5 +150,44 @@
   @supports not (-webkit-backdrop-filter: blur(5px)) {
     background-color: black;
     background-color: rgba( black, 0.7 ) !important;
+  }
+}
+
+//Styles for different level menus
+.c-nest-menu {
+  &--firstlevel {
+    padding-top: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1px;
+    background: $offwhite;
+
+    li a.active {
+      background-color: $galablue;
+      color: $white;
+    }
+  }
+
+  &--secondlevel {
+    font-weight: normal;
+    letter-spacing: 0;
+    background-color: $offwhite;
+
+    li {
+      border-bottom: solid 1px $white;
+      &:last-child {
+        border: none;
+        padding-bottom: 1em;
+      }
+
+      .active {
+        background-color: $galablue;
+        color: $white;
+      }
+
+      a {
+        padding-left: 2em;
+        padding-top: 10px;
+      }
+    }
   }
 }

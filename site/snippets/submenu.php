@@ -13,10 +13,10 @@ if($root = $pages->findOpen()) {
 if($items and $items->count()):
 
 ?>
-<nav class="submenu cf hide">
+<nav class="c-submenu__item u-clearfix u-hide">
   <ul>
     <?php foreach($items as $item): ?>
-    <li><a class="uppercase <?php e($item->isOpen(), ' active') ?>" href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a></li>
+    <li><a class="<?php e($item->isOpen(), ' active') ?>" href="<?php echo $item->url() ?>"><?php echo $item->title()->html() ?></a></li>
     <?php endforeach ?>
   </ul>
 </nav>

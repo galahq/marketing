@@ -1,5 +1,14 @@
-.header {
+//Header includes logo and first level nav.
+.c-header {
   padding-top: 1em;
+  //The background opacity on homepage header top
+  -webkit-backdrop-filter: blur(5px) brightness(150%);
+  background-color: rgba(249, 248, 242, 0.5);
+  @supports not (-webkit-backdrop-filter: blur(5px)) {
+    background-color: rgba(249, 248, 242, 0.8);
+  }
+  padding-bottom: 0.8em;
+
   @include breakpoint($mq-small) {
     position: fixed;
     z-index: 99;
@@ -9,17 +18,7 @@
   }
 }
 
-//The background opacity on homepage header top.
-.headerbg {
-  -webkit-backdrop-filter: blur(5px) brightness(150%);
-  background-color: rgba(249, 248, 242, 0.5);
-  @supports not (-webkit-backdrop-filter: blur(5px)) {
-    background-color: rgba(249, 248, 242, 0.8);
-  }
-  padding-bottom: 0.8em;
-}
-
-.logo {
+.c-header__logo {
   display: block;
   float: left;
 
@@ -37,7 +36,7 @@
 }
 
 //Home page banner
-.intro {
+.home__hero {
   background-position: absolute;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -54,7 +53,7 @@
     @include justify-content(flex-end);
   }
 
-  .site {
+  .o-site {
     width: 100%;
   }
 
@@ -83,7 +82,7 @@
   margin-top: -1.5em;
 }
 
-.centerbox {
+.hero__text {
   text-align: center;
 
   h1 {
@@ -102,19 +101,19 @@
   }
 }
 
-//Child page banner
-.hero-child {
+//Child page title and tagline
+.child__hero {
   background: none;
   margin-top: -2em;
+}
 
-  .centerbox {
-   h1 {
-     padding-top: 1.7em;
-     margin-bottom: 0.4em;
+.page__title {
+ h1 {
+   padding-top: 1.7em;
+   margin-bottom: 0.4em;
 
-     @include breakpoint($mq-small) {
-       padding-top: 1.2em;
-     }
+   @include breakpoint($mq-small) {
+     padding-top: 1.2em;
    }
-  }
+ }
 }

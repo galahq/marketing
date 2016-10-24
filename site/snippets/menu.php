@@ -1,9 +1,9 @@
 <nav role="navigation">
 
-  <ul class="menu cf hide">
+  <ul class="c-menu u-clearfix u-hide">
     <?php foreach($pages->visible() as $p): ?>
     <li>
-      <a class="uppercase<?php e($p->isOpen(), ' active') ?>" href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
+      <a class="<?php e($p->isOpen(), ' active') ?>" href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
     </li>
     <?php endforeach ?>
   </ul>
