@@ -2,7 +2,7 @@
   background-color: $umblue;
   padding: 3em 0;
 
-  .footerheading {
+  &__heading {
     text-align: center;
     color: $ltoffwhite;
   }
@@ -12,25 +12,25 @@
   }
 }
 
-.footerflex {
+.footer__flexcontainer {
   margin-top: 2.2em;
   @include justify-content-space-between;
+
+  .footer__flexitem {
+    color: $ltgrey;
+    text-align: center;
+
+    li {
+      list-style: none;
+    }
+
+    h4 {
+      margin-bottom: 0.8em;
+    }
+  }
 }
 
-.footerflexitem {
-  color: $ltgrey;
-  text-align: center;
-
-  li {
-    list-style: none;
-  }
-
-  h4 {
-    margin-bottom: 0.9em;
-  }
-}
-
-.footermenu a {
+.footer__menu a {
     display: block;
     color: $offwhite;
 
@@ -40,7 +40,7 @@
     }
 }
 
-.footerbottom {
+.footer__bottom {
     border-top: 1px solid $ltgrey;
     justify-content: space-between;
     margin-top: 2em;
@@ -50,7 +50,7 @@
     }
 }
 
-.copyright {
+.footer__copyright {
   text-align: left;
   color: $ltgrey;
   padding: 2em 0;

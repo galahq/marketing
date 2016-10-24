@@ -1,4 +1,4 @@
-.button {
+.c-button {
   background-color: transparent;
   border: 1px solid $galablue !important;
   border-radius: 0.5em;
@@ -16,14 +16,14 @@
   text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 110%;
-  font-size: 1em;
+  font-size: 0.9em;
 
   &:hover {
     background-color: $galablue;
     color: $ltoffwhite;
   }
 
-  &ondark {
+  &-t-dark{
     background-color: $ltyellow;
     border: none;
 
@@ -31,8 +31,4 @@
       background-color: $yellow;
     }
   }
-}
-
-.blog .button {
-  font-size: 0.9em;
 }
