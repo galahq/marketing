@@ -9,6 +9,13 @@ figcaption {
   font-size: 90%;
   line-height: 120%;
   text-align: center;
+  margin-top: 0.5em;
+}
+
+.main {
+  figure {
+    margin-bottom: 1em;
+  }
 }
 
 //Image classes that control the float
@@ -51,7 +58,7 @@ figcaption {
 }
 
 //Other case specific image classes
-.c-image--evaluation {
+.u-evaluation__image {
   max-width: 300px;
   margin-left: 90px;
 
@@ -61,7 +68,7 @@ figcaption {
   }
 }
 
-//Icons
+//Icons, used in Homepage
 .u-icon--inline {
   display: inline-block;
   float: left;
