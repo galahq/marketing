@@ -1,5 +1,5 @@
-.guide-nav {
-  flex: 1;
+.o-guide__nav {
+  @include flex(1);
   margin-right: 2.5em;
   margin-bottom: 2em;
 
@@ -31,62 +31,61 @@
   }
 }
 
-.left-nav {
-  background: none;
-}
+.o-guide__nav {
+  .c-nest-menu__firstlevel{
+    font-weight: normal;
+    padding-top: initial;
+    letter-spacing: inherit;
+    background: none;
 
-.left-nav.first-level{
-  font-weight: normal;
-  padding-top: initial;
+    li {
+      a.active {
+        color: $vividblue;
+        background: none;
+      }
 
-  li {
-    a.active {
-      color: $vividblue;
-      background: none;
+      a {
+        padding-bottom: 0.5em;
+        padding-top: 0.5em;
+      }
     }
+  }
 
-    a {
-      padding-bottom: 0.5em;
-      padding-top: 0.5em;
+  .c-nest-menu__secondlevel {
+    background: none;
+    li {
+      border-bottom: none;
+
+      &:last-child{
+        border: auto;
+        padding-bottom: initial;
+      }
+
+      a {
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+      }
+
+      a.active {
+        color: $vividblue;
+        background: none;
+      }
     }
+  }
+
+  ul.c-nest-menu__secondlevel {
+    margin-bottom: auto;
   }
 }
 
-.left-nav.second-level {
-  li {
-    border-bottom: none;
-
-    &:last-child{
-      border: auto;
-      padding-bottom: initial;
-    }
-
-    a {
-      padding-top: 0.5em;
-      padding-bottom: 0.5em;
-    }
-
-    a.active {
-      color: $vividblue;
-      background: none;
-    }
-  }
-}
-
-ul.left-nav.second-level {
-  margin-bottom: auto;
-}
-
-.guide-content {
-  flex: 2.5;
+.o-guide__content {
+  @include flex(2.5);
   min-width: 20em;
   margin-bottom: 2em;
 
   @media screen and (max-width: 532px) {
     margin-top: 1.5em;
   }
-
-
 
   h1 {
     margin-top: 0;
@@ -119,12 +118,12 @@ tr:nth-child(even){
 }
 
 #production-guide {
-  .partialcrumb {
+  .c-breadcrumb--partial {
     display: none;
   }
 }
 
-.guidecrumb {
+.o-guide__breadcrumb{
   margin-top: -1.5em;
 
   @include breakpoint ($mq-small) {

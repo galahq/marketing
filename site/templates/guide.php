@@ -1,23 +1,23 @@
 <?php snippet('head') ?>
 <?php snippet('header') ?>
-<ul class="breadcrumb guidecrumb site">
+<ul class="c-breadcrumb o-guide__breadcrumb t-site">
   <li><a href="<?php echo $pages->find('action')->find('make')->url() ?>"><?php echo $pages->find('action')->find('make')->title() ?></a></li>
   <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>">Production Guide</a></li>
 </ul>
 
 <main class="main" role="main">
 
-  <div class="flex-container site">
+  <div class="o-flex-container t-site">
 
-    <nav class="guide-nav flex-growing">
+    <nav class="o-guide__nav o-flex-item-growing">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children() ;?>
-      <ul class="first-level left-nav">
+      <ul class="c-nest-menu__firstlevel">
         <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
         <?php foreach($guideitems as $guideitem) :?>
         <?php $children = $guideitem->children();?>
         <li>
           <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
-          <ul class="second-level left-nav">
+          <ul class="c-nest-menu__secondlevel">
             <?php foreach($children as $child): ?>
               <li><a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>"><?php echo $child->title()?></a></li>
             <?php endforeach ?>
@@ -27,7 +27,7 @@
       </ul>
     </nav>
 
-    <article class="guide-content flex-growing">
+    <article class="o-guide__content o-flex-item-growing">
       <h1><?php echo html($page->title()) ?></h1>
 
       <?php if($page->text() == ''):?>
