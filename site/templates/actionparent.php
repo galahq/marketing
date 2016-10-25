@@ -4,8 +4,9 @@
 <main class="main" role="main">
 
   <section class="t-site t-blog">
-    <div>
+    <div class="c-separate-text">
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
+    </div>
     <ol>
       <?php foreach($page->reasons()->toStructure() as $reason): ?>
         <li>
@@ -14,7 +15,6 @@
         </li>
       <?php endforeach ?>
     </ol>
-    </div>
     <h2>Get Involved with MSC:</h2>
   </section>
 
