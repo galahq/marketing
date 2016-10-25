@@ -5,6 +5,13 @@
           border-radius: $radius;
 }
 
+@mixin background-size($cover) {
+  -webkit-background-size: $cover;
+     -moz-background-size: $cover;
+       -o-background-size: $cover;
+          background-size: $cover;
+}
+
 @mixin display-flex {
   display: -webkit-box;
   display: -ms-flexbox;
