@@ -1,6 +1,10 @@
 .c-flip-flop {
-  padding: 2em 0;
+  padding: 0;
   border-bottom: 1px solid $ltltgrey;
+
+  @media screen and (max-width: 759px) {
+    padding: 2em 0;
+  }
 
   figure {
     @include flex-tri-parameters(0, 1, 10em);
@@ -50,12 +54,10 @@
   .c-flip-flop {
     &:nth-child(odd) > figure {
       padding-left: 0;
-      padding-bottom: 1.5em;
       padding-top: 0;
     }
     &:nth-child(even) > figure {
       padding-right: 0;
-      padding-bottom: 1.5em;
       padding-top: 0;
     }
   }

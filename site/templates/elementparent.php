@@ -3,7 +3,7 @@
 
 <main class="main" role="main">
 
-  <div class="t-site t-blog">
+  <div class="c-separate-text t-site t-blog">
       <?php echo str_replace('(\\', '(', kirbytext($page->description())) ?>
   </div>
 
