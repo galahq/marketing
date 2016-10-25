@@ -18,9 +18,3 @@
 .o-flex-item-growing {
 	@include flex(1);
 }
-
-.u-hide {
-  @include breakpoint($mq-small) {
-    display: none;
-  }
-}
