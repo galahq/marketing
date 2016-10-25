@@ -1,0 +1,70 @@
+//Default
+img {
+  display: block;
+  max-width: 100%;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 90%;
+  line-height: 120%;
+  text-align: center;
+}
+
+//Image classes that control the float
+.o-image--fullwidth, .o-image--floatleft, .o-image--floatright {
+  img {
+    @include border-radius(5px);
+  }
+}
+
+.o-image--floatleft {
+  float: left;
+  margin: 15px 15px 0 0;
+}
+
+.o-image--floatright {
+  float: right;
+  margin: 15px 0 0 15px;
+}
+
+.o-image--floatleft, .o-image--floatright {
+  max-width: 400px;
+
+  @include breakpoint($mq-small) {
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+  }
+}
+
+//Image classes that make the images wider than max-width of the container
+.o-image--wideleft {
+  max-width: 600px;
+  margin: 0px 15px 0 -100px;
+}
+
+.o-image--wideright {
+  max-width: 600px;
+  margin: 0px -100px 0 15px;
+}
+
+//Other case specific image classes
+.c-image--evaluation {
+  max-width: 300px;
+  margin-left: 90px;
+
+  @include breakpoint($mq-small) {
+    float: none;
+    max-width: 60%;
+  }
+}
+
+//Icons
+.u-icon--inline {
+  display: inline-block;
+  float: left;
+  height: 2em;
+  padding-right: 0.5em;
+}

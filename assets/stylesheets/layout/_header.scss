@@ -53,7 +53,7 @@
     @include justify-content(flex-end);
   }
 
-  .o-site {
+  .t-site {
     width: 100%;
   }
 
@@ -105,15 +105,23 @@
 .child__hero {
   background: none;
   margin-top: -2em;
+
+  .page__title h1 {
+    padding-top: 1.7em;
+    margin-bottom: 0.4em;
+  }
 }
 
 .page__title {
- h1 {
-   padding-top: 1.7em;
-   margin-bottom: 0.4em;
+  text-align: center;
+   h1 {
+     padding-top: 7.5em;
+     font-weight: 200;
+     line-height: 110%;
+     margin-bottom: 0.2em;
 
-   @include breakpoint($mq-small) {
-     padding-top: 1.2em;
+     @include breakpoint($mq-small) {
+       padding-top: 1.2em;
+     }
    }
- }
 }

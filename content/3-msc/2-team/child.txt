@@ -2,9 +2,9 @@ Title: Team
 
 ----
 
-Text: 
+Text:
 
-(imgix: msc-group.jpg alt:MSC group picture class:image-full-width)
+(imgix: msc-group.jpg alt:MSC group picture class:o-image--fullwidth)
 We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.
 
 ###Director
@@ -16,7 +16,7 @@ Pearl Zeng — Learning Platform and Web Manager
 Cameron Bothner — Software Engineer
 Edward Waisanen — Podcast Director
 Michael Burbidge — Media Coordinator
-Christopher Askew-Merwin — Podcast Coordinator 
+Christopher Askew-Merwin — Podcast Coordinator
 Anil Bhargava — Evaluation Coordinator
 Megan Czerwinski — Evaluation Coordinator
 Arman Golrokhian — Production and Assessment Coordinator
@@ -56,7 +56,7 @@ Nick Kemp — Photo Contributor
 (link: http://www.isb.edu/faculty-research/faculty/directory/pereira-arun text: Arun Pereira) — Associate Professor, Indian School of Business
 (link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, SESYNC
 
-### Team Alumni  
+### Team Alumni
 Katherine Browne — PHD candidate at SNRE
 Steve Lonn — Director of Enrollment Research and Data Management, UM
 Claire Poelking — M.S. candidate at SNRE
@@ -65,11 +65,11 @@ Mary Wright — Director, Sheridan Center for Teaching and Learning, Brown Unive
 
 ----
 
-Tagline: 
+Tagline:
 
 ----
 
-Description: 
+Description:
 
 ----
 
@@ -81,40 +81,40 @@ Pagesubtagline: Interdisciplinary folks with different backgrounds and cultures.
 
 ----
 
-Link: 
+Link:
 
 ----
 
-Subdescription: 
+Subdescription:
 
 ----
 
-Wbg: 
+Wbg:
 
 ----
 
-Timeline: 
+Timeline:
 
 ----
 
-Feature: 
+Feature:
 
 ----
 
-Featureimg: 
+Featureimg:
 
 ----
 
-Umschools: 
+Umschools:
 
 ----
 
-Umunits: 
+Umunits:
 
 ----
 
-Otherpartners: 
+Otherpartners:
 
 ----
 
-Elementexamples: 
+Elementexamples:

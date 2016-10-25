@@ -11,15 +11,37 @@ html {
   overflow-x: hidden;
 }
 
-// Set max-width
-.site{
-    position: relative;
-    max-width: 60em;
-    margin: 0 auto;
+// Reset
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-repeat: no-repeat;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
-    @include breakpoint($mq-large) {
-      padding: 0 1em;
-    }
+// clearfix
+.u-clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+// Set max-width
+.t-site{
+  position: relative;
+  max-width: 60em;
+  margin: 0 auto;
+
+  @include breakpoint($mq-large) {
+    padding: 0 1em;
+  }
+}
+
+.t-blog {
+  max-width: 45em;
 }
 
 //Main
@@ -27,13 +49,12 @@ html {
   margin-top: 1.6em;
   clear:inherit;
 
-  p, figure, ol {
+  p, figure, ol, ul {
     margin-bottom: 1em;
   }
 
   ul {
     margin-left: 1.5em;
-    margin-bottom: 1em;
 
     li {
       margin-bottom: 0.6em;
@@ -41,135 +62,44 @@ html {
   }
 }
 
-// Child page max-width
-.blog {
+//Ordered list
+.t-blog ol {
+  list-style-type: none;
+  counter-reset: section;
+  margin-left: 3em;
   position: relative;
-  max-width: 45em;
-  margin: 0 auto;
-}
 
-//images
+  > li {
+    margin: 1em 0;
+    text-align: -webkit-match-parent;
 
-.image-full-width{
-  figcaption {
-    font-style: italic;
+    h3 {
+      padding-top: 0.23rem;
+      @include breakpoint($mq-small) {
+        padding-top: 0.4rem;
+      }
+    }
+
+    &::before {
+      border-radius: 50%;
+      border: 2px solid $galablue;
+      color: $galablue;
+      display: block;
+      height: 35px;
+      left: -53px;
+      line-height: 31px;
+      position: absolute;
+      text-align: center;
+      width: 35px;
+      content: counter(section);
+      counter-increment: section;
+      padding-left: 0.8px;
+
+      @media screen and (max-width: 640px) {
+        left: -45px;
+      }
+    }
   }
-  img {border-radius:5px;
-  }
-  .imgix-screenshot-caption {
-    margin-top: -0.9em;
-    text-align: center;
-    font-size: 90%;
-    font-style: italic;
-  }
-}
-
-
-// Image classes for parent pages
-.image-float-left-parent {
-  float: left;
-  max-width: 600px;
-  margin: 0px 15px 0 -100px;
-
-  img {
-    border-radius: 5px;
-  }
-
-  @include breakpoint($mq-small) {
-    float: none;
-    max-width: 100%;
-    margin: 0;
-  }
-}
-
-.image-float-right-parent {
-  float: right;
-  max-width: 600px;
-  margin: 0px -100px 0 15px;
-
-  img {
-    border-radius: 5px;
-  }
-
-  @include breakpoint($mq-small) {
-    float: none;
-    max-width: 100%;
-    margin: 0;
-  }
-
-  figcaption {
-    font-style: italic;
-  }
-}
-
-// Image classes for child pages
-.image-float-left {
-  float: left;
-  max-width: 400px;
-  margin: 15px 15px 0 0;
-
-  img {
-    border-radius: 5px;
-  }
-
-  @include breakpoint($mq-small) {
-    float: none;
-    max-width: 100%;
-    margin: 0;
-  }
-
-  figcaption {
-    font-style: italic;
-  }
-}
-
-.evaluation {
-  max-width: 300px;
-  margin-left: 90px;
-
-  @include breakpoint($mq-small) {
-    float: none;
-    max-width: 60%;
-  }
-}
-
-.image-float-right {
-  float: right;
-  max-width: 400px;
-  margin: 15px 0 0 15px;
-
-  img {
-    border-radius: 5px;
-  }
-
-  @include breakpoint($mq-small) {
-    float: none;
-    margin: 0 auto;
-    margin-bottom: 1em;
-  }
-
-  figcaption {
-    font-style: italic;
-  }
-}
-
-//image caption
-.imgix-screenshot-caption {
-  margin-top: -0.6em;
-  margin-left: 1.3em;
-  font-size: 90%;
-  font-style: italic;
-}
-
-figcaption {
-  font-style: italic;
-  font-size: 90%;
-  line-height: 120%;
-}
-
-//video
-.video figcaption {
-  font-style: italic;
 }
 
 //Quote
@@ -177,7 +107,7 @@ blockquote {
   font-style: italic;
   background-color: $ltltgrey;
   padding: 1em 0.5em 0.1em 1em;
-  border-radius: 5px;
+  @include border-radius(5px);
   margin-bottom: 1em;
 
   span {

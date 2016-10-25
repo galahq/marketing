@@ -155,7 +155,7 @@
 
 //Styles for different level menus
 .c-nest-menu {
-  &--firstlevel {
+  &__firstlevel {
     padding-top: 1.5em;
     font-weight: bold;
     letter-spacing: 1px;
@@ -167,7 +167,7 @@
     }
   }
 
-  &--secondlevel {
+  &__secondlevel {
     font-weight: normal;
     letter-spacing: 0;
     background-color: $offwhite;

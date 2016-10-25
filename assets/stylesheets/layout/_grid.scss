@@ -1,19 +1,11 @@
-.flex-container {
+.o-flex-container {
 	@include display-flex;
   @include justify-content(center);
   @include flex-direction-row;
 	@include flex-wrap(wrap);
 }
 
-.flex-column-grid {
-  @include flex-direction-column;
-}
-
-.flex-growing {
-	@include flex(1);
-}
-
-.flex-column {
+.o-flex-column {
   @include breakpoint($mq-medium) {
     @include flex-direction-column;
 		@include flex-wrap(nowrap);
@@ -23,7 +15,11 @@
   }
 }
 
-.hide {
+.o-flex-item-growing {
+	@include flex(1);
+}
+
+.u-hide {
   @include breakpoint($mq-small) {
     display: none;
   }

@@ -6,20 +6,20 @@ Tagline: Student-driven partnerships with faculty and practitioners.
 
 ----
 
-Description: 
+Description:
 
 ----
 
-Text: 
+Text:
 
-(imgix:make-interview.jpg alt:doing interview class:image-float-right size:400)
+(imgix:make-interview.jpg alt:doing interview class:o-image--floatright size:400)
 *Learning by Doing* is the cornerstone of MSC. Students often take the lead, designing MSCs with future students in mind, while benefiting from productive partnerships with professors, practitioners, and media specialists.  Through the process they become better analysts, better advocates, and better at adapting fast to professional challenges involving networking, communication and interpretation of complex information.
 
 >This case was an education. I collaborated with students and faculty across campus and engaged with international practitioners.  I learned about the impact of climate change in African countries and the various kinds of challenges that governments and populations of these countries are facing. I honed my writing and content development skills while creating the case. I gained presentation and facilitation skills by implementing the case in a class. Assessing what worked well in the classroom allowed me to put my statistics and evaluation skills into practice. My  sustained collaboration with colleagues at UNDP led to co-authorship on a journal article, which broadened my professional horizons.  <br><span> &#8212;&#8239;Arman Golrokhian, UM Master's student and author of the Ethiopia National Adaptation case</span>
 
 At the same time, we support our case teams as they publish the cases in scientific journals of their choice. We also offer "fast track" partnerships that offer outlets for cases to appear quickly in peer reviewed journals with links to professional education networks in Business, Engineering and Environmental Studies. The journals include World Development Perspectives (Elsevier), Engineering and Environmental Science and Sustainability: the Journal of Record (Mary Ann Liebert, Inc. Publishers). Through these platforms cases gain more visibility and more critical engagement.
 
-(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwinni Chatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases class:video)
+(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwinni Chatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases)
 
 ----
 
@@ -43,45 +43,45 @@ Wbg: <p class="blank">&nbsp;</p>
 
 ----
 
-Timeline: 
+Timeline:
 
 ----
 
-Feature: 
+Feature:
 
 ----
 
-Featuring: 
+Featuring:
 
 ----
 
-Featureimg: 
+Featureimg:
 
 ----
 
-Umschools: 
+Umschools:
 
 ----
 
-Umunits: 
+Umunits:
 
 ----
 
-Otherpartners: 
+Otherpartners:
 
 ----
 
-Elementexamples: 
+Elementexamples:
 
-- 
+-
   background: >
     https://msc-public.imgix.net/msc-production-guide.jpg?w=1000
   foreground: '<a href="https://docs.google.com/viewerng/viewer?url=https://s3-us-west-2.amazonaws.com/msc-public/msc-production-guide.pdf"><img src="https://msc-public.imgix.net/download-button.png" alt="download" class="download-button"></a>'
   description: |
     So, you want to make a case? That’s great!
-    
+
     For step-by-step guide overview, take a look at our Production Guide.
-    
+
     <div class="call-to-action">
     MAKE A CASE<br>
     FUNDING AVAILABLE<br>

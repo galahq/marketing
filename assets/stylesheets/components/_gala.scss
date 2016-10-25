@@ -18,17 +18,15 @@
         background-color: rgb(106, 203, 114);
         color: inherit;
       }
-
     }
   }
 
   aside.edgenotes {
     @include flex-tri-parameters(1,1,22em);
-        background-color: $darkgrey;
+    background-color: $darkgrey;
 
-          figcaption {
-            letter-spacing: 0.1px;
-          }
-
+    figcaption {
+      letter-spacing: 0.1px;
+    }
   }
 }
