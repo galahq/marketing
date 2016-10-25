@@ -1,7 +1,7 @@
 .c-button {
   background-color: transparent;
-  border: 1px solid $galablue !important;
-  border-radius: 0.5em;
+  border: 1px solid $galablue;
+  @include border-radius(0.5em);
   color: $galablue;
   padding: 0.5em 2em;
   text-align: center;
@@ -29,6 +29,7 @@
 
     &:hover {
       background-color: $yellow;
+      color: $umblue;
     }
   }
 }
