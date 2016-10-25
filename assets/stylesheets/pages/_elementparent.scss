@@ -1,4 +1,4 @@
-.flip-flop {
+.c-flip-flop {
   padding: 2em 0;
   border-bottom: 1px solid $ltltgrey;
 
@@ -35,7 +35,7 @@
 }
 
 @media screen and (min-width: 760px){
-  .flip-flop {
+  .c-flip-flop {
     figure {
       @include flex(1);
     }
@@ -47,7 +47,7 @@
 }
 
 @media screen and (max-width: 759px) {
-  .flip-flop {
+  .c-flip-flop {
     &:nth-child(odd) > figure {
       padding-left: 0;
       padding-bottom: 1.5em;
@@ -62,7 +62,7 @@
 }
 
 @media screen and (max-width: 40em) {
-  .flip-flop > div {
+  .c-flip-flop > div {
     padding: 0;
   }
 }

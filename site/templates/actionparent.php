@@ -3,10 +3,10 @@
 
 <main class="main" role="main">
 
-  <section class="intro-text site blog">
+  <section class="t-site t-blog">
     <div>
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
-    <ol class="custom-counter">
+    <ol>
       <?php foreach($page->reasons()->toStructure() as $reason): ?>
         <li>
           <h3><?php echo $reason->heading()?></h3>
@@ -18,16 +18,16 @@
     <h2>Get Involved with MSC:</h2>
   </section>
 
-  <div class="actions site blog">
+  <div class="u-actionitem t-site t-blog">
     <?php foreach($pages->find('action')->children() as $action): ?>
       <a href="<?php echo $action->link() ?>">
-        <section class="flex-container">
+        <section class="o-flex-container">
           <?php imgix($action->slug() . '-homethumb.jpg', $action->title(), 330) ?>
-          <div class="actiontext-vertical">
+          <div class="u-actionitem__text">
             <h3><?php echo html($action->title()) ?></h3>
             <p><?php echo html($action->subdescription()) ?></p>
           </div>
-          <div class="actions-arrow"><span>›</span></div>
+          <div class="u-actionitem__arrow"><span>›</span></div>
         </section>
     </a>
     <?php endforeach ?>

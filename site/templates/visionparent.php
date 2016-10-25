@@ -5,14 +5,14 @@
 
   <div>
 
-    <article class="site cf blog">
+    <article class="t-site u-clearfix t-blog">
 
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
 
     </article>
 
 
-    <section class="vision-child-links blog site">
+    <section class="u-visionitem__link t-blog t-site">
         <?php echo str_replace('(\\', '(', kirbytext($page->tagline())) ?>
     </section>
 
