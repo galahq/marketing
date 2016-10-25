@@ -9,7 +9,7 @@
           <?php imgix('logo.png', $site->title(), 373.33) ?>
         </a>
         <?php snippet('menu') ?>
-      </div>
+        </div>
       </div>
       <div class="t-site">
         <h1><?php echo $page->tagline() ?></h1>
@@ -75,20 +75,19 @@
      </ul>
      <?php } ?>
 
-   <?php if($site->children()->has($page)): ?>
-     <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
-
+    <?php if($site->children()->has($page)): ?>
+      <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
       <section class="hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
     <?php else: ?>
       <section class="child__hero">
     <?php endif ?>
 
-  <div class="t-site">
-    <div class="page__title">
-      <h1><?php echo $page->pagetagline() ?></h1>
-      <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
-    </div>
-    </div>
-  </section>
-<?php endif ?>
+    <div class="t-site">
+      <div class="hero__text">
+        <h1><?php echo $page->pagetagline() ?></h1>
+        <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
+      </div>
+      </div>
+    </section>
+  <?php endif ?>
 </header>
