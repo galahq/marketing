@@ -1,37 +1,35 @@
 .footer {
   background-color: $umblue;
   padding: 3em 0;
-  margin-top: 2em;
+
+  h4 {
+    margin-bottom: 1.8em;
+  }
 
   &__heading {
     text-align: center;
     color: $ltoffwhite;
   }
 
-  h4 {
-    margin-bottom: 1.8em;
-  }
-}
+  &__flexcontainer {
+    margin-top: 2.2em;
+    @include justify-content-space-between;
 
-.footer__flexcontainer {
-  margin-top: 2.2em;
-  @include justify-content-space-between;
+    .footer__flexitem {
+      color: $ltgrey;
+      text-align: center;
 
-  .footer__flexitem {
-    color: $ltgrey;
-    text-align: center;
+      li {
+        list-style: none;
+      }
 
-    li {
-      list-style: none;
-    }
-
-    h4 {
-      margin-bottom: 0.8em;
+      h4 {
+        margin-bottom: 0.8em;
+      }
     }
   }
-}
 
-.footer__menu a {
+  &__menu a {
     display: block;
     color: $offwhite;
 
@@ -39,9 +37,9 @@
       color: $yellow;
       text-decoration: none;
     }
-}
+  }
 
-.footer__bottom {
+  &__bottom {
     border-top: 1px solid $ltgrey;
     justify-content: space-between;
     margin-top: 2em;
@@ -49,16 +47,17 @@
     @include breakpoint($mq-small) {
       margin-top: 0.5em;
     }
-}
+  }
 
-.footer__copyright {
-  text-align: left;
-  color: $ltgrey;
-  padding: 2em 0;
+  &__copyright {
+    text-align: left;
+    color: $ltgrey;
+    padding: 2em 0;
 
-  @include breakpoint($mq-small) {
-    padding-bottom: 0;
-    text-align: center;
+    @include breakpoint($mq-small) {
+      padding-bottom: 0;
+      text-align: center;
+    }
   }
 }
 

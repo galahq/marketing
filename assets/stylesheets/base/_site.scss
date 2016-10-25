@@ -22,7 +22,6 @@ html {
   box-sizing: border-box;
 }
 
-// clearfix
 .u-clearfix:after {
   content: '';
   display: block;
@@ -44,61 +43,16 @@ html {
   max-width: 45em;
 }
 
-//Main
+//Margins
 .main {
   margin-top: 1.6em;
   clear:inherit;
-
-  p, figure, ol, ul {
-    margin-bottom: 1em;
-  }
-
-  ul {
-    margin-left: 1.5em;
-
-    li {
-      margin-bottom: 0.6em;
-    }
-  }
 }
 
-//Ordered list
-.t-blog ol {
-  list-style-type: none;
-  counter-reset: section;
-  margin-left: 3em;
-  position: relative;
-
-  > li {
-    margin: 1em 0;
-    text-align: -webkit-match-parent;
-
-    h3 {
-      padding-top: 0.23rem;
-      @include breakpoint($mq-small) {
-        padding-top: 0.4rem;
-      }
-    }
-
-    &::before {
-      border-radius: 50%;
-      border: 2px solid $galablue;
-      color: $galablue;
-      display: block;
-      height: 35px;
-      left: -53px;
-      line-height: 31px;
-      position: absolute;
-      text-align: center;
-      width: 35px;
-      content: counter(section);
-      counter-increment: section;
-      padding-left: 0.8px;
-
-      @media screen and (max-width: 640px) {
-        left: -45px;
-      }
-    }
+//Hide unless on small screen
+.u-hide {
+  @include breakpoint($mq-small) {
+    display: none;
   }
 }
 
@@ -114,4 +68,9 @@ blockquote {
     font-style: normal;
     font-size: 0.9em;
   }
+}
+
+//Text block separated from the bottom paragraph
+.c-separate-text{
+  margin-bottom: 1.7em;
 }

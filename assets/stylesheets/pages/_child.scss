@@ -128,11 +128,11 @@ audio {
 
 //#make
 #make {
-  .image-float-right {
+  .o-image--floatright {
     margin-top: 5px;
   }
 
-  .button {
+  .c-button {
     margin-top: 0.5em;
   }
 
@@ -150,7 +150,7 @@ audio {
   }
 
   .u-element-examples {
-    .figures {
+    .u-element-examples__figures {
       background-size: cover;
       border: solid 4px $ltoffwhite;
       margin-right: 0;
@@ -177,7 +177,7 @@ audio {
       border-radius: 3px;
       letter-spacing: 0.05em;
 
-      .button {
+      .c-button {
         margin-top: 0.7em;
       }
     }
@@ -221,6 +221,13 @@ audio {
   }
 }
 
+//msc
+#msc {
+  figcaption {
+    margin-top: -0.8em;
+  }
+}
+
 //#vision
 #vision {
   figcaption {
@@ -243,12 +250,12 @@ audio {
 
 //Elements examples
 .u-element-examples {
-  .flex-container {
+  .o-flex-container {
     margin-bottom: 0.7em;
     margin-top: 0.7em;
   }
 
-  .figures {
+  .u-element-examples__figures {
     margin-bottom: 1em;
   }
 
@@ -301,7 +308,7 @@ audio {
 
 #narrative .u-element-examples {
   & > div:nth-child(odd) {
-    .figures {
+    .u-element-examples__figures {
       margin-right: 1em;
 
       @media screen and (max-width: 575px){
@@ -311,7 +318,7 @@ audio {
   }
 
   & > div:nth-child(even) {
-    .figures {
+    .u-element-examples__figures {
       margin-left: 1em;
 
       @media screen and (max-width: 575px){
@@ -320,7 +327,7 @@ audio {
     }
   }
 
-  .figures {
+  .u-element-examples__figures {
   @include flex-tri-parameters (1,1,15em);
   border-radius: 5px;
   @include display-flex;
@@ -346,7 +353,7 @@ audio {
 
   & > div:nth-child(even) {
     @include flex-direction-initial;
-    .figures {
+    .u-element-examples__figures {
       margin-right: 1.5em;
       @media screen and (max-width: 620px) {
         margin-right: 0;
@@ -356,7 +363,7 @@ audio {
 
   & > div:nth-child(odd) {
     @include flex-direction-row-reverse;
-    .figures {
+    .u-element-examples__figures {
       margin-left: 1em;
       @media screen and (max-width: 620px) {
         margin-left: 0;
@@ -364,7 +371,7 @@ audio {
     }
   }
 
-  .figures {
+  .u-element-examples__figures {
     margin-bottom: 0;
     @include flex-tri-parameters (1,1,18em);
     figure {
@@ -406,7 +413,7 @@ audio {
 
 //image on collaborate
 #collaborate {
-  .image-float-right-parent {
+  .o-image--wideright {
     img {
       border-radius: 0;
       border: solid 5px $ltltgrey

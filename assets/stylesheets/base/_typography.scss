@@ -12,23 +12,8 @@ body {
   font-family: $body-text;
 }
 
-// Links
-a {
-  color: $galablue;
-  text-decoration: none;
-  transition: color .2s, background .2s, border .2s;
-
-  &:hover {
-    color: $umblue;
-  }
-}
-
-.main a {
-  border-bottom: 2px solid $ltltgrey;
-
-  &:hover {
-    border-color: $umblue;
-  }
+.main p {
+  margin-bottom: 1em;
 }
 
 // Headings
@@ -75,6 +60,25 @@ h3 {
 h4 {
   font-size: 1em;
   font-weight: 400;
+}
+
+// Links
+a {
+  color: $galablue;
+  text-decoration: none;
+  transition: color .2s, background .2s, border .2s;
+
+  &:hover {
+    color: $umblue;
+  }
+}
+
+.main a {
+  border-bottom: 2px solid $ltltgrey;
+
+  &:hover {
+    border-color: $umblue;
+  }
 }
 
 h1 a, h2 a, h3 a, h4 a {

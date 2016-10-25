@@ -24,10 +24,10 @@
 
   li {
     list-style: none;
-    position: relative;
     float: left;
   }
 }
+
 .c-submenu__container {
   background-color: $ltyellow;
   border-top: 2px solid $ltyellow;
@@ -71,7 +71,6 @@
 #c-menu-mobile--open {
   display: none;
   cursor: pointer;
-  position: absolute;
   left: 0.6em;
   top: 0.7em;
   z-index: 100;
