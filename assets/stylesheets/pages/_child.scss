@@ -1,8 +1,4 @@
-#vision section.blog, #team section.blog {
-  margin-bottom: 3em;
-}
-
-.child-background {
+.o-child-background {
   margin-top: 2.5em;
   background-color: $offwhite;
   padding: 2em 0;
@@ -16,7 +12,7 @@ audio {
   float: right;
 }
 
-.keyfeature {
+.c-keyfeature {
   @include flex(3);
 
   @include breakpoint ($mq-small){
@@ -24,7 +20,7 @@ audio {
   }
 }
 
-.keyfeature-img {
+.c-keyfeature__img {
   @include flex(1);
 
   img {
@@ -40,26 +36,20 @@ audio {
   }
 }
 
-.keyfeature-container{
+.c-keyfeature__container{
   @media screen and (max-width: 540px){
     display: block;
   }
 }
 
 //Logos
-.partners {
+.u-partners {
   h2 {
     margin-bottom: 1em;
   }
 }
 
-#partners {
-  main {
-    margin-bottom: 3em;
-  }
-}
-
-.um-logos {
+.u-um-logos {
   @include justify-content-start;
   margin-bottom: 1em;
 
@@ -83,7 +73,7 @@ audio {
   }
 }
 
-.beyond-um-logos {
+.u-beyond-um-logos {
   @include justify-content-start;
   margin-bottom: 0.8em;
 
@@ -122,6 +112,7 @@ audio {
   margin-left: 3em;
   margin-bottom: 1em;
 }
+
 //No clear h3
 .no-clear h3{
   clear: none;
@@ -158,7 +149,7 @@ audio {
     display: none;
   }
 
-  .element-examples {
+  .u-element-examples {
     .figures {
       background-size: cover;
       border: solid 4px $ltoffwhite;
@@ -251,7 +242,7 @@ audio {
 }
 
 //Elements examples
-.element-examples {
+.u-element-examples {
   .flex-container {
     margin-bottom: 0.7em;
     margin-top: 0.7em;
@@ -269,7 +260,7 @@ audio {
     }
   }
 
-  .description {
+  .u-element-examples__description {
     @include flex-tri-parameters (1,1,20em);
   }
 
@@ -278,8 +269,8 @@ audio {
   }
 }
 
-#podcast .element-examples {
-  .figures {
+#podcast .u-element-examples {
+  .u-element-examples__figures {
     height: 11em;
     @include flex-tri-parameters (1,1,15em);
     background-size: cover;
@@ -296,7 +287,7 @@ audio {
     }
   }
 
-  div.description {
+  div.u-element-examples__description {
     margin-right: 1.5em;
     @media screen and (max-width: 580px) {
       margin-right: 0;
@@ -308,7 +299,7 @@ audio {
   }
 }
 
-#narrative .element-examples {
+#narrative .u-element-examples {
   & > div:nth-child(odd) {
     .figures {
       margin-right: 1em;
@@ -347,8 +338,8 @@ audio {
   }
 }
 
-#exercise .element-examples {
-  div.description {
+#exercise .u-element-examples {
+  div.u-element-examples__description {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }

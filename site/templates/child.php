@@ -3,18 +3,18 @@
 
 <main class="main" role="main">
   <?php if($page->pagetagline()->isEmpty()) { ?>
-    <div class="blog site">
-    <h1 class="subpage-title">
+    <div class="t-site t-blog">
+    <h1 class="o-page-title">
       <?php echo $page->title(); ?>
     </h1>
     </div>
   <?php } ?>
 
   <?php if($page->otherpartners()->isNotEmpty()) { ?>
-    <div class="partners blog site">
+    <div class="u-partners t-blog t-site">
       <h2>Beyond UM</h2>
     </div>
-    <div class="beyond-um-logos flex-container site blog">
+    <div class="u-beyond-um-logos o-flex-container t-site t-blog">
       <?php foreach($page->otherpartners()->toStructure() as $otherpartner): ?>
         <Figure>
           <a href="<?php echo $otherpartner->link() ?>"><?php echo str_replace('(\\', '(', kirbytext($otherpartner->logo())) ?></a>
@@ -24,10 +24,10 @@
   <?php } ?>
 
   <?php if($page->umunits()->isNotEmpty()) { ?>
-    <div class="partners blog site">
+    <div class="u-partners t-blog t-site">
       <h2>UM Campus</h2>
     </div>
-    <div class="um-logos flex-container site blog">
+    <div class="u-um-logos o-flex-container t-site t-blog">
       <?php foreach($page->umunits()->toStructure() as $umunit): ?>
         <Figure>
           <a href="<?php echo $umunit->link() ?>"><?php echo str_replace('(\\', '(', kirbytext($umunit->logo())) ?></a>
@@ -37,10 +37,10 @@
   <?php } ?>
 
   <?php if($page->umschools()->isNotEmpty()) { ?>
-    <div class="partners blog site">
+    <div class="u-partners t-blog t-site">
       <h2>UM Units</h2>
     </div>
-    <div class="um-logos flex-container site blog">
+    <div class="u-um-logos o-flex-container t-site t-blog">
       <?php foreach($page->umschools()->toStructure() as $umschool): ?>
         <Figure>
           <a href="<?php echo $umschool->link() ?>"><?php echo str_replace('(\\', '(', kirbytext($umschool->logo())) ?></a>
@@ -50,14 +50,14 @@
   <?php } ?>
 
   <?php if($page->text()->isNotEmpty()) { ?>
-    <section class="site blog cf">
+    <section class="t-site t-blog u-clearfix">
       <?php echo str_replace('(\\', '(', kirbytext($page->text())) ?>
       <?php if($page->feature()->isNotEmpty()) { ?>
-        <div class="flex-container keyfeature-container">
-          <div class="keyfeature">
+        <div class="o-flex-container c-keyfeature__container">
+          <div class="c-keyfeature">
             <?php echo str_replace('(\\', '(', kirbytext($page->feature())) ?>
           </div>
-          <figure class="keyfeature-img">
+          <figure class="c-keyfeature__img">
             <?php echo str_replace('(\\', '(', kirbytext($page->featureimg())) ?>
           </figure>
         </div>
@@ -66,19 +66,19 @@
   <?php } ?>
 
   <?php if($page->wbg()->isNotEmpty()) { ?>
-    <section class="child-background">
-      <div class="site blog">
+    <section class="o-child-background">
+      <div class="t-site t-blog">
         <?php echo $page->wbg()->kirbytext(); ?>
         <?php if($page->elementexamples()->isNotEmpty()) { ?>
-          <div class="flex-container element-examples">
+          <div class="o-flex-container u-element-examples">
           <?php foreach($page->elementexamples()->toStructure() as $elementexample): ?>
-            <div class="flex-container">
-              <div class="figures"
+            <div class="o-flex-container">
+              <div class="u-element-examples__figures"
                 style="background-image: url(<?php echo $elementexample->background();?>)"
               >
                 <?php echo str_replace('(\\', '(', kirbytext($elementexample->foreground())) ?>
               </div>
-              <div class="description">
+              <div class="u-element-examples__description">
               <?php echo str_replace('(\\', '(', kirbytext($elementexample->description())) ?>
               </div>
             </div>
@@ -91,17 +91,17 @@
   <?php } ?>
 
   <?php if($page->timeline()->isNotEmpty()) { ?>
-    <section id="timeline" class="timeline-container site">
+    <section id="c-timeline" class="c-timeline__container t-site">
       <?php foreach($page->timeline()->toStructure() as $timelineitem): ?>
-        <div class="timeline-block">
-    			<div class="timeline-img">
+        <div class="c-timeline__block">
+    			<div class="c-timeline__img">
     			</div> <!-- timeline-img -->
 
-    			<div class="timeline-content">
-            <span class="timeline-date"><?php echo $timelineitem->dateofevent() ?></span>
+    			<div class="c-timeline__content">
+            <span class="c-timeline__date"><?php echo $timelineitem->dateofevent() ?></span>
             <?php echo str_replace('(\\', '(', kirbytext($timelineitem->content())) ?>
             <?php if($timelineitem->newslink()->isNotEmpty()) { ?>
-              <a href="<?php echo $timelineitem->newslink() ?>" class="timeline-read-more">Read more ›</a>
+              <a href="<?php echo $timelineitem->newslink() ?>" class="c-timeline__readmore">Read more ›</a>
             <?php } ?>
     			</div> <!-- timeline-content -->
     		</div> <!-- timeline-block -->

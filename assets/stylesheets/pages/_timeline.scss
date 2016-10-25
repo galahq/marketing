@@ -1,4 +1,4 @@
-.timeline-container {
+.c-timeline__container {
   width: 90%;
 
   &:after {
@@ -9,7 +9,7 @@
   }
 }
 
-#timeline {
+#c-timeline {
   position: relative;
   padding: 2em 0;
   margin-bottom: 2.5em;
@@ -30,7 +30,7 @@
   }
 }
 
-.timeline-block {
+.c-timeline__block{
   position: relative;
   margin: 2em 0;
 
@@ -49,17 +49,17 @@
   }
 
   &:nth-child(odd){
-    .timeline-img{
+    .c-timeline__img{
       background: $galablue;
     }
   }
 
   &:nth-child(even){
-    .timeline-img{
+    .c-timeline__img{
       background: $galablue;
     }
 
-    .timeline-content {
+    .c-timeline__content {
       float: right;
 
       @include breakpoint($mq-medium) {
@@ -74,7 +74,7 @@
         border-right-color: $white;
       }
 
-      .timeline-date {
+      .c-timeline__date {
         left: auto;
         right: 119%;
         text-align: right;
@@ -83,7 +83,7 @@
   }
 }
 
-.timeline-img {
+.c-timeline__img {
   position: absolute;
   top: 8px;
   width: 40px;
@@ -120,7 +120,7 @@
   }
 }
 
-.timeline-date {
+.c-timeline__date {
   position: absolute;
   width: 100%;
   left: 119%;
@@ -131,7 +131,7 @@
   }
 }
 
-.timeline-content {
+.c-timeline__content {
   position: relative;
   background: $white;
   border-radius: 0.25em;
@@ -175,7 +175,7 @@
     }
   }
 
-  .timeline-read-more{
+  .c-timeline__readmore{
     display: inline-block;
     float: left;
   }
