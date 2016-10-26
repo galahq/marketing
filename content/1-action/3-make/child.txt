@@ -85,5 +85,5 @@ Elementexamples:
     <div class="call-to-action">
     MAKE A CASE<br>
     FUNDING AVAILABLE<br>
-    <a class="button" href="make/proposal">Submit a Proposal</a>
+    <a class="c-button" href="make/proposal">Submit a Proposal</a>
     </div>

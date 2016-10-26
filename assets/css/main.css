@@ -497,11 +497,6 @@ h1 {
   font-family: "jubilat", serif;
   font-style: italic; }
 
-h1.o-page-title {
-  font-family: "clarendon-urw", serif;
-  font-style: normal;
-  font-weight: 100; }
-
 h2, h3, h4 {
   font-family: "clarendon-urw", serif;
   line-height: 110%;
@@ -899,7 +894,6 @@ footer > div {
   margin-left: 3em;
   position: relative; }
   .t-blog ol > li {
-    margin: 1em 0;
     text-align: -webkit-match-parent; }
     .t-blog ol > li h3 {
       padding-top: 0.23rem; }
@@ -926,7 +920,7 @@ footer > div {
 
 .c-button {
   background-color: transparent;
-  border: 1px solid #35536f;
+  border: 1px solid #35536f !important;
   -webkit-border-radius: 0.5em;
   -moz-border-radius: 0.5em;
   -ms-border-radius: 0.5em;
@@ -1288,7 +1282,7 @@ main.home section {
   .c-flip-flop > div {
     padding: 0; } }
 .u-actionitem {
-  margin-bottom: 3em; }
+  margin-bottom: 4em; }
   .u-actionitem section {
     background-color: white;
     -webkit-border-radius: 1rem;
@@ -1378,7 +1372,7 @@ main.home section {
     font-size: 0.9em; }
 
 #action h2 {
-  margin-bottom: 1.4em;
+  margin-bottom: 1.5em;
   margin-top: 1em; }
 
 #action .c-separate-text h2 {
@@ -1509,8 +1503,6 @@ audio {
 
 #make .o-image--floatright {
   margin-top: 5px; }
-#make .c-button {
-  margin-top: 0.5em; }
 #make iframe {
   width: 100%;
   height: 1000px; }

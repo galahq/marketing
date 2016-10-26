@@ -20,34 +20,33 @@
   position: relative;
 
   > li {
-    margin: 1em 0;
-    text-align: -webkit-match-parent;
+      text-align: -webkit-match-parent;
 
-    h3 {
-      padding-top: 0.23rem;
-      @include breakpoint($mq-small) {
-        padding-top: 0.4rem;
+      h3 {
+        padding-top: 0.23rem;
+        @include breakpoint($mq-small) {
+          padding-top: 0.4rem;
+        }
+      }
+
+      &::before {
+        border-radius: 50%;
+        border: 2px solid $galablue;
+        color: $galablue;
+        display: block;
+        height: 35px;
+        left: -53px;
+        line-height: 31px;
+        position: absolute;
+        text-align: center;
+        width: 35px;
+        content: counter(section);
+        counter-increment: section;
+        padding-left: 0.8px;
+
+        @media screen and (max-width: 640px) {
+          left: -45px;
+        }
       }
     }
-
-    &::before {
-      border-radius: 50%;
-      border: 2px solid $galablue;
-      color: $galablue;
-      display: block;
-      height: 35px;
-      left: -53px;
-      line-height: 31px;
-      position: absolute;
-      text-align: center;
-      width: 35px;
-      content: counter(section);
-      counter-increment: section;
-      padding-left: 0.8px;
-
-      @media screen and (max-width: 640px) {
-        left: -45px;
-      }
-    }
-  }
 }
