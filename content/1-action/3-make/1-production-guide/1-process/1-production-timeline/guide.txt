@@ -2,11 +2,11 @@ Title: Production Timeline
 ----
 
 Text:
-Time to completion: The length of time it takes to complete a case varies by the nature of the subject, the experience of the authors involved, and the time available to the authors to devote to the case. Typically, case production takes between six and eight months. Individual case production timelines are determined by the case teams, and the final expectation for completion of all work will be specified in the Memorandum of Understanding (MOU). Note, however, that the MOU can be revised if necessary. MSC staff is readily available to help case teams produce a quality case, find resources, and implement and assess case use in classrooms or in the field.
+**Time to completion**: The length of time it takes to complete a case varies by the nature of the subject, the experience of the authors involved, and the time available to the authors to devote to the case. Typically, case production takes between six and eight months. Individual case production timelines are determined by the case teams, and the final expectation for completion of all work will be specified in the Memorandum of Understanding (MOU). Note, however, that the MOU can be revised if necessary. MSC staff is readily available to help case teams produce a quality case, find resources, and implement and assess case use in classrooms or in the field.
 
-Case development: Initial case development usually occurs informally through electronic means. During this time we try to address any questions and comments about MSC and case production. Additionally, case ideas and core concepts are discussed and refined along with case team members (authors, advisor, and practitioner).
+**Case development**: Initial case development usually occurs informally through electronic means. During this time we try to address any questions and comments about MSC and case production. Additionally, case ideas and core concepts are discussed and refined along with case team members (authors, advisor, and practitioner).
 
-Required meetings: To facilitate MSC production, several meetings are required of the case team before submission of case components. These meetings are intended to help case teams with the development of each case component.
+**Required meetings**: To facilitate MSC production, several meetings are required of the case team before submission of case components. These meetings are intended to help case teams with the development of each case component.
 
 <div class="table">
 <table>
@@ -55,4 +55,4 @@ Required meetings: To facilitate MSC production, several meetings are required o
 </table>
 </div>
 
-Follow-up: Following launch of the case on MSC’s learning platform, case teams may have the opportunity to showcase their work on the It’s Hot in Here radio show, as well as conduct assessment and publish about the case.
+**Follow-up**: Following launch of the case on MSC’s learning platform, case teams may have the opportunity to showcase their work on the It’s Hot in Here radio show, as well as conduct assessment and publish about the case.
