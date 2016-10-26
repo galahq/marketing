@@ -14,17 +14,17 @@ Components:
 - MSC title, which consists of
   - A kicker: A unique and catchy 2-4 word phrase.
   - A question: Should reflect the central decision point/question of the case.
-  -	A dek: One sentence that explains the question and frames the case.
+  - A dek: One sentence that explains the question and frames the case.
 
--	Author list: List of authors with the intended order.
+- Author list: List of authors with the intended order.
 
--	Summary: 100-200 word summary of the case.
+- Summary: 100-200 word summary of the case.
 
--	Table of contents: List of section titles.
+- Table of contents: List of section titles.
 
--	Consider: List of engaged learning exercises with eye-catching titles.
+- Consider: List of engaged learning exercises with eye-catching titles.
 
--	Cover image: A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
+- Cover image: A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
 
   - (link:https://unsplash.com/ text:Unsplash)
   - (link:https://creativecommons.org/ text:Creative Commons)
