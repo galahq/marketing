@@ -42,7 +42,7 @@ audio {
   }
 }
 
-//Logos
+//Partners
 .u-partners {
   h2 {
     margin-bottom: 1em;
@@ -97,51 +97,89 @@ audio {
   }
 }
 
-// Icons
-.child-icon {
-  img {
-    width: 50px;
-    float: left;
-    margin-top: 1em;
+//Elements examples
+.u-element-examples {
+  .o-flex-container {
+    margin-bottom: 0.7em;
+    margin-top: 0.7em;
   }
-}
 
-.icon-h3 h3{
-  clear:right;
-  margin-top: 2.8em;
-  margin-left: 3em;
-  margin-bottom: 1em;
-}
-
-//No clear h3
-.no-clear h3{
-  clear: none;
-}
-
-//page id=edgenotes
-#edgenotes {
-  .gala-embedded-card h3 {
+  .u-element-examples__figures {
     margin-bottom: 1em;
-    margin-top: 1em;
+  }
+
+  .background {
+    width: 100%;
+
+    img {
+      border-radius: 5px;
+    }
+  }
+
+  .u-element-examples__description {
+    @include flex-tri-parameters (1,1,20em);
+  }
+
+  & > div:nth-child(even) {
+    @include flex-direction-row-reverse;
   }
 }
 
-//#make
+//Actions children page
+#learn {
+  iframe {
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+
+  h2:not(:first-child){
+    margin-top: 1.2em;
+  }
+}
+
+#collaborate {
+  .o-image--wideright {
+    img {
+      border-radius: 0;
+      border: solid 5px $ltltgrey
+    }
+  }
+
+  .child-icon {
+    img {
+      width: 50px;
+      float: left;
+      margin-top: 1em;
+    }
+  }
+
+  .icon-h3 h3{
+    clear:right;
+    margin-top: 2.8em;
+    margin-left: 3em;
+    margin-bottom: 1em;
+  }
+
+  .no-clear h3{
+    clear: none;
+  }
+}
+
 #make {
   .o-image--floatright {
     margin-top: 5px;
   }
 
-  .c-button {
-    margin-top: 0.5em;
-  }
-
-  iframe {
+  .video iframe {
     width:100%;
-    height:1000px;
+    height:475px;
 
     @include breakpoint ($mq-small){
-      height: 600px;
+      height:300px;
     }
   }
 
@@ -195,84 +233,11 @@ audio {
   }
 }
 
-#learn {
-  iframe {
-    width:100%;
-    height:475px;
-
-    @include breakpoint ($mq-small){
-      height:300px;
-    }
-  }
-
-  h2:not(:first-child){
-    margin-top: 1.2em;
-  }
-}
-
-#make {
-  .video iframe {
-    width:100%;
-    height:475px;
-
-    @include breakpoint ($mq-small){
-      height:300px;
-    }
-  }
-}
-
-//msc
-#msc {
-  figcaption {
-    margin-top: -0.8em;
-  }
-}
-
-//#vision
-#vision {
-  figcaption {
-    margin-bottom: 2em;
-  }
-
-  .video {
-    margin-top: 2em;
-  }
-
-  iframe {
-    width:100%;
-    height:475px;
-
-    @include breakpoint ($mq-small){
-      height:300px;
-    }
-  }
-}
-
-//Elements examples
-.u-element-examples {
-  .o-flex-container {
-    margin-bottom: 0.7em;
-    margin-top: 0.7em;
-  }
-
-  .u-element-examples__figures {
+//Elements children page
+#edgenotes {
+  .gala-embedded-card h3 {
     margin-bottom: 1em;
-  }
-
-  .background {
-    width: 100%;
-
-    img {
-      border-radius: 5px;
-    }
-  }
-
-  .u-element-examples__description {
-    @include flex-tri-parameters (1,1,20em);
-  }
-
-  & > div:nth-child(even) {
-    @include flex-direction-row-reverse;
+    margin-top: 1em;
   }
 }
 
@@ -384,6 +349,32 @@ audio {
   }
 }
 
+//MSC Initiative pages
+#msc {
+  figcaption {
+    margin-top: -0.8em;
+  }
+}
+
+#vision {
+  figcaption {
+    margin-bottom: 2em;
+  }
+
+  .video {
+    margin-top: 2em;
+  }
+
+  iframe {
+    width:100%;
+    height:475px;
+
+    @include breakpoint ($mq-small){
+      height:300px;
+    }
+  }
+}
+
 //Contact page
 #contact {
   section.hero {
@@ -393,10 +384,7 @@ audio {
   h1 {
     display: none;
   }
-}
 
-//iframe
-#contact {
   iframe {
     margin-bottom: 1.5em;
   }
@@ -408,15 +396,5 @@ audio {
   h3 {
     margin-top: 0.5em;
     margin-bottom: 1em;
-  }
-}
-
-//image on collaborate
-#collaborate {
-  .o-image--wideright {
-    img {
-      border-radius: 0;
-      border: solid 5px $ltltgrey
-    }
   }
 }

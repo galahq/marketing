@@ -4,7 +4,7 @@ Title: Teaching Guide
 Text:
 Description: The teaching guide outlines best practices for use of the case, details the opportunities available to adapt the case for different audiences, and provides the tools needed by instructors to evaluate their students. Any instructor who picks it up should be able to teach the case without involving the case authors. It is only visible to instructors (e.g. professors).
 
-Requirements: The teaching guide should contain the following:
+The teaching guide should contain the following:
 
 - Case overview: A short summary of the case.
 - Learning objectives: Describe the knowledge, skills, and attitudes students should acquire through studying the case. Learning objectives should be explicit and specific, and use action verbs to define the desired student competency. Checkout this (link:http://tll.mit.edu/help/teaching-materials-0 text:short guide to writing learning objectives by MIT).
@@ -12,5 +12,3 @@ Requirements: The teaching guide should contain the following:
 - Previous knowledge: List what students should know before studying the case.
 - Teaching plan: Provide guidance and suggestions to other instructors for how the case may be incorporated into the classroom, including use of time, and how to use the engaged learning exercise. Discussion or assignment questions and answers may be included (optional).
 - Assessment: Provide suggestions for assessing student learning with the case using direct and/or indirect measures.
-
-Important: Use the teaching guide template that has been shared with you to submit this case component.

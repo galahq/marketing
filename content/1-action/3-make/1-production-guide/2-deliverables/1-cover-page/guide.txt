@@ -3,12 +3,15 @@ Title: Cover Page
 ----
 
 Text:
-Description: This is what will appear on the learning platform when someone selects the case from the case library. The cover page introduces your case, and should entice the viewer to engage with the case components.
+*Please note: Once you are ready to submit your work, please use this (file: msc_cover_template.docx text: cover page template) to input your content.*
+
+The cover page is what will appear on the learning platform when someone selects the case from the case library. The cover page introduces your case, and should entice the viewer to engage with the case components.
 
 (imgix: instruction-cover-page.png alt: cover page instruction)
 
-Requirements:
-- MSC title consisting of
+Components:
+
+- MSC title, which consists of
   - A kicker: A unique and catchy 2-4 word phrase.
   - A question: Should reflect the central decision point/question of the case.
   -	A dek: One sentence that explains the question and frames the case.
@@ -28,5 +31,3 @@ Requirements:
   - (link:https://morguefile.com/ text:Morgue File)
   - (link:http://openphoto.net/ text:Open Photo)
   - (link:http://designinstruct.com/roundups/free-stock-photos/ text:Design Instruct)
-
-Important: Use the cover page template that has been shared with you to submit this case component.

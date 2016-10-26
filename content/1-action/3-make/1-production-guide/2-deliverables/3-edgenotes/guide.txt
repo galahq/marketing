@@ -2,15 +2,15 @@ Title: Edgenotes
 
 ----
 Text:
-Description: Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case.
+*Please note: Once you are ready to submit your work, please use this (file: msc_edgenote_template.docx text: Edgenote template) to input your content.*
 
-Requirements: For each Edgenote, we need several pieces of information.
+Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case.
+
+For each Edgenote, we need several pieces of information.
 - The Edgenote format, which can be one of the following:
 (toc)
 - Caption: A one-sentence description that serves as the Edgenote teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 - Additional information: The following pages detail additional information that we need for each type of Edgenote. Demo screenshots are included to help you understand each element.
-
-Important: Please use the Edgenote template to submit this case component.
 
 ##Aside
 Aside is a few paragraphs written by the case authors.

@@ -1,3 +1,13 @@
 Title: Deliverables
 
 ----
+
+Text:
+From the (link: element text:Elements) page, you've learn that what makes MSC an MSC is through different components. In this section, you will get to explore how to create different components. Including:
+
+- (link: action/make/production-guide/deliverables/cover-page text: Cover Page)
+- (link: action/make/production-guide/deliverables/narrative text: Narrative)
+- (link: action/make/production-guide/deliverables/edgenotes text: Edgenotes)
+- (link: action/make/production-guide/deliverables/podcast text: Podcast)
+- (link: action/make/production-guide/deliverables/engaged-learning-exercises text: Engaged Learning Exercise)
+- (link: action/make/production-guide/deliverables/teaching-guide text: Teaching Guide)
