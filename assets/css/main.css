@@ -683,6 +683,10 @@ h1 a, h2 a, h3 a, h4 a {
     .c-nest-menu__secondlevel li a {
       padding-left: 2em;
       padding-top: 10px; }
+.c-nest-menu__thirdlevel {
+  margin-bottom: 0 !important; }
+  .c-nest-menu__thirdlevel li a {
+    padding-left: 4em; }
 
 .o-flex-container {
   display: -webkit-box;

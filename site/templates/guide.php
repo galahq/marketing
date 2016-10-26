@@ -19,7 +19,15 @@
           <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
           <ul class="c-nest-menu__secondlevel">
             <?php foreach($children as $child): ?>
-              <li><a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>"><?php echo $child->title()?></a></li>
+              <li>
+                <a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>">
+                  <?php echo $child->title()?>
+                </a>
+                <?php if ($child->isOpen()):
+                  echo render_toc(kirbytext($child->text()));
+                  endif
+                ?>
+              </li>
             <?php endforeach ?>
           </ul>
         </li>

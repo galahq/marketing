@@ -8,7 +8,6 @@ Edgenotes are complementary multimedia features that provide a jumping-off point
 
 For each Edgenote, we need several pieces of information.
 - The Edgenote format, which can be one of the following:
-(toc)
 - Caption: A one-sentence description that serves as the Edgenote teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 - Additional information: The following pages detail additional information that we need for each type of Edgenote. Demo screenshots are included to help you understand each element.
 
