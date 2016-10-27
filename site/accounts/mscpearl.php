@@ -7,9 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - >
-    action/make/production-guide/deliverables/engaged-learning-exercises
+  - msc/team
+  - action/make/production-guide/deliverables/engaged-learning-exercises
   - action/make/production-guide/deliverables/teaching-guide
   - action/make/production-guide/deliverables/podcast
   - action/make/production-guide/deliverables/edgenotes
-  - action/make/production-guide/deliverables/narrative
