@@ -1,3 +1,21 @@
+.guide {
+  h2 {
+    font-size: 1.35em;
+    padding-top: 0.5em;
+    padding-bottom: 0.2em;
+  }
+
+  h3 {
+    font-size: 1.15em;
+    margin-bottom: 0.3em;
+  }
+
+  h4 {
+    font-size: 1em;
+    margin-bottom: 0.2em;
+  }
+}
+
 .o-guide__nav {
   @include flex(1);
   margin-right: 2.5em;

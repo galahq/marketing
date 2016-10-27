@@ -885,10 +885,22 @@ footer > div {
     footer > div {
       line-height: 2.5em; } }
 
-.main ol, .main ul {
-  margin-bottom: 1em; }
+.main ol {
+  margin-left: 1.5em;
+  margin-top: 0.7em;
+  margin-bottom: 2em; }
+  .main ol li {
+    margin-bottom: 0.7em; }
+    .main ol li p {
+      margin-bottom: 0; }
+  .main ol ul {
+    margin-bottom: 0; }
+    .main ol ul li {
+      margin-top: 0.1em;
+      margin-bottom: 0.1em; }
 .main ul {
-  margin-left: 1.5em; }
+  margin-left: 1.5em;
+  margin-bottom: 1em; }
   .main ul li {
     margin-bottom: 0.6em; }
 
@@ -1837,6 +1849,17 @@ audio {
   .c-timeline__content .c-timeline__readmore {
     display: inline-block;
     float: left; }
+
+.guide h2 {
+  font-size: 1.35em;
+  padding-top: 0.5em;
+  padding-bottom: 0.2em; }
+.guide h3 {
+  font-size: 1.15em;
+  margin-bottom: 0.3em; }
+.guide h4 {
+  font-size: 1em;
+  margin-bottom: 0.2em; }
 
 .o-guide__nav {
   -webkit-box-flex: 1;
