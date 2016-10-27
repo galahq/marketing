@@ -12,7 +12,7 @@ For each Edgenote, we need several pieces of information, which differ based on 
 
 ##Requirements:
 
-###Aside
+###*Aside*
 An aside is a few paragraphs written by the case authors.
 
 1. ####Caption
