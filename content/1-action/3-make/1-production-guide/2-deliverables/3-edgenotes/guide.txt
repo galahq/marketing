@@ -6,14 +6,15 @@ Text:
 
 Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case. These   materials aim to enhance the learning experience by curating the most relevant content available. Edgenotes appear alongside the narrative text as thumbnail images. When a user clicks on an Edgenote, its full content appears on the screen. Examples of how Edgenotes look before and after clicking are given below.
 
-For each Edgenote, we need several pieces of information, which differs based on the Edgenote type. There are eight Edgenote types, including aside, audio, graphic, link, photo, quote, report,  and video. Please refer to different sections below to find out specific information needed for different types.  Demo screenshots are included to help you understand each element.
+For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: aside, audio, graphic, link, photo, quote, report, or video. Please refer to the sections below for a detailed list of requirements for each Edgenote type. Demo screenshots are included to help you understand each element.
 
 *Please note: Once you are ready to submit your work, use this (file: msc_edgenote_template.docx text: Edgenote template) to input your content.*
 
-##Aside
+##Requirements:
+
+###Aside
 An aside is a few paragraphs written by the case authors.
 
-###Requirements for an *aside*
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
@@ -23,7 +24,7 @@ Name of the person who took or owns the image.
 4. ####Content
 Text for the Edgenote.
 5. ####Image
-you can choose to include images if needed.
+Images may be included if needed.
 
 (imgix: instruction_aside_thumb.png alt: demo for aside caption: [Before clicking])
 (imgix: instruction_aside_open.png alt: demo for aside caption: [After clicking])
