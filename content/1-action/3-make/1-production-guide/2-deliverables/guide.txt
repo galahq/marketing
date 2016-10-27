@@ -3,7 +3,7 @@ Title: Deliverables
 ----
 
 Text:
-From the (link: element text:Elements) page, you've learn that what makes MSC an MSC is through different components. In this section, you will get to explore how to create different components. Including:
+Click on each link below to learn how to create the different (link: element text:elements) of an MSC.
 
 - (link: action/make/production-guide/deliverables/cover-page text: Cover Page)
 - (link: action/make/production-guide/deliverables/narrative text: Narrative)
