@@ -4,7 +4,7 @@ Title: Edgenotes
 Text:
 *Please note: Once you are ready to submit your work, please use this (file: msc_edgenote_template.docx text: Edgenote template) to input your content.*
 
-Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case.
+Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case. These   materials aim to enhance the learning experience by curating the most relevant content available. Edgenotes appear alongside the narrative text as thumbnail images. When a user clicks on an Edgenote, its full content appears on the screen. Examples of how Edgenotes look before and after clicking are given below.
 
 For each Edgenote, we need several pieces of information.
 - The Edgenote format, which can be one of the following:
