@@ -2,8 +2,7 @@ Title: Narrative
 
 ----
 
-Text:
-*Please note: Once you are ready to submit your work, please use this (file: msc_narrative_template.docx text: narrative template) to input your content.*
+Text: 
 
 The case narrative tells the story from the point of view of a decision maker, focused around a clearly defined decision point. As much as possible, narratives should involve real people, situations, and decisions.
 
@@ -11,23 +10,32 @@ The story should be cohesive, and the text broken into sections with clear secti
 
 (imgix:narrative-instruction.png alt:narrative instruction)
 
-**Length:** There are no restrictions on the length of the case narrative. It should only be long enough to fully convey the complexity of the decision.
+##General Guidelines
+###Length 
+There are no restrictions on the length of the case narrative. It should only be long enough to fully convey the complexity of the decision.
 
-**Section titles:** Divide the narrative text into sections to reflect different components of the story being told. These sections will help guide our audience and define how the case will be displayed on our learning platform.
+###Point of view
+We encourage the use of third person past tense. Example: “Mr. Smith considered his options. If he approved the proposal, it would mean higher electric bills for his customers.” Some cases make use of first person point of view and/or present tense, although these choices are less common and may pose additional writing challenges. Do not use second person point of view.
 
-**Point of view:** We encourage the use of third person past tense. Example: “Mr. Smith considered his options. If he approved the proposal, it would mean higher electric bills for his customers.”
-
-Some cases make use of first person point of view and/or present tense, although these choices are less common and may pose additional writing challenges. Do not use second person point of view.
-
-**Decision maker/Protagonist:** Case writing teams are encouraged to work with the decision maker (sometimes referred to as the protagonist) when developing the case. Close collaboration supports practitioner involvement and ensures that we will be able to use the person’s real name when the case is posted on our learning platform.
+###Decision maker/Protagonist
+Case writing teams are encouraged to work with the decision maker (sometimes referred to as the protagonist) when developing the case. Close collaboration supports practitioner involvement and ensures that we will be able to use the person’s real name when the case is posted on our learning platform.
 
 However, we recognize that collaboration with the decision maker is not always possible. In such situations, it may be appropriate to fictionalize the decision maker’s name and/or other details about the case, such as the location. Fictionalization should be discussed with the MSC team.
 
-**Citations:** Citations for factual information included in the narrative should appear as citations. MSC citation style is author + year + link to the piece.
+###Citations
+First, is this interesting enough for students to further explore, if so, consider putting it as Edgenotes. If not, please provide it in APA style, and include a hyperlink.
 
-**Resources for writing:** The faculty lead has primary responsibility for helping student authors to write their case narratives, and giving timely and constructive feedback. MSC has also partnered with (link: https://lsa.umich.edu/sweetland text:Sweetland Writing Center), and student authors are encouraged to work with Sweetland to develop the case narrative and to sharpen their writing skills.
+###Resources for writing
+The faculty lead has primary responsibility for helping student authors to write their case narratives, and giving timely and constructive feedback. MSC has also partnered with (link: https://lsa.umich.edu/sweetland text:Sweetland Writing Center), and student authors are encouraged to work with Sweetland to develop the case narrative and to sharpen their writing skills.
 
-**Learning platform:** When your case is finalized, it will appear on our learning platform, learnmsc.org. The final layout will depend, in part, on how you tell us to break up the case narrative. Every MSC has several pages, with each section on its own page. Pages are broken up based on the section titles you provide.
-On each page, we break long text into digestible, one- to three- paragraph segments on different cards. Card separation is based on semantic consistency and length of paragraphs.
+##Requirements
+*Please note: Once you are ready to submit your work, use this (file: msc_narrative_template.docx text: narrative template) to input your content.*
 
-**Edgenotes:** In the case narrative, highlight the text where you want to insert Edgenotes. This highlighted part should have semantic meaning, i.e. do not highlight just one word, but instead choose a phrase, or even a sentence. Please also make sure that Edgenotes are spread out within the case narrative text: our aim is to have only one to two Edgenotes per card.
+1. ###Section titles
+Divide the narrative text into sections to reflect different components of the story being told. These sections will help guide our audience and define how the case will be displayed on our learning platform. Pages are broken up based on the section titles you provide. Each section will be displayed as its own page. There can be sub sections under each section, which will remain on the same page. 
+
+2. ###Cards
+The final layout of the case will depend, in part, on how you tell us to break up the case narrative. Every MSC has several pages, which is divided by the sections as we talked about above. On each page, we break long text into digestible, one- to three- paragraph segments on different cards. Card separation is based on semantic consistency and length of paragraphs.
+
+3. ###Edgenote position
+In the case narrative, highlight the text where you want to insert Edgenotes. This highlighted part should have semantic meaning, i.e. do not highlight just one word, but instead choose a phrase, or even a sentence. Please also make sure that Edgenotes are spread out within the case narrative text: our aim is to have only one to two Edgenotes per card.

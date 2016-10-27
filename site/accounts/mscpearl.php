@@ -8,8 +8,8 @@ language: en
 role: admin
 history:
   - >
-    action/make/production-guide/deliverables/checklist
-  - msc/team
-  - msc/partners
-  - element/exercise
-  - element/podcast
+    action/make/production-guide/deliverables/engaged-learning-exercises
+  - action/make/production-guide/deliverables/teaching-guide
+  - action/make/production-guide/deliverables/podcast
+  - action/make/production-guide/deliverables/edgenotes
+  - action/make/production-guide/deliverables/narrative

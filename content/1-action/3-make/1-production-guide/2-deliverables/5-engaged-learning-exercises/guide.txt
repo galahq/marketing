@@ -1,12 +1,14 @@
 Title: Engaged Learning Exercises
 
 ----
-Text:
+
+Text: 
+
 According to the Center for Research on Learning and Teaching, “U-M’s working definition conceives of engaged learning as providing students with opportunities for practice in unscripted, authentic settings, where stakeholders (including the students themselves) are invested in the outcome.” This MSC component can be challenging to craft, and carries additional importance because it separates MSC from traditional online learning platforms. Student authors should work closely with their faculty advisor(s) to develop this component.
 
-**Planning:** It is often helpful to use a backwards design approach. Rather than starting by identifying an activity to do, start by asking, ‘What should students know or be able to do as a result of using this case?’ Once the learning objectives have been identified, design an activity to reach those goals.
+It is often helpful to use a backwards design approach. Rather than starting by identifying an activity to do, start by asking, ‘What should students know or be able to do as a result of using this case?’ Once the learning objectives have been identified, design an activity to reach those goals.
 
-**Ideas and suggestions:** The list below is not meant to be comprehensive, only to provide a suite of ideas to draw upon when crafting your engaged learning exercise. Note that activities described below are not mutually exclusive, and could be combined in creative ways. Think about choosing a structure for your engaged learning exercise that is meaningful for your case, and one which specifically addresses the concepts, skills, or theories that you want to develop with your students. More information about each activity is available by clicking on the links provided.
+The list below are some ideas and suggestions, which is not meant to be comprehensive, only to provide a suite of ideas to draw upon when crafting your engaged learning exercise. Note that activities described below are not mutually exclusive, and could be combined in creative ways. Think about choosing a structure for your engaged learning exercise that is meaningful for your case, and one which specifically addresses the concepts, skills, or theories that you want to develop with your students. More information about each activity is available by clicking on the links provided.
 
 ##Connect to the World
 ###Learn through community service
@@ -32,7 +34,7 @@ Contrasting narratives examine an issue by considering different points of view 
 Quotations can be a useful tool for promoting discussion, critical thinking, and analysis. After opposing ideas have been presented and important concepts discussed, students are given a quotation they have not seen before and are asked to determine which position the person being quoted supports.
 - (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#feedback text:How to get feedback by Cal State)
 
-##Apply Quantitative Reasoning
+##Quantitative Reasoning
 ###Solve a mathematical problem in the context of the case.
 Spreadsheets offer an opportunity to think through a quantitative problem without requiring time-consuming handwritten calculations. Additionally, spreadsheets can make a problem more tractable for those students without strong math skills.
 - (link: http://serc.carleton.edu/sp/ssac/what.html text: Quantitative materials by SSAC)

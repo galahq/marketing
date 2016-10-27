@@ -1,22 +1,22 @@
 Title: Podcast
 
 ----
-Text:
-*Please note: Once you are ready to submit your work, please use this (file: msc_podcastpage_template.docx text: podcast page template) to input your content.*
+
+Text: 
 
 The podcast page is what users will see when they click on the Podcast link for your case. See the separate podcast production guide to learn how a podcast is produced.
 
 (imgix:instruction_podcast.png alt:podcast page demo)
 
-Components:
-
-- Title of the podcast
-- Name(s) and title(s) of guests
-- Name(s) of host(s)
-- The audio file (usually comes from MSC podcast team)
-- A blurb for the podcast (no length limit)
-- Cover image: A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
-
+##Requirements
+*Please note: Once you are ready to submit your work, use this (file: msc_podcastpage_template.docx text: podcast page template) to input your content.*
+1. ###Title of the podcast
+2. ###Name(s) and title(s) of guests
+3. ###Name(s) of host(s)
+4. ###The audio file (usually comes from MSC podcast team)
+5. ###A blurb for the podcast (no length limit)
+6. ###Cover image
+A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
   - (link:https://unsplash.com/ text:Unsplash)
   - (link:https://creativecommons.org/ text:Creative Commons)
   - (link:https://morguefile.com/ text:Morgue File)

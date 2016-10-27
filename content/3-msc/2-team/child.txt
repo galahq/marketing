@@ -2,7 +2,7 @@ Title: Team
 
 ----
 
-Text:
+Text: 
 
 (imgix: msc-group.jpg alt:MSC group picture class:o-image--fullwidth)
 We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.
@@ -17,10 +17,11 @@ Cameron Bothner — Software Engineer
 Edward Waisanen — Podcast Director
 Michael Burbidge — Media Coordinator
 Christopher Askew-Merwin — Podcast Coordinator
+Malavika Sahai — Social Media Manager 
+Patrick Conway — Podcast Editor
 Anil Bhargava — Evaluation Coordinator
 Megan Czerwinski — Evaluation Coordinator
 Arman Golrokhian — Production and Assessment Coordinator
-Alex Truelove — Music Director
 
 ### Team Contributors
 Marie Hooper — Web Interface Consultant
@@ -61,15 +62,16 @@ Katherine Browne — PHD candidate at SNRE
 Steve Lonn — Director of Enrollment Research and Data Management, UM
 Claire Poelking — M.S. candidate at SNRE
 Harold Rice — B.S., Program in the Environment, UM
+Alex Truelove — M.S. candidate at SNRE
 Mary Wright — Director, Sheridan Center for Teaching and Learning, Brown University
 
 ----
 
-Tagline:
+Tagline: 
 
 ----
 
-Description:
+Description: 
 
 ----
 
@@ -81,40 +83,40 @@ Pagesubtagline: Interdisciplinary folks with different backgrounds and cultures.
 
 ----
 
-Link:
+Link: 
 
 ----
 
-Subdescription:
+Subdescription: 
 
 ----
 
-Wbg:
+Wbg: 
 
 ----
 
-Timeline:
+Timeline: 
 
 ----
 
-Feature:
+Feature: 
 
 ----
 
-Featureimg:
+Featureimg: 
 
 ----
 
-Umschools:
+Umschools: 
 
 ----
 
-Umunits:
+Umunits: 
 
 ----
 
-Otherpartners:
+Otherpartners: 
 
 ----
 
-Elementexamples:
+Elementexamples: 
