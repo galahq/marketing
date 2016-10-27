@@ -31,7 +31,7 @@ Images may be included if needed.
 
 
 ###*Audio*
-Audio Edgenotes are short clips.
+Audio Edgenotes are short clips distinct from the podcast.
 
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
