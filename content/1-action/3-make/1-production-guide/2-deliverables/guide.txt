@@ -3,7 +3,7 @@ Title: Deliverables
 ----
 
 Text:
-This section details how to create the different (link: element text:elements) of an MSC. Click on each link below to learn more.
+Click on each link below to learn how to create the different (link: element text:elements) of an MSC.
 
 - (link: action/make/production-guide/deliverables/cover-page text: Cover Page)
 - (link: action/make/production-guide/deliverables/narrative text: Narrative)
