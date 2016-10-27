@@ -13,19 +13,19 @@ The list below are some ideas and suggestions, which is not meant to be comprehe
 ##Connect to the World
 ###Learn through community service
 Service learning combines academic instruction with community service to teach civic responsibility and encourage meaningful reflection.
-- (link: http://serc.carleton.edu/integrate/teaching_materials/service_learning.html text: Service learning materials from Carleton)
-- (link: http://serc.carleton.edu/sp/library/service/index.html text: Carleton service library)
+- (link: http://serc.carleton.edu/integrate/teaching_materials/service_learning.html text: About service learning)
+- (link: http://serc.carleton.edu/sp/library/service/index.html text: Service learning resources)
 
 ###Do field work
 Field work brings students out of the classroom and into the environment, where they can collect their own data, make observations, and solve tangible problems.
-- (link: http://serc.carleton.edu/integrate/teaching_materials/field.html text: Field work material from Carleton)
+- (link: http://serc.carleton.edu/integrate/teaching_materials/field.html text: About field work)
 
 ###Perform an experiment
 Experiments ask students to test a hypothesis or demonstrate a physical phenomenon.
 
 ###Utilize campus and local resources
 Expensive and time-consuming travel is not required! Examples and data from around your city and campus can make problems relatable and offer opportunities for data collection and analysis, problem solving, and investigation.
-- (link: http://serc.carleton.edu/integrate/teaching_materials/local.html text:How to utilize local materials by Carleton)
+- (link: http://serc.carleton.edu/integrate/teaching_materials/local.html text: Using local resources)
 
 ###Take different viewpoints or explore viewpoint changes through time
 Contrasting narratives examine an issue by considering different points of view or how perspectives have changed through time. Consider using both written narratives and other media such as visual art.
