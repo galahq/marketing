@@ -12,9 +12,9 @@ The cover page is the first page to appear on the learning platform when someone
 *Please note: Once you are ready to submit your work, use this (file: msc_cover_template.docx text: cover page template) to input your content.*
 
 1. ###Title
-Title for an MSC is consisted of three components:
+An MSC title consists of three components:
   - A kicker: A unique and catchy 2-4 word phrase.
-  - A question: Should reflect the central decision point/question of the case.
+  - A question: Reflects the central decision point/question of the case.
   - A dek: One sentence that explains the question and frames the case.
 2. ###Author list
 List of authors with the intended order
@@ -22,8 +22,8 @@ List of authors with the intended order
 100-200 word summary of the case
 4. ###Table of contents
 List of section titles
-5. ###Decide
-List of engaged learning exercises with eye-catching titles
+5. ###Exercise(s)
+List of engaged learning exercise(s) with eye-catching title(s)
 6. ###Cover image
 A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
   - (link:https://unsplash.com/ text:Unsplash)
