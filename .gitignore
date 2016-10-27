@@ -6,7 +6,6 @@
 /site/accounts
 /site/cache
 /thumbs
-/vendor
 /composer.phar
 
 # Compiled source #
