@@ -25,37 +25,37 @@ Experiments ask students to test a hypothesis or demonstrate a physical phenomen
 
 ###Utilize campus and local resources
 Expensive and time-consuming travel is not required! Examples and data from around your city and campus can make problems relatable and offer opportunities for data collection and analysis, problem solving, and investigation.
-- (link: http://serc.carleton.edu/integrate/teaching_materials/local.html text: Using local resources)
+- (link: http://serc.carleton.edu/integrate/teaching_materials/local.html text: About using local resources)
 
 ###Take different viewpoints or explore viewpoint changes through time
 Contrasting narratives examine an issue by considering different points of view or how perspectives have changed through time. Consider using both written narratives and other media such as visual art.
-- (link: http://serc.carleton.edu/integrate/teaching_materials/narratives.html text:How to take on different viewpoints by Carleton)
+- (link: http://serc.carleton.edu/integrate/teaching_materials/narratives.html text: About different viewpoints)
 
 Quotations can be a useful tool for promoting discussion, critical thinking, and analysis. After opposing ideas have been presented and important concepts discussed, students are given a quotation they have not seen before and are asked to determine which position the person being quoted supports.
-- (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#feedback text:How to get feedback by Cal State)
+- (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#feedback text: About quotations)
 
 ##Quantitative Reasoning
 ###Solve a mathematical problem in the context of the case.
 Spreadsheets offer an opportunity to think through a quantitative problem without requiring time-consuming handwritten calculations. Additionally, spreadsheets can make a problem more tractable for those students without strong math skills.
-- (link: http://serc.carleton.edu/sp/ssac/what.html text: Quantitative materials by SSAC)
+- (link: http://serc.carleton.edu/sp/ssac/what.html text: About using spreadsheets)
 
 ###Produce a written explanation of a quantitative analysis
 Quantitative writing requires that students understand and apply concepts in order to work through a complex problem. Producing a written explanation of data or trends can be a powerful way for students to develop a deep understanding of the material and to connect ideas.
-- (link: http://serc.carleton.edu/sp/carl_ltc/quantitative_writing/index.html text:Quantitative writing by Carleton)
+- (link: http://serc.carleton.edu/sp/carl_ltc/quantitative_writing/index.html text: About quantitative writing)
 
 ###Assess quantitative claims related to the case
 How are data used to advance different arguments within the case? Numbers, statistics, and claims can be analyzed, justified—or rejected.
-- (link: http://serc.carleton.edu/sp/library/teaching_news/how.html text:Carleton library)
-- (link: http://serc.carleton.edu/sp/library/teaching_news/examples.html text:Teaching examples by Carleton)
+- (link: http://serc.carleton.edu/sp/library/teaching_news/how.html text: About quantitative reasoning)
+- (link: http://serc.carleton.edu/sp/library/teaching_news/examples.html text: Quantitative reasoning examples)
 
 ##Work with Real Data
 ###Explore concepts using models.
 Models are essential to science and help us understand complex, real-world systems.
 - (link:http://serc.carleton.edu/introgeo/models/WhatIsAModel.html text: Types of models)
-- (link:http://serc.carleton.edu/introgeo/models/HowToUse.html text:Considerations)
+- (link:http://serc.carleton.edu/introgeo/models/HowToUse.html text: Considerations when using models)
 - Using real-world data and simulations
-  (link:http://serc.carleton.edu/NAGTWorkshops/data_models/index.html text:link 1)
-  (link:http://serc.carleton.edu/usingdata/index.html text:link 2)
+  (link:http://serc.carleton.edu/NAGTWorkshops/data_models/index.html text: Teaching with data)
+  (link:http://serc.carleton.edu/usingdata/index.html text: How to use data)
 
 ##Perform an Analysis
 ###Make a choice using qualitative and quantitative methods.
@@ -66,18 +66,18 @@ Models are essential to science and help us understand complex, real-world syste
 ##Create
 Make visual art; write a poem, story, proposal, or exposition; build a product; design a plan; craft mock legislation.
 - Creating necessarily requires planning, problem solving, analysis, synthesis, and learning to manage failure.
-- Jigsaw group projects work by asking each student in a group to complete part of a project. The individual parts are then joined together to make a complete product. (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text: See example from Cal State.)
+- Jigsaw group projects work by asking each student in a group to complete part of a project. The individual parts are then joined together to make a complete product. (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text: About jigsaw projects)
 
 
 ##Play Games
 ###Illustrate a concept through carefully structured play.
-(link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text:Games can provide a fun way to convey an idea or to realize consequences)
+- Games can provide a fun way to convey an idea or to realize consequences. (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text: About using games)
 
 ##Discuss and Debate
 ###Explore difficult questions using structured discussion
-Small group discussions can encourage active participation from a greater number of students, particularly those who may be reluctant to speak up in a large class. Specific tasks can be given to individual students in a group to ensure maximum participation. Discussions can be as simple as asking students to address specific questions, or they may be structured in more complex ways.
-- (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text:Role playing requires students to act out a part and defend a point of view.)
-- (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text:Debates involve students taking opposite sides of an issue and arguing in support of their position. The opposing side is also given a chance to rebut the argument.)
+- Small group discussions can encourage active participation from a greater number of students, particularly those who may be reluctant to speak up in a large class. Specific tasks can be given to individual students in a group to ensure maximum participation. Discussions can be as simple as asking students to address specific questions, or they may be structured in more complex ways.
+- Role playing requires students to act out a part and defend a point of view. (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text: About role play)
+- Debates involve students taking opposite sides of an issue and arguing in support of their position. The opposing side is also given a chance to rebut the argument. (link: http://www.calstatela.edu/dept/chem/chem2/Active/index.htm#group text: About debates)
 
 ##Other Resources
 - (link:http://serc.carleton.edu/integrate/teaching_materials/systems.html text:Encourage systems thinking)
