@@ -6,11 +6,11 @@ Text:
 
 The case narrative tells the story from the point of view of a decision maker, focused around a clearly defined decision point. As much as possible, narratives should involve real people, situations, and decisions.
 
+##General Guidelines
 The story should be cohesive, and the text broken into sections with clear section titles. Provide a table of contents. See the template for an example. Although MSCs should be written to tell a story, all details included should have relevance to the decision. (E.g., avoid making unnecessary comments about what someone ate for lunch.)
 
 (imgix:narrative-instruction.png alt:narrative instruction)
 
-##General Guidelines
 ###Length 
 There are no restrictions on the length of the case narrative. It should only be long enough to fully convey the complexity of the decision.
 
@@ -23,19 +23,19 @@ Case writing teams are encouraged to work with the decision maker (sometimes ref
 However, we recognize that collaboration with the decision maker is not always possible. In such situations, it may be appropriate to fictionalize the decision maker’s name and/or other details about the case, such as the location. Fictionalization should be discussed with the MSC team.
 
 ###Citations
-First, is this interesting enough for students to further explore, if so, consider putting it as Edgenotes. If not, please provide it in APA style, and include a hyperlink.
+Citations for factual information are encouraged, as these strengthen the authority of the text and allow interested users to further explore a topic. However, before inserting a citation, consider whether the material is interesting enough to justify being its own Edgenote. If not, provide the citation using APA style and include a hyperlink to the source.
 
 ###Resources for writing
-The faculty lead has primary responsibility for helping student authors to write their case narratives, and giving timely and constructive feedback. MSC has also partnered with (link: https://lsa.umich.edu/sweetland text:Sweetland Writing Center), and student authors are encouraged to work with Sweetland to develop the case narrative and to sharpen their writing skills.
+The faculty advisor has primary responsibility for helping student authors to write their case narratives, and giving timely and constructive feedback. MSC has also partnered with (link: https://lsa.umich.edu/sweetland text:Sweetland Writing Center), and student authors are encouraged to work with Sweetland to develop the case narrative and to sharpen their writing skills.
 
 ##Requirements
 *Please note: Once you are ready to submit your work, use this (file: msc_narrative_template.docx text: narrative template) to input your content.*
 
 1. ###Section titles
-Divide the narrative text into sections to reflect different components of the story being told. These sections will help guide our audience and define how the case will be displayed on our learning platform. Pages are broken up based on the section titles you provide. Each section will be displayed as its own page. There can be sub sections under each section, which will remain on the same page. 
+Divide the narrative text into sections to reflect different components of the story being told. These sections will help guide our audience and define how the case will be displayed on our learning platform. Every MSC has several pages, broken up based on the section titles you provide. Each section will be displayed as its own page. Subsections are allowable and will remain on the same page. 
 
 2. ###Cards
-The final layout of the case will depend, in part, on how you tell us to break up the case narrative. Every MSC has several pages, which is divided by the sections as we talked about above. On each page, we break long text into digestible, one- to three- paragraph segments on different cards. Card separation is based on semantic consistency and length of paragraphs.
+The final layout of the case will depend, in part, on how you tell us to break up the case narrative. On each page, we break long text into digestible, one- to three- paragraph segments on different cards. Card separation is based on semantic consistency and length of paragraphs.
 
 3. ###Edgenote position
 In the case narrative, highlight the text where you want to insert Edgenotes. This highlighted part should have semantic meaning, i.e. do not highlight just one word, but instead choose a phrase, or even a sentence. Please also make sure that Edgenotes are spread out within the case narrative text: our aim is to have only one to two Edgenotes per card.
