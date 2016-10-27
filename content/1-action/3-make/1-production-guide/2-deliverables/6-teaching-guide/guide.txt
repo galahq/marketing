@@ -19,5 +19,7 @@ Describe who the case was written for (e.g. undergraduate or graduate students, 
 List what students should know before studying the case.
 5. ###Teaching plan
 Provide guidance and suggestions to other instructors for how the case may be incorporated into the classroom, including use of time, and how to use the engaged learning exercise. Discussion or assignment questions and answers may be included (optional).
-6. ###Assessment
-Provide suggestions for assessing student learning with the case using direct and/or indirect measures.
+6. ###Directions for Engaged Learning Exercise
+Provide directions here for using the engaged learning exercise. These instructions should be comprehensible to anyone wishing to use the case and give sufficient information such that the case authors need not be contacted. Some case teams prefer to provide several different activities for an instructor to choose from. In this situation, provide instructions for each exercise and when an instructor might want to choose each option. 
+7. ###Assessment
+Provide suggestions for assessing student learning with the case using direct and/or indirect measures. Direct measures include papers, projects, tests and quizzes, etc. Indirect measures include surveys, focus groups, etc. Assessment should be directly linked to the learning objectives listed above.
