@@ -8,7 +8,7 @@
        print date("F j Y");
     ?>
 
-    <h1>MSC Production Guide</h1>
+    <h1 class="u-print__title">MSC Production Guide</h1>
 
     <nav class="o-guide__nav">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
@@ -39,6 +39,7 @@
     <div>
         <h1 id="<?php echo html($child->title()) ?>"><?php echo html($child->title()) ?></h1>
         <p><?php echo str_replace('(\\', '(', kirbytext($child->text())) ?></p>
+        <p style="page-break-after:always;"></p>
     </div>
     <?php endforeach ?>
     <?php endforeach ?>
