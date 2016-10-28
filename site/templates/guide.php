@@ -10,7 +10,7 @@
   <div class="o-flex-container t-site">
 
     <nav class="o-guide__nav o-flex-item-growing">
-      <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children() ;?>
+      <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
       <ul class="c-nest-menu__firstlevel">
         <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
         <?php foreach($guideitems as $guideitem) :?>
@@ -32,6 +32,7 @@
           </ul>
         </li>
         <?php endforeach ?>
+        <li><a class="c-button" href="<?php echo $pages->find('action')->find('make')->find('production-guide')->find('print')->url() ?>" style="margin-top: 1.5em;">Print all</a></li>
       </ul>
     </nav>
 
