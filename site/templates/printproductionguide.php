@@ -13,15 +13,15 @@
     <nav class="o-guide__nav">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
       <ul class="c-nest-menu__firstlevel">
-        <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+        <li><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></li>
         <?php foreach($guideitems as $guideitem) :?>
         <?php $children = $guideitem->children();?>
         <li>
-          <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
+          <?php echo $guideitem->title()?>
           <ul class="c-nest-menu__secondlevel">
             <?php foreach($children as $child): ?>
               <li>
-                <a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>">
+                <a href="#<?php echo html($child->title()) ?>">
                   <?php echo $child->title()?>
                 </a>
               </li>
@@ -37,7 +37,7 @@
     <?php $children = $guideitem->children();?>
     <?php foreach($children as $child): ?>
     <div>
-        <h1><?php echo html($child->title()) ?></h1>
+        <h1 id="<?php echo html($child->title()) ?>"><?php echo html($child->title()) ?></h1>
         <p><?php echo str_replace('(\\', '(', kirbytext($child->text())) ?></p>
     </div>
     <?php endforeach ?>
