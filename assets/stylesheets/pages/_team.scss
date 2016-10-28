@@ -1,0 +1,27 @@
+.o-member__flexcontainer {
+  @include justify-content-start;
+  margin-bottom: 1em;
+}
+
+.o-member__flexitem {
+  flex: 1 1 14em;
+  padding: 0;
+  margin-right: 0.7em;
+  position: relative;
+}
+
+.o-member__flexitem__title {
+  position: absolute;
+  top: 78%;
+  padding: 1% 3%;
+  background: rgba(0,0,0,0.2);
+  color: $white;
+
+  h4 {
+    margin-bottom: 0.1em;
+  }
+
+  h5 {
+    font-weight: 400;
+  }
+}

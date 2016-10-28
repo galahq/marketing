@@ -16,6 +16,8 @@
 
   <?php snippet('timeline') ?>
 
+  <?php snippet('team') ?>
+
 </main>
 
 <?php snippet('footer') ?>

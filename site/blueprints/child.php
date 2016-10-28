@@ -103,3 +103,18 @@ fields:
       description:
         label: Description
         type: textarea
+  coremembers:
+    label: Core Team Members
+    type: structure
+    entry: >
+      {{profilepic}} {{title}}
+    fields:
+      profilepic:
+        label: Profile Picture
+        type: text
+      nameandtitle:
+        label: Name and title
+        type: textarea
+  othermembers:
+    label: Other members
+    type: textarea
