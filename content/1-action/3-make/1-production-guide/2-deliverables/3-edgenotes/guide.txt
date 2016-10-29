@@ -8,9 +8,8 @@ Edgenotes are complementary multimedia features that provide a jumping-off point
 
 For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: aside, audio, graphic, link, photo, quote, report, or video. Please refer to the sections below for a detailed list of requirements for each Edgenote type. Demo screenshots are included to help you understand each element.
 
+##Requirements
 *Please note: Once you are ready to submit your work, use this (file: msc_edgenote_template.docx text: Edgenote template) to input your content.*
-
-##Requirements:
 
 ###*Aside*
 An aside is a few paragraphs written by the case authors.

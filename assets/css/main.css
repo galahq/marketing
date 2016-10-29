@@ -1964,6 +1964,24 @@ code {
   border-radius: 2px;
   background-color: #efd7ec; }
 
+.o-boxblock {
+  border: solid 1px #9c9c9c;
+  padding: 1em 1em 0 1em;
+  margin-top: 1em;
+  margin-bottom: 1.5em; }
+
+.printproductionguide h1 {
+  margin-top: 1.5em; }
+.printproductionguide .c-nest-menu__firstlevel li {
+  margin-top: 1em; }
+.printproductionguide .c-nest-menu__secondlevel li {
+  margin-top: auto; }
+
+h1.u-print__title {
+  font-family: serif;
+  font-style: normal;
+  margin-top: 1em; }
+
 .o-member__flexcontainer {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
