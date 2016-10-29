@@ -1927,6 +1927,11 @@ audio {
   .o-guide__content h1 {
     margin-top: 0; }
 
+.o-guide__print__button {
+  text-transform: none; }
+  .o-guide__print__button:hover {
+    color: white !important; }
+
 .table {
   overflow: scroll; }
 

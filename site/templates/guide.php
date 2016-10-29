@@ -32,7 +32,7 @@
           </ul>
         </li>
         <?php endforeach ?>
-        <li><a class="c-button" href="<?php echo $pages->find('action')->find('make')->find('production-guide')->find('print')->url() ?>" style="margin-top: 1.5em;">Print all</a></li>
+        <li><a class="c-button o-guide__print__button" href="<?php echo $pages->find('action')->find('make')->find('production-guide')->find('print')->url() ?>" style="margin-top: 1.5em;">Download the whole guide</a></li>
       </ul>
     </nav>
 

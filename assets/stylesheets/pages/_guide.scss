@@ -110,6 +110,14 @@
   }
 }
 
+.o-guide__print__button {
+  text-transform: none;
+  
+  &:hover {
+    color: $white !important;
+  }
+}
+
 .table {
   overflow: scroll;
 }

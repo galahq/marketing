@@ -3,12 +3,12 @@
 <main class="main" role="main">
 
   <div class="t-site">
+    <?php imgix('logo.png', $site->title(), 600) ?>
+    <h1 class="u-print__title">Production Guide</h1>
     <?php
        print "Generated on ";
        print date("F j Y");
     ?>
-
-    <h1 class="u-print__title">MSC Production Guide</h1>
 
     <nav class="o-guide__nav">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
