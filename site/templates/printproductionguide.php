@@ -55,3 +55,4 @@
   </div>
 
 </main>
+<?php echo js('assets/js/print.js'); ?>
