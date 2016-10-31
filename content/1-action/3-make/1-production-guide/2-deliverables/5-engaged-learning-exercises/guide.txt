@@ -4,7 +4,7 @@ Title: Engaged Learning Exercises
 
 Text: 
 
-According to the Center for Research on Learning and Teaching, “U-M’s working definition conceives of engaged learning as providing students with opportunities for practice in unscripted, authentic settings, where stakeholders (including the students themselves) are invested in the outcome.” This MSC component can be challenging to craft, and carries additional importance because it separates MSC from traditional online learning platforms. Student authors should work closely with their faculty advisor(s) to develop this component.
+According to the (link: http://www.crlt.umich.edu/category/tags/no-parent/engaged-learning text: Center for Research on Learning and Teaching), “U-M’s working definition conceives of engaged learning as providing students with opportunities for practice in unscripted, authentic settings, where stakeholders (including the students themselves) are invested in the outcome.” This MSC component can be challenging to craft, and carries additional importance because it separates MSC from traditional online learning platforms. Student authors should work closely with their faculty advisor(s) to develop this component.
 
 It is often helpful to use a backwards design approach. Rather than starting by identifying an activity to do, start by asking, ‘What should students know or be able to do as a result of using this case?’ Once the learning objectives have been identified, design an activity to reach those goals.
 
