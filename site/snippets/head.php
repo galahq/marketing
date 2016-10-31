@@ -9,6 +9,7 @@
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
   <?php echo css('assets/css/main.css') ?>
+  <?php echo css('assets/css/print.css', 'print') ?>
   <link rel="icon"
       type="image/png"
       href="https://msc-public.imgix.net/msc-favicon.png" />
@@ -18,7 +19,8 @@
   <?php echo js(array(
                         'assets/js/jquery-3.1.0.js',
                         'assets/js/vendor/jquery.easing.min.js',
-                        'assets/js/menu-mobile.js'
+                        'assets/js/menu-mobile.js',
+                        'assets/js/print.js'
                       )) ?>
 
 </head>

@@ -1,0 +1,115 @@
+@charset 'utf-8';
+
+@import 'abstracts/variables';
+@import 'vendor/breakpoint';
+@import 'abstracts/mixins';
+
+@import 'base/normalize';
+@import 'base/site';
+@import 'base/image';
+@import 'base/typography';
+
+@import 'layout/navigation';
+@import 'layout/flexbox';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/list';
+
+@import 'components/button';
+@import 'components/toc';
+@import 'components/breadcrumb';
+@import 'components/gala';
+
+@import 'pages/home';
+@import 'pages/elementparent';
+@import 'pages/actionparent';
+@import 'pages/visionparent';
+@import 'pages/child';
+@import 'pages/timeline';
+@import 'pages/guide';
+@import 'pages/printproductionguide';
+@import 'pages/team';
+
+
+body {
+  font-size: 10pt;
+  line-height: 1.3em;
+  counter-reset: chapter;
+}
+
+@page {
+  margin: .75in 1.5in;
+}
+
+.production-guide-logo  {
+  margin: 1in auto;
+  width: 4in;
+  display: block;
+}
+
+.u-print__title {
+  display: block;
+  text-align: center;
+  margin-top: 2in;
+  page-break-before: avoid;
+}
+
+.u-print__date {
+  text-align: center;
+  page-break-after: always;
+}
+
+article {
+  counter-reset: section;
+  & > h1 {
+    page-break-before: always;
+    margin-top: 2in;
+    font-size: 18pt;
+    &::before {
+      counter-increment: chapter;
+      content: counter(chapter) ". ";
+    }
+  }
+}
+
+section {
+  & > h1 {
+    margin-top: 0.5in;
+    font-size: 16pt;
+    font-family: $heading-default;
+    font-style: normal;
+    font-weight: normal;
+
+    &::before {
+      counter-increment: section;
+      content: counter(chapter) "." counter(section) ". ";
+    }
+  }
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  page-break-after: avoid;
+}
+
+h2 {
+  margin-top: 0.25in;
+  font-size: 13pt;
+}
+
+.main ol {
+  margin: 0 0 0 0.25in;
+}
+
+.main ol li { margin: 1em 0;}
+.main ol li ol li { margin: 0.5em 0;}
+
+table, li {
+  page-break-inside: avoid;
+}
+
+a {
+  border: 0 !important;
+  color: $darkgrey !important;
+  &:not([href^="#"]):after{content:" (" attr(href) ") ";}
+}
