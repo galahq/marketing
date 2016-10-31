@@ -2004,7 +2004,7 @@ body {
   counter-reset: chapter; }
 
 @page {
-  margin: .75in 1.5in; }
+  margin: 0.75in 1.5in; }
 .production-guide-logo {
   margin: 1in auto;
   width: 4in;
