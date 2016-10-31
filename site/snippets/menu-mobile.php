@@ -38,10 +38,16 @@
 
       <ul class="c-nest-menu__secondlevel">
 
+        <li>
+          <a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"
+             class="<?php e($pages->find('action')->find('make')->find('production-guide')->isOpen(), 'active') ?>" >
+             Production Guide
+          </a>
+        </li>
+
         <?php $resources = [
-          $pages->find('action')->find('teach')->find('evaluation'),
-          $pages->find('action')->find('make')->find('production-guide'),
           $pages->find('action')->find('make')->find('proposal'),
+          $pages->find('action')->find('teach')->find('evaluation'),
           $pages->find('contact')
         ];
 
