@@ -12,7 +12,7 @@ The story should be cohesive, and the text broken into sections with clear secti
 (imgix:narrative-instruction.png alt:narrative instruction)
 
 ###Length 
-There are no restrictions on the length of the case narrative. It should only be long enough to fully convey the complexity of the decision.
+There are no restrictions on the length of the case narrative. It should only be long enough to fully convey the complexity of the decision. Note that MSCs are intended to be "living cases", and can be updated later as events unfold.
 
 ###Point of view
 We encourage the use of third person past tense. Example: “Mr. Smith considered his options. If he approved the proposal, it would mean higher electric bills for his customers.” Some cases make use of first person point of view and/or present tense, although these choices are less common and may pose additional writing challenges. Do not use second person point of view.
