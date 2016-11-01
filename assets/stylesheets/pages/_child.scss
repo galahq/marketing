@@ -192,6 +192,14 @@ audio {
       margin-bottom: 1em;
     }
   }
+
+  table {
+      border: solid 1px $white;
+
+      th {
+        padding-left: 1em;
+      }
+  }
 }
 
 #teach {

@@ -1508,6 +1508,10 @@ audio {
   #make .call-to-action .c-button {
     margin-top: 1em;
     margin-bottom: 1em; }
+#make table {
+  border: solid 1px white; }
+  #make table th {
+    padding-left: 1em; }
 
 #teach iframe {
   width: 100%;
