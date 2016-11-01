@@ -19,7 +19,13 @@ For each case component, use the following naming conventions for files:
 - Teaching Guide: <code>slug_date_teaching_guide</code>
 - Engaged learning exercise: <code>slug_date_learning_ex1</code> (or 2, 3, …)
 
-*The “slug” is a unique identifier of your case.
+For audio files:
+- Podcast: <code>slug_date_int_lastnamefirstname</code> (interview files)
+- <code>slug_date_vo_lastnamefirstname</code> (voice overs)
+- <code>slug_date_description</code> (ambient sounds or other clips)
+- Edgenotes: <code>slug_date_edgenotetype_title or identifier</code>
+
+*The “slug” is a unique identifier for your case.
 
 The date should appear as <code>YYYYMMDD</code>. Edited files will be returned to the Review Dropbox folder with <code>_MSCreview</code> appended to the file name.
 
