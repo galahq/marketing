@@ -1908,7 +1908,8 @@ audio {
     margin-top: 0; }
 
 .o-guide__print__button {
-  text-transform: none; }
+  text-transform: none;
+  letter-spacing: normal; }
   .o-guide__print__button:hover {
     color: white !important; }
 

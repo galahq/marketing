@@ -9,7 +9,7 @@ The cover page is the first page to appear on the learning platform when someone
 (imgix: instruction-cover-page.png alt: cover page instruction)
 
 ##Requirements
-*Please note: Once you are ready to submit your work, use this (file: msc_cover_template.docx text: cover page template) to input your content.*
+*Please note: Once you are ready to submit your work, use this (link: https://s3-us-west-2.amazonaws.com/msc-public/msc_cover_template.docx text: cover page template) to input your content.*
 
 1. ###Title
 An MSC title consists of three components:

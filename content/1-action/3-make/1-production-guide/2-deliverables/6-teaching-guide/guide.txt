@@ -7,7 +7,7 @@ Text:
 The teaching guide outlines best practices for use of the case, details the opportunities available to adapt the case for different audiences, and provides the tools needed by instructors to evaluate their students. Any instructor who picks it up should be able to teach the case without involving the case authors. It is only visible to instructors (e.g. professors).
 
 ##Requirements
-*Please note: Once you are ready to submit your work, use this (file: msc_teachingguide_template.docx text: teaching guide template) to input your content.*
+*Please note: Once you are ready to submit your work, use this (link: https://s3-us-west-2.amazonaws.com/msc-public/msc_teachingguide_template.docx text: teaching guide template) to input your content.*
 
 1. ###Case overview
 A short summary of the case.

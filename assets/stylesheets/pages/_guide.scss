@@ -112,7 +112,8 @@
 
 .o-guide__print__button {
   text-transform: none;
-  
+  letter-spacing: normal;
+
   &:hover {
     color: $white !important;
   }

@@ -19,10 +19,9 @@ For each case component, use the following naming conventions for files:
 - Teaching Guide: <code>slug_date_teaching_guide</code>
 - Engaged learning exercise: <code>slug_date_learning_ex1</code> (or 2, 3, …)
 
-*The “slug” is the desired URL title for your case on MSC’s learning platform.  A URL slug is the exact address of a specific page or post on your site.
-(imgix: slug.png alt: screenshot for slug review dropbox caption: Example slug)
+*The “slug” is a unique identifier of your case.
 
-The date should appear as MMDDYY. Edited files will be returned to the Review Dropbox folder with <code>_MSCreview</code> appended to the file name.
+The date should appear as <code>YYYYMMDD</code>. Edited files will be returned to the Review Dropbox folder with <code>_MSCreview</code> appended to the file name.
 
 ##Turnaround time
 Allow 2-4 weeks for editing and return of submitted materials.
