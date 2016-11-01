@@ -4,7 +4,9 @@ Title: Edgenotes
 
 Text: 
 
-Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case. These   materials aim to enhance the learning experience by curating the most relevant content available. Edgenotes appear alongside the narrative text as thumbnail images. When a user clicks on an Edgenote, its full content appears on the screen. Examples of how Edgenotes look before and after clicking are given below.
+Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case. These   materials aim to enhance the learning experience by curating the most relevant content available. (link: http://www.lib.umich.edu/askwith-media-library text:Askwith Media Library) has partnered with MSC to help case makers find authoritative, captivating material for Edgenotes.
+
+Edgenotes appear alongside the narrative text as thumbnail images. When a user clicks on an Edgenote, its full content appears on the screen. Examples of how Edgenotes look before and after clicking are given below.
 
 For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: aside, audio, graphic, link, photo, quote, report, or video. Please refer to the sections below for a detailed list of requirements for each Edgenote type. Demo screenshots are included to help you understand each element.
 
