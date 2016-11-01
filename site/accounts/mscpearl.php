@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - action/make
   - community
   - action/make/production-guide/deliverables/podcast
   - action/make/production-guide/deliverables/edgenotes
   - msc/team
-  - action/make/production-guide/deliverables/teaching-guide

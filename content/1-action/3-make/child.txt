@@ -6,11 +6,11 @@ Tagline: Student-driven partnerships with faculty and practitioners.
 
 ----
 
-Description:
+Description: 
 
 ----
 
-Text:
+Text: 
 
 (imgix:make-interview.jpg alt:doing interview class:o-image--floatright size:400)
 *Learning by Doing* is the cornerstone of MSC. Students often take the lead, designing MSCs with future students in mind, while benefiting from productive partnerships with professors, practitioners, and media specialists.  Through the process they become better analysts, better advocates, and better at adapting fast to professional challenges involving networking, communication and interpretation of complex information.
@@ -39,51 +39,51 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 ----
 
-Wbg: <p class="blank">&nbsp;</p>
+Wbg: 
+
+<div class="call-to-action">
+MAKE A CASE<br>
+<a class="c-button" href="make/production-guide">Production Guide</a><br>
+FUNDING AVAILABLE<br>
+<a class="c-button" href="make/proposal">Submit a Proposal</a>
+</div>
 
 ----
 
-Timeline:
+Timeline: 
 
 ----
 
-Feature:
+Feature: 
 
 ----
 
-Featuring:
+Featuring: 
 
 ----
 
-Featureimg:
+Featureimg: 
 
 ----
 
-Umschools:
+Umschools: 
 
 ----
 
-Umunits:
+Umunits: 
 
 ----
 
-Otherpartners:
+Otherpartners: 
 
 ----
 
-Elementexamples:
+Elementexamples: 
 
--
-  background: >
-    https://msc-public.imgix.net/msc-production-guide.jpg?w=1000
-  foreground: '<a href="https://docs.google.com/viewerng/viewer?url=https://s3-us-west-2.amazonaws.com/msc-public/msc-production-guide.pdf"><img src="https://msc-public.imgix.net/download-button.png" alt="download" class="download-button"></a>'
-  description: |
-    So, you want to make a case? That’s great!
+----
 
-    For step-by-step guide overview, take a look at our Production Guide.
+Coremembers: 
 
-    <div class="call-to-action">
-    MAKE A CASE<br>
-    FUNDING AVAILABLE<br>
-    <a class="c-button" href="make/proposal">Submit a Proposal</a>
-    </div>
+----
+
+Othermembers: 

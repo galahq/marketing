@@ -1551,32 +1551,12 @@ audio {
   @media (max-width: 768px) {
     #make .video iframe {
       height: 300px; } }
-#make .blank {
-  display: none; }
-#make .u-element-examples .u-element-examples__figures {
-  background-size: cover;
-  border: solid 4px #F9F8F2;
-  margin-right: 0; }
-  #make .u-element-examples .u-element-examples__figures img {
-    width: 15em;
-    margin: 0 auto; }
-#make .u-element-examples div {
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: reverse;
-  -ms-flex-direction: row-reverse;
-  flex-direction: row-reverse;
-  margin-right: 1em; }
-  @media screen and (max-width: 600px) {
-    #make .u-element-examples div {
-      margin-right: 0; } }
-#make .u-element-examples .call-to-action {
+#make .call-to-action {
   text-align: center;
-  background: #F9F8F2;
-  padding: 1.8em 0;
-  border-radius: 3px;
   letter-spacing: 0.05em; }
-  #make .u-element-examples .call-to-action .c-button {
-    margin-top: 0.7em; }
+  #make .call-to-action .c-button {
+    margin-top: 1em;
+    margin-bottom: 1em; }
 
 #teach iframe {
   width: 100%;
