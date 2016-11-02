@@ -1867,7 +1867,7 @@ audio {
     color: white !important; }
 
 .table {
-  overflow: scroll; }
+  overflow: auto; }
 
 table {
   display: block;
