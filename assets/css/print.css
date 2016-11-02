@@ -867,7 +867,9 @@ h1 a, h2 a, h3 a, h4 a {
         margin-bottom: 0.8em; }
   .footer__menu a {
     display: block;
-    color: #ebeae4; }
+    color: #ebeae4;
+    line-height: 120%;
+    margin-top: 0.8em; }
     .footer__menu a:hover {
       color: #E6C64C;
       text-decoration: none; }

@@ -33,6 +33,8 @@
   &__menu a {
     display: block;
     color: $offwhite;
+    line-height: 120%;
+    margin-top: 0.8em;
 
     &:hover {
       color: $yellow;
