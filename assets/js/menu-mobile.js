@@ -43,4 +43,11 @@ $(document).ready(function(){
   $(document).keydown( function(e) {
     if (e.which === 27) { closeMenu(); }
   });
+
+  //swipe left to close
+  $(".c-menu-mobile").on("swipeleft",function(){
+    $("nav.c-menu-mobile").animate({ left: "-100%"}, 200, "easeInCubic", function() { $(this).hide() });
+    $(".u-content-mask").fadeOut();
+    $("body").off("wheel touchmove");
+  });
 });

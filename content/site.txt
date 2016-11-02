@@ -6,11 +6,11 @@ Author: The MSC Team
 
 ----
 
-Description: Introducing a new way of teaching and learning in the sustainability field.
+Description: Introducing a new way of teaching and learning in the sustainability field by reimagining the case-based approach with multimedia Edgenotes, podcasts, and hands-on exercises.
 
 ----
 
-Keywords: MSC, Michigan, Sustainability, Cases, Teaching, Learning, Innovation.
+Keywords: MSC, Michigan, Sustainability, Cases, Teaching, Learning Innovation, Case Studies, Environmental Cases.
 
 ----
 
@@ -18,4 +18,4 @@ Copyright: © 2016 The Regents of the University of Michigan
 
 ----
 
-Logo:
+Logo: (imgix: logo.png)
