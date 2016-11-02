@@ -5,8 +5,18 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
-  <meta name="description" content="<?php echo $site->description()->html() ?>">
-  <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
+
+  <?php if($page->description() != ''): ?>
+    <meta name="description" content="<?php echo $page->description()->html() ?>" />
+    <?php else: ?>
+    <meta name="description" content="<?php echo $site->description()->html() ?>" />
+  <?php endif ?>
+
+  <?php if($page->keywords() != ''): ?>
+    <meta name="keywords" content="<?php echo $page->keywords()->html() ?>" />
+    <?php else: ?>
+    <meta name="keywords" content="<?php echo $site->keywords()->html() ?>" />
+  <?php endif ?>
 
   <?php echo css('assets/css/main.css') ?>
   <?php echo css('assets/css/print.css', 'print') ?>
