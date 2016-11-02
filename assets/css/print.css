@@ -855,7 +855,12 @@ h1 a, h2 a, h3 a, h4 a {
     justify-content: space-between; }
     .footer__flexcontainer .footer__flexitem {
       color: #9c9c9c;
-      text-align: center; }
+      text-align: center;
+      -webkit-box-flex: 1;
+      -moz-box-flex: 1;
+      -webkit-flex: 1;
+      -ms-flex: 1;
+      flex: 1; }
       .footer__flexcontainer .footer__flexitem li {
         list-style: none; }
       .footer__flexcontainer .footer__flexitem h4 {

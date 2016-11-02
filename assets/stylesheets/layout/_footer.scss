@@ -18,6 +18,7 @@
     .footer__flexitem {
       color: $ltgrey;
       text-align: center;
+      @include flex(1);
 
       li {
         list-style: none;
