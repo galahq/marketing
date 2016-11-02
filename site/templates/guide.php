@@ -7,9 +7,9 @@
 
 <main class="main" role="main">
 
-  <div class="o-flex-container t-site">
+  <div class="t-site u-clearfix">
 
-    <nav class="o-guide__nav o-flex-item-growing">
+    <nav class="o-guide__nav">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
       <ul class="c-nest-menu__firstlevel">
         <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
@@ -38,7 +38,7 @@
       </ul>
     </nav>
 
-    <article class="o-guide__content o-flex-item-growing">
+    <article class="o-guide__content">
       <h1><?php echo html($page->title()) ?></h1>
 
       <?php if($page->text() == ''):?>

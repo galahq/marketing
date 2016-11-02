@@ -17,9 +17,11 @@
 }
 
 .o-guide__nav {
-  @include flex(1);
   margin-right: 2.5em;
   margin-bottom: 2em;
+  max-width: 18em;
+  width: 30%;
+  position: fixed;
 
   @media screen and (max-width: 532px) {
     margin: 0 auto;
@@ -97,9 +99,10 @@
 }
 
 .o-guide__content {
-  @include flex(2.5);
   min-width: 20em;
   margin-bottom: 2em;
+  width: 65%;
+  float: right;
 
   @media screen and (max-width: 532px) {
     margin-top: 1.5em;
