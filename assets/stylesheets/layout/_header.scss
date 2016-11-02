@@ -23,6 +23,10 @@
 
     img{
        width: 20em;
+       @media screen and (max-width: 920px) and (min-width: 768px){
+         width: 13em;
+         margin-top: 0.25em;
+       }
      }
 
      @include breakpoint($mq-small) {
