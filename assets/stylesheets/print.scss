@@ -112,3 +112,7 @@ a {
   color: $darkgrey !important;
   &:not([href^="#"]):after{content:" (" attr(href) ") ";}
 }
+
+.t-blog ol {
+  margin-left: 4em;
+}
