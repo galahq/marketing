@@ -43,4 +43,9 @@ $(document).ready(function(){
   $(document).keydown( function(e) {
     if (e.which === 27) { closeMenu(); }
   });
+
+  /*swipe left to close
+  $("nav").on("swipeleft",function(){
+    closeMenu();
+  });*/
 });
