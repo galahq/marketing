@@ -2048,4 +2048,7 @@ a {
   a:not([href^="#"]):after {
     content: " (" attr(href) ") "; }
 
+.t-blog ol {
+  margin-left: 4em; }
+
 /*# sourceMappingURL=print.css.map */
