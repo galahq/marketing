@@ -53,6 +53,10 @@
 
       <?php endif ?>
 
+      <?php if(!$page->hasChildren()):?>
+        <p style="text-align:right; padding-top: 1em;"><a href="<?php echo $page->next()->url()?>">Next Chapter: <?php echo $page->next()->title()?> ›</a></p>
+      <?php endif ?>
+
     </article>
 
   </div>
