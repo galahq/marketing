@@ -194,11 +194,9 @@ audio {
   }
 
   table {
-      border: solid 1px $white;
-
-      th {
-        padding-left: 1em;
-      }
+    th {
+      text-align: center;
+    }
   }
 }
 
