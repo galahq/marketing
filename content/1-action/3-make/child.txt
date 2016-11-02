@@ -41,6 +41,25 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 Wbg: 
 
+Ready to produce a case? That's great! 
+
+Every case is produced by a group of students, faculty, and practitioners. The following table lists some benefits for each of these producers.
+
+<div class="table">
+<table>
+  <tr>
+    <th>Students</th>
+    <th>Faculty</th>
+    <th>Practitioners</th>
+  </tr>
+  <tr>
+    <td><ul><li>Co-authorship with professionals</li><li>Communications skills</li><li>Multimedia production and design skills</li><li>Mentorship on career trajectory</li></ul></td>
+    <td><ul><li>Turning inspiration into a real teaching material</li><li>Capture teaching moment</li><li>Make impact</li><li>Connect research to real world practice</li></ul></td>
+    <td><ul><li>Have voice heard</li><li>Include unheard voice into the articulation of a real issue</li><li>Produce material for staff training</li><li>Circulate broader processes</li></ul></td>
+  </tr>
+</table>
+</div>
+
 <div class="call-to-action">
 MAKE A CASE<br>
 <a class="c-button" href="make/production-guide">Production Guide</a><br>
