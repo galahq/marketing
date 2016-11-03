@@ -84,8 +84,10 @@
 
     <div class="t-site">
       <div class="hero__text">
-        <h1><?php echo $page->pagetagline() ?></h1>
-        <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
+        <?php if($page->pagetagline()->isNotEmpty()) { ?>
+          <h1><?php echo $page->pagetagline() ?></h1>
+          <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
+        <?php } ?>
       </div>
       </div>
     </section>

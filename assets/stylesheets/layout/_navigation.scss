@@ -44,8 +44,6 @@
   letter-spacing: 0.05em;
 
   ul {
-    display: inline-block;
-    list-style: none;
     font-size: 0.7em;
   }
 
@@ -196,5 +194,22 @@
     li a {
       padding-left: 4em;
     }
+  }
+}
+
+//Menu for conference type pages
+.c-conference__menu {
+  ul li {
+    display: inline-block;
+    list-style: none;
+    font-size: 0.7em;
+
+    a {
+      border-bottom: none;
+    }
+  }
+
+  h5 {
+    float: left;
   }
 }

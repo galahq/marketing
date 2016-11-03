@@ -577,8 +577,6 @@ h1 a, h2 a, h3 a, h4 a {
   text-transform: uppercase;
   letter-spacing: 0.05em; }
   .c-submenu__item ul {
-    display: inline-block;
-    list-style: none;
     font-size: 0.7em; }
   .c-submenu__item li {
     display: inline-block;
@@ -687,6 +685,15 @@ h1 a, h2 a, h3 a, h4 a {
   margin-bottom: 0 !important; }
   .c-nest-menu__thirdlevel li a {
     padding-left: 4em; }
+
+.c-conference__menu ul li {
+  display: inline-block;
+  list-style: none;
+  font-size: 0.7em; }
+  .c-conference__menu ul li a {
+    border-bottom: none; }
+.c-conference__menu h5 {
+  float: left; }
 
 .o-flex-container {
   display: -webkit-box;
