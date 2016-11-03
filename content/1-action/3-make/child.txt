@@ -19,7 +19,7 @@ Text:
 
 At the same time, we support our case teams as they publish the cases in scientific journals of their choice. We also offer "fast track" partnerships that offer outlets for cases to appear quickly in peer reviewed journals with links to professional education networks in Business, Engineering and Environmental Studies. The journals include World Development Perspectives (Elsevier), Engineering and Environmental Science and Sustainability: the Journal of Record (Mary Ann Liebert, Inc. Publishers). Through these platforms cases gain more visibility and more critical engagement.
 
-(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwinni Chatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases)
+(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwini Chhatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases)
 
 ----
 
@@ -43,7 +43,7 @@ Wbg:
 
 Ready to produce a case? That's great! 
 
-Every case is produced by a group of students, faculty, and practitioners. The following table lists some benefits for each of these producers.
+Every case is produced by a team of students, faculty, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
 
 <div class="table">
 <table>
