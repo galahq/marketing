@@ -54,8 +54,8 @@ Every case is produced by a team of students, faculty, and practitioners. Each t
   </tr>
   <tr>
     <td><ul><li>Co-author with professionals</li><li>Enhance communication skills</li><li>Cultivate multimedia production and design skills</li><li>Gain mentorship on career trajectory</li></ul></td>
-    <td><ul><li>Turn inspiration from world events into practical teaching materials</li><li>Bring visibility to underserved issues</li><li>Connect research to real-world practice</li></ul></td>
-    <td><ul><li>Have voice heard</li><li>Produce materials for staff training</li><li>Circulate broader processes</li></ul></td>
+    <td><ul><li>Turn inspiration from world events into practical teaching materials</li><li>Bring visibility to overlooked issues</li><li>Connect research to real-world practice</li></ul></td>
+    <td><ul><li>Add a voice not otherwise heard</li><li>Produce materials for staff training</li><li>Shape the next generation of sustainability leaders</li><li>Circulate broader processes</li></ul></td>
   </tr>
 </table>
 </div>
