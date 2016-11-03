@@ -700,6 +700,8 @@ h1 a, h2 a, h3 a, h4 a {
     list-style: none;
     font-size: 0.8em;
     flex: 1; }
+    .c-conference__menu ul li .active {
+      color: white !important; }
     .c-conference__menu ul li a {
       border-bottom: none;
       color: #4a3524; }
@@ -1960,6 +1962,9 @@ code {
   .o-member__flexitem__title h5 {
     font-weight: 400;
     line-height: 115%; }
+
+.conference .c-breadcrumb--partial {
+  display: none; }
 
 .footer {
   background-color: #02284b;

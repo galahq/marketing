@@ -218,9 +218,15 @@
     font-size: 0.8em;
     flex: 1;
 
+    .active {
+      color: $white !important;
+    }
+
     a {
       border-bottom: none;
       color: darken($brown, 30%);
+
+
     }
   }
 
