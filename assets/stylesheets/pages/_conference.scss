@@ -1,9 +1,93 @@
 .conference {
-  .c-breadcrumb--partial {
+  .c-breadcrumb {
+    display: none;
+  }
+}
+
+//Menu for conference type pages
+.c-conference__menu {
+  background-color: lighten($brown, 10%);
+  color: darken($brown, 30%);
+  padding-top: 0.5em;
+
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  @include breakpoint ($mq-small) {
     display: none;
   }
 
-  .main {
-    margin: auto;
+  nav {
+    justify-content: space-between;
+
+    a {
+      border-bottom: none;
+    }
   }
+
+  ul {
+    flex: 3;
+    margin-bottom: auto !important;
+  }
+
+  ul li {
+    display: inline-block;
+    list-style: none;
+    font-size: 0.8em;
+    flex: 1;
+
+    .active {
+      color: $white !important;
+    }
+
+    a {
+      color: darken($brown, 30%);
+    }
+  }
+
+  h5 {
+    flex: 1;
+  }
+}
+
+//mobile menu
+.c-conference__menu--mobile {
+  display: none;
+  background-color: lighten($brown, 10%);
+  text-align: center;
+
+  @include breakpoint ($mq-small) {
+    display: block;
+    margin-top: 3.5em;
+  }
+
+  ul li {
+    list-style: none;
+    .active {
+      color: $white !important;
+    }
+    padding: 0.5em 0;
+    border-bottom: solid 1px $ltltgrey;
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  h5 {
+    padding: 1em 0;
+  }
+}
+
+.u-dropdown {
+  cursor: pointer;
+  padding: 0 1em;
+}
+
+.o-dropdown__nav {
+  display: none;
+}
+
+.o-dropdown--show {
+  display:block;
 }

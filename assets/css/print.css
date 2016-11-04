@@ -686,31 +686,6 @@ h1 a, h2 a, h3 a, h4 a {
   .c-nest-menu__thirdlevel li a {
     padding-left: 4em; }
 
-.c-conference__menu {
-  background-color: #bf9a7b;
-  color: #4a3524;
-  padding-top: 0.5em;
-  position: sticky;
-  top: 0;
-  z-index: 100000; }
-  .c-conference__menu nav {
-    justify-content: space-between; }
-  .c-conference__menu ul {
-    flex: 3;
-    margin-bottom: auto !important; }
-  .c-conference__menu ul li {
-    display: inline-block;
-    list-style: none;
-    font-size: 0.8em;
-    flex: 1; }
-    .c-conference__menu ul li .active {
-      color: white !important; }
-    .c-conference__menu ul li a {
-      border-bottom: none;
-      color: #4a3524; }
-  .c-conference__menu h5 {
-    flex: 1; }
-
 .o-flex-container {
   display: -webkit-box;
   display: -ms-flexbox;
