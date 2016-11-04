@@ -1967,6 +1967,8 @@ code {
 
 .conference .c-breadcrumb--partial {
   display: none; }
+.conference .main {
+  margin: auto; }
 
 .footer {
   background-color: #02284b;
