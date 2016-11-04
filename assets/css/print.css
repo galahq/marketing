@@ -1972,11 +1972,9 @@ tr:nth-child(even) {
 #production-guide .c-breadcrumb--partial {
   display: none; }
 
-.o-guide__breadcrumb {
-  margin-top: -1.5em; }
-  @media (max-width: 768px) {
-    .o-guide__breadcrumb {
-      margin-top: 2em; } }
+@media (max-width: 768px) {
+  .o-guide__breadcrumb {
+    margin-top: 4em; } }
 
 code {
   font-family: monospace, monospace;
