@@ -1,1 +1,11 @@
 Title: Partners
+
+----
+
+Text:
+
+ISB
+
+Harvard
+
+MIT
