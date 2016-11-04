@@ -203,6 +203,10 @@
   color: darken($brown, 30%);
   padding-top: 0.5em;
 
+  position: sticky;
+  top: 0;
+  z-index: 100000;
+
   nav {
     justify-content: space-between;
   }

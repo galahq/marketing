@@ -689,7 +689,10 @@ h1 a, h2 a, h3 a, h4 a {
 .c-conference__menu {
   background-color: #bf9a7b;
   color: #4a3524;
-  padding-top: 0.5em; }
+  padding-top: 0.5em;
+  position: sticky;
+  top: 0;
+  z-index: 100000; }
   .c-conference__menu nav {
     justify-content: space-between; }
   .c-conference__menu ul {
@@ -860,23 +863,23 @@ h1 a, h2 a, h3 a, h4 a {
       .child__hero .hero__text h1 {
         padding-top: 1.2em; } }
 
-.main ol {
+.main ol, .c-conference__menu ol {
   margin-left: 1.5em;
   margin-top: 0.7em;
   margin-bottom: 2em; }
-  .main ol li {
+  .main ol li, .c-conference__menu ol li {
     margin-bottom: 0.7em; }
-    .main ol li p {
+    .main ol li p, .c-conference__menu ol li p {
       margin-bottom: 0; }
-  .main ol ul {
+  .main ol ul, .c-conference__menu ol ul {
     margin-bottom: 0; }
-    .main ol ul li {
+    .main ol ul li, .c-conference__menu ol ul li {
       margin-top: 0.1em;
       margin-bottom: 0.1em; }
-.main ul {
+.main ul, .c-conference__menu ul {
   margin-left: 1.5em;
   margin-bottom: 1em; }
-  .main ul li {
+  .main ul li, .c-conference__menu ul li {
     margin-bottom: 0.6em; }
 
 .t-blog ol {
