@@ -72,7 +72,6 @@
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 400px;
-  margin-top: -1.5em;
 
   &__text {
     text-align: center;
@@ -81,6 +80,7 @@
       padding-top: 7.5em;
       font-weight: 200;
       line-height: 110%;
+      margin: auto;
       margin-bottom: 0.2em;
 
       @include breakpoint ($mq-small){
@@ -97,10 +97,9 @@
 //Child page title and tagline
 .child__hero {
   background: none;
-  margin-top: -2em;
 
   .hero__text h1 {
-    padding-top: 1.7em;
+    padding-top: 1.1em;
     margin-bottom: 0.4em;
 
     @include breakpoint($mq-small) {
