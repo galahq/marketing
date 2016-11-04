@@ -26,12 +26,6 @@
 
   <script src="https://use.typekit.net/fxq4rje.js"></script>
   <script>try{Typekit.load({ async: true  });}catch(e){}</script>
-  <?php echo js(array(
-                        'assets/js/jquery-3.1.0.js',
-                        'assets/js/vendor/jquery.easing.min.js',
-                        'assets/js/menu-mobile.js',
-                        'assets/js/print.js'
-                      )) ?>
 
 </head>
 <body class="<?php echo str_replace('.', '-', $page->template()) ?>" id="<?php echo $page->uid() ?>">
