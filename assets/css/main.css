@@ -1973,7 +1973,10 @@ code {
 .c-conference__menu--mobile {
   display: none;
   background-color: #bf9a7b;
-  text-align: center; }
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100; }
   @media (max-width: 768px) {
     .c-conference__menu--mobile {
       display: block;

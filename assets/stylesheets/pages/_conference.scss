@@ -56,6 +56,9 @@
   display: none;
   background-color: lighten($brown, 10%);
   text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 
   @include breakpoint ($mq-small) {
     display: block;
