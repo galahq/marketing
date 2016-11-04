@@ -19,7 +19,7 @@ Text:
 
 At the same time, we support our case teams as they publish the cases in scientific journals of their choice. We also offer "fast track" partnerships that offer outlets for cases to appear quickly in peer reviewed journals with links to professional education networks in Business, Engineering and Environmental Studies. The journals include World Development Perspectives (Elsevier), Engineering and Environmental Science and Sustainability: the Journal of Record (Mary Ann Liebert, Inc. Publishers). Through these platforms cases gain more visibility and more critical engagement.
 
-(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwinni Chatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases)
+(youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwini Chhatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases.)
 
 ----
 
@@ -43,7 +43,7 @@ Wbg:
 
 Ready to produce a case? That's great! 
 
-Every case is produced by a group of students, faculty, and practitioners. The following table lists some benefits for each of these producers.
+Every case is produced by a team of students, faculty, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
 
 <div class="table">
 <table>
@@ -53,9 +53,9 @@ Every case is produced by a group of students, faculty, and practitioners. The f
     <th>Practitioners</th>
   </tr>
   <tr>
-    <td><ul><li>Co-authorship with professionals</li><li>Communications skills</li><li>Multimedia production and design skills</li><li>Mentorship on career trajectory</li></ul></td>
-    <td><ul><li>Turning inspiration into a real teaching material</li><li>Capture teaching moment</li><li>Make impact</li><li>Connect research to real world practice</li></ul></td>
-    <td><ul><li>Have voice heard</li><li>Include unheard voice into the articulation of a real issue</li><li>Produce material for staff training</li><li>Circulate broader processes</li></ul></td>
+    <td><ul><li>Co-author with professionals</li><li>Enhance communication skills</li><li>Cultivate multimedia production and design skills</li><li>Gain mentorship on career trajectory</li></ul></td>
+    <td><ul><li>Turn inspiration from world events into practical teaching materials</li><li>Bring visibility to overlooked issues</li><li>Connect research to real-world practice</li></ul></td>
+    <td><ul><li>Add a voice not otherwise heard</li><li>Produce materials for staff training</li><li>Shape the next generation of sustainability leaders</li><li>Circulate broader processes</li></ul></td>
   </tr>
 </table>
 </div>
