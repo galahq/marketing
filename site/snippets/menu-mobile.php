@@ -8,7 +8,6 @@
 
     <li><a href="<?php echo url() ?>">Home</a></li>
 
-
     <?php foreach($items as $item): ?>
       <?php $children = $item->children();?>
       <li>
@@ -30,8 +29,6 @@
           </ul>
       </li>
     <?php endforeach ?>
-
-
 
     <li>
       <a>Resources</a>
