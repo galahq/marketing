@@ -76,13 +76,13 @@
 
       .c-timeline__date {
         left: auto;
-        right: 119%;
+        right: 121%;
         text-align: right;
       }
 
       .c-timeline__picture {
         left: auto;
-        right: 122%;
+        right: 121%;
       }
     }
   }
@@ -128,7 +128,7 @@
 .c-timeline__date {
   position: absolute;
   width: 100%;
-  left: 119%;
+  left: 121%;
   top: 6px;
   margin-top: 0.6em;
   @include breakpoint($mq-medium){
@@ -139,7 +139,7 @@
 .c-timeline__picture {
   position: absolute;
   width: 100%;
-  left: 122%;
+  left: 121%;
   top: 50px;
 
   @include breakpoint($mq-medium){
