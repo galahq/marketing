@@ -77,7 +77,7 @@ fields:
     label: Timeline
     type: structure
     entry: >
-      {{content}} {{dateofevent}} {{newslink}}
+      {{content}} {{dateofevent}} {{newslink}} {{picture}}
     fields:
       content:
         label: Content
@@ -87,6 +87,9 @@ fields:
         type: text
       newslink:
         label: News link
+        type: text
+      picture:
+        label: Picture
         type: text
   elementexamples:
     label: Examples

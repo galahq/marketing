@@ -37,20 +37,6 @@ Wbg:
 Timeline: 
 
 - 
-  content: |
-    ## The Baltimore case goes to Baltimore
-    On Monday Oct 10, the (link:http://www.learnmsc.org/cases/baltimore-smart-meters#/ text: Baltimore case) is going to be showcased in a networking session during the (link:http://conference.aashe.org/ text: 2016 AASHE meeting). This session will bring the case back to Baltimore and bring together both practitioners and educators to share their experiences and ideas on how this new sustainability education tool can create more environmentally sound and educationally exciting colleges and universities.
-  dateofevent: Oct 2016
-  newslink: ""
-- 
-  icon: ""
-  content: |
-    ##Adaptation in Ethiopia MSC article published
-    Telling the story of how the Ethiopia case came together, *‘A National Adaptation Programme of Action: Ethiopia’s responses to climate change*’ was published in WDP. The article also introduces the various scholars and practitioners who contributed to the podcast.
-  dateofevent: July 2016
-  newslink: >
-    http://www.sciencedirect.com/science/article/pii/S2452292916300856
-- 
   icon: ""
   content: |
     ##First MSC academic article published in WDP
@@ -66,6 +52,21 @@ Timeline:
   dateofevent: June 2016
   newslink: >
     https://www.nobelprize.org/nobel_prizes/peace/laureates/1952/schweitzer-facts.html
+  picture: '(imgix: wolf-case-in-gabon.jpg alt:Wolf case being used in Gabon class:o-image--fullwidth c-timeline__picture)'
+- 
+  icon: ""
+  content: |
+    ##Adaptation in Ethiopia MSC article published
+    Telling the story of how the Ethiopia case came together, *‘A National Adaptation Programme of Action: Ethiopia’s responses to climate change*’ was published in WDP. The article also introduces the various scholars and practitioners who contributed to the podcast.
+  dateofevent: July 2016
+  newslink: >
+    http://www.sciencedirect.com/science/article/pii/S2452292916300856
+- 
+  content: |
+    ## The Baltimore case goes to Baltimore
+    On Monday Oct 10, the (link:http://www.learnmsc.org/cases/baltimore-smart-meters#/ text: Baltimore case) is going to be showcased in a networking session during the (link:http://conference.aashe.org/ text: 2016 AASHE meeting). This session will bring the case back to Baltimore and bring together both practitioners and educators to share their experiences and ideas on how this new sustainability education tool can create more environmentally sound and educationally exciting colleges and universities.
+  dateofevent: Oct 2016
+  newslink: ""
 - 
   icon: ""
   content: |
@@ -97,14 +98,6 @@ Timeline:
 - 
   icon: ""
   content: |
-    ##From an idea to implementation: Pilot cases
-    MSCs have been taught in an undergraduate course on Culture, Environment and Adaptation, and a graduate courses on Non Profit Management Approaches. Several are also being adapted for eventual use in grad courses on Environmental Economics, and Urban Sustainability.  Student discussion groups produced feedback on the first implementation of cases that is shaping their further use in the classroom.
-  date: ""
-  newslink: ""
-  dateofevent: Winter 2016
-- 
-  icon: ""
-  content: |
     ##Resources secured
     The MSC initiative won a 4-year 1.6 million dollar grant to build a case-based curriculum for the sustainability field. The grant was dispersed in January 2016.
   date: ""
@@ -120,6 +113,14 @@ Timeline:
   newslink: >
     http://thirdcentury.umich.edu/michigan-sustainability-cases/
   dateofevent: Summer 2015
+- 
+  icon: ""
+  content: |
+    ##From an idea to implementation: Pilot cases
+    MSCs have been taught in an undergraduate course on Culture, Environment and Adaptation, and a graduate courses on Non Profit Management Approaches. Several are also being adapted for eventual use in grad courses on Environmental Economics, and Urban Sustainability.  Student discussion groups produced feedback on the first implementation of cases that is shaping their further use in the classroom.
+  date: ""
+  newslink: ""
+  dateofevent: Winter 2016
 
 ----
 
@@ -144,3 +145,11 @@ Otherpartners:
 ----
 
 Elementexamples: 
+
+----
+
+Coremembers: 
+
+----
+
+Othermembers: 

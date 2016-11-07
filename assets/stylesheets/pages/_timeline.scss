@@ -131,6 +131,17 @@
   }
 }
 
+.c-timeline__picture {
+  position: absolute;
+  width: 100%;
+  right: 122%;
+  top: 50px;
+
+  @include breakpoint($mq-medium){
+    position: initial;
+  }
+}
+
 .c-timeline__content {
   position: relative;
   background: $white;

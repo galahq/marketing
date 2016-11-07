@@ -1743,6 +1743,15 @@ audio {
     .c-timeline__date {
       position: initial; } }
 
+.c-timeline__picture {
+  position: absolute;
+  width: 100%;
+  right: 122%;
+  top: 50px; }
+  @media (max-width: 1024px) {
+    .c-timeline__picture {
+      position: initial; } }
+
 .c-timeline__content {
   position: relative;
   background: white;

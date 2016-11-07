@@ -6,10 +6,13 @@
         </div> <!-- timeline-img -->
 
         <div class="c-timeline__content">
-          <span class="c-timeline__date"><?php echo $timelineitem->dateofevent() ?></span>
-          <?php echo str_replace('(\\', '(', kirbytext($timelineitem->content())) ?>
+          <?php if($timelineitem->picture()->isNotEmpty()) { ?>
+            <?php echo str_replace('(\\', '(', kirbytext($timelineitem->sortBy($sort='dateofevent', $direction='desc')->picture())) ?>
+          <?php } ?>
+          <span class="c-timeline__date"><?php echo $timelineitem->sortBy($sort='dateofevent', $direction='desc')->dateofevent() ?></span>
+          <?php echo str_replace('(\\', '(', kirbytext($timelineitem->sortBy($sort='dateofevent', $direction='desc')->content())) ?>
           <?php if($timelineitem->newslink()->isNotEmpty()) { ?>
-            <a href="<?php echo $timelineitem->newslink() ?>" class="c-timeline__readmore">Read more ›</a>
+            <a href="<?php echo $timelineitem->sortBy($sort='dateofevent', $direction='desc')->newslink() ?>" class="c-timeline__readmore">Read more ›</a>
           <?php } ?>
         </div> <!-- timeline-content -->
       </div> <!-- timeline-block -->
