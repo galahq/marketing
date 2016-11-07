@@ -39,33 +39,7 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 ----
 
-Wbg: 
-
-Ready to produce a case? That's great! 
-
-Every case is produced by a team of students, faculty, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
-
-<div class="table">
-<table>
-  <tr>
-    <th>Students</th>
-    <th>Faculty</th>
-    <th>Practitioners</th>
-  </tr>
-  <tr>
-    <td><ul><li>Co-author with professionals</li><li>Enhance communication skills</li><li>Cultivate multimedia production and design skills</li><li>Gain mentorship on career trajectory</li></ul></td>
-    <td><ul><li>Turn inspiration from world events into practical teaching materials</li><li>Bring visibility to overlooked issues</li><li>Connect research to real-world practice</li></ul></td>
-    <td><ul><li>Add a voice not otherwise heard</li><li>Produce materials for staff training</li><li>Shape the next generation of sustainability leaders</li><li>Circulate broader processes</li></ul></td>
-  </tr>
-</table>
-</div>
-
-<div class="call-to-action">
-MAKE A CASE<br>
-<a class="c-button" href="make/production-guide">Production Guide</a><br>
-FUNDING AVAILABLE<br>
-<a class="c-button" href="make/proposal">Submit a Proposal</a>
-</div>
+Wbg: <p class="u-blank">&nbsp;</p>
 
 ----
 
@@ -98,6 +72,37 @@ Otherpartners:
 ----
 
 Elementexamples: 
+
+- 
+  background: ""
+  foreground: |
+    Every case is produced by a team of students, faculty, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
+    
+    ###Students
+    - Co-author with professionals
+    - Enhance communication skills
+    - Cultivate multimedia production and design skills
+    - Gain mentorship on career trajectory
+    
+    ###Faculty
+    - Turn inspiration from world events into practical teaching materials
+    - Bring visibility to overlooked issues
+    - Connect research to real-world practice
+    
+    ###Practitioners
+    - Add a voice not otherwise heard
+    - Produce materials for staff training
+    - Shape the next generation of sustainability leaders
+    - Circulate broader processes
+  description: |
+    <div class="call-to-action">
+    &nbsp;<br>
+    MAKE A CASE<br>
+    FUNDING AVAILABLE<br>
+    &nbsp;<br>
+    <a href="make/production-guide">VIEW PRODUCTION GUIDE</a><br>
+    &nbsp;<br>
+    <a class="c-button" href="make/proposal">Submit a Proposal</a></div>
 
 ----
 

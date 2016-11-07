@@ -107,7 +107,7 @@ fields:
         type: text
       foreground:
         label: Foreground
-        type: text
+        type: textarea
       description:
         label: Description
         type: textarea
