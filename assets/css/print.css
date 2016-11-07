@@ -1983,10 +1983,16 @@ code {
   margin-bottom: 1em; }
 
 .o-member__flexitem {
-  flex: 1 1 12em;
+  flex: 0 1 31%;
   padding: 0;
   margin-right: 0.7em;
   position: relative; }
+  @media screen and (max-width: 630px) {
+    .o-member__flexitem {
+      flex: 1 1 47%; } }
+  @media screen and (max-width: 420px) {
+    .o-member__flexitem {
+      flex: 1 1 97%; } }
 
 .o-member__flexitem__title {
   position: absolute;
@@ -1997,7 +2003,7 @@ code {
   @media screen and (max-width: 1300px) {
     .o-member__flexitem__title {
       top: 71%; } }
-  @media screen and (max-width: 416px) {
+  @media screen and (max-width: 420px) {
     .o-member__flexitem__title {
       top: 83%; } }
   .o-member__flexitem__title h4 {
