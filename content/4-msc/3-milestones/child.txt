@@ -74,6 +74,7 @@ Timeline:
     Curricular advisors from diverse sectors gathered to review submitted proposals for potential MSCs, and provide input on which would receive support to help them come to fruition.
   dateofevent: April 2016
   newslink: ""
+  picture: '(imgix:curricular-advisors-meeting-april-2016.jpg alt: first MSC curricular advisors meeting class:o-image--fullwidth c-timeline__picture)'
 - 
   icon: ""
   content: |

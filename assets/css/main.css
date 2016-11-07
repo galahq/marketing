@@ -1700,6 +1700,9 @@ audio {
       left: auto;
       right: 119%;
       text-align: right; }
+    .c-timeline__block:nth-child(even) .c-timeline__content .c-timeline__picture {
+      left: auto;
+      right: 122%; }
 
 .c-timeline__img {
   position: absolute;
@@ -1746,7 +1749,7 @@ audio {
 .c-timeline__picture {
   position: absolute;
   width: 100%;
-  right: 122%;
+  left: 122%;
   top: 50px; }
   @media (max-width: 1024px) {
     .c-timeline__picture {

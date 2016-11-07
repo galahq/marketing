@@ -79,6 +79,11 @@
         right: 119%;
         text-align: right;
       }
+
+      .c-timeline__picture {
+        left: auto;
+        right: 122%;
+      }
     }
   }
 }
@@ -134,7 +139,7 @@
 .c-timeline__picture {
   position: absolute;
   width: 100%;
-  right: 122%;
+  left: 122%;
   top: 50px;
 
   @include breakpoint($mq-medium){
