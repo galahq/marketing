@@ -1700,8 +1700,11 @@ audio {
       border-right-color: white; }
     .c-timeline__block:nth-child(even) .c-timeline__content .c-timeline__date {
       left: auto;
-      right: 119%;
+      right: 121%;
       text-align: right; }
+    .c-timeline__block:nth-child(even) .c-timeline__content .c-timeline__picture {
+      left: auto;
+      right: 121%; }
 
 .c-timeline__img {
   position: absolute;
@@ -1738,11 +1741,20 @@ audio {
 .c-timeline__date {
   position: absolute;
   width: 100%;
-  left: 119%;
+  left: 121%;
   top: 6px;
   margin-top: 0.6em; }
   @media (max-width: 1024px) {
     .c-timeline__date {
+      position: initial; } }
+
+.c-timeline__picture {
+  position: absolute;
+  width: 100%;
+  left: 121%;
+  top: 50px; }
+  @media (max-width: 1024px) {
+    .c-timeline__picture {
       position: initial; } }
 
 .c-timeline__content {
