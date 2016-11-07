@@ -5,7 +5,7 @@ Title: Team
 Text: 
 
 ###Director
-(link:http://www.snre.umich.edu/profile/rebecca_d_hardin_phd text:Rebecca Hardin) — Associate Professor, SNRE
+(link:https://sites.google.com/a/umich.edu/rebecca-hardin text:Rebecca Hardin) — Associate Professor, SNRE
 
 ----
 
@@ -99,11 +99,6 @@ Coremembers:
     ####Patric Conway
     #####Podcast Editor
 - 
-  profilepic: '(imgix: blank_profile_pic.jpg alt:place holder size:374)'
-  nameandtitle: |
-    ####Anil Bhargava
-    #####Evaluation Coordinator
-- 
   profilepic: '(imgix: meg_czerwinski.jpg alt:Meg Czerwinski size:374)'
   nameandtitle: |
     ####Meg Czerwinski
@@ -122,9 +117,10 @@ Othermembers:
 Marie Hooper — Web Interface Consultant
 Kris Steinhoff — Software Architecture Consultant
 Rebecca Rutt — Communications Consultant
+Anil Bhargava — Evaluation Consultant
+Arman Golrokhian — Production Facilitator
 Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
-Arman Golrokhian — Production Facilitator
 
 ### Curricular Advisors
 (link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
