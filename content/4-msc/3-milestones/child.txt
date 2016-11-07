@@ -44,6 +44,8 @@ Timeline:
   dateofevent: June 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300820
+  picture: ""
+  date: 2016-06-28
 - 
   icon: ""
   content: |
@@ -53,6 +55,7 @@ Timeline:
   newslink: >
     https://www.nobelprize.org/nobel_prizes/peace/laureates/1952/schweitzer-facts.html
   picture: '(imgix: wolf-case-in-gabon.jpg alt:Wolf case being used in Gabon class:o-image--fullwidth c-timeline__picture)'
+  date: 2016-06-20
 - 
   icon: ""
   content: |
@@ -61,12 +64,16 @@ Timeline:
   dateofevent: July 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300856
+  picture: ""
+  date: 2016-06-29
 - 
   content: |
     ## The Baltimore case goes to Baltimore
     On Monday Oct 10, the (link:http://www.learnmsc.org/cases/baltimore-smart-meters#/ text: Baltimore case) is going to be showcased in a networking session during the (link:http://conference.aashe.org/ text: 2016 AASHE meeting). This session will bring the case back to Baltimore and bring together both practitioners and educators to share their experiences and ideas on how this new sustainability education tool can create more environmentally sound and educationally exciting colleges and universities.
   dateofevent: Oct 2016
   newslink: ""
+  picture: ""
+  date: 2016-10-10
 - 
   icon: ""
   content: |
@@ -75,6 +82,7 @@ Timeline:
   dateofevent: April 2016
   newslink: ""
   picture: '(imgix:curricular-advisors-meeting-april-2016.jpg alt: first MSC curricular advisors meeting class:o-image--fullwidth c-timeline__picture)'
+  date: 2016-04-20
 - 
   icon: ""
   content: |
@@ -82,6 +90,8 @@ Timeline:
     MSC joined forced with University of Michigan’s Office of (link:http://ai.umich.edu/ text:Academic Innovation), a pioneer in using digitally enhanced tools for better teaching.
   dateofevent: March 2016
   newslink: ""
+  picture: ""
+  date: 2016-03-15
 - 
   icon: ""
   content: |
@@ -89,6 +99,8 @@ Timeline:
     To bring MSC case research to a broader audience, MSC partnered with Elsevier’s (link:http://www.journals.elsevier.com/world-development-perspectives/ text: World Development Perspectives) (WDP) journal. The journal promised to publish one to three MSCs in each issue.
   dateofevent: Feb 2016
   newslink: ""
+  picture: ""
+  date: 2016-02-14
 - 
   icon: ""
   content: |
@@ -96,32 +108,37 @@ Timeline:
     Initial quantitative and qualitative assessments have been conducted in both undergraduate and graduate level classes on the UM campus, as well as during orientation sessions at the UM Biostation in northern Michigan.
   dateofevent: Winter 2016
   newslink: ../action/teach/evaluation
+  picture: ""
+  date: 2016-03-31
 - 
   icon: ""
   content: |
     ##Resources secured
     The MSC initiative won a 4-year 1.6 million dollar grant to build a case-based curriculum for the sustainability field. The grant was dispersed in January 2016.
-  date: ""
+  date: 2015-11-30
   newslink: >
     http://worldclass.umich.edu/projects-receive-engaged-learning-transformation-grants-new-program-announced/
   dateofevent: November 2015
+  picture: ""
 - 
   icon: ""
   content: |
     ##The incubation stage
     Inspired by case-based teaching and the It’s Hot in Here radio show, the MSC team sat down together to put ideas for new, multimodal cases into a project proposal.
-  date: ""
+  date: 2015-08-04
   newslink: >
     http://thirdcentury.umich.edu/michigan-sustainability-cases/
   dateofevent: Summer 2015
+  picture: ""
 - 
   icon: ""
   content: |
     ##From an idea to implementation: Pilot cases
     MSCs have been taught in an undergraduate course on Culture, Environment and Adaptation, and a graduate courses on Non Profit Management Approaches. Several are also being adapted for eventual use in grad courses on Environmental Economics, and Urban Sustainability.  Student discussion groups produced feedback on the first implementation of cases that is shaping their further use in the classroom.
-  date: ""
+  date: 2016-03-30
   newslink: ""
   dateofevent: Winter 2016
+  picture: ""
 
 ----
 
