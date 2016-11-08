@@ -54,7 +54,18 @@
       <?php endif ?>
 
       <?php if(!$page->hasChildren()):?>
-        <p style="text-align:right; padding-top: 1em;"><a href="<?php echo $page->next()->url()?>">Next Chapter: <?php echo $page->next()->title()?> ›</a></p>
+        <p style="text-align:right; padding-top: 1em;">
+          <?php if(!$page->next()): ?> <!--Check if this is the last chapter of this section-->
+            <?php $printpage = $pages->find('action')->find('make')->find('production-guide')->find('print')?>
+            <?php if($page->parent->next()==$printpage): ?> <!--Check if this is the last section-->
+              End
+            <?php else: ?>
+              End of <?php echo $page->parent()->title()?> Section,<br><a href="<?php echo $page->parent()->next()->url()?>">Next Section: <?php echo $page->parent()->next()->title()?> ›</a>
+            <?php endif ?>
+          <?php else: ?>
+            <a href="<?php echo $page->next()->url()?>">Next Chapter: <?php echo $page->next()->title()?> ›</a>
+          <?php endif ?>
+        </p>
       <?php endif ?>
 
     </article>
