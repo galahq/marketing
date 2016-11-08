@@ -1978,6 +1978,11 @@ code {
 
 .conference .c-breadcrumb {
   display: none; }
+@media (max-width: 768px) {
+  .conference .c-header {
+    position: inherit; }
+  .conference .c-button#c-menu-mobile--open {
+    position: absolute; } }
 
 .c-conference__menu {
   background-color: #bf9a7b;
@@ -2011,14 +2016,13 @@ code {
 .c-conference__menu--mobile {
   display: none;
   background-color: #bf9a7b;
-  text-align: center;
-  position: sticky;
-  top: 0;
-  z-index: 100; }
+  text-align: center; }
   @media (max-width: 768px) {
     .c-conference__menu--mobile {
+      position: sticky;
       display: block;
-      margin-top: 3.5em; } }
+      top: 0;
+      z-index: 100; } }
   .c-conference__menu--mobile ul li {
     list-style: none;
     padding: 0.5em 0;

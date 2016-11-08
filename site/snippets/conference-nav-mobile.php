@@ -1,6 +1,6 @@
 <div class="c-conference__menu--mobile">
 <nav class="t-site o-dropdown">
-  <h5><a href="<?php echo $pages->find('community')->find('case-competition')->url() ?>">Global Case Competition</a><a onclick="dropdown()" class="u-dropdown">▼</a></h5>
+  <h5><a href="<?php echo $pages->find('community')->find('case-competition')->url() ?>">Global Case Competition</a><a onclick="dropdown()" class="u-dropdown">▾</a></h5>
   <?php if($page->hasChildren()) : ?>
     <?php $sections = $page->children()->visible() ;?>
     <?php else: ?>

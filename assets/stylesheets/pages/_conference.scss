@@ -2,6 +2,16 @@
   .c-breadcrumb {
     display: none;
   }
+
+  @include breakpoint ($mq-small) {
+    .c-header {
+      position: inherit;
+    }
+
+    .c-button#c-menu-mobile--open {
+      position: absolute;
+    }
+  }
 }
 
 //Menu for conference type pages
@@ -56,13 +66,12 @@
   display: none;
   background-color: lighten($brown, 10%);
   text-align: center;
-  position: sticky;
-  top: 0;
-  z-index: 100;
 
   @include breakpoint ($mq-small) {
+    position: sticky;
     display: block;
-    margin-top: 3.5em;
+    top: 0;
+    z-index: 100;
   }
 
   ul li {
@@ -88,7 +97,7 @@
 }
 
 .o-dropdown__nav {
-  display: none;
+  display:none;
 }
 
 .o-dropdown--show {
