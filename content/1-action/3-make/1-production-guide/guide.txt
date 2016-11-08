@@ -16,3 +16,5 @@ Therefore, as you begin to make your MSC, consider the following:
 - Who might be the audience for this case?
 
 Finally, remember that each MSC is a project that will have a life of its own. You may not always know where you are going, and you make take several turns along the way before coming to the end. That’s OK! Michigan Sustainability Cases staff are here to help you. Enjoy the journey.
+
+(link: action/make/production-guide/process text: Start by learning the process of producing an MSC ›)
