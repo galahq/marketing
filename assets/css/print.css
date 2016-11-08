@@ -1563,10 +1563,30 @@ audio {
   text-align: center;
   letter-spacing: 0.05em; }
   #make .call-to-action .c-button {
-    margin-top: 1em;
+    margin-top: 0.5em;
     margin-bottom: 1em; }
-#make table th {
-  text-align: center; }
+@media (max-width: 768px) {
+  #make .o-flex-container {
+    display: block; } }
+#make .u-element-examples__description {
+  flex: 1;
+  padding-top: 9em;
+  background-color: #F9F8F2;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px;
+  margin-left: 1em; }
+  @media (max-width: 768px) {
+    #make .u-element-examples__description {
+      margin-left: auto;
+      margin-top: 1.5em;
+      padding-top: 0.5em;
+      padding-bottom: 1.3em; } }
+#make .u-element-examples__figures {
+  flex: 2; }
+#make .u-blank {
+  display: none; }
 
 #teach iframe {
   width: 100%;
