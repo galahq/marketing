@@ -76,24 +76,26 @@ Elementexamples:
 - 
   background: ""
   foreground: |
-    Every case is produced by a team of students, faculty, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
+    Every case is produced by a team of students, instructors, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
     
     ###Students
-    - Co-author with professionals
-    - Enhance communication skills
+    - Co-author with senior scholars and professionals
+    - Enhance analytical and communication skills
     - Cultivate multimedia production and design skills
-    - Gain mentorship on career trajectory
+    - Gain mentorship on decision-making and career trajectory
     
-    ###Faculty
-    - Turn inspiration from world events into practical teaching materials
-    - Bring visibility to overlooked issues
-    - Connect research to real-world practice
+    ###Instructors
+    - Make events and emerging concepts teachable moments
+    - Produce curricula you can use, review, and revise
+    - Publish on a fast track in our partner journals
+    - Create powerful connections between research and teaching
     
     ###Practitioners
-    - Add a voice not otherwise heard
-    - Produce materials for staff training
+    - Amplify voices of experience on environmental problems
+    - Capture perspectives not often heard for *real *stories
+    - Produce materials for professional development
     - Shape the next generation of sustainability leaders
-    - Circulate broader processes
+    - Increase the visibility of your work
   description: |
     <div class="call-to-action">
     &nbsp;<br>
