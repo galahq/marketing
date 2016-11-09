@@ -57,17 +57,6 @@ figcaption {
   margin: 0px -100px 0 15px;
 }
 
-//Other case specific image classes
-.u-evaluation__image {
-  max-width: 300px;
-  margin-left: 90px;
-
-  @include breakpoint($mq-small) {
-    float: none;
-    max-width: 60%;
-  }
-}
-
 //Icons, used in Homepage
 .u-icon--inline {
   display: inline-block;
