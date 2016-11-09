@@ -233,6 +233,10 @@ audio {
   }
 }
 
+#chart_div {
+  background: none;
+}
+
 //Elements children page
 #edgenotes {
   .gala-embedded-card h3 {
@@ -396,5 +400,26 @@ audio {
   h3 {
     margin-top: 0.5em;
     margin-bottom: 1em;
+  }
+}
+
+//Evaluation page
+.o-charts {
+  align-items: flex-start;
+  justify-content: space-between;
+
+  @include breakpoint ($mq-small) {
+    justify-content: center;
+  }
+
+  &--float {
+    float: right;
+    margin-left: 1.5em;
+
+    @media screen and (max-width: 641px) {
+      float: none;
+      justify-content: center;
+      margin: 0 auto;
+    }
   }
 }

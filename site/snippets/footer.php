@@ -49,7 +49,6 @@
 
   ga('create', 'UA-85341915-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 <?php echo js(array(
                       'assets/js/jquery-3.1.0.js',
