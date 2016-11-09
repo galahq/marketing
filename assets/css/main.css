@@ -1663,10 +1663,15 @@ audio {
   margin-bottom: 1em; }
 
 .o-charts {
-  align-items: flex-start;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between; }
   @media (max-width: 768px) {
     .o-charts {
+      -webkit-box-pack: center;
+      -moz-box-pack: center;
+      -ms-flex-pack: center;
+      -moz-justify-content: center;
       justify-content: center; } }
   .o-charts--float {
     float: right;
@@ -1674,6 +1679,10 @@ audio {
     @media screen and (max-width: 641px) {
       .o-charts--float {
         float: none;
+        -webkit-box-pack: center;
+        -moz-box-pack: center;
+        -ms-flex-pack: center;
+        -moz-justify-content: center;
         justify-content: center;
         margin: 0 auto; } }
 

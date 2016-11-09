@@ -405,11 +405,10 @@ audio {
 
 //Evaluation page
 .o-charts {
-  align-items: flex-start;
-  justify-content: space-between;
+  @include justify-content-space-between;
 
   @include breakpoint ($mq-small) {
-    justify-content: center;
+    @include justify-content(center);
   }
 
   &--float {
@@ -418,7 +417,7 @@ audio {
 
     @media screen and (max-width: 641px) {
       float: none;
-      justify-content: center;
+      @include justify-content(center);
       margin: 0 auto;
     }
   }
