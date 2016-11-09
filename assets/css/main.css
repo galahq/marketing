@@ -1997,11 +1997,6 @@ code {
 
 .conference .c-breadcrumb {
   display: none; }
-@media (max-width: 768px) {
-  .conference .c-header {
-    position: inherit; }
-  .conference .c-button#c-menu-mobile--open {
-    position: absolute; } }
 
 .c-conference__menu {
   background-color: #bf9a7b;
@@ -2038,10 +2033,11 @@ code {
   text-align: center; }
   @media (max-width: 768px) {
     .c-conference__menu--mobile {
-      position: sticky;
+      position: fixed;
       display: block;
-      top: 0;
-      z-index: 100; } }
+      top: 50;
+      z-index: 100;
+      width: 100%; } }
   .c-conference__menu--mobile ul li {
     list-style: none;
     padding: 0.5em 0;

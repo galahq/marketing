@@ -2,16 +2,6 @@
   .c-breadcrumb {
     display: none;
   }
-
-  @include breakpoint ($mq-small) {
-    .c-header {
-      position: inherit;
-    }
-
-    .c-button#c-menu-mobile--open {
-      position: absolute;
-    }
-  }
 }
 
 //Menu for conference type pages
@@ -68,10 +58,11 @@
   text-align: center;
 
   @include breakpoint ($mq-small) {
-    position: sticky;
+    position: fixed;
     display: block;
-    top: 0;
+    top: 50;
     z-index: 100;
+    width: 100%;
   }
 
   ul li {
