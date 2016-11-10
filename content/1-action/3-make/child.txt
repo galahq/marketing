@@ -76,6 +76,7 @@ Elementexamples:
 - 
   background: ""
   foreground: |
+    ##Who benefits from producing a case?
     Every case is produced by a team of students, instructors, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
     
     ###Students
