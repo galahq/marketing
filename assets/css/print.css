@@ -1882,12 +1882,18 @@ audio {
     display: inline-block;
     float: left; }
 
-.current {
-  color: red; }
+.current a {
+  color: #68bf70; }
 
 .o-timeline-nav {
   position: fixed;
-  top: 150px; }
+  right: 0.5em;
+  top: 150px;
+  font-size: 0.8em; }
+  .o-timeline-nav ul li {
+    list-style: none; }
+    .o-timeline-nav ul li a {
+      border-bottom: none; }
 
 .guide h2 {
   font-size: 1.35em;
