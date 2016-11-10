@@ -1882,6 +1882,13 @@ audio {
     display: inline-block;
     float: left; }
 
+.current {
+  color: red; }
+
+.o-timeline-nav {
+  position: fixed;
+  top: 150px; }
+
 .guide h2 {
   font-size: 1.35em;
   padding-top: 0.5em;

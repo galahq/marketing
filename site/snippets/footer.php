@@ -54,7 +54,9 @@
                       'assets/js/jquery-3.1.0.js',
                       'assets/js/vendor/jquery.easing.min.js',
                       'assets/js/menu-mobile.js',
-                      'assets/js/print.js'
+                      'assets/js/print.js',
+                      'assets/js/vendor/jquery.nav.js',
+                      'assets/js/timeline-nav.js'
                     )) ?>
 </body>
 </html>

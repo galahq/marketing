@@ -77,7 +77,7 @@ fields:
     label: Timeline
     type: structure
     entry: >
-      {{content}} {{dateofevent}} {{newslink}} {{picture}} {{date}}
+      {{content}} {{dateofevent}} {{newslink}} {{picture}} {{date}} {{idfornav}}
     fields:
       content:
         label: Content
@@ -95,6 +95,9 @@ fields:
         label: Date
         type: date
         format: YYYY/MM/DD
+      idfornav:
+        label: ID
+        type: text 
 
   elementexamples:
     label: Examples

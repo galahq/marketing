@@ -41,31 +41,34 @@ Timeline:
   content: |
     ##First MSC academic article published in WDP
     *‘Towards a revolution in sustainability education: Vision, architecture, and assessment in a case-based approach ’* was peer reviewed and published in WDP. The article provides an overview of the MSC project, presenting its core pedagogical theories, expected impact, and initial positive assessment results.
-  dateofevent: June 2016
+  dateofevent: Jun 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300820
   picture: ""
   date: 2016-06-28
+  idfornav: june_2016
 - 
   icon: ""
   content: |
     ##Wolf Wars case translated and taught in Gabon
     In collaboration with the (link:http://thirdcentury.umich.edu/refresch/ text: REFRESCH project), this MSC was (link:http://www.learnmsc.org/fr/cases/mi-wolves#/ text:translated into French) and then ‘taught’ by  a combination of National Park Agency Administrators, University Professors and Vocational High School Instructors at a workshop on the historic grounds of the Nobel Prize winning Albert Schweitzer Hospital in Lambaréné, Gabon.
-  dateofevent: June 2016
+  dateofevent: Jun 2016
   newslink: >
     https://www.nobelprize.org/nobel_prizes/peace/laureates/1952/schweitzer-facts.html
   picture: '(imgix: wolf-case-in-gabon.jpg alt:Wolf case being used in Gabon class:o-image--fullwidth c-timeline__picture)'
   date: 2016-06-20
+  idfornav: ""
 - 
   icon: ""
   content: |
     ##Adaptation in Ethiopia MSC article published
     Telling the story of how the Ethiopia case came together, *‘A National Adaptation Programme of Action: Ethiopia’s responses to climate change*’ was published in WDP. The article also introduces the various scholars and practitioners who contributed to the podcast.
-  dateofevent: July 2016
+  dateofevent: Jul 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300856
   picture: ""
-  date: 2016-06-29
+  date: 2016-07-01
+  idfornav: july_2016
 - 
   content: |
     ## The Baltimore case goes to Baltimore
@@ -74,24 +77,27 @@ Timeline:
   newslink: ""
   picture: ""
   date: 2016-10-10
+  idfornav: oct_2016
 - 
   icon: ""
   content: |
     ##First Curricular Advisors meeting
     Curricular advisors from diverse sectors gathered to review submitted proposals for potential MSCs, and provide input on which would receive support to help them come to fruition.
-  dateofevent: April 2016
+  dateofevent: Apr 2016
   newslink: ""
   picture: '(imgix:curricular-advisors-meeting-april-2016.jpg alt: first MSC curricular advisors meeting class:o-image--fullwidth c-timeline__picture)'
   date: 2016-04-20
+  idfornav: apr_2016
 - 
   icon: ""
   content: |
     ##Partnership for academic innovation
     MSC joined forced with University of Michigan’s Office of (link:http://ai.umich.edu/ text:Academic Innovation), a pioneer in using digitally enhanced tools for better teaching.
-  dateofevent: March 2016
+  dateofevent: Mar 2016
   newslink: ""
   picture: ""
   date: 2016-03-15
+  idfornav: ""
 - 
   icon: ""
   content: |
@@ -101,15 +107,17 @@ Timeline:
   newslink: ""
   picture: ""
   date: 2016-02-14
+  idfornav: feb_2016
 - 
   icon: ""
   content: |
     ##Initial assessment
     Initial quantitative and qualitative assessments have been conducted in both undergraduate and graduate level classes on the UM campus, as well as during orientation sessions at the UM Biostation in northern Michigan.
-  dateofevent: Winter 2016
+  dateofevent: Apr 2016
   newslink: ../action/teach/evaluation
   picture: ""
-  date: 2016-03-31
+  date: 2016-04-02
+  idfornav: ""
 - 
   icon: ""
   content: |
@@ -118,8 +126,9 @@ Timeline:
   date: 2015-11-30
   newslink: >
     http://worldclass.umich.edu/projects-receive-engaged-learning-transformation-grants-new-program-announced/
-  dateofevent: November 2015
+  dateofevent: Nov 2015
   picture: ""
+  idfornav: nov_2015
 - 
   icon: ""
   content: |
@@ -128,8 +137,9 @@ Timeline:
   date: 2015-08-04
   newslink: >
     http://thirdcentury.umich.edu/michigan-sustainability-cases/
-  dateofevent: Summer 2015
+  dateofevent: Aug 2015
   picture: ""
+  idfornav: aug_2015
 - 
   icon: ""
   content: |
@@ -137,8 +147,9 @@ Timeline:
     MSCs have been taught in an undergraduate course on Culture, Environment and Adaptation, and a graduate courses on Non Profit Management Approaches. Several are also being adapted for eventual use in grad courses on Environmental Economics, and Urban Sustainability.  Student discussion groups produced feedback on the first implementation of cases that is shaping their further use in the classroom.
   date: 2016-03-30
   newslink: ""
-  dateofevent: Winter 2016
+  dateofevent: Mar 2016
   picture: ""
+  idfornav: mar_2016
 
 ----
 

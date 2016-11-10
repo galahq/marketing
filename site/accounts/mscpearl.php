@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - msc/milestones
+  - action/make
   - action/make/production-guide
   - action/make/production-guide/perks
   - action/make/production-guide/perks/pedagogical-assessment
-  - action/make/production-guide/perks/promotion
-  - action/make/production-guide/perks/peer-review
