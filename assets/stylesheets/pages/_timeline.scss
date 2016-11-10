@@ -206,11 +206,20 @@
 
 .o-timeline-nav {
   position: fixed;
-  right: 0.5em;
-  top: 150px;
+  top: 200px;
   font-size: 0.8em;
+  z-index: 100;
+  padding-top: 0.7em;
+  padding-right: 0.5em;
+  background: rgba(255,255,255,0.7);
+
+  @media screen and (max-width: 1290px) {
+    font-size: 0.6em;
+  }
 
   ul {
+    margin-left: 0.5em;
+
     li {
       list-style: none;
 

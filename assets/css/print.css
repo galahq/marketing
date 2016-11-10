@@ -1887,13 +1887,21 @@ audio {
 
 .o-timeline-nav {
   position: fixed;
-  right: 0.5em;
-  top: 150px;
-  font-size: 0.8em; }
-  .o-timeline-nav ul li {
-    list-style: none; }
-    .o-timeline-nav ul li a {
-      border-bottom: none; }
+  top: 200px;
+  font-size: 0.8em;
+  z-index: 100;
+  padding-top: 0.7em;
+  padding-right: 0.5em;
+  background: rgba(255, 255, 255, 0.7); }
+  @media screen and (max-width: 1290px) {
+    .o-timeline-nav {
+      font-size: 0.6em; } }
+  .o-timeline-nav ul {
+    margin-left: 0.5em; }
+    .o-timeline-nav ul li {
+      list-style: none; }
+      .o-timeline-nav ul li a {
+        border-bottom: none; }
 
 .guide h2 {
   font-size: 1.35em;
