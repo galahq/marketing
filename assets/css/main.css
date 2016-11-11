@@ -418,7 +418,7 @@ blockquote {
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
-  margin-bottom: 1.5em;
+  margin-bottom: 2.2em;
   border-left: 10px solid #9c9c9c; }
   blockquote::before {
     color: #9c9c9c;
@@ -1506,12 +1506,6 @@ audio {
   @media (max-width: 768px) {
     #make .video iframe {
       height: 300px; } }
-#make .call-to-action {
-  text-align: center;
-  letter-spacing: 0.05em; }
-  #make .call-to-action .c-button {
-    margin-top: 0.5em;
-    margin-bottom: 1em; }
 
 #teach iframe {
   width: 100%;

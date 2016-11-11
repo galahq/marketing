@@ -15,8 +15,6 @@ Text:
 (imgix:make-interview.jpg alt:doing interview class:o-image--floatright size:400)
 *Learning by Doing* is the cornerstone of MSC. Students often take the lead, designing MSCs with future students in mind, while benefiting from productive partnerships with professors, practitioners, and media specialists.  Through the process they become better analysts, better advocates, and better at adapting fast to professional challenges involving networking, communication and interpretation of complex information.
 
->This case was an education. I collaborated with students and faculty across campus and engaged with international practitioners.  I learned about the impact of climate change in African countries and the various kinds of challenges that governments and populations of these countries are facing. I honed my writing and content development skills while creating the case. I gained presentation and facilitation skills by implementing the case in a class. Assessing what worked well in the classroom allowed me to put my statistics and evaluation skills into practice. My  sustained collaboration with colleagues at UNDP led to co-authorship on a journal article, which broadened my professional horizons.  <br><span> &#8212;&#8239;Arman Golrokhian, UM Master's student and author of the Ethiopia National Adaptation case</span>
-
 At the same time, we support our case teams as they publish the cases in scientific journals of their choice. We also offer "fast track" partnerships that offer outlets for cases to appear quickly in peer reviewed journals with links to professional education networks in Business, Engineering and Environmental Studies. The journals include World Development Perspectives (Elsevier), Engineering and Environmental Science and Sustainability: the Journal of Record (Mary Ann Liebert, Inc. Publishers). Through these platforms cases gain more visibility and more critical engagement.
 
 (youtube: https://www.youtube.com/watch?v=DrAxXElK-5M caption:Ashwini Chhatre, Editor in Chief of World Development Perspectives, explains how MSCs are a revolution in the content and form of teaching cases.)
@@ -39,7 +37,40 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 ----
 
-Wbg: <p class="u-blank">&nbsp;</p>
+Wbg: 
+
+##Production team: students, instructors, and practitioners
+Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
+
+###Instructors
+- Make events and emerging concepts teachable moments
+- Produce curricula you can use, review, and revise
+- Publish on a fast track in our partner journals
+- Create powerful connections between research and teaching
+
+###Practitioners
+- Amplify voices of experience on environmental problems
+- Capture perspectives not often heard for *real *stories
+- Produce materials for professional development
+- Shape the next generation of sustainability leaders
+- Increase the visibility of your work
+
+###Students
+- Co-author with senior scholars and professionals
+- Enhance analytical and communication skills
+- Cultivate multimedia production and design skills
+- Gain mentorship on decision-making and career trajectory
+
+>This case was an education. I collaborated with students and faculty across campus and engaged with international practitioners.  I learned about the impact of climate change in African countries and the various kinds of challenges that governments and populations of these countries are facing. I honed my writing and content development skills while creating the case. I gained presentation and facilitation skills by implementing the case in a class. Assessing what worked well in the classroom allowed me to put my statistics and evaluation skills into practice. My  sustained collaboration with colleagues at UNDP led to co-authorship on a journal article, which broadened my professional horizons.  <br><span> &#8212;&#8239;Arman Golrokhian, UM Master's student and author of the Ethiopia National Adaptation case</span>
+
+##Make a case, funding available 
+MSC accepts proposals on a rolling basis, year round, but the MSC curricular advisors meet at least once a semester to review proposals. Therefore your submitted proposals will be reviewed within four months of submission. We will notify you if your proposal is selected.  Funding is available for selected proposals. 
+
+(link: action/make/proposal text: Follow this link to submit your proposal  ›)
+
+Once your proposal is accepted, the MSC team will work with you and guide you through the production process. 
+
+(link: action/make/production-guide text: A detailed production guide can be found here  ›)
 
 ----
 
@@ -72,40 +103,6 @@ Otherpartners:
 ----
 
 Elementexamples: 
-
-- 
-  background: ""
-  foreground: |
-    ##Who benefits from producing a case?
-    Every case is produced by a team of students, instructors, and practitioners. Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
-    
-    ###Students
-    - Co-author with senior scholars and professionals
-    - Enhance analytical and communication skills
-    - Cultivate multimedia production and design skills
-    - Gain mentorship on decision-making and career trajectory
-    
-    ###Instructors
-    - Make events and emerging concepts teachable moments
-    - Produce curricula you can use, review, and revise
-    - Publish on a fast track in our partner journals
-    - Create powerful connections between research and teaching
-    
-    ###Practitioners
-    - Amplify voices of experience on environmental problems
-    - Capture perspectives not often heard for *real *stories
-    - Produce materials for professional development
-    - Shape the next generation of sustainability leaders
-    - Increase the visibility of your work
-  description: |
-    <div class="call-to-action">
-    &nbsp;<br>
-    MAKE A CASE<br>
-    FUNDING AVAILABLE<br>
-    &nbsp;<br>
-    <a href="make/production-guide">VIEW PRODUCTION GUIDE</a><br>
-    &nbsp;<br>
-    <a class="c-button" href="make/proposal">Submit a Proposal</a></div>
 
 ----
 
