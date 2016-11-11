@@ -20,5 +20,4 @@
       <?php } ?>
     </div>
   </section>
-  <?php echo js('assets/js/edgenote.bundle.js'); ?>
 <?php } ?>
