@@ -58,15 +58,31 @@ html {
 
 //Quote
 blockquote {
+  &::before {
+    color: $ltgrey;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
   font-style: italic;
   background-color: $ltltgrey;
-  padding: 1em 0.5em 0.1em 1em;
+  padding: 1.5em 1em 1.5em 2em;
   @include border-radius(5px);
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
+  border-left: 10px solid $ltgrey;
+
+  p {
+    display: inline;
+  }
 
   span {
     font-style: normal;
     font-size: 0.9em;
+    margin-top: 1em;
+    display: block;
+    text-align: right;
   }
 }
 

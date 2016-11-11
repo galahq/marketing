@@ -413,15 +413,28 @@ html {
 blockquote {
   font-style: italic;
   background-color: #ddd;
-  padding: 1em 0.5em 0.1em 1em;
+  padding: 1.5em 1em 1.5em 2em;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
-  margin-bottom: 1em; }
+  margin-bottom: 1.5em;
+  border-left: 10px solid #9c9c9c; }
+  blockquote::before {
+    color: #9c9c9c;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em; }
+  blockquote p {
+    display: inline; }
   blockquote span {
     font-style: normal;
-    font-size: 0.9em; }
+    font-size: 0.9em;
+    margin-top: 1em;
+    display: block;
+    text-align: right; }
 
 .c-separate-text {
   margin-bottom: 1.7em; }
@@ -1499,28 +1512,6 @@ audio {
   #make .call-to-action .c-button {
     margin-top: 0.5em;
     margin-bottom: 1em; }
-@media (max-width: 768px) {
-  #make .o-flex-container {
-    display: block; } }
-#make .u-element-examples__description {
-  flex: 1;
-  padding-top: 10em;
-  background-color: #F9F8F2;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  border-radius: 3px;
-  margin-left: 1em; }
-  @media (max-width: 768px) {
-    #make .u-element-examples__description {
-      margin-left: auto;
-      margin-top: 1.5em;
-      padding-top: 0.5em;
-      padding-bottom: 1.3em; } }
-#make .u-element-examples__figures {
-  flex: 2; }
-#make .u-blank {
-  display: none; }
 
 #teach iframe {
   width: 100%;
