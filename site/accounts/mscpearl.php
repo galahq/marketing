@@ -7,8 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - >
+    action/make/production-guide/deliverables/edgenotes
   - action/make/production-guide/perks
   - action/make/production-guide/deliverables
   - action/make/production-guide/process
   - action/make
-  - action/make/production-guide
