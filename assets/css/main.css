@@ -1828,6 +1828,11 @@ audio {
 .guide h4 {
   font-size: 1em;
   margin-bottom: 0.2em; }
+@media (max-width: 768px) {
+  .guide .c-header {
+    position: absolute; } }
+.guide .c-button#c-menu-mobile--open {
+  position: absolute; }
 
 .o-guide__nav {
   -webkit-box-flex: 1;
