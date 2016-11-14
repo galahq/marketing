@@ -12,7 +12,7 @@
     <nav class="o-guide__nav o-flex-item-growing">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
       <ul class="c-nest-menu__firstlevel">
-        <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>#content"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+        <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>#content" class="<?php e($pages->find('action')->find('make')->find('production-guide')->isOpen()&& !$pages->find('action')->find('make')->find('production-guide')->children()->findOpen(), 'active') ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
         <?php foreach($guideitems as $guideitem) :?>
         <?php $children = $guideitem->children();?>
         <li>
