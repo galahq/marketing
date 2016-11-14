@@ -1895,8 +1895,7 @@ audio {
   min-width: 20em;
   margin-bottom: 2em; }
   .o-guide__content h1 {
-    margin-top: 0;
-    padding-top: 0.5em; }
+    margin-top: 0.45em; }
 
 .o-guide__print__button {
   text-transform: none;
