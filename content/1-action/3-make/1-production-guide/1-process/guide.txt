@@ -2,8 +2,9 @@ Title: Process
 
 ----
 
-Text:
+Text: 
+
 This section describes the logistics of creating an MSC. Click on each link below to learn more.
-- (link: action/make/production-guide/process/production-timeline text: Production Timeline)
-- (link: action/make/production-guide/process/submissions text: Submissions)
-- (link: action/make/production-guide/process/funding-disbursement text: Funding Disbursement)
+- (link: action/make/production-guide/process/production-timeline#content text: Production Timeline)
+- (link: action/make/production-guide/process/submissions#content text: Submissions)
+- (link: action/make/production-guide/process/funding-disbursement#content text: Funding Disbursement)

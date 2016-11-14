@@ -2,12 +2,13 @@ Title: Deliverables
 
 ----
 
-Text:
+Text: 
+
 Click on each link below to learn how to create the different (link: element text:elements) of an MSC.
 
-- (link: action/make/production-guide/deliverables/cover-page text: Cover Page)
-- (link: action/make/production-guide/deliverables/narrative text: Narrative)
-- (link: action/make/production-guide/deliverables/edgenotes text: Edgenotes)
-- (link: action/make/production-guide/deliverables/podcast text: Podcast)
-- (link: action/make/production-guide/deliverables/engaged-learning-exercises text: Engaged Learning Exercise)
-- (link: action/make/production-guide/deliverables/teaching-guide text: Teaching Guide)
+- (link: action/make/production-guide/deliverables/cover-page#content text: Cover Page)
+- (link: action/make/production-guide/deliverables/narrative#content text: Narrative)
+- (link: action/make/production-guide/deliverables/edgenotes#content text: Edgenotes)
+- (link: action/make/production-guide/deliverables/podcast#content text: Podcast)
+- (link: action/make/production-guide/deliverables/engaged-learning-exercises#content text: Engaged Learning Exercise)
+- (link: action/make/production-guide/deliverables/teaching-guide#content text: Teaching Guide)

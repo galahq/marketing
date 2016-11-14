@@ -12,15 +12,15 @@
     <nav class="o-guide__nav o-flex-item-growing">
       <?php $guideitems = $pages->find('action')->find('make')->find('production-guide')->children()->visible() ;?>
       <ul class="c-nest-menu__firstlevel">
-        <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
+        <li><a href="<?php echo $pages->find('action')->find('make')->find('production-guide')->url() ?>#content"><?php echo $pages->find('action')->find('make')->find('production-guide')->title() ?></a></li>
         <?php foreach($guideitems as $guideitem) :?>
         <?php $children = $guideitem->children();?>
         <li>
-          <a href="<?php echo $guideitem->url() ?>" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
+          <a href="<?php echo $guideitem->url() ?>#content" class="<?php e($guideitem->isOpen()&& !$children->findOpen(), 'active') ?>"><?php echo $guideitem->title()?></a>
           <ul class="c-nest-menu__secondlevel">
             <?php foreach($children as $child): ?>
               <li>
-                <a href="<?php echo $child->url() ?>" class="<?php e($child->isOpen(), 'active') ?>">
+                <a href="<?php echo $child->url() ?>#content" class="<?php e($child->isOpen(), 'active') ?>">
                   <?php echo $child->title()?>
                 </a>
                 <?php if ($child->isOpen()):
@@ -38,7 +38,7 @@
       </ul>
     </nav>
 
-    <article class="o-guide__content o-flex-item-growing">
+    <article class="o-guide__content o-flex-item-growing" id="content">
       <h1><?php echo html($page->title()) ?></h1>
 
       <?php if($page->text() == ''):?>
@@ -60,10 +60,10 @@
             <?php if($page->parent->next()==$printpage): ?> <!--Check if this is the last section-->
               End
             <?php else: ?>
-              End of <?php echo $page->parent()->title()?> Section,<br><a href="<?php echo $page->parent()->next()->url()?>">Next Section: <?php echo $page->parent()->next()->title()?> ›</a>
+              End of <?php echo $page->parent()->title()?> Section,<br><a href="<?php echo $page->parent()->next()->url()?>#content">Next Section: <?php echo $page->parent()->next()->title()?> ›</a>
             <?php endif ?>
           <?php else: ?>
-            <a href="<?php echo $page->next()->url()?>">Next Chapter: <?php echo $page->next()->title()?> ›</a>
+            <a href="<?php echo $page->next()->url()?>#content">Next Chapter: <?php echo $page->next()->title()?> ›</a>
           <?php endif ?>
         </p>
       <?php endif ?>

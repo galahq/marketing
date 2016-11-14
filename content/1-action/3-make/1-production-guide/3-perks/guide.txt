@@ -5,6 +5,6 @@ Title: Perks
 Text: 
 
 Beyond publishing on MSC's learning platform, there are additional perks case teams get from producing a case: 
-- (link: action/make/production-guide/perks/peer-review text: Peer-Reviewed Publications)
-- (link: action/make/production-guide/perks/promotion text: Case Promotion)
-- (link: action/make/production-guide/perks/pedagogical-assessment text: Pedagogical Assessment)
+- (link: action/make/production-guide/perks/peer-review#content text: Peer-Reviewed Publications)
+- (link: action/make/production-guide/perks/promotion#content text: Case Promotion)
+- (link: action/make/production-guide/perks/pedagogical-assessment#content text: Pedagogical Assessment)
