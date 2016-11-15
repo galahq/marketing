@@ -1985,6 +1985,43 @@ code {
     font-weight: 400;
     line-height: 115%; }
 
+.o-error__container {
+  background: url(http://msc-public.imgix.net/deadend.jpg);
+  background-size: cover;
+  margin-top: 2em;
+  color: white;
+  padding: 3em;
+  min-height: 500px; }
+
+.o-error__content {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 2em;
+  min-height: 450px;
+  text-align: center; }
+  .o-error__content h1 {
+    font-family: 'clarendon-urw', serif;
+    font-style: normal;
+    font-size: 4em; }
+    .o-error__content h1 span {
+      font-size: 0.5em;
+      display: block;
+      font-family: 'tenso', sans-serif;
+      font-weight: 500;
+      margin-top: 2em;
+      line-height: 120%; }
+
+.error {
+  margin-top: 1.5em; }
+  .error .c-button {
+    background-color: #35536f;
+    color: #F9F8F2;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    margin-top: 0.4em;
+    border: none !important; }
+    .error .c-button:hover {
+      background-color: #02284b; }
+
 .footer {
   background-color: #02284b;
   padding: 3em 0; }
