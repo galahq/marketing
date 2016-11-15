@@ -40,12 +40,13 @@ Wbg:
 
 ##Production team: students, instructors, and practitioners
 Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
+###Students
+- Co-author with senior scholars and professionals
+- Enhance analytical and communication skills
+- Cultivate multimedia production and design skills
+- Gain mentorship on decision-making and career trajectory
 
-###Instructors
-- Make events and emerging concepts teachable moments
-- Produce curricula you can use, review, and revise
-- Publish on a fast track in our partner journals
-- Create powerful connections between research and teaching
+>This case was an education. I collaborated with students and faculty across campus and engaged with international practitioners.  I learned about the impact of climate change in African countries and the various kinds of challenges that governments and populations of these countries are facing. I honed my writing and content development skills while creating the case. I gained presentation and facilitation skills by implementing the case in a class. Assessing what worked well in the classroom allowed me to put my statistics and evaluation skills into practice. My  sustained collaboration with colleagues at UNDP led to co-authorship on a journal article, which broadened my professional horizons.  <br><span> &#8212;&#8239;Arman Golrokhian, UM Master's student and author of the Ethiopia National Adaptation case</span>
 
 ###Practitioners
 (imgix:make-interview.jpg alt:doing interview class:o-image--floatright size:400)
@@ -55,22 +56,34 @@ Each team member brings essential perspectives and skills that ensure production
 - Shape the next generation of sustainability leaders
 - Increase the visibility of your work
 
-###Students
-- Co-author with senior scholars and professionals
-- Enhance analytical and communication skills
-- Cultivate multimedia production and design skills
-- Gain mentorship on decision-making and career trajectory
+###Instructors
+- Make events and emerging concepts teachable moments
+- Produce curricula you can use, review, and revise
+- Publish on a fast track in our partner journals
+- Create powerful connections between research and teaching
 
->This case was an education. I collaborated with students and faculty across campus and engaged with international practitioners.  I learned about the impact of climate change in African countries and the various kinds of challenges that governments and populations of these countries are facing. I honed my writing and content development skills while creating the case. I gained presentation and facilitation skills by implementing the case in a class. Assessing what worked well in the classroom allowed me to put my statistics and evaluation skills into practice. My  sustained collaboration with colleagues at UNDP led to co-authorship on a journal article, which broadened my professional horizons.  <br><span> &#8212;&#8239;Arman Golrokhian, UM Master's student and author of the Ethiopia National Adaptation case</span>
+##Make A Case, Funding Available 
 
-##Make a case, funding available 
-MSC accepts proposals on a rolling basis, year round, but the MSC curricular advisors meet at least once a semester to review proposals. Therefore your submitted proposals will be reviewed within four months of submission. We will notify you if your proposal is selected.  Funding is available for selected proposals. 
-
-(link: action/make/proposal text: Follow this link to submit your proposal  ›)
-
-Once your proposal is accepted, the MSC team will work with you and guide you through the production process. 
-
-(link: action/make/production-guide text: A detailed production guide can be found here  ›)
+<div class="u-actionitem t-site t-blog">
+    <a href="make/proposal">
+      <section class="o-flex-container">
+        <div class="u-actionitem__text">
+          <h3>Submit Your Proposal</h3>
+          <p>MSC accepts proposals on a rolling basis, year round. We will notify you if your proposal is selected.  Funding is available for selected proposals.</p>
+        </div>
+        <div class="u-actionitem__arrow"><span>›</span></div>
+      </section>
+   </a>
+    <a href="make/production-guide">
+      <section class="o-flex-container">
+        <div class="u-actionitem__text">
+          <h3>View Production Guide</h3>
+          <p>Once your proposal is accepted, the MSC team will work with you and guide you through the production process.</p>
+        </div>
+        <div class="u-actionitem__arrow"><span>›</span></div>
+      </section>
+    </a>
+</div>
 
 ----
 
