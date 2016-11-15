@@ -12,7 +12,6 @@ Description:
 
 Text: 
 
-(imgix:make-interview.jpg alt:doing interview class:o-image--floatright size:400)
 *Learning by Doing* is the cornerstone of MSC. Students often take the lead, designing MSCs with future students in mind, while benefiting from productive partnerships with professors, practitioners, and media specialists.  Through the process they become better analysts, better advocates, and better at adapting fast to professional challenges involving networking, communication and interpretation of complex information.
 
 At the same time, we support our case teams as they publish the cases in scientific journals of their choice. We also offer "fast track" partnerships that offer outlets for cases to appear quickly in peer reviewed journals with links to professional education networks in Business, Engineering and Environmental Studies. The journals include World Development Perspectives (Elsevier), Engineering and Environmental Science and Sustainability: the Journal of Record (Mary Ann Liebert, Inc. Publishers). Through these platforms cases gain more visibility and more critical engagement.
@@ -49,6 +48,7 @@ Each team member brings essential perspectives and skills that ensure production
 - Create powerful connections between research and teaching
 
 ###Practitioners
+(imgix:make-interview.jpg alt:doing interview class:o-image--floatright size:400)
 - Amplify voices of experience on environmental problems
 - Capture perspectives not often heard for *real *stories
 - Produce materials for professional development
