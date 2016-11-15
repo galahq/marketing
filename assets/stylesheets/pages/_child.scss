@@ -170,10 +170,6 @@ audio {
 }
 
 #make {
-  .o-image--floatright {
-    margin-top: 5px;
-  }
-
   .video iframe {
     width:100%;
     height:475px;
@@ -182,44 +178,12 @@ audio {
       height:300px;
     }
   }
+}
 
-  .call-to-action {
-    text-align: center;
-    letter-spacing: 0.05em;
-
-    .c-button {
-      margin-top: 0.5em;
-      margin-bottom: 1em;
-    }
-  }
-
-  .o-flex-container {
-    @include breakpoint ($mq-small) {
-      display: block;
-    }
-  }
-
-  .u-element-examples__description {
-    flex: 1;
-    padding-top: 10em;
-    background-color: $ltoffwhite;
-    @include border-radius(3px);
-    margin-left: 1em;
-    @include breakpoint ($mq-small) {
-      margin-left: auto;
-      margin-top: 1.5em;
-      padding-top: 0.5em;
-      padding-bottom: 1.3em;
-    }
-  }
-
-  .u-element-examples__figures {
-    flex: 2;
-  }
-
-  .u-blank {
-    display: none;
-  }
+h2#make-a-case-funding-available {
+  margin-top: 3em;
+  text-align: center;
+  margin-bottom: 1em;
 }
 
 #teach {

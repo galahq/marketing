@@ -413,15 +413,28 @@ html {
 blockquote {
   font-style: italic;
   background-color: #ddd;
-  padding: 1em 0.5em 0.1em 1em;
+  padding: 1.5em 1em 1.5em 2em;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
-  margin-bottom: 1em; }
+  margin-bottom: 2.2em;
+  border-left: 10px solid #9c9c9c; }
+  blockquote::before {
+    color: #9c9c9c;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em; }
+  blockquote p {
+    display: inline; }
   blockquote span {
     font-style: normal;
-    font-size: 0.9em; }
+    font-size: 0.9em;
+    margin-top: 1em;
+    display: block;
+    text-align: right; }
 
 .c-separate-text {
   margin-bottom: 1.7em; }
@@ -1487,42 +1500,17 @@ audio {
 #collaborate .no-clear h3 {
   clear: none; }
 
-#make .o-image--floatright {
-  margin-top: 5px; }
 #make .video iframe {
   width: 100%;
   height: 475px; }
   @media (max-width: 768px) {
     #make .video iframe {
       height: 300px; } }
-#make .call-to-action {
+
+h2#make-a-case-funding-available {
+  margin-top: 3em;
   text-align: center;
-  letter-spacing: 0.05em; }
-  #make .call-to-action .c-button {
-    margin-top: 0.5em;
-    margin-bottom: 1em; }
-@media (max-width: 768px) {
-  #make .o-flex-container {
-    display: block; } }
-#make .u-element-examples__description {
-  flex: 1;
-  padding-top: 10em;
-  background-color: #F9F8F2;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  border-radius: 3px;
-  margin-left: 1em; }
-  @media (max-width: 768px) {
-    #make .u-element-examples__description {
-      margin-left: auto;
-      margin-top: 1.5em;
-      padding-top: 0.5em;
-      padding-bottom: 1.3em; } }
-#make .u-element-examples__figures {
-  flex: 2; }
-#make .u-blank {
-  display: none; }
+  margin-bottom: 1em; }
 
 #teach iframe {
   width: 100%;
@@ -1845,6 +1833,11 @@ audio {
 .guide h4 {
   font-size: 1em;
   margin-bottom: 0.2em; }
+@media (max-width: 768px) {
+  .guide .c-header {
+    position: absolute; } }
+.guide .c-button#c-menu-mobile--open {
+  position: absolute; }
 
 .o-guide__nav {
   -webkit-box-flex: 1;
@@ -1906,11 +1899,8 @@ audio {
   flex: 2.5;
   min-width: 20em;
   margin-bottom: 2em; }
-  @media screen and (max-width: 532px) {
-    .o-guide__content {
-      margin-top: 1.5em; } }
   .o-guide__content h1 {
-    margin-top: 0; }
+    margin-top: 0.45em; }
 
 .o-guide__print__button {
   text-transform: none;
@@ -1995,69 +1985,42 @@ code {
     font-weight: 400;
     line-height: 115%; }
 
-.conference .c-breadcrumb {
-  display: none; }
+.o-error__container {
+  background: url(http://msc-public.imgix.net/deadend.jpg);
+  background-size: cover;
+  margin-top: 2em;
+  color: white;
+  padding: 3em;
+  min-height: 500px; }
 
-.c-conference__menu {
-  background-color: #bf9a7b;
-  color: #4a3524;
-  padding-top: 0.5em;
-  position: sticky;
-  top: 0;
-  z-index: 100; }
-  @media (max-width: 768px) {
-    .c-conference__menu {
-      display: none; } }
-  .c-conference__menu nav {
-    justify-content: space-between; }
-    .c-conference__menu nav a {
-      border-bottom: none; }
-  .c-conference__menu ul {
-    flex: 3;
-    margin-bottom: auto !important; }
-  .c-conference__menu ul li {
-    display: inline-block;
-    list-style: none;
-    font-size: 0.8em;
-    flex: 1; }
-    .c-conference__menu ul li .active {
-      color: white !important; }
-    .c-conference__menu ul li a {
-      color: #4a3524; }
-  .c-conference__menu h5 {
-    flex: 1; }
-
-.c-conference__menu--mobile {
-  display: none;
-  background-color: #bf9a7b;
+.o-error__content {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 2em;
+  min-height: 450px;
   text-align: center; }
-  @media (max-width: 768px) {
-    .c-conference__menu--mobile {
-      position: fixed;
+  .o-error__content h1 {
+    font-family: 'clarendon-urw', serif;
+    font-style: normal;
+    font-size: 4em; }
+    .o-error__content h1 span {
+      font-size: 0.5em;
       display: block;
-      top: 50;
-      z-index: 100;
-      width: 100%; } }
-  .c-conference__menu--mobile ul li {
-    list-style: none;
-    padding: 0.5em 0;
-    border-bottom: solid 1px #ddd; }
-    .c-conference__menu--mobile ul li .active {
-      color: white !important; }
-    .c-conference__menu--mobile ul li:last-child {
-      border-bottom: none; }
-  .c-conference__menu--mobile h5 {
-    padding: 1em 0; }
+      font-family: 'tenso', sans-serif;
+      font-weight: 500;
+      margin-top: 2em;
+      line-height: 120%; }
 
-.u-dropdown {
-  cursor: pointer;
-  padding: 0 1em; }
-
-.o-dropdown__nav {
-  display: none; }
-
-.o-dropdown--show {
-  display: block; }
+.error {
+  margin-top: 1.5em; }
+  .error .c-button {
+    background-color: #35536f;
+    color: #F9F8F2;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    margin-top: 0.4em;
+    border: none !important; }
+    .error .c-button:hover {
+      background-color: #02284b; }
 
 .footer {
   background-color: #02284b;

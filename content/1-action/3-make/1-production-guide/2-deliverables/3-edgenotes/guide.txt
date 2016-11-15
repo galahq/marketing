@@ -10,12 +10,11 @@ Edgenotes appear alongside the narrative text as thumbnail images. When a user c
 
 For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: aside, audio, graphic, link, photo, quote, report, or video. Please refer to the sections below for a detailed list of requirements for each Edgenote type. Demo screenshots are included to help you understand each element.
 
-##Requirements
 *Please note: Once you are ready to submit your work, use this (link: https://s3-us-west-2.amazonaws.com/msc-public/msc_edgenote_template.docx text: Edgenote template) to input your content.*
 
-###*Aside*
+##Aside
 An aside is a few paragraphs written by the case authors.
-
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
@@ -31,9 +30,9 @@ Images may be included if needed.
 (imgix: instruction_aside_open.png alt: demo for aside caption: [After clicking])
 
 
-###*Audio*
+##Audio
 Audio Edgenotes are short clips distinct from the podcast.
-
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
@@ -48,9 +47,9 @@ Include instructional text ONLY IF NEEDED to provide more information.
 (imgix: instruction_audio_thumb.png alt: demo for audio caption: [Before clicking])
 (imgix: instruction_audio_open.png alt: demo for audio caption: [After clicking])
 
-###*Graphic*
+##Graphic
 Graphics include tables, infographics, charts, maps, etc.
-
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####The graphic itself.
@@ -62,9 +61,9 @@ Include instructional text ONLY IF NEEDED to describe the graphic or tell studen
 (imgix: instruction_graphic_thumb.png alt: demo for graphic caption: [Before clicking])
 (imgix: instruction_graphic_open.png alt: demo for graphic caption: [After clicking])
 
-###*Link*
+##Link
 Links include any piece of news, article, or blog on the web.
-
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
@@ -81,8 +80,8 @@ Include some instructional text ONLY IF NEEDED to provide more information.
 (imgix: instruction_link_thumb.png alt: demo for link caption: [Before clicking])
 (imgix: instruction_link_open.png alt: demo for link caption: [After clicking])
 
-###*Photo*
-
+##Photo
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####The photo itself.
@@ -94,9 +93,9 @@ Include instructional text ONLY IF NEEDED to provide more information.
 (imgix: instruction_photo_thumb.png alt: demo for photo caption: [Before clicking])
 (imgix: instruction_photo_open.png alt: demo for photo caption: [After clicking])
 
-###*Quote*
+##Quote
 A citation of someone’s words. Letters are also considered quotes.
-
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
@@ -111,9 +110,8 @@ Include some instructional text ONLY IF NEEDED to provide more information.
 (imgix: instruction_quote_thumb.png alt: demo for quote caption: [Before clicking])
 (imgix: instruction_quote_open.png alt: demo for quote caption: [After clicking])
 
-###*Report*
-
-
+##Report
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
@@ -126,8 +124,8 @@ Include some instructional text ONLY IF NEEDED to provide more information.
 
 [Don’t have an existing example for demo at this point.]
 
-###*Video*
-
+##Video
+###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
