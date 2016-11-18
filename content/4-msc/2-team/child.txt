@@ -122,7 +122,6 @@ Othermembers:
 Marie Hooper — Web Interface Consultant
 Kris Steinhoff — Software Architecture Consultant
 Rebecca Rutt — Communications Consultant
-Anil Bhargava — Evaluation Consultant
 Arman Golrokhian — Production Facilitator
 Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
