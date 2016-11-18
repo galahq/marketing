@@ -94,20 +94,25 @@ Coremembers:
     ####Ed Waisanen
     #####Podcast Director
 - 
-  profilepic: '(imgix: patric_conway.jpg alt:Patric Conway size:374)'
+  profilepic: '(imgix: chris_askew.jpg alt:Chris Askew size:374)'
   nameandtitle: |
-    ####Patric Conway
-    #####Podcast Editor
+    ####Chris Askew-Merwin
+    #####Podcast Coordinator
 - 
   profilepic: '(imgix: meg_czerwinski.jpg alt:Meg Czerwinski size:374)'
   nameandtitle: |
     ####Meg Czerwinski
     #####Evaluation Coordinator
 - 
-  profilepic: '(imgix: chris_askew.jpg alt:Chris Askew size:374)'
+  profilepic: '(imgix: anil_bhargava.jpg alt:Anil_Bhargava size:374)'
   nameandtitle: |
-    ####Chris Askew-Merwin
-    #####Podcast Coordinator
+    ####Anil Bhargava
+    #####Assessment Specialist
+- 
+  profilepic: '(imgix: patric_conway.jpg alt:Patric Conway size:374)'
+  nameandtitle: |
+    ####Patric Conway
+    #####Podcast Editor
 
 ----
 
