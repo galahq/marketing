@@ -2034,6 +2034,21 @@ code {
     font-weight: 400;
     line-height: 115%; }
 
+.u-hardin h4 {
+  text-align: center; }
+  .u-hardin h4 a {
+    color: #35536f; }
+    .u-hardin h4 a:hover {
+      color: #02284b; }
+.u-hardin h5 {
+  line-height: 115%;
+  margin-bottom: 1em;
+  text-align: center; }
+.u-hardin p {
+  margin-bottom: 0.5em; }
+  .u-hardin p:last-child {
+    margin-bottom: 1.7em; }
+
 body {
   font-size: 10pt;
   line-height: 1.3em;
