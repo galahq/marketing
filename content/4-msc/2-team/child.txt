@@ -5,7 +5,18 @@ Title: Team
 Text: 
 
 ###Director
-(link:https://sites.google.com/a/umich.edu/rebecca-hardin text:Rebecca Hardin) — Associate Professor, SNRE
+<div class="o-flex-container">
+<figure>
+<img srcset="https://msc-public.imgix.net/rebecca_hardin.jpg?w=374&amp; 1x,https://msc-public.imgix.net/rebecca_hardin.jpg?w=748&amp; 2x,https://msc-public.imgix.net/rebecca_hardin.jpg?w=1122&amp; 3x," src="https://msc-public.imgix.net/rebecca_hardin.jpg?w=374&amp;" alt="Rebecca Hardin">
+</figure>
+</div>
+<div class="u-hardin">
+<h4><a href="https://sites.google.com/a/umich.edu/rebecca-hardin">Rebecca Hardin</a></h4>
+<h5>Associate Professor, SNRE</h5>
+<p>Dr. Rebecca Hardin provides leadership and visionary thinking for the whole MSC project. Hardin writes and conducts research about histories of human/animal interactions and conservation justice, transnational environmental justice movements, corporate social responsibility in relation to community institutions, and the ways that emergent disease and disease surveillance shapes emergent democracies. Hardin teaches courses at the School of Natural Resources and Environment (SNRE), Program in the Environment (PITE) and Department of Anthropology at the University of Michigan, Ann Arbor, where she teaches in ways that engage minority students, suit different types of learners, provoke critical thinking, and provide practical skills. </p>
+
+<p>Dr. Hardin got her social theory training at Brown University, doctoral training in social/cultural anthropology at Yale University, and postdoctoral fellowships at the Laboratoire ERMES (IRD and Universite d'Orleans, France) and the Yale Council for International and Area Studies. Hardin was an Academy Scholar at Harvard University, with the focus in media persisted and encountered training in international and area studies. She has taught as a visiting professor at Paris I (Sorbonne) and the National Museum of Natural History, in Paris. She has also taught at McGill University's Department of Anthropology and School of Environment, before moving to Ann Arbor.</p>
+</div>
 
 ----
 
@@ -130,13 +141,17 @@ Nick Kemp — Photo Contributor
 (link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
 (link:https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
 (link:http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
+(link: http://www.soe.umich.edu/people/profile/barry_fishman/ text: Barry Fishman) — Professor, Information; Professor, Education
 (link:http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
 (link:http://www.snre.umich.edu/profile/jeremiah_johnson text:Jeremiah Johnson) — Assistant Professor, SNRE
 (link:https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
 (link:https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, CRLT
 (link:https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, EEB; Director, UM Biostation
 (link:http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library
-(link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, Civil & Environmental Engineering
+(link:http://www.snre.umich.edu/profile/sheila_schueller_phd text:Sheila Schueller) — Lecturer, SNRE
+(link: https://lsa.umich.edu/sweetland/people/faculty/nesilver.html text: Naomi Silver) — Associate Director, Sweetland Writing Center
+(link: https://lsa.umich.edu/earth/people/faculty/simonac.html text:Adam Simon) — Associate Professor, EES
+(link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, CEE
 (link:http://stamps.umich.edu/people/detail/joseph_trumpey text:Joe Trumpey) — Associate Professor, Art & Design
 (link:http://www.lib.umich.edu/users/ltz text:Lori Tschirhart) — Librarian, SNRE
 (link:http://www.snre.umich.edu/profile/steven_yaffee text:Steve Yaffee) — Professor, SNRE
@@ -151,6 +166,7 @@ Nick Kemp — Photo Contributor
 (link: http://www.earthinstitute.columbia.edu/articles/view/2470 text: Ruth DeFries) — Professor, Columbia University
 (link: http://www.sesync.org/users/jkramer text: Jon Kramer) — Director for Interdisciplinary Science, SESYNC
 (link: http://www.isb.edu/faculty-research/faculty/directory/pereira-arun text: Arun Pereira) — Associate Professor, Indian School of Business
+(link: https://condevcenter.org/leslie-ruyle/ text: Leslie Ruyle) — Assistant Director, Center on Conflict and Development, Texas A&M University
 (link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, SESYNC
 
 ### Team Alumni
