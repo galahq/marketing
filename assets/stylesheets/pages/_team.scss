@@ -1,6 +1,7 @@
 .o-member__flexcontainer {
   @include justify-content-start;
   margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .o-member__flexitem {
@@ -43,26 +44,8 @@
   }
 }
 
-.u-hardin {
-  h4 {
-    text-align: center;
-    a {
-    color: $galablue;
-
-    &:hover {
-      color: $umblue;
-    }
-   }
-  }
-  h5 {
-    line-height: 115%;
-    margin-bottom: 1em;
-    text-align: center;
-  }
-  p {
-    margin-bottom: 0.5em;
-    &:last-child {
-      margin-bottom: 1.7em;
-    }
+#team {
+  .o-image--fullwidth {
+    margin-top: 2em;
   }
 }

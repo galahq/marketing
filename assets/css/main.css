@@ -1953,7 +1953,8 @@ code {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  margin-top: 1em; }
 
 .o-member__flexitem {
   flex: 0 1 31%;
@@ -1985,20 +1986,8 @@ code {
     font-weight: 400;
     line-height: 115%; }
 
-.u-hardin h4 {
-  text-align: center; }
-  .u-hardin h4 a {
-    color: #35536f; }
-    .u-hardin h4 a:hover {
-      color: #02284b; }
-.u-hardin h5 {
-  line-height: 115%;
-  margin-bottom: 1em;
-  text-align: center; }
-.u-hardin p {
-  margin-bottom: 0.5em; }
-  .u-hardin p:last-child {
-    margin-bottom: 1.7em; }
+#team .o-image--fullwidth {
+  margin-top: 2em; }
 
 .o-error__container {
   background: url(http://msc-public.imgix.net/deadend.jpg);
