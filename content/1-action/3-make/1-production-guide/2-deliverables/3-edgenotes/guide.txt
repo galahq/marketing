@@ -10,7 +10,7 @@ Edgenotes appear alongside the narrative text as thumbnail images. When a user c
 
 For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: aside, audio, graphic, link, photo, quote, report, or video. Please refer to the sections below for a detailed list of requirements for each Edgenote type. Demo screenshots are included to help you understand each element.
 
-*Please note: Once you are ready to submit your work, use this (link: https://s3-us-west-2.amazonaws.com/msc-public/msc_edgenote_template.docx text: Edgenote template) to input your content.*
+*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/98akoscxd6smgfbv68la5m40eq4d65lf.xlsx text: Edgenote template) to input your content. And please upload the files to the Edgenote folder on M Box that has been/will be established for your team.*
 
 ##Aside
 An aside is a few paragraphs written by the case authors.
@@ -20,15 +20,12 @@ A one-sentence description that serves as the teaser. This should either justify
 2. ####Thumbnail image
 A relevant picture for this piece.
 3. ####Photo credit
-Name of the person who took or owns the image.
+Name of the person who took or owns the thumbnail image.
 4. ####Content
-Text for the Edgenote.
-5. ####Image
-Images may be included if needed.
+Text and images for the Edgenote.
 
 (imgix: instruction_aside_thumb.png alt: demo for aside caption: [Before clicking])
 (imgix: instruction_aside_open.png alt: demo for aside caption: [After clicking])
-
 
 ##Audio
 Audio Edgenotes are short clips distinct from the podcast.
@@ -38,9 +35,9 @@ A one-sentence description that serves as the teaser. This should either justify
 2. ####Thumbnail image
 A relevant picture for this piece.
 3. ####Photo credit
-Name of the person who took or owns the image.
+Name of the person who took or owns the thumbnail image.
 4. ####Link
-The link to this audio file. If you recorded the clip, upload it to the Audio folder on M Box.
+Provide the audio link if already uploaded online, or upload the audio file to your Edgenote folder on M Box.
 5. ####Instructions
 Include instructional text ONLY IF NEEDED to provide more information.
 
@@ -52,11 +49,11 @@ Graphics include tables, infographics, charts, maps, etc.
 ###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####The graphic itself.
-3. ####Source of the graphic.
-(not needed if source is already on the graphic).
+2. ####The graphic itself
+3. ####Photo credit
+Name of the person who took or owns the image.
 4. ####Instructions
-Include instructional text ONLY IF NEEDED to describe the graphic or tell students how to use it.
+Include instructional text ONLY IF NEEDED to describe the graphic or tell students how to use it. You can also provide the source link to this graphic here.
 
 (imgix: instruction_graphic_thumb.png alt: demo for graphic caption: [Before clicking])
 (imgix: instruction_graphic_open.png alt: demo for graphic caption: [After clicking])
@@ -67,13 +64,13 @@ Links include any piece of news, article, or blog on the web.
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####Thumbnail image
-A relevant picture for this piece. In this case, it can be a screenshot of part of the webpage.
+A relevant picture for this piece. Preferably a image that has been used in the post, or it can be a screenshot of part of the webpage. 
 3. ####Photo credit
-Only needed if your thumbnail is an image from someone.
+Name of the person who took or owns the thumbnail image. Not needed if this is a screenshot of the webpage. 
 4. ####Link
 The link to this piece.
 5. ####Viewer’s screenshot
-Make a long screenshot of the webpage.
+A long screenshot of the webpage.
 6. ####Instructions
 Include some instructional text ONLY IF NEEDED to provide more information.
 
@@ -86,9 +83,9 @@ Include some instructional text ONLY IF NEEDED to provide more information.
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
 2. ####The photo itself.
 3. ####Photo credit
-Name of the person who took or owns the image.
+Name of the person who took or owns the image. 
 4. ####Instructions
-Include instructional text ONLY IF NEEDED to provide more information.
+Include instructional text ONLY IF NEEDED to describe the photo or tell students how to use it. You can also provide the source link to this photo here.
 
 (imgix: instruction_photo_thumb.png alt: demo for photo caption: [Before clicking])
 (imgix: instruction_photo_open.png alt: demo for photo caption: [After clicking])
@@ -101,7 +98,7 @@ A one-sentence description that serves as the teaser. This should either justify
 2. ####Thumbnail image
 A relevant picture for this piece, such as of the person being quoted. For a letter, provide a screenshot of the letter.
 3. ####Photo credit
-Only needed if your thumbnail is an image from someone.
+Name of the person who took or owns the thumbnail image. Not needed if this is a screenshot of a letter. 
 4. ####Content
 The quote itself.
 5. ####Instructions
@@ -117,7 +114,7 @@ A one-sentence description that serves as the teaser. This should either justify
 2. ####Thumbnail image
 A relevant picture for this piece. It can be a screenshot of the first page of the report.
 3. ####Photo credit
-Only needed if your thumbnail is an image from someone.
+Name of the person who took or owns the thumbnail image. Not needed if this is a screenshot of the report.  
 4. ####The file or the link to the report
 5. ####Instructions
 Include some instructional text ONLY IF NEEDED to provide more information.
@@ -131,7 +128,7 @@ A one-sentence description that serves as the teaser. This should either justify
 2. ####Thumbnail image
 A screenshot of the video. Find an interesting scene when you are playing the video and use this as the video cover image.
 3. ####Link
-Provide the video link if already uploaded online, or upload the video file to the Review Dropbox folder on M Box.
+Provide the video link if already uploaded online, or upload the video file to your Edgenote folder on M Box.
 4. ####Instructions
 Include instructional text ONLY IF NEEDED to provide more information.
 
