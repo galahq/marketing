@@ -4,9 +4,6 @@ Title: Team
 
 Text: 
 
-###Director
-(link:https://sites.google.com/a/umich.edu/rebecca-hardin text:Rebecca Hardin) — Associate Professor, SNRE
-
 ----
 
 Tagline: 
@@ -68,6 +65,11 @@ Elementexamples:
 Coremembers: 
 
 - 
+  profilepic: '(imgix: rebecca_hardin.jpg alt:Rebecca Hardin size:374)'
+  nameandtitle: |
+    ####Rebecca Hardin
+    #####Director
+- 
   profilepic: '(imgix: meghan_wagner.jpg alt:Meghan Wagner size:374)'
   nameandtitle: |
     ####Meghan Wagner
@@ -94,20 +96,20 @@ Coremembers:
     ####Ed Waisanen
     #####Podcast Director
 - 
-  profilepic: '(imgix: patric_conway.jpg alt:Patric Conway size:374)'
+  profilepic: '(imgix: chris_askew.jpg alt:Chris Askew size:374)'
   nameandtitle: |
-    ####Patric Conway
-    #####Podcast Editor
+    ####Chris Askew-Merwin
+    #####Podcast Coordinator
 - 
   profilepic: '(imgix: meg_czerwinski.jpg alt:Meg Czerwinski size:374)'
   nameandtitle: |
     ####Meg Czerwinski
     #####Evaluation Coordinator
 - 
-  profilepic: '(imgix: chris_askew.jpg alt:Chris Askew size:374)'
+  profilepic: '(imgix: anil_bhargava.jpg alt:Anil_Bhargava size:374)'
   nameandtitle: |
-    ####Chris Askew-Merwin
-    #####Podcast Coordinator
+    ####Anil Bhargava
+    #####Assessment Specialist
 
 ----
 
@@ -116,8 +118,8 @@ Othermembers:
 ### Team Contributors
 Marie Hooper — Web Interface Consultant
 Kris Steinhoff — Software Architecture Consultant
+Patrick Conway — Podcast Editor
 Rebecca Rutt — Communications Consultant
-Anil Bhargava — Evaluation Consultant
 Arman Golrokhian — Production Facilitator
 Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
@@ -126,13 +128,17 @@ Nick Kemp — Photo Contributor
 (link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
 (link:https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
 (link:http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
+(link: http://www.soe.umich.edu/people/profile/barry_fishman/ text: Barry Fishman) — Professor, Information; Professor, Education
 (link:http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
 (link:http://www.snre.umich.edu/profile/jeremiah_johnson text:Jeremiah Johnson) — Assistant Professor, SNRE
 (link:https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
 (link:https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, CRLT
 (link:https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, EEB; Director, UM Biostation
 (link:http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library
-(link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, Civil & Environmental Engineering
+(link:http://www.snre.umich.edu/profile/sheila_schueller_phd text:Sheila Schueller) — Lecturer, SNRE
+(link: https://lsa.umich.edu/sweetland/people/faculty/nesilver.html text: Naomi Silver) — Associate Director, Sweetland Writing Center
+(link: https://lsa.umich.edu/earth/people/faculty/simonac.html text:Adam Simon) — Associate Professor, EES
+(link:https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, CEE
 (link:http://stamps.umich.edu/people/detail/joseph_trumpey text:Joe Trumpey) — Associate Professor, Art & Design
 (link:http://www.lib.umich.edu/users/ltz text:Lori Tschirhart) — Librarian, SNRE
 (link:http://www.snre.umich.edu/profile/steven_yaffee text:Steve Yaffee) — Professor, SNRE
@@ -147,6 +153,7 @@ Nick Kemp — Photo Contributor
 (link: http://www.earthinstitute.columbia.edu/articles/view/2470 text: Ruth DeFries) — Professor, Columbia University
 (link: http://www.sesync.org/users/jkramer text: Jon Kramer) — Director for Interdisciplinary Science, SESYNC
 (link: http://www.isb.edu/faculty-research/faculty/directory/pereira-arun text: Arun Pereira) — Associate Professor, Indian School of Business
+(link: https://condevcenter.org/leslie-ruyle/ text: Leslie Ruyle) — Assistant Director, Center on Conflict and Development, Texas A&M University
 (link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, SESYNC
 
 ### Team Alumni
@@ -156,6 +163,6 @@ Claire Poelking — M.S. candidate at SNRE
 Harold Rice — B.S., Program in the Environment, UM
 Alex Truelove — M.S. candidate at SNRE
 Mary Wright — Director, Sheridan Center for Teaching and Learning, Brown University
-<p>&nbsp;</p>
+
 (imgix: msc-group.jpg alt:MSC group picture class:o-image--fullwidth caption:We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.)
 <p>&nbsp;</p>
