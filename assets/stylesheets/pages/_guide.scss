@@ -31,7 +31,8 @@
   margin-right: 2.5em;
   margin-bottom: 2em;
 
-  @media screen and (max-width: 532px) {
+  @media screen and (max-width: 528px) {
+    @include flex(0 0 100%);
     margin: 0 auto;
   }
 
