@@ -31,11 +31,6 @@
   margin-right: 2.5em;
   margin-bottom: 2em;
 
-  @media screen and (max-width: 528px) {
-    @include flex(0 0 100%);
-    margin: 0 auto;
-  }
-
   ul {
     margin-left: auto;
 
@@ -109,11 +104,18 @@
 
 .o-guide__content {
   @include flex(2.5);
-  min-width: 20em;
   margin-bottom: 2em;
 
   h1 {
     margin-top: 0.45em;
+  }
+}
+
+@include breakpoint($mq-extra-small) {
+  .o-guide__nav,
+  .o-guide__content {
+    margin-right: 0;
+    flex-basis: 100%;
   }
 }
 
@@ -138,7 +140,6 @@ table {
     font-size: 0.9em;
     margin-bottom: 1.5em;
     border: solid 1px $offwhite;
-    min-width: 30em;
 }
 
 th, td {
