@@ -6,131 +6,40 @@ Text:
 
 Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case. These   materials aim to enhance the learning experience by curating the most relevant content available. (link: http://www.lib.umich.edu/askwith-media-library text:Askwith Media Library) has partnered with MSC to help case makers find authoritative, captivating material for Edgenotes.
 
-Edgenotes appear alongside the narrative text as thumbnail images. When a user clicks on an Edgenote, its full content appears on the screen. Examples of how Edgenotes look before and after clicking are given below.
+For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: image/graphic, video, audio, and external links. Please refer to the sections below for a detailed list of requirements for each Edgenote type. 
 
-For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: aside, audio, graphic, link, photo, quote, report, or video. Please refer to the sections below for a detailed list of requirements for each Edgenote type. Demo screenshots are included to help you understand each element.
-
-*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/98akoscxd6smgfbv68la5m40eq4d65lf.xlsx text: Edgenote template) to input your content. And please upload the files to the Edgenote folder on M Box that has been/will be established for your team.*
-
-##Aside
-An aside is a few paragraphs written by the case authors.
+##Image/graphic
 ###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####Thumbnail image
-A relevant picture for this piece.
-3. ####Photo credit
-Name of the person who took or owns the thumbnail image.
-4. ####Content
-Text and images for the Edgenote.
-
-(imgix: instruction_aside_thumb.png alt: demo for aside caption: [Before clicking])
-(imgix: instruction_aside_open.png alt: demo for aside caption: [After clicking])
-
-##Audio
-Audio Edgenotes are short clips distinct from the podcast.
-###Requirements
-1. ####Caption
-A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####Thumbnail image
-A relevant picture for this piece.
-3. ####Photo credit
-Name of the person who took or owns the thumbnail image.
-4. ####Link
-Provide the audio link if already uploaded online, or upload the audio file to your Edgenote folder on M Box.
-5. ####Instructions
-Include instructional text ONLY IF NEEDED to provide more information.
-
-(imgix: instruction_audio_thumb.png alt: demo for audio caption: [Before clicking])
-(imgix: instruction_audio_open.png alt: demo for audio caption: [After clicking])
-
-##Graphic
-Graphics include tables, infographics, charts, maps, etc.
-###Requirements
-1. ####Caption
-A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####The graphic itself
-3. ####Photo credit
-Name of the person who took or owns the image.
-4. ####Instructions
-Include instructional text ONLY IF NEEDED to describe the graphic or tell students how to use it. You can also provide the source link to this graphic here.
-
-(imgix: instruction_graphic_thumb.png alt: demo for graphic caption: [Before clicking])
-(imgix: instruction_graphic_open.png alt: demo for graphic caption: [After clicking])
-
-##Link
-Links include any piece of news, article, or blog on the web.
-###Requirements
-1. ####Caption
-A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####Thumbnail image
-A relevant picture for this piece. Preferably a image that has been used in the post, or it can be a screenshot of part of the webpage. 
-3. ####Photo credit
-Name of the person who took or owns the thumbnail image. Not needed if this is a screenshot of the webpage. 
-4. ####Link
-The link to this piece.
-5. ####Viewer’s screenshot
-A long screenshot of the webpage.
-6. ####Instructions
-Include some instructional text ONLY IF NEEDED to provide more information.
-
-(imgix: instruction_link_thumb.png alt: demo for link caption: [Before clicking])
-(imgix: instruction_link_open.png alt: demo for link caption: [After clicking])
-
-##Photo
-###Requirements
-1. ####Caption
-A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####The photo itself.
-3. ####Photo credit
-Name of the person who took or owns the image. 
-4. ####Instructions
-Include instructional text ONLY IF NEEDED to describe the photo or tell students how to use it. You can also provide the source link to this photo here.
-
-(imgix: instruction_photo_thumb.png alt: demo for photo caption: [Before clicking])
-(imgix: instruction_photo_open.png alt: demo for photo caption: [After clicking])
-
-##Quote
-A citation of someone’s words. Letters are also considered quotes.
-###Requirements
-1. ####Caption
-A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####Thumbnail image
-A relevant picture for this piece, such as of the person being quoted. For a letter, provide a screenshot of the letter.
-3. ####Photo credit
-Name of the person who took or owns the thumbnail image. Not needed if this is a screenshot of a letter. 
-4. ####Content
-The quote itself.
-5. ####Instructions
-Include some instructional text ONLY IF NEEDED to provide more information.
-
-(imgix: instruction_quote_thumb.png alt: demo for quote caption: [Before clicking])
-(imgix: instruction_quote_open.png alt: demo for quote caption: [After clicking])
-
-##Report
-###Requirements
-1. ####Caption
-A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####Thumbnail image
-A relevant picture for this piece. It can be a screenshot of the first page of the report.
-3. ####Photo credit
-Name of the person who took or owns the thumbnail image. Not needed if this is a screenshot of the report.  
-4. ####The file or the link to the report
-5. ####Instructions
-Include some instructional text ONLY IF NEEDED to provide more information.
-
-[Don’t have an existing example for demo at this point.]
+2. ####The image itself
+3. ####Photo credit/link
+If there is a direct link to this image, please provide the link.
+If there is no direct link to this image, please first make sure the copyright agreement of this image allows us to use it and provide us the proper citation requirement by the copyright owner.
+For instances where you made an image based on other people's data, please provide the data source.
+If this image is a screenshot from larger document, please provide the source.
 
 ##Video
 ###Requirements
 1. ####Caption
 A one-sentence description that serves as the teaser. This should either justify why readers should care about the Edgenote or ask an intriguing question.
-2. ####Thumbnail image
-A screenshot of the video. Find an interesting scene when you are playing the video and use this as the video cover image.
-3. ####Link
+2. ####Link
 Provide the video link if already uploaded online, or upload the video file to your Edgenote folder on M Box.
-4. ####Instructions
-Include instructional text ONLY IF NEEDED to provide more information.
 
-(imgix: instruction_video_thumb.png alt: demo for video caption: [Before clicking])
-(imgix: instruction_video_open.png alt: demo for video caption: [After clicking])
+##Audio
+Audio Edgenotes are short clips distinct from the podcast.
+###Requirements
+1. ####Pull quotes
+Please provide an intriguing pull quotes from the audio piece.
+If this pull quote indicates the main content of this audio, then no further information is needed; otherwise, please also include the main question that this audio piece is trying to answer.
+2. ####Link
+Provide the audio link if already uploaded online, or upload the audio file to your Edgenote folder on M Box.
+
+##External links
+External links include any piece of news, article, reports, PDFs, or blogs on the web.
+###Requirements
+1. ####Pull quotes
+Please provide an intriguing pull quotes from this piece.
+If this pull quote indicates the main content of this piece, then no further information is needed; otherwise, please also include the main question that this piece is trying to answer.
+2. ####Link
+The link to this piece.
