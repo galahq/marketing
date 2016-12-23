@@ -6,6 +6,14 @@ Text:
 
 Edgenotes are complementary multimedia features that provide a jumping-off point for deeper exploration within a case. These   materials aim to enhance the learning experience by curating the most relevant content available. (link: http://www.lib.umich.edu/askwith-media-library text:Askwith Media Library) has partnered with MSC to help case makers find authoritative, captivating material for Edgenotes.
 
+Edgenotes should meet the following criteria:
+- Be from a reliable source. A librarian or the faculty advisor can help student authors determine the reliability of a source.
+- Be current and up-to-date, unless an Edgenote is exploring some historical aspect.
+- Link to a stable URL if possible.
+- Be thoughtfully placed in the narrative. Ask yourself, 'What value does an Edgenote add here?'
+- Vary in type. In other words, it's best to have a mix of different types of Edgenotes.
+- Be generally interesting. If you, as the author, think it's a boring Edgenote, it probably is!
+
 For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: image/graphic, video, audio, and external links. Please refer to the sections below for a detailed list of requirements for each Edgenote type. 
 
 ##Image/graphic
