@@ -85,7 +85,7 @@ Two elements should be included in every MSC Podcast.
     <th>Outro</th>
   </tr>
   <tr>
-    <td>~30 seconds introduce yourself and the topic of the show.  Who will we hear from?</td>
+    <td>In the opening ~30 seconds introduce yourself and the topic of the show.  Who will we hear from?</td>
     <td>End with a final thought. Credit the guests, and end with the closing statement.</td>
   </tr>
   <tr>
