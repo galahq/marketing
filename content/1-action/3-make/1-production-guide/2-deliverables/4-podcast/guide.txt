@@ -5,7 +5,7 @@ Title: Podcast
 Text: 
 
 ##What is an MSC Podcast
-MSC podcasts are radio segments produced by case authors in collaboration with University of Michigan’s student-run radio station WCBN-FM. They provide diverse and in-depth insights to accompany a case text by adding context, opening dialogue and debate, and including critical perspectives. 
+MSC podcasts are radio segments produced by case authors in collaboration with the University of Michigan’s student-run radio station WCBN-FM. They provide diverse and in-depth insights to accompany a case text by adding context, opening dialogue and debate, and including critical perspectives. 
 
 MSC podcasts should be roughly 30-50 minutes long.  The goal is to have time to get into details while staying interesting. 
 
