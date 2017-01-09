@@ -2,13 +2,13 @@ Title: Submit Proposal
 
 ----
 
-Text:
+Text: 
 
 MSC accepts proposals on a rolling basis.
 
 The MSC curricular advisors meet at least once a semester to review proposals. Therefore your submitted proposals will be reviewed within four months of submission. We will notify you if your proposal is selected. 
 
-*MSC proposal submission is temporarily closed for the holiday season, and will reopen on January 10 2017.*
+*MSC proposal submission is temporarily closed for the holiday season, and will reopen on January 16 2017.*
 
 You can review (link:https://umich.box.com/shared/static/0tartibmqdj2ut2e330619z1gy0l8dw5.pdf text:this rubric that we use to evaluate the proposals).
 
@@ -18,11 +18,11 @@ You can review (link:https://umich.box.com/shared/static/0tartibmqdj2ut2e330619z
 
 ----
 
-Tagline:
+Tagline: 
 
 ----
 
-Description:
+Description: 
 
 ----
 
@@ -30,20 +30,52 @@ Pagetagline: Submit a Proposal for an MSC
 
 ----
 
-Pagesubtagline:
+Pagesubtagline: 
 
 ----
 
-Subdescription:
+Subdescription: 
 
 ----
 
-Link:
+Link: 
 
 ----
 
-Wbg:
+Wbg: 
 
 ----
 
-Timeline:
+Timeline: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Elementexamples: 
+
+----
+
+Coremembers: 
+
+----
+
+Othermembers: 
