@@ -101,6 +101,16 @@ Coremembers:
     ####Chris Askew-Merwin
     #####Podcast Coordinator
 - 
+  profilepic: '(imgix: malavika_sahai.jpg alt:Malavika Sahai size:374)'
+  nameandtitle: |
+    ####Malavika Sahai
+    #####Podcast Producer
+- 
+  profilepic: '(imgix: patrick_conway.jpg alt:Patrick Conway size:374)'
+  nameandtitle: |
+    ####Patrick Conway
+    #####Podcast Editor
+- 
   profilepic: '(imgix: meg_czerwinski.jpg alt:Meg Czerwinski size:374)'
   nameandtitle: |
     ####Meg Czerwinski
@@ -110,6 +120,16 @@ Coremembers:
   nameandtitle: |
     ####Anil Bhargava
     #####Assessment Specialist
+- 
+  profilepic: '(imgix: arman_golrokhian.jpg alt:Arman Golrokhian size:374)'
+  nameandtitle: |
+    ####Arman Golrokhian
+    #####Production Facilitator
+- 
+  profilepic: '(imgix: andrew_klooster.jpg alt:Andrew Klooster size:374)'
+  nameandtitle: |
+    ####Andrew Klooster
+    #####Writer and Editor
 
 ----
 
