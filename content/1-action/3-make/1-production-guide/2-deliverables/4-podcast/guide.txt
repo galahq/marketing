@@ -147,7 +147,7 @@ A podcast cover page is needed along with the audio podcast itself. The podcast 
 
 (imgix:instruction_podcast.png alt:podcast page demo)
 
-*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/hjdsetcygq5of32m0bv6wu2wtvz8v9ks.docx text: podcast page template) to input your content.*
+*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/hjdsetcygq5of32m0bv6wu2wtvz8v9ks.docx text: podcast information submission template) to input your content.*
 1. ###Title of the podcast
 2. ###Name(s) and title(s) of guests
 3. ###Name(s) of host(s)
