@@ -18,7 +18,7 @@
         <h2><span><?php echo $element->title() ?></span>
         <?php echo $element->tagline() ?></h2>
         <?php echo kirbytext($element->subdescription()) ?>
-        <button class="c-button" onclick="window.location.href='<?php echo $element->link() ?>'">More</button>
+        <a href="<?php echo $element->link() ?>" class="c-button">More</a>
       </div>
       </section>
     <?php endforeach ?>
