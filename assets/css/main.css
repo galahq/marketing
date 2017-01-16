@@ -2133,6 +2133,37 @@ code {
   .o-search-box__button:hover {
     background: #02284b; }
 
+.o-search-filters {
+  border-bottom: 1px solid #9c9c9c;
+  margin-top: 0.5em; }
+  .o-search-filters h5 {
+    display: inline-block;
+    float: left;
+    margin-right: 2em; }
+  .o-search-filters ul {
+    margin-bottom: 0; }
+    .o-search-filters ul li {
+      display: inline-block;
+      padding: 0 1em;
+      border-right: 1px solid #9c9c9c; }
+
+.o-selected-filters {
+  border-bottom: 1px solid #9c9c9c;
+  margin-top: 0.5em;
+  padding-bottom: 0.5em; }
+  .o-selected-filters h5 {
+    display: inline-block;
+    float: left;
+    margin-right: 2em; }
+  .o-selected-filters ul {
+    margin-bottom: 0;
+    float: left; }
+    .o-selected-filters ul li {
+      display: inline-block;
+      padding: 0 1em; }
+      .o-selected-filters ul li:last-child {
+        padding-right: 2em; }
+
 .footer {
   background-color: #02284b;
   padding: 3em 0; }

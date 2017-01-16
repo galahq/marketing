@@ -16,8 +16,7 @@
   <input type="text" class="o-search-box__text" name="q" size="35" maxlength="120"><input type="submit" value="search" class="o-search-box__button">
 </form>
 
-
-<div>
+<div class="o-search-filters">
 <h5>Hosted by:</h5>
 <ul>
   <li>MSC</li>
@@ -25,7 +24,7 @@
 </ul>
 </div>
 
-<div>
+<div class="o-search-filters">
 <h5>Topic:</h5>
 <ul>
   <li>Case production</li>
@@ -36,13 +35,13 @@
 </ul>
 </div>
 
-<div>
+<div class="o-selected-filters">
 <h5>Selected filters:</h5>
 <ul>
   <li>MSC</li>
   <li>Case methodology</li>
 </ul>
-<h6>Clear all filters</h6>
+<h6><a href="#">Clear all filters</a></h6>
 </div>
 
 <div>

@@ -61,3 +61,51 @@
     }
   }
 }
+
+//search filters
+.o-search-filters {
+  border-bottom: 1px solid $ltgrey;
+  margin-top: 0.5em;
+
+  h5 {
+    display: inline-block;
+    float: left;
+    margin-right: 2em;
+  }
+
+  ul {
+    margin-bottom: 0;
+
+    li {
+      display: inline-block;
+      padding: 0 1em;
+      border-right: 1px solid $ltgrey;
+    }
+  }
+}
+
+.o-selected-filters {
+  border-bottom: 1px solid $ltgrey;
+  margin-top: 0.5em;
+  padding-bottom: 0.5em;
+
+  h5 {
+    display: inline-block;
+    float: left;
+    margin-right: 2em;
+  }
+
+  ul {
+    margin-bottom: 0;
+    float: left;
+
+    li {
+      display: inline-block;
+      padding: 0 1em;
+
+      &:last-child {
+        padding-right: 2em;
+      }
+    }
+  }
+}
