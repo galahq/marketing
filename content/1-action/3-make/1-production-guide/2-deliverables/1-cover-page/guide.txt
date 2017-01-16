@@ -9,7 +9,7 @@ The cover page is the first page to appear on the learning platform when someone
 (imgix: instruction-cover-page.png alt: cover page instruction)
 
 ##Requirements
-*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/66oeqshtts3ctx7h4lndjk4hpd7bazn4.docx text: cover page template) to input your content.*
+*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/66oeqshtts3ctx7h4lndjk4hpd7bazn4.docx text: cover page submission template) to input your content.*
 
 1. ###Title
 An MSC title consists of three components:

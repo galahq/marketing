@@ -14,7 +14,7 @@ Edgenotes should meet the following criteria:
 - Vary in type. In other words, it's best to have a mix of different types of Edgenotes.
 - Be generally interesting. If you, as the author, think it's a boring Edgenote, it probably is!
 
-For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: image/graphic, video, audio, and external links. Please refer to the sections below for a detailed list of requirements for each Edgenote type. 
+For each Edgenote, we need several pieces of information, which differ based on the Edgenote type: image/graphic, video, audio, and external links. Please refer to the sections below for a detailed list of requirements for each Edgenote type and *use this (link: https://umich.box.com/shared/static/98akoscxd6smgfbv68la5m40eq4d65lf.xlsx text: Edgenote submission template) to submit your Edgenotes.*
 
 ##Image/graphic
 ###Requirements
