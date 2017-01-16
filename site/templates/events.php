@@ -11,9 +11,11 @@
 </ul>
 </nav>
 
-<form method="get" action="http://www.teachmsc.org">
-        <input type="text"  name="q" size="21" maxlength="120"><input type="submit" value="search">
+
+<form id="o-search-box" method="get" action="http://www.teachmsc.org">
+  <input type="text" class="o-search-box__text" name="q" size="35" maxlength="120"><input type="submit" value="search" class="o-search-box__button">
 </form>
+
 
 <div>
 <h5>Hosted by:</h5>

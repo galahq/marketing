@@ -2111,6 +2111,28 @@ code {
     color: #056ac7;
     border-bottom: 2px solid #056ac7; }
 
+#o-search-box {
+  margin: 1.7em 0 1em 0; }
+
+.o-search-box__text {
+  border: 1px solid #35536f;
+  border-right: 0px;
+  padding: 0 0.5em;
+  border-top-left-radius: 5px 5px;
+  border-bottom-left-radius: 5px 5px; }
+.o-search-box__button {
+  cursor: pointer;
+  padding: 0 0.5em;
+  text-align: center;
+  text-decoration: none;
+  color: #F9F8F2;
+  border: solid 1px #02284b;
+  background: #35536f;
+  border-top-right-radius: 5px 5px;
+  border-bottom-right-radius: 5px 5px; }
+  .o-search-box__button:hover {
+    background: #02284b; }
+
 .footer {
   background-color: #02284b;
   padding: 3em 0; }

@@ -1,3 +1,4 @@
+//events nav
 .o-events-nav {
   ul {
     border-bottom: 2px solid $ltgrey;
@@ -26,6 +27,37 @@
     &:hover {
       color: $vividblue;
       border-bottom: 2px solid $vividblue;
+    }
+  }
+}
+
+//search form
+#o-search-box {
+  margin: 1.7em 0 1em 0;
+}
+
+.o-search-box {
+  &__text {
+  	border:1px solid $galablue;
+    border-right: 0px;
+    padding: 0 0.5em;
+  	border-top-left-radius: 5px 5px;
+  	border-bottom-left-radius: 5px 5px;
+  }
+
+  &__button {
+  	cursor: pointer;
+    padding: 0 0.5em;
+  	text-align: center;
+  	text-decoration: none;
+  	color: $ltoffwhite;
+  	border: solid 1px $umblue;
+  	background: $galablue;
+  	border-top-right-radius: 5px 5px;
+  	border-bottom-right-radius: 5px 5px;
+
+    &:hover {
+    	background: $umblue;
     }
   }
 }
