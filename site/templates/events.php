@@ -3,10 +3,13 @@
 
 <main class="main" role="main">
 <div class="t-site">
+
+<nav class="o-events-nav">
 <ul>
-  <li>Upcoming Events</li>
-  <li>Previous Events</li>
+  <li><a href="#" class="active">Upcoming Events</a></li>
+  <li><a href="#">Previous Events</a></li>
 </ul>
+</nav>
 
 <form method="get" action="http://www.teachmsc.org">
         <input type="text"  name="q" size="21" maxlength="120"><input type="submit" value="search">

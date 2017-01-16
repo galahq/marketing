@@ -2090,6 +2090,27 @@ code {
     .error .c-button:hover {
       background-color: #02284b; }
 
+.o-events-nav ul {
+  border-bottom: 2px solid #9c9c9c;
+  padding-bottom: 0.4em;
+  margin-left: 0; }
+.o-events-nav li {
+  font-family: "clarendon-urw", serif;
+  display: inline-block;
+  list-style: none;
+  margin-right: 1em;
+  margin-bottom: 0 !important; }
+.o-events-nav a {
+  color: #9c9c9c;
+  border-bottom: none;
+  padding: 0.5em 1.5em; }
+  .o-events-nav a.active {
+    color: #056ac7;
+    border-bottom: 2px solid #056ac7; }
+  .o-events-nav a:hover {
+    color: #056ac7;
+    border-bottom: 2px solid #056ac7; }
+
 .footer {
   background-color: #02284b;
   padding: 3em 0; }

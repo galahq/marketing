@@ -1,0 +1,31 @@
+.o-events-nav {
+  ul {
+    border-bottom: 2px solid $ltgrey;
+    padding-bottom: 0.4em;
+    margin-left: 0;
+  }
+
+  li {
+    font-family: $heading-default;
+    display: inline-block;
+    list-style: none;
+    margin-right: 1em;
+    margin-bottom: 0 !important;
+  }
+
+  a {
+    color: $ltgrey;
+    border-bottom: none;
+    padding: 0.5em 1.5em;
+
+    &.active {
+      color: $vividblue;
+      border-bottom: 2px solid $vividblue;
+    }
+
+    &:hover {
+      color: $vividblue;
+      border-bottom: 2px solid $vividblue;
+    }
+  }
+}
