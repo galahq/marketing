@@ -64,7 +64,7 @@
 
 //search filters
 .o-search-filters {
-  border-bottom: 1px solid $ltgrey;
+  border-bottom: 1px solid $ltltgrey;
   margin-top: 0.5em;
 
   h5 {
@@ -79,13 +79,13 @@
     li {
       display: inline-block;
       padding: 0 1em;
-      border-right: 1px solid $ltgrey;
+      border-right: 1px solid $ltltgrey;
     }
   }
 }
 
 .o-selected-filters {
-  border-bottom: 1px solid $ltgrey;
+  border-bottom: 1px solid $ltltgrey;
   margin-top: 0.5em;
   padding-bottom: 0.5em;
 
@@ -105,6 +105,48 @@
 
       &:last-child {
         padding-right: 2em;
+      }
+    }
+  }
+}
+
+//single event
+.o-single-event {
+  background: $white;
+  margin: 2em 0;
+  padding: 1em;
+  border: 1.5px solid $ltltgrey;
+  @include border-radius(5px);
+
+  &__date {
+    float: left;
+    margin-right: 0.5em;
+  }
+}
+
+.o-event-tags {
+  li {
+    display: inline-block;
+    list-style: none;
+    background: $ltltgrey;
+    padding: 0 0.5em;
+    margin: 0 0.2em;
+    @include border-radius(3px);
+  }
+}
+
+.o-event {
+  &-description{
+    flex: 3;
+  }
+  &-registration {
+    flex: 1;
+
+    ul{
+      margin-bottom: 0.5em;
+      li {
+        margin-bottom: auto;
+        list-style: none;
       }
     }
   }

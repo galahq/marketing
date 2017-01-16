@@ -2134,7 +2134,7 @@ code {
     background: #02284b; }
 
 .o-search-filters {
-  border-bottom: 1px solid #9c9c9c;
+  border-bottom: 1px solid #ddd;
   margin-top: 0.5em; }
   .o-search-filters h5 {
     display: inline-block;
@@ -2145,10 +2145,10 @@ code {
     .o-search-filters ul li {
       display: inline-block;
       padding: 0 1em;
-      border-right: 1px solid #9c9c9c; }
+      border-right: 1px solid #ddd; }
 
 .o-selected-filters {
-  border-bottom: 1px solid #9c9c9c;
+  border-bottom: 1px solid #ddd;
   margin-top: 0.5em;
   padding-bottom: 0.5em; }
   .o-selected-filters h5 {
@@ -2163,6 +2163,40 @@ code {
       padding: 0 1em; }
       .o-selected-filters ul li:last-child {
         padding-right: 2em; }
+
+.o-single-event {
+  background: white;
+  margin: 2em 0;
+  padding: 1em;
+  border: 1.5px solid #ddd;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px; }
+  .o-single-event__date {
+    float: left;
+    margin-right: 0.5em; }
+
+.o-event-tags li {
+  display: inline-block;
+  list-style: none;
+  background: #ddd;
+  padding: 0 0.5em;
+  margin: 0 0.2em;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px; }
+
+.o-event-description {
+  flex: 3; }
+.o-event-registration {
+  flex: 1; }
+  .o-event-registration ul {
+    margin-bottom: 0.5em; }
+    .o-event-registration ul li {
+      margin-bottom: auto;
+      list-style: none; }
 
 .footer {
   background-color: #02284b;

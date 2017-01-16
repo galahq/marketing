@@ -44,19 +44,23 @@
 <h6><a href="#">Clear all filters</a></h6>
 </div>
 
-<div>
-  <h2>Understanding Case-based teaching and learning</h2>
-  <ul>
-    <li>Wednesday, January 11, 2017</li>
-    <li>Lecture</li>
-    <li>Public</li>
-    <li>Hosted by: MSC</li>
-  </ul>
-  <ul>
-    <li>3:00</li>
-    <li>Ann Arbor, MI</li>
-    <li>Learn more/Register</li>
-  </ul>
+<div class="o-single-event o-flex-container">
+  <div class="o-event-description o-flex-item-growing">
+    <h2>Understanding Case-based teaching and learning</h2>
+    <p class="o-single-event__date">Wednesday, January 11, 2017</p>
+    <ul class="o-event-tags">
+      <li>Lecture</li>
+      <li>Public</li>
+      <li>Hosted by: MSC</li>
+    </ul>
+  </div>
+  <div class="o-event-registration o-flex-item-growing">
+    <ul>
+      <li class="o-event-time">3:00</li>
+      <li class="o-event-location">Ann Arbor, MI</li>
+    </ul>
+    <a class="c-button" href="#">Learn more/register</a>
+  </div>
 </div>
 
 </div><!--t-site-->
