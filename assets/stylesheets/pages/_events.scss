@@ -118,10 +118,14 @@
   border: 1.5px solid $ltltgrey;
   @include border-radius(5px);
 
-  &__date {
+  &__date, &__topic-area {
     float: left;
     margin-right: 0.5em;
   }
+}
+
+ul.o-event-tags {
+  margin-bottom: 0.5em;
 }
 
 .o-event-tags {
@@ -142,7 +146,7 @@
     margin-top: 0.5em;
 
     h2 {
-      margin-bottom: 0.7em;
+      margin-bottom: 0.9em;
     }
   }
   &-registration {

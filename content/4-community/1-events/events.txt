@@ -1,1 +1,19 @@
 Title: Events
+
+----
+
+Event-item: 
+
+----
+
+Eventitems: 
+
+- 
+  name: >
+    Understanding Case-based teaching and
+    learning
+  datetime: 2017-01-18 03:00:00
+  type: lecture
+  limitation: Public
+  host: MSC
+  topics: production, methodology
