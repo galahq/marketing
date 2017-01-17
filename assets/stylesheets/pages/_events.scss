@@ -45,6 +45,10 @@
 //search form
 #o-search-box {
   margin: 1.7em 0 1em 0;
+
+  @include breakpoint($mq-small) {
+    margin-top: 1em;
+  }
 }
 
 .o-search-box {
@@ -133,10 +137,23 @@
     float: left;
     margin-right: 0.5em;
   }
+
+  &__date {
+    @include breakpoint($mq-small) {
+      float: none;
+    }
+  }
+
+  @include breakpoint($mq-small) {
+    display: block;
+  }
 }
 
 ul.o-event-tags {
   margin-bottom: 0.5em;
+  @include breakpoint($mq-small) {
+    margin-left: 0;
+  }
 }
 
 .o-event-tags {
@@ -154,14 +171,22 @@ ul.o-event-tags {
   &-description{
     flex: 3;
     margin-left: 0.8em;
-    margin-top: 0.5em;
 
     h2 {
       margin-bottom: 0.9em;
     }
+
+    @include breakpoint($mq-small) {
+      margin-left: inherit;
+    }
   }
   &-registration {
     flex: 1;
+    margin-left: 1em;
+
+    @include breakpoint($mq-small) {
+      margin-left: inherit;
+    }
 
     ul{
       margin-bottom: 0.5em;
