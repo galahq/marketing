@@ -20,8 +20,10 @@ fields:
         label: Date and Time
         type: datetime
         date:
-          format: DD-MM-YYYY
+          type: date
+          format: MM-DD-YYYY
         time:
+          type: time
           format: 12
           interval: 15
       type:

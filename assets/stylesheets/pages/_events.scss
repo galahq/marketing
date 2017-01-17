@@ -4,6 +4,10 @@
     border-bottom: 2px solid $ltgrey;
     padding-bottom: 0.4em;
     margin-left: 0;
+
+    @include breakpoint($mq-small) {
+      border-bottom: 0;
+    }
   }
 
   li {
@@ -12,6 +16,13 @@
     list-style: none;
     margin-right: 1em;
     margin-bottom: 0 !important;
+
+    @include breakpoint($mq-small) {
+      &:last-child {
+        display: block;
+        margin-top: 1em;
+      }
+    }
   }
 
   a {
@@ -180,5 +191,8 @@ ul.o-event-tags {
 #previous-events {
   .c-breadcrumb--partial {
     display: none;
+    @include breakpoint($mq-small) {
+      display: inherit;
+    }
   }
 }

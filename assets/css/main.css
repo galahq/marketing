@@ -2094,12 +2094,19 @@ code {
   border-bottom: 2px solid #9c9c9c;
   padding-bottom: 0.4em;
   margin-left: 0; }
+  @media (max-width: 768px) {
+    .o-events-nav ul {
+      border-bottom: 0; } }
 .o-events-nav li {
   font-family: "clarendon-urw", serif;
   display: inline-block;
   list-style: none;
   margin-right: 1em;
   margin-bottom: 0 !important; }
+  @media (max-width: 768px) {
+    .o-events-nav li:last-child {
+      display: block;
+      margin-top: 1em; } }
 .o-events-nav a {
   color: #9c9c9c;
   border-bottom: none;
@@ -2215,6 +2222,9 @@ ul.o-event-tags {
 
 #previous-events .c-breadcrumb--partial {
   display: none; }
+  @media (max-width: 768px) {
+    #previous-events .c-breadcrumb--partial {
+      display: inherit; } }
 
 .footer {
   background-color: #02284b;
