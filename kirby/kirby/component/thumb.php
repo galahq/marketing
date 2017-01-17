@@ -168,7 +168,21 @@ class Thumb extends Component {
 
       $value = a::get($thumb->options, $long);
 
-      if($value === true) {
+      if($key === 'blur') {
+
+        if($value === false) {
+          continue;
+        }
+
+        $value = a::get($thumb->options, 'blurpx');
+
+        if($value == generator::$defaults['blurpx']) {
+          $string[] = $key;
+        } else {
+          $string[] = $key . $value;
+        }
+
+      } else if($value === true) {
         $string[] = $key;
       } else if($value === false) {
         continue;
