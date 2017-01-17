@@ -138,16 +138,35 @@
 .o-event {
   &-description{
     flex: 3;
+    margin-left: 0.8em;
+    margin-top: 0.5em;
+
+    h2 {
+      margin-bottom: 0.7em;
+    }
   }
   &-registration {
     flex: 1;
 
     ul{
       margin-bottom: 0.5em;
+      margin-left: 0;
+
       li {
         margin-bottom: auto;
         list-style: none;
+
+        span {
+          display: inline-block;
+          margin-right: 0.5em;
+        }
       }
+    }
+
+    .c-button {
+      text-transform: none;
+      padding: 0.3em 0.6em;
+      letter-spacing: initial;
     }
   }
 }

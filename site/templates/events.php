@@ -56,8 +56,8 @@
   </div>
   <div class="o-event-registration o-flex-item-growing">
     <ul>
-      <li class="o-event-time">3:00</li>
-      <li class="o-event-location">Ann Arbor, MI</li>
+      <li><span><img src="http://msc-public.imgix.net/icon-clock.png?w=28"></span>3:00</li>
+      <li><span><img src="http://msc-public.imgix.net/icon-location.png?w=28"></span>Ann Arbor, MI</li>
     </ul>
     <a class="c-button" href="#">Learn more/register</a>
   </div>

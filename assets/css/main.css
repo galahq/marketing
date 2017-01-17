@@ -2189,14 +2189,26 @@ code {
   border-radius: 3px; }
 
 .o-event-description {
-  flex: 3; }
+  flex: 3;
+  margin-left: 0.8em;
+  margin-top: 0.5em; }
+  .o-event-description h2 {
+    margin-bottom: 0.7em; }
 .o-event-registration {
   flex: 1; }
   .o-event-registration ul {
-    margin-bottom: 0.5em; }
+    margin-bottom: 0.5em;
+    margin-left: 0; }
     .o-event-registration ul li {
       margin-bottom: auto;
       list-style: none; }
+      .o-event-registration ul li span {
+        display: inline-block;
+        margin-right: 0.5em; }
+  .o-event-registration .c-button {
+    text-transform: none;
+    padding: 0.3em 0.6em;
+    letter-spacing: initial; }
 
 .footer {
   background-color: #02284b;
