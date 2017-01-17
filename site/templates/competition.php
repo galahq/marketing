@@ -3,12 +3,12 @@
 
 <main class="main" role="main">
 
-  <div class="o-flex-container t-site">
+  <div class="o-flex-container o-competition t-site">
 
     <nav class="o-guide__nav o-flex-item-growing">
       <?php $competitionitems = $pages->find('community')->find('case-competition')->children()->visible() ;?>
       <ul class="c-nest-menu__firstlevel">
-        <li><a href="<?php echo $pages->find('community')->find('case-competition')->url() ?>"<?php echo $pages->find('community')->find('case-competition')->title() ?></a></li>
+        <li><a href="<?php echo $pages->find('community')->find('case-competition')->url() ?>">Overview</a></li>
         <?php foreach($competitionitems as $competitionitem) :?>
         <li>
           <a href="<?php echo $competitionitem->url() ?>"><?php echo $competitionitem->title()?></a>

@@ -2,27 +2,29 @@ Title: Events
 
 ----
 
-Event-item: 
+Event-item:
 
 ----
 
-Eventitems: 
+Eventitems:
 
-- 
+-
   name: >
     Understanding Case-based teaching and
     learning
-  datetime: 2017-01-19 08:00:00
   type: lecture
   limitation: Public
   host: MSC
   topics: production, methodology
-- 
+  date: 2017-01-19
+  time: 12:30 PM
+-
   name: >
     How to write a form a good narrative in
     the case genre.
-  datetime: 2017-01-27 15:00:00
   type: workshop
   limitation: 'Open to: MSC authors'
   host: MSC
   topics: production
+  date: 2017-01-28
+  time: 09:00 PM

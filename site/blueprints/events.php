@@ -11,14 +11,19 @@ fields:
     label: Event item
     type: structure
     entry: >
-      {{name}} {{datetime}} {{type}} {{limitation}} {{host}} {{topics}}
+      {{name}} {{date}} {{time}} {{type}} {{limitation}} {{host}} {{topics}}
     fields:
       name:
         label: Name
         type: textarea
-      datetime:
-        label: Date and Time
-        type: datetime
+      date:
+        label: Date
+        type: date
+      time:
+        label: Time
+        type: time
+        format: 12
+        interval: 15
       type:
         label: Type
         type: checkboxes

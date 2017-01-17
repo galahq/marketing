@@ -55,7 +55,7 @@
 <div class="o-single-event o-flex-container">
   <div class="o-event-description o-flex-item-growing">
     <h2><?php echo $eventitem->name() ?></h2>
-    <p class="o-single-event__date"><?php echo $eventitem->datetime()->date() ?></p>
+    <p class="o-single-event__date"><?php echo $eventitem->date('l F j, Y') ?></p>
     <ul class="o-event-tags">
       <li><?php echo $eventitem->type() ?></li>
       <li><?php echo $eventitem->limitation() ?></li>
@@ -70,7 +70,7 @@
   </div>
   <div class="o-event-registration o-flex-item-growing">
     <ul>
-      <li><span><img srcset="http://msc-public.imgix.net/icon-clock.png?w=28&amp; 1x,http://msc-public.imgix.net/icon-clock.png?w=56&amp; 2x,http://msc-public.imgix.net/icon-clock.png?w=84&amp; 3x," src="http://msc-public.imgix.net/icon-clock.png?w=28&amp;" alt="icon for time"></span><?php echo $eventitem->datetime()->time() ?></li>
+      <li><span><img srcset="http://msc-public.imgix.net/icon-clock.png?w=28&amp; 1x,http://msc-public.imgix.net/icon-clock.png?w=56&amp; 2x,http://msc-public.imgix.net/icon-clock.png?w=84&amp; 3x," src="http://msc-public.imgix.net/icon-clock.png?w=28&amp;" alt="icon for time"></span><?php echo $eventitem->time() ?></li>
       <li><span><img srcset="http://msc-public.imgix.net/icon-location.png?w=28&amp; 1x,http://msc-public.imgix.net/icon-location.png?w=56&amp; 2x,http://msc-public.imgix.net/icon-location.png?w=84&amp; 3x," src="http://msc-public.imgix.net/icon-location.png?w=28&amp;" alt="icon for location"></span>Ann Arbor, MI</li>
     </ul>
     <a class="c-button" href="#">Learn more/register</a>
