@@ -2210,6 +2210,9 @@ code {
     padding: 0.3em 0.6em;
     letter-spacing: initial; }
 
+#previous-events .c-breadcrumb--partial {
+  display: none; }
+
 .footer {
   background-color: #02284b;
   padding: 3em 0; }

@@ -6,8 +6,8 @@
 
 <nav class="o-events-nav">
 <ul>
-  <li><a href="#" class="active">Upcoming Events</a></li>
-  <li><a href="#">Previous Events</a></li>
+  <li><a href="<?php echo $pages->find('community')->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming Events</a></li>
+  <li><a href="<?php echo $pages->find('community')->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous Events</a></li>
 </ul>
 </nav>
 
