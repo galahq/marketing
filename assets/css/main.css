@@ -2145,13 +2145,14 @@ code {
     padding: 0 0.5em;
     text-align: center;
     text-decoration: none;
-    color: #02284b;
-    border: solid 1px #02284b;
+    color: #35536f;
+    border: solid 1px #35536f;
+    border-left: 0;
     background: white;
     border-top-right-radius: 5px 5px;
     border-bottom-right-radius: 5px 5px; }
     .o-search-box__button:hover {
-      background: #02284b; }
+      color: #02284b; }
 
 .o-search-filters {
   border-bottom: 1px solid #ddd;

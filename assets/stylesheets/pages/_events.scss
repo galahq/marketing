@@ -77,14 +77,15 @@
     padding: 0 0.5em;
   	text-align: center;
   	text-decoration: none;
-    color: $umblue;
-  	border: solid 1px $umblue;
+    color: $galablue;
+  	border: solid 1px $galablue;
+    border-left: 0;
   	background: $white;
   	border-top-right-radius: 5px 5px;
   	border-bottom-right-radius: 5px 5px;
 
     &:hover {
-    	background: $umblue;
+    	color: $umblue;
     }
   }
 }

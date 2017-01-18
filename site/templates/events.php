@@ -14,7 +14,7 @@
 <div class="o-search-box">
   <input type="text" class="o-search-box__text" name="q"
     oninput="SortEvents.setQueryString(event.currentTarget.value)"
-  ><div class="o-search-box__active-filters"></div><input type="button" class="o-search-box__button" onclick="SortEvents.clearFilters()" value="×" />
+  ><div class="o-search-box__active-filters"></div><input type="button" class="o-search-box__button" onclick="SortEvents.clearFilters()" value="clear all ×" />
 </div>
 
 <div class="o-search-filters">
