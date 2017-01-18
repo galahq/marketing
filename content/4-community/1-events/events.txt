@@ -2,13 +2,13 @@ Title: Events
 
 ----
 
-Event-item:
+Event-item: 
 
 ----
 
-Eventitems:
+Eventitems: 
 
--
+- 
   name: >
     Understanding Case-based teaching and
     learning
@@ -18,7 +18,8 @@ Eventitems:
   topics: production, methodology
   date: 2017-01-19
   time: 12:30 PM
--
+  location: Ann Arbor, MI
+- 
   name: >
     How to write a form a good narrative in
     the case genre.
@@ -28,3 +29,26 @@ Eventitems:
   topics: production
   date: 2017-01-28
   time: 09:00 PM
+  location: San Francisco, CA
+- 
+  name: >
+    Understanding Case-based teaching and
+    assessment
+  date: 2017-01-28
+  time: 02:30 AM
+  type: lecture
+  limitation: Public
+  host: LSA
+  topics: production, methodology
+  location: Paris, France
+- 
+  name: >
+    Steve Yaffee shares his teaching
+    experience.
+  date: 2017-02-19
+  time: 10:45 PM
+  type: workshop
+  limitation: Public
+  host: SNRE
+  topics: teaching
+  location: Kyoto, Japan

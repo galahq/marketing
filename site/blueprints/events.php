@@ -34,8 +34,15 @@ fields:
       limitation:
         label: Limitation
         type: text
+        default: Public
       host:
         label: Host
+        type: text
+      location:
+        label: Location
+        type: text
+      locationlink:
+        label: Location link
         type: text
       topics:
         label: Topics
