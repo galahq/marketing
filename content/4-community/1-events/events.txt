@@ -19,6 +19,7 @@ Eventitems:
   date: 2017-01-19
   time: 12:30 PM
   location: Ann Arbor, MI
+  locationlink: https://www.google.com/maps
 - 
   name: >
     How to write a form a good narrative in
@@ -30,6 +31,7 @@ Eventitems:
   date: 2017-01-28
   time: 09:00 PM
   location: San Francisco, CA
+  locationlink: https://www.google.com/maps
 - 
   name: >
     Understanding Case-based teaching and
@@ -41,6 +43,7 @@ Eventitems:
   host: LSA
   topics: production, methodology
   location: Paris, France
+  locationlink: https://www.google.com/maps
 - 
   name: >
     Steve Yaffee shares his teaching
@@ -52,3 +55,4 @@ Eventitems:
   host: SNRE
   topics: teaching
   location: Kyoto, Japan
+  locationlink: https://www.google.com/maps

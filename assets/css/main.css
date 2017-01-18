@@ -2242,7 +2242,8 @@ ul.o-event-tags {
     .o-event-registration ul li {
       margin-bottom: auto;
       list-style: none;
-      display: flex; }
+      display: flex;
+      margin-bottom: 0.2em; }
       .o-event-registration ul li span {
         display: inline-block;
         margin-right: 0.5em; }
