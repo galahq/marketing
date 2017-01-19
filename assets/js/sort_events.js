@@ -100,6 +100,7 @@ var SortEvents = {
     );
     SortEvents.render();
   },
+
   ////////////
   // Rendering
   //
@@ -127,7 +128,7 @@ var SortEvents = {
   renderSelectedFilters: function () {
     SortEvents.renderSearchBox();
     SortEvents.renderTags();
-
+    SortEvents.displayClearButton();
   },
 
   renderSearchBox: function () {
@@ -163,7 +164,17 @@ var SortEvents = {
         { label: 'Type', value: state.type, onRemove: 'SortEvents.setType(null)' }
       ));
     }
-  }
+  },
+
+  displayClearButton: function () {
+    var state = SortEvents.filterState;
+    var button = $('.o-search-box__button a');
+    if (state.host || state.type || state.topics.size > 0 || state.queryString.length > 0) {
+      button.show();
+    } else {
+      button.hide();
+    }
+  },
 
 }
 
