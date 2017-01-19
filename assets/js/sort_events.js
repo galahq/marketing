@@ -134,9 +134,7 @@ var SortEvents = {
   renderSearchBox: function () {
     var state = SortEvents.filterState.queryString;
     var input = $('.o-search-box__text');
-
-    var valueWidth = state.length * 10 + 20;
-    input.css('width', Math.min(Math.max(200, valueWidth), 600));
+    
     if (input.val() !== state) {
       input.val(state);
     }

@@ -2127,7 +2127,7 @@ code {
     padding: 0 0.5em;
     border-top-left-radius: 5px 5px;
     border-bottom-left-radius: 5px 5px;
-    width: 200px; }
+    width: 100%; }
   .o-search-box__active-filters {
     display: flex;
     align-items: center;
