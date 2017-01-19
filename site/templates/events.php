@@ -4,43 +4,47 @@
 <main class="main" role="main">
 <div class="t-site">
 
+<div class="hero__text">
+  <h1>Events</h1>
+</div>
+
 <nav class="o-events-nav">
 <ul>
-  <li><a href="<?php echo $pages->find('community')->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming Events</a></li>
-  <li><a href="<?php echo $pages->find('community')->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous Events</a></li>
+  <li><a href="<?php echo $pages->find('community')->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming</a></li>
+  <li><a href="<?php echo $pages->find('community')->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous</a></li>
 </ul>
 </nav>
 
 <div class="o-search-box">
   <input type="text" class="o-search-box__text" name="q"
     oninput="SortEvents.setQueryString(event.currentTarget.value)"
-  ><div class="o-search-box__active-filters"></div><input type="button" class="o-search-box__button" onclick="SortEvents.clearFilters()" value="clear all ×" />
+  ><div class="o-search-box__active-filters"></div><div class="o-search-box__button"><a style="display: none"  onclick="SortEvents.clearFilters()">clear all ×</a></div>
 </div>
 
 <div class="o-search-filters">
 <h5>Hosted by:</h5>
 <ul>
-  <li><a href="#" onclick="SortEvents.setHost('MSC')">MSC</a></li>
-  <li><a href="#" onclick="SortEvents.setHost('Others')">Other institutions</a></li>
+  <li><label for="msc"><input type="checkbox" id="msc" name="host" onclick="SortEvents.setHost('MSC')"> MSC</label></li>
+  <li><label for="other"><input type="checkbox" id="other" name="host" onclick="SortEvents.setHost('Others')"> Other institutions</label></li>
 </ul>
 </div>
 
 <div class="o-search-filters">
 <h5>Topic:</h5>
 <ul>
-  <li><a href="#" onclick="SortEvents.addTopic('production')">Case production</a></li>
-  <li><a href="#" onclick="SortEvents.addTopic('methodology')">Case methodology</a></li>
-  <li><a href="#" onclick="SortEvents.addTopic('assessment')">Assessment and evaluation</a></li>
-  <li><a href="#" onclick="SortEvents.addTopic('teaching')">Case teaching</a></li>
+  <li><label for="production"><input type="checkbox" id="production" name="topic" onclick="SortEvents.addTopic('production')"> Case production</label></li>
+  <li><label for="methodology"><input type="checkbox" id="methodology" name="topic" onclick="SortEvents.addTopic('methodology')"> Case methodology</label></li>
+  <li><label for="assessment"><input type="checkbox" id="assessment" name="topic" onclick="SortEvents.addTopic('assessment')"> Assessment and evaluation</label></li>
+  <li><label for="teaching"><input type="checkbox" id="teaching" name="topic" onclick="SortEvents.addTopic('teaching')"> Case teaching</label></li>
 </ul>
 </div>
 
 <div class="o-search-filters">
 <h5>Type:</h5>
 <ul>
-  <li><a href="#" onclick="SortEvents.setType('workshop')">Workshop</a></li>
-  <li><a href="#" onclick="SortEvents.setType('lecture')">Lecture</a></li>
-  <li><a href="#" onclick="SortEvents.setType('webinar')">Webinar</a></li>
+  <li><label for="workshop"><input type="checkbox" id="workshop" name="type" onclick="SortEvents.setType('workshop')"> Workshop</label></li>
+  <li><label for="lecture"><input type="checkbox" id="lecture" name="type" onclick="SortEvents.setType('lecture')"> Lecture</label></li>
+  <li><label for="webinar"><input type="checkbox" id="webinar" name="type" onclick="SortEvents.setType('webinar')"> Webinar</label></li>
 </ul>
 </div>
 
