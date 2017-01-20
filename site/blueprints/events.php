@@ -28,9 +28,9 @@ fields:
         label: Type
         type: checkboxes
         options:
-          workshop: Workshop
-          lecture: Lecture
-          webinar: Webinar
+          Workshop: Workshop
+          Lecture: Lecture
+          Webinar: Webinar
       limitation:
         label: Limitation
         type: text
@@ -48,7 +48,7 @@ fields:
         label: Topics
         type: checkboxes
         options:
-          production: Case production
-          methodology: Case methodology
-          assessment: Assessment and evaluation
-          teaching: Case teaching
+          Case production: Case production
+          Case methodology: Case methodology
+          Assessment and evaluation: Assessment and evaluation
+          Case teaching: Case teaching

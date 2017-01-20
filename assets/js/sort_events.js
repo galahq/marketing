@@ -110,7 +110,7 @@ var SortEvents = {
   },
 
   filterEvents: function () {
-    var allEvents = $(".o-single-event");
+    var allEvents = $(".c-single-event");
     var filters = SortEvents.getFilterFunctions();
 
     allEvents.each(function (i, e) {
@@ -134,7 +134,7 @@ var SortEvents = {
   renderSearchBox: function () {
     var state = SortEvents.filterState.queryString;
     var input = $('.o-search-box__text');
-    
+
     if (input.val() !== state) {
       input.val(state);
     }

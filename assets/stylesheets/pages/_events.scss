@@ -1,5 +1,5 @@
 //events nav
-.o-events-nav {
+.c-events-nav {
   ul {
     border-bottom: 2px solid $ltgrey;
     padding-bottom: 0.4em;
@@ -89,68 +89,49 @@
 }
 
 //search filters
-.o-search-filters {
-  border-bottom: 1px solid $ltltgrey;
-  margin-top: 0.5em;
-
-  h5 {
-    display: inline-block;
-    float: left;
-    margin-right: 2em;
+.c-search-filters {
+  h3 {
+    font-size: 1em;
+    margin-bottom: 1em;
   }
+  &__category {
+    border-bottom: 1px solid $ltltgrey;
+    margin-top: 0.5em;
+    display: flex;
+    align-items: center;
 
-  ul {
-    margin-bottom: 0;
-
-    li {
-      display: inline-block;
-      padding: 0 1em;
-      border-right: 1px solid $ltltgrey;
-
-      a {
-        border-bottom: 0;
-      }
+    h4 {
+      flex-basis: 4.2em;
+      font-size: 0.8em;
     }
-  }
-}
 
-.o-selected-filters {
-  border-bottom: 1px solid $ltltgrey;
-  margin-top: 0.5em;
-  padding-bottom: 0.5em;
+    ul {
+      margin-bottom: 0;
+      margin-left: 0;
 
-  h5 {
-    display: inline-block;
-    float: left;
-    margin-right: 2em;
-  }
+      li {
+        display: inline-block;
+        padding: 0 0.6em;
 
-  ul {
-    margin-bottom: 0;
-    float: left;
-
-    li {
-      display: inline-block;
-      padding: 0 1em;
-
-      &:last-child {
-        padding-right: 2em;
+        a {
+          border-bottom: 0;
+        }
       }
     }
   }
 }
 
 //single event
-.o-single-event {
+.c-single-event {
   background: $white;
   margin: 2em 0;
   padding: 1em;
   border: 1.5px solid $ltltgrey;
   @include border-radius(5px);
+  align-items: center;
 
-  &__date, &__topic-area {
-    float: left;
-    margin-right: 0.5em;
+  p {
+    margin-bottom: 0;
   }
 
   &__date {
@@ -164,14 +145,15 @@
   }
 }
 
-ul.o-event-tags {
-  margin-bottom: 0.5em;
+ul.c-event-tags {
+  margin-bottom: 0.3em;
+  margin-left: 0.5em;
   @include breakpoint($mq-small) {
     margin-left: 0;
   }
 }
 
-.o-event-tags {
+.c-event-tags {
   li {
     display: inline-block;
     list-style: none;
@@ -182,13 +164,13 @@ ul.o-event-tags {
   }
 }
 
-.o-event {
+.c-event {
   &-description{
     flex: 3;
     margin-left: 0.8em;
 
-    h2 {
-      margin-bottom: 0.9em;
+    &__topics {
+      display: flex;
     }
 
     @include breakpoint($mq-small) {
@@ -197,37 +179,34 @@ ul.o-event-tags {
   }
   &-registration {
     flex: 1;
-    margin-left: 1em;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
 
     @include breakpoint($mq-small) {
-      margin-left: inherit;
+      margin-top: 0.5em;
+      margin-right: inherit;
     }
 
-    ul{
-      margin-bottom: 0.5em;
-      margin-left: 0;
+    p {
+      margin-bottom: auto;
+      display: flex;
 
-      li {
-        margin-bottom: auto;
-        list-style: none;
-        display: flex;
-        margin-bottom: 0.2em;
+      img {
+        display: inline-block;
+        margin-right: 0.5em;
+      }
 
-        span {
-          display: inline-block;
-          margin-right: 0.5em;
-        }
-
-        a {
-          border-bottom: 0;
-        }
+      a {
+        border-bottom: 0;
       }
     }
 
     .c-button {
       text-transform: none;
-      padding: 0.3em 0.6em;
+      padding: 0.4em 0.6em;
       letter-spacing: initial;
+      margin-top: 0.5em;
     }
   }
 }

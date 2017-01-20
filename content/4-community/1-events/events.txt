@@ -12,10 +12,10 @@ Eventitems:
   name: >
     Understanding Case-based teaching and
     learning
-  type: lecture
+  type: Workshop
   limitation: Public
   host: MSC
-  topics: production, methodology
+  topics: Case methodology, Case teaching
   date: 2017-01-19
   time: 12:30 PM
   location: Ann Arbor, MI
@@ -24,10 +24,12 @@ Eventitems:
   name: >
     How to write a form a good narrative in
     the case genre.
-  type: workshop
-  limitation: 'Open to: MSC authors'
+  type: Lecture
+  limitation: MSC authors
   host: MSC
-  topics: production
+  topics: >
+    Case production, Assessment and
+    evaluation
   date: 2017-01-28
   time: 09:00 PM
   location: San Francisco, CA
@@ -38,10 +40,10 @@ Eventitems:
     assessment
   date: 2017-01-28
   time: 02:30 AM
-  type: lecture
+  type: Webinar
   limitation: Public
   host: LSA
-  topics: production, methodology
+  topics: Case production
   location: Paris, France
   locationlink: https://www.google.com/maps
 - 
@@ -50,9 +52,9 @@ Eventitems:
     experience.
   date: 2017-02-19
   time: 10:45 PM
-  type: workshop
+  type: Webinar
   limitation: Public
   host: SNRE
-  topics: teaching
+  topics: Case methodology
   location: Kyoto, Japan
   locationlink: https://www.google.com/maps
