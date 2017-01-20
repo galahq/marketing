@@ -260,11 +260,17 @@ ul.c-event-tags {
 }
 
 // H1
-.events {
+.events, .previous-events {
   .hero__text {
     h1 {
       padding-top: 0.4em;
       padding-bottom: 0.7em;
     }
+  }
+}
+
+.previous-events {
+  .c-button {
+    margin-top: 0;
   }
 }
