@@ -52,32 +52,36 @@
 </ul>
 </div>
 
-<?php foreach($page->eventitems()->toStructure()->sortBy($sort='date', $direction='asc') as $eventitem): ?>
-<div class="c-single-event o-flex-container"
-  data-event-type="<?php echo $eventitem->type() ?>"
-  data-event-host="<?php echo $eventitem->host() ?>"
-  data-event-topics="<?php echo $eventitem->topics() ?>"
-  data-event-name="<?php echo $eventitem->name() ?>"
->
-  <div class="c-event-description o-flex-item-growing">
-    <div class="c-event-description__topics">
-      <p>Topics:</p>
-      <ul class="c-event-tags">
-        <?php foreach($eventitem->topics()->split() as $eventtopic): ?>
-        <li><?php echo $eventtopic ?></li>
-        <?php endforeach ?>
-      </ul>
+<?php foreach($pages->find('community')->find('events')->eventitems()->toStructure()->sortBy($sort='date', $direction='asc') as $eventitem): ?>
+
+  <?php if($eventitem->date("Y-m-d") < date("Y-m-d")):?>
+
+    <div class="c-single-event o-flex-container"
+      data-event-type="<?php echo $eventitem->type() ?>"
+      data-event-host="<?php echo $eventitem->host() ?>"
+      data-event-topics="<?php echo $eventitem->topics() ?>"
+      data-event-name="<?php echo $eventitem->name() ?>"
+    >
+      <div class="c-event-description o-flex-item-growing">
+        <div class="c-event-description__topics">
+          <p>Topics:</p>
+          <ul class="c-event-tags">
+            <?php foreach($eventitem->topics()->split() as $eventtopic): ?>
+            <li><?php echo $eventtopic ?></li>
+            <?php endforeach ?>
+          </ul>
+        </div>
+        <h2><?php echo $eventitem->name() ?></h2>
+        <p><?php echo $eventitem->date('l F j, Y') ?> — <?php echo $eventitem->type() ?></p>
+        <p>Hosted by: <?php echo $eventitem->host() ?></p>
+      </div>
+      <div class="c-event-registration o-flex-item-growing">
+        <div>
+          <a class="c-button" href="#">Learn more/materials</a>
+        </div>
+      </div>
     </div>
-    <h2><?php echo $eventitem->name() ?></h2>
-    <p><?php echo $eventitem->date('l F j, Y') ?> — <?php echo $eventitem->type() ?></p>
-    <p>Hosted by: <?php echo $eventitem->host() ?></p>
-  </div>
-  <div class="c-event-registration o-flex-item-growing">
-    <div>
-      <a class="c-button" href="#">Learn more/materials</a>
-    </div>
-  </div>
-</div>
+  <?php endif ?>
 <?php endforeach ?>
 
 </div><!--t-site-->

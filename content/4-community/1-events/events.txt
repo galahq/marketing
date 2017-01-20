@@ -16,7 +16,7 @@ Eventitems:
   limitation: Public
   host: MSC
   topics: Case methodology, Case teaching
-  date: 2017-01-19
+  date: 2017-01-20
   time: 12:30 PM
   location: Ann Arbor, MI
   locationlink: https://www.google.com/maps
@@ -30,7 +30,7 @@ Eventitems:
   topics: >
     Case production, Assessment and
     evaluation
-  date: 2017-01-28
+  date: 2017-01-08
   time: 09:00 PM
   location: San Francisco, CA
   locationlink: https://www.google.com/maps
@@ -58,3 +58,15 @@ Eventitems:
   topics: Case methodology
   location: Kyoto, Japan
   locationlink: https://www.google.com/maps
+- 
+  name: MSC Global Case Competition
+  date: 2018-03-09
+  time: 07:45 PM
+  type: Workshop
+  limitation: Public
+  host: MSC
+  location: SNRE
+  locationlink: '#'
+  topics: >
+    Case production, Case methodology,
+    Assessment and evaluation, Case teaching
