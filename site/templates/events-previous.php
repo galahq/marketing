@@ -52,7 +52,7 @@
 </ul>
 </div>
 
-<?php foreach($pages->find('community')->find('events')->eventitems()->toStructure()->sortBy($sort='date', $direction='asc') as $eventitem): ?>
+<?php foreach($pages->find('community')->find('events')->eventitems()->toStructure()->sortBy($sort='date', $direction='desc') as $eventitem): ?>
 
   <?php if($eventitem->date("Y-m-d") < date("Y-m-d")):?>
 
