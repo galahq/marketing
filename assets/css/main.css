@@ -2112,21 +2112,27 @@ code {
     color: #056ac7;
     border-bottom: 2px solid #056ac7; }
 
-#o-search-box {
-  margin: 1.7em 0 1em 0; }
+.o-search-box {
+  margin: 2em 0 1em 0; }
   @media (max-width: 768px) {
-    #o-search-box {
+    .o-search-box {
       margin-top: 1em; } }
 
 .o-search-box {
   display: flex;
   justify-content: flex-start; }
-  .o-search-box__text {
-    border: 1px solid #35536f;
+  .o-search-box span {
+    border: 1px solid #9c9c9c;
     border-right: 0px;
-    padding: 0 0.5em;
     border-top-left-radius: 5px 5px;
     border-bottom-left-radius: 5px 5px;
+    background: white;
+    padding: 0.5em; }
+  .o-search-box__text {
+    border: 1px solid #9c9c9c;
+    border-right: 0px;
+    border-left: 0px;
+    padding: 0 0.5em;
     width: 100%; }
   .o-search-box__active-filters {
     display: flex;
@@ -2140,7 +2146,7 @@ code {
     text-align: center;
     text-decoration: none;
     color: #35536f;
-    border: solid 1px #35536f;
+    border: solid 1px #9c9c9c;
     border-left: 0;
     background: white;
     border-top-right-radius: 5px 5px;

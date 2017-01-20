@@ -16,7 +16,8 @@
 </nav>
 
 <div class="o-search-box">
-  <input type="text" class="o-search-box__text" name="q"
+  <span><img srcset="http://msc-public.imgix.net/magnifier.png?w=24&amp; 1x,http://msc-public.imgix.net/magnifier.png?w=48&amp; 2x,http://msc-public.imgix.net/magnifier.png?w=72&amp; 3x," src="http://msc-public.imgix.net/magnifier.png?w=24&amp;" alt="icon for time"></span>
+  <input type="text" class="o-search-box__text" placeholder="Search input" name="q"
     oninput="SortEvents.setQueryString(event.currentTarget.value)"
   ><div class="o-search-box__active-filters"></div><div class="o-search-box__button"><a style="display: none"  onclick="SortEvents.clearFilters()">clear all ×</a></div>
 </div>
