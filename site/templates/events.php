@@ -53,7 +53,7 @@
 </div>
 
 <?php if($page->eventitems() == ''):?>
-<p>There is no upcoming events. You can checkout <a href="../../../previous-events">information and materials from previous events</a>.</p>
+<p style="margin-top: 2.5em; margin-bottom: 4em;">There is no upcoming events. You can checkout <a href="events/previous-events">information and materials from previous events</a>.</p>
 
 <?php else: ?>
 
