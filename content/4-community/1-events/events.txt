@@ -20,20 +20,22 @@ Eventitems:
   time: 12:30 PM
   location: Ann Arbor, MI
   locationlink: https://www.google.com/maps
+  eventlink: '#'
 - 
   name: >
     How to write a form a good narrative in
     the case genre.
-  type: Lecture
+  type: Workshop
   limitation: MSC authors
-  host: MSC
-  topics: >
-    Case production, Assessment and
-    evaluation
-  date: 2017-01-08
-  time: 09:00 PM
-  location: San Francisco, CA
-  locationlink: https://www.google.com/maps
+  host: Sweetland Center for Writing
+  topics: Case production
+  date: 2017-02-03
+  time: 12:00 PM
+  location: Ann Arbor, MI
+  locationlink: >
+    https://www.google.com/maps/place/University+of+Michigan+Sweetland+Center+for+Writing/@42.2807509,-83.7423366,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae403f7e5d7b:0xc44a4a574475ad2c!8m2!3d42.2807509!4d-83.7401479
+  eventlink: >
+    https://www.facebook.com/events/609613002581826/
 - 
   name: >
     Understanding Case-based teaching and
@@ -46,6 +48,7 @@ Eventitems:
   topics: Case production
   location: Paris, France
   locationlink: https://www.google.com/maps
+  eventlink: '#'
 - 
   name: >
     Steve Yaffee shares his teaching
@@ -58,6 +61,7 @@ Eventitems:
   topics: Case methodology
   location: Kyoto, Japan
   locationlink: https://www.google.com/maps
+  eventlink: '#'
 - 
   name: MSC Global Case Competition
   date: 2018-03-09
@@ -70,3 +74,4 @@ Eventitems:
   topics: >
     Case production, Case methodology,
     Assessment and evaluation, Case teaching
+  eventlink: '#'

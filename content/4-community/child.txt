@@ -2,11 +2,11 @@ Title: Community
 
 ----
 
-Tagline:
+Tagline: 
 
 ----
 
-Description:
+Description: 
 
 ----
 
@@ -18,62 +18,56 @@ Pagesubtagline: Communicate &middot; Connect &middot; Grow
 
 ----
 
-Subdescription:
+Subdescription: 
 
 ----
 
-Text:
-This page intends to share MSC impacts on campus, nation wide and around the globe. More importantly, MSC intends to foster a learning community around case based learning and innovations around sustainability teaching.
+Text: 
 
-Twitter:
-Facebook:
+MSC intends to foster a learning community around case based learning and innovations around sustainability teaching. We hope the impact extends beyond the Michigan campus, to nation wide and around the globe. 
 
-Facebook discussion groups:
-
-Campus-wide impact news:
-
-International impact news: 
+You can connect with us through our (link: https://twitter.com/learnmsc text:Twitter) or (link: https://www.facebook.com/makemsc/ text:Facebook), participate in our (link: community/events text: events), or take part in our (link: community/case-competition text: Global Case Competition).
 
 ----
 
-Link:
+Link: 
 
 ----
 
-Feature:
+Feature: 
 
 ----
 
-Featureimg:
+Featureimg: 
 
 ----
 
-Umschools:
+Umschools: 
 
 ----
 
-Umunits:
+Umunits: 
 
 ----
 
-Otherpartners:
+Otherpartners: 
 
 ----
 
-Wbg:
+Wbg: 
 
 ----
 
-Timeline:
+Timeline: 
 
 ----
 
-Elementexamples:
+Elementexamples: 
 
 ----
 
-Coremembers:
+Coremembers: 
 
 ----
 
-Othermembers:
+Othermembers: 

@@ -11,7 +11,7 @@ fields:
     label: Event item
     type: structure
     entry: >
-      {{name}} {{date}} {{time}} {{type}} {{limitation}} {{host}} {{topics}}
+      {{name}} {{date}} {{time}} {{type}} {{limitation}} {{host}} {{eventlink}} {{topics}}
     fields:
       name:
         label: Name
@@ -43,6 +43,9 @@ fields:
         type: text
       locationlink:
         label: Location link
+        type: text
+      eventlink:
+        label: Link to the event
         type: text
       topics:
         label: Topics

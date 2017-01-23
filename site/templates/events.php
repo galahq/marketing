@@ -86,7 +86,7 @@
             <a href="<?php echo $eventitem->locationlink() ?>"><?php echo $eventitem->location() ?></a>
           </p>
           <p>Open to: <?php echo $eventitem->limitation() ?></p>
-          <a class="c-button" href="#">Learn more/register</a>
+          <a class="c-button" href="<?php echo $eventitem->eventlink() ?>">Learn more/register</a>
         </div>
       </div>
     </div>

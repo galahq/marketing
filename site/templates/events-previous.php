@@ -77,7 +77,7 @@
       </div>
       <div class="c-event-registration o-flex-item-growing">
         <div>
-          <a class="c-button" href="#">Learn more/materials</a>
+          <a class="c-button" href="<?php echo $eventitem->eventlink() ?>">Learn more/materials</a>
         </div>
       </div>
     </div>
