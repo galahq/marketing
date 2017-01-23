@@ -497,6 +497,9 @@ figcaption {
     .o-video--fullwidth iframe {
       height: 300px; } }
 
+figure.o-video--fullwidth {
+  margin-bottom: 2em; }
+
 body {
   color: #3b3f4e;
   line-height: 1.5em;
