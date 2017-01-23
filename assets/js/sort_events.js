@@ -16,7 +16,7 @@ var SortEvents = {
   // Getters
   //
   getNameFilter: function () {
-    var q = SortEvents.filterState.queryString;
+    var q = this.filterState.queryString;
     if (q !== "") {
       return function (e) {
         var r = new RegExp(q, 'i');
@@ -28,7 +28,7 @@ var SortEvents = {
   },
 
   getHostFilter: function () {
-    var host = SortEvents.filterState.host;
+    var host = this.filterState.host;
     if (!host) {
       return TRUE;
     } else if (host === "MSC") {
@@ -39,7 +39,7 @@ var SortEvents = {
   },
 
   getTypeFilter: function () {
-    var type = SortEvents.filterState.type;
+    var type = this.filterState.type;
     if (!type) {
       return TRUE;
     } else {
@@ -48,8 +48,8 @@ var SortEvents = {
   },
 
   getTopicsFilter: function () {
-    // const queryTopics = [...SortEvents.filterState.topics]  // ES2015
-    var queryTopics = [].concat(_toConsumableArray(SortEvents.filterState.topics));
+    // const queryTopics = [...this.filterState.topics]  // ES2015
+    var queryTopics = [].concat(_toConsumableArray(this.filterState.topics));
     if (queryTopics.length === 0) {
       return TRUE;
     } else {
@@ -65,10 +65,10 @@ var SortEvents = {
 
   getFilterFunctions: function () {
     return [  // [ Event => Bool]
-      SortEvents.getNameFilter(),
-      SortEvents.getHostFilter(),
-      SortEvents.getTypeFilter(),
-      SortEvents.getTopicsFilter(),
+      this.getNameFilter(),
+      this.getHostFilter(),
+      this.getTypeFilter(),
+      this.getTopicsFilter(),
     ];
   },
 
@@ -76,42 +76,60 @@ var SortEvents = {
   // Setters
   //
   setState: function(attr, value) {
-    SortEvents.filterState[attr] = value;
-    SortEvents.render();
+    this.filterState[attr] = value;
+    this.render();
   },
 
-  setQueryString: function (x) { SortEvents.setState("queryString", x); },
-  setHost: function (x) { SortEvents.setState("host", x); },
-  setType: function (x) { SortEvents.setState("type", x); },
+  toggleState: function(attr, value) {
+    if (this.filterState[attr] === value) {
+      this.filterState[attr] = null;
+    } else {
+      this.filterState[attr] = value;
+    }
+
+    this.render();
+  },
+
   addTopic: function (x) {
-    SortEvents.filterState.topics.add(x);
-    SortEvents.render();
+    this.filterState.topics.add(x);
+    this.render();
   },
   removeTopic: function (x) {
-    SortEvents.filterState.topics.delete(x);
-    SortEvents.render();
+    this.filterState.topics.delete(x);
+    this.render();
+  },
+
+  setQueryString: function (x) { this.setState("queryString", x); },
+  toggleHost: function (x) { this.toggleState("host", x); },
+  toggleType: function (x) { this.toggleState("type", x); },
+  toggleTopic: function (x) {
+    if (this.filterState.topics.has(x)) {
+      this.removeTopic(x);
+    } else {
+      this.addTopic(x);
+    }
   },
 
   clearFilters: function () {
-    SortEvents.filterState = _extends(
+    this.filterState = _extends(
       {},
       DEFAULT_FILTER_STATE,
       {topics: new Set()}
     );
-    SortEvents.render();
+    this.render();
   },
 
   ////////////
   // Rendering
   //
   render: function() {
-    SortEvents.filterEvents();
-    SortEvents.renderSelectedFilters();
+    this.filterEvents();
+    this.renderSelectedFilters();
   },
 
   filterEvents: function () {
     var allEvents = $(".c-single-event");
-    var filters = SortEvents.getFilterFunctions();
+    var filters = this.getFilterFunctions();
 
     allEvents.each(function (i, e) {
       var eventVisible = filters
@@ -126,13 +144,14 @@ var SortEvents = {
   },
 
   renderSelectedFilters: function () {
-    SortEvents.renderSearchBox();
-    SortEvents.renderTags();
-    SortEvents.displayClearButton();
+    this.renderSearchBox();
+    this.renderTags();
+    this.displayClearButton();
+    this.renderCheckboxes();
   },
 
   renderSearchBox: function () {
-    var state = SortEvents.filterState.queryString;
+    var state = this.filterState.queryString;
     var input = $('.o-search-box__text');
 
     if (input.val() !== state) {
@@ -141,37 +160,50 @@ var SortEvents = {
   },
 
   renderTags: function () {
-    var state = SortEvents.filterState;
+    var state = this.filterState;
     var activeFilters = $(".o-search-box__active-filters");
     activeFilters.empty();
 
     if (state.host) {
       activeFilters.append(Tag(
-        { label: 'Host', value: state.host, onRemove: 'SortEvents.setHost(null)' }
+        { label: 'Host', value: state.host, onRemove: 'this.setHost(null)' }
       ));
     }
 
     state.topics.forEach(function (topic) {
       activeFilters.append(Tag(
-        { label: 'Topic', value: topic, onRemove: "SortEvents.removeTopic('" + topic + "')" }
+        { label: 'Topic', value: topic, onRemove: "this.removeTopic('" + topic + "')" }
       ));
     });
 
     if (state.type) {
       activeFilters.append(Tag(
-        { label: 'Type', value: state.type, onRemove: 'SortEvents.setType(null)' }
+        { label: 'Type', value: state.type, onRemove: 'this.setType(null)' }
       ));
     }
   },
 
   displayClearButton: function () {
-    var state = SortEvents.filterState;
+    var state = this.filterState;
     var button = $('.o-search-box__button a');
     if (state.host || state.type || state.topics.size > 0 || state.queryString.length > 0) {
       button.show();
     } else {
       button.hide();
     }
+  },
+
+  renderCheckboxes: function () {
+    var s = this.filterState
+    $('#msc').prop('checked', s.host === "MSC");
+    $('#other').prop('checked', s.host && s.host !== "MSC");
+    $('#workshop').prop('checked', s.type === "Workshop");
+    $('#lecture').prop('checked', s.type === "Lecture");
+    $('#webinar').prop('checked', s.type === "Webinar");
+    $('#production').prop('checked', s.topics.has("Case production"));
+    $('#methodology').prop('checked', s.topics.has("Case methodology"));
+    $('#assessment').prop('checked', s.topics.has("Assessment and evaluation"));
+    $('#teaching').prop('checked', s.topics.has("Case teaching"));
   },
 
 }
