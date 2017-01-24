@@ -2123,7 +2123,8 @@ code {
     border-bottom: 2px solid #056ac7; }
 
 .o-search-box {
-  margin: 2em 0 1em 0; }
+  margin: 2em 0 1em 0;
+  position: relative; }
   @media (max-width: 768px) {
     .o-search-box {
       margin-top: 1em; } }
@@ -2131,36 +2132,33 @@ code {
 .o-search-box {
   display: flex;
   justify-content: flex-start; }
-  .o-search-box span {
-    border: 1px solid #9c9c9c;
-    border-right: 0px;
-    border-top-left-radius: 5px 5px;
-    border-bottom-left-radius: 5px 5px;
-    background: white;
+  .o-search-box img {
+    position: absolute;
+    left: 0;
     padding: 0.5em; }
   .o-search-box__text {
+    padding: 0.3em 0.3em 0.3em 2.2em;
+    width: 100%;
     border: 1px solid #9c9c9c;
-    border-right: 0px;
-    border-left: 0px;
-    padding: 0 0.5em;
-    width: 100%; }
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px; }
   .o-search-box__active-filters {
-    display: flex;
-    align-items: center;
-    background: white;
-    border-top: solid 1px #02284b;
-    border-bottom: solid 1px #02284b; }
+    position: absolute;
+    top: 0.2em;
+    right: 4em; }
   .o-search-box__button {
     cursor: pointer;
     padding: 0 0.5em;
     text-align: center;
     text-decoration: none;
     color: #35536f;
-    border: solid 1px #9c9c9c;
     border-left: 0;
-    background: white;
-    border-top-right-radius: 5px 5px;
-    border-bottom-right-radius: 5px 5px; }
+    position: absolute;
+    right: 0.1em;
+    font-size: 0.8em;
+    top: 0.3em; }
     .o-search-box__button:hover {
       color: #02284b; }
 
