@@ -2,13 +2,13 @@ Title: Events
 
 ----
 
-Event-item: 
+Event-item:
 
 ----
 
-Eventitems: 
+Eventitems:
 
-- 
+-
   name: >
     Understanding Case-based teaching and
     learning
@@ -21,7 +21,7 @@ Eventitems:
   location: Ann Arbor, MI
   locationlink: https://www.google.com/maps
   eventlink: '#'
-- 
+-
   name: >
     How to write a form a good narrative in
     the case genre.
@@ -36,7 +36,7 @@ Eventitems:
     https://www.google.com/maps/place/University+of+Michigan+Sweetland+Center+for+Writing/@42.2807509,-83.7423366,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae403f7e5d7b:0xc44a4a574475ad2c!8m2!3d42.2807509!4d-83.7401479
   eventlink: >
     https://www.facebook.com/events/609613002581826/
-- 
+-
   name: >
     Understanding Case-based teaching and
     assessment
@@ -49,7 +49,7 @@ Eventitems:
   location: Paris, France
   locationlink: https://www.google.com/maps
   eventlink: '#'
-- 
+-
   name: >
     Steve Yaffee shares his teaching
     experience.
@@ -62,7 +62,7 @@ Eventitems:
   location: Kyoto, Japan
   locationlink: https://www.google.com/maps
   eventlink: '#'
-- 
+-
   name: MSC Global Case Competition
   date: 2018-03-09
   time: 07:45 PM

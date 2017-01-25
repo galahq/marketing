@@ -10,8 +10,8 @@
 
 <nav class="c-events-nav">
 <ul>
-  <li><a href="<?php echo $pages->find('community')->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming</a></li>
-  <li><a href="<?php echo $pages->find('community')->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous</a></li>
+  <li><a href="<?php echo $pages->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming</a></li>
+  <li><a href="<?php echo $pages->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous</a></li>
 </ul>
 </nav>
 
