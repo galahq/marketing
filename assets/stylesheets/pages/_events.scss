@@ -36,17 +36,22 @@
 .o-search-box {
   margin: 2em 0 1em 0;
   position: relative;
+  border:1px solid $ltgrey;
+  border-radius: 5px;
+  background-color: white;
+  padding: 0 0.5em;
 
   @include breakpoint($mq-small) {
     margin-top: 1em;
   }
 }
 
+.c-active-filters-container {
+  border-top: 0;
+  min-height: 1.8em;
+}
+
 .o-search-box {
-  display: flex;
-  justify-content: flex-start;
-
-
   img {
     position: absolute;
     left: 0;
@@ -56,27 +61,21 @@
   &__text {
     padding: 0.3em 0.3em 0.3em 2.2em;
     width: 100%;
-    border:1px solid $ltgrey;
-    @include border-radius(5px);
+    border-radius: 5px 5px 0 0;
+    border-bottom: 1px solid $ltltgrey;
   }
 
   &__active-filters {
-    position: absolute;
-    top: 0.2em;
-    right: 4em;
+    float: left;
   }
 
   &__button {
   	cursor: pointer;
     padding: 0 0.5em;
-  	text-align: center;
   	text-decoration: none;
     color: $galablue;
     border-left: 0;
-    position: absolute;
-    right: 0.1em;
     font-size: 0.8em;
-    top: 0.3em;
 
 
     &:hover {

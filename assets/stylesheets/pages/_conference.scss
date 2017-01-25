@@ -1,18 +1,40 @@
-.conference {
-  .c-breadcrumb {
-    display: none;
-  }
+.conference .main {
+  margin-top: 0;
 }
 
 //Menu for conference type pages
-.c-conference__menu {
-  background-color: lighten($brown, 10%);
-  color: darken($brown, 30%);
-  padding-top: 0.5em;
+.c-conference__hero {
+  background: url("http://msc-public.imgix.net/caseconf_cover.jpg");
+  height: 500px;
+  background-size: cover;
+}
 
+.c-conference__menu {
+  padding-top: 0.5em;
   position: sticky;
   top: 0;
   z-index: 100;
+
+  .c-conference__logo {
+    display: flex;
+    align-items: baseline;
+  }
+
+  img {
+    position: absolute;
+  }
+
+  h1 {
+    position: absolute;
+    left: 102px;
+    font-family: $heading-default;
+    font-style: normal;
+    span {
+      margin-top: 1em;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
 
   @include breakpoint ($mq-small) {
     display: none;
@@ -20,6 +42,7 @@
 
   nav {
     justify-content: space-between;
+    position: relative;
 
     a {
       border-bottom: none;
@@ -34,7 +57,9 @@
   ul li {
     display: inline-block;
     list-style: none;
-    font-size: 0.8em;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    margin: 1em;
     flex: 1;
 
     .active {
@@ -42,7 +67,7 @@
     }
 
     a {
-      color: darken($brown, 30%);
+      border-bottom: 0;
     }
   }
 
