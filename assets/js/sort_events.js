@@ -166,19 +166,19 @@ var SortEvents = {
 
     if (state.host) {
       activeFilters.append(Tag(
-        { label: 'Host', value: state.host, onRemove: 'this.setHost(null)' }
+        { label: 'Host', value: state.host, onRemove: 'SortEvents.toggleHost(null)' }
       ));
     }
 
     state.topics.forEach(function (topic) {
       activeFilters.append(Tag(
-        { label: 'Topic', value: topic, onRemove: "this.removeTopic('" + topic + "')" }
+        { label: 'Topic', value: topic, onRemove: "SortEvents.removeTopic('" + topic + "')" }
       ));
     });
 
     if (state.type) {
       activeFilters.append(Tag(
-        { label: 'Type', value: state.type, onRemove: 'this.setType(null)' }
+        { label: 'Type', value: state.type, onRemove: 'SortEvents.toggleType(null)' }
       ));
     }
   },
