@@ -21,11 +21,11 @@
     <input type="text" class="o-search-box__text" placeholder="Search input" name="q"
       oninput="SortEvents.setQueryString(event.currentTarget.value)"
     >
-  </div>
-  <div class="c-active-filters-container">
-    <div class="o-search-box__active-filters"></div>
-    <div class="o-search-box__button"><a style="display: none"  onclick="SortEvents.clearFilters()">clear all ×</a></div>
-  </div>
+    </div>
+    <div class="c-active-filters-container">
+      <div class="o-search-box__active-filters"></div>
+      <div class="o-search-box__button"><a style="display: none" onclick="SortEvents.clearFilters()">clear all ×</a></div>
+    </div>
 </div>
 
 <div class="c-search-filters">

@@ -10,16 +10,22 @@
 
 <nav class="c-events-nav">
 <ul>
-  <li><a href="<?php echo $pages->find('community')->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming</a></li>
-  <li><a href="<?php echo $pages->find('community')->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('community')->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous</a></li>
+  <li><a href="<?php echo $pages->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming</a></li>
+  <li><a href="<?php echo $pages->find('events')->find('previous-events')->url() ?>" class="<?php e($pages->find('events')->find('previous-events')->isOpen(), 'active') ?>">Previous</a></li>
 </ul>
 </nav>
 
 <div class="o-search-box">
-  <span><img srcset="http://msc-public.imgix.net/magnifier.png?w=24&amp; 1x,http://msc-public.imgix.net/magnifier.png?w=48&amp; 2x,http://msc-public.imgix.net/magnifier.png?w=72&amp; 3x," src="http://msc-public.imgix.net/magnifier.png?w=24&amp;" alt="icon for search"></span>
-  <input type="text" class="o-search-box__text" placeholder="Search input" name="q"
-    oninput="SortEvents.setQueryString(event.currentTarget.value)"
-  ><div class="o-search-box__active-filters"></div><div class="o-search-box__button"><a style="display: none"  onclick="SortEvents.clearFilters()">clear all ×</a></div>
+  <div>
+    <span><img srcset="http://msc-public.imgix.net/magnifier.png?w=24&amp; 1x,http://msc-public.imgix.net/magnifier.png?w=48&amp; 2x,http://msc-public.imgix.net/magnifier.png?w=72&amp; 3x," src="http://msc-public.imgix.net/magnifier.png?w=24&amp;" alt="icon for search"></span>
+    <input type="text" class="o-search-box__text" placeholder="Search input" name="q"
+      oninput="SortEvents.setQueryString(event.currentTarget.value)"
+    >
+    </div>
+    <div class="c-active-filters-container">
+      <div class="o-search-box__active-filters"></div>
+      <div class="o-search-box__button"><a style="display: none" onclick="SortEvents.clearFilters()">clear all ×</a></div>
+    </div>
 </div>
 
 <div class="c-search-filters">
@@ -52,7 +58,7 @@
 </ul>
 </div>
 
-<?php foreach($pages->find('community')->find('events')->eventitems()->toStructure()->sortBy($sort='date', $direction='desc') as $eventitem): ?>
+<?php foreach($pages->find('events')->eventitems()->toStructure()->sortBy($sort='date', $direction='desc') as $eventitem): ?>
 
   <?php if($eventitem->date("Y-m-d") < date("Y-m-d")):?>
 
