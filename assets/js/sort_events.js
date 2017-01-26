@@ -185,7 +185,7 @@ var SortEvents = {
 
   displayClearButton: function () {
     var state = this.filterState;
-    var button = $('.o-search-box__button a');
+    var button = $('.o-search-box__button');
     if (state.host || state.type || state.topics.size > 0 || state.queryString.length > 0) {
       button.show();
     } else {
