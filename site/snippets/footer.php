@@ -1,7 +1,10 @@
 <footer class="footer u-clearfix" role="contentinfo">
-  <?php
-  $items = $pages->visible();// nested menu
-  ?>
+  <?php $items = [
+    $pages->find('action'),
+    $pages->find('element'),
+    $pages->find('msc')
+  ];?>
+
   <div class="t-site">
     <div class="footer__heading">
       <h4>Start learning with MSC. </h4>
