@@ -4,10 +4,6 @@
 <main class="main" role="main">
 <div class="t-site">
 
-<div class="hero__text">
-  <h1>Events</h1>
-</div>
-
 <nav class="c-events-nav">
 <ul>
   <li><a href="<?php echo $pages->find('events')->url() ?>" class="<?php e($page->isOpen() && !$pages->find('events')->find('previous-events')->isOpen(), 'active') ?>">Upcoming</a></li>

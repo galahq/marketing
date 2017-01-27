@@ -3,3 +3,27 @@ Title: previous-events
 ----
 
 Eventitems: 
+
+----
+
+Tagline: 
+
+----
+
+Description: 
+
+----
+
+Pagetagline: Events
+
+----
+
+Pagesubtagline: Communicate · Connect · Grow
+
+----
+
+Text: 
+
+----
+
+Link: 

@@ -263,16 +263,6 @@ ul.c-event-tags {
   }
 }
 
-// H1
-.events, .events-previous {
-  .hero__text {
-    h1 {
-      padding-top: 0.4em;
-      padding-bottom: 0.7em;
-    }
-  }
-}
-
 .events-previous {
   .c-button {
     margin-top: 0;
@@ -280,8 +270,12 @@ ul.c-event-tags {
 }
 
 //Events parent page
-.events {
-  .hero, .c-submenu__container {
+.events, .events-previous, .conference {
+  .c-submenu__container {
     display: none;
+  }
+
+  .hero {
+    margin-top: 0.2em;
   }
 }

@@ -7,6 +7,12 @@ fields:
   title:
     label: Title
     type:  text
+  pagetagline:
+    label: Page tagline
+    type: text
+  Pagesubtagline:
+    label: page subtagline
+    type: text
   eventitems:
     label: Event item
     type: structure

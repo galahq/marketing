@@ -2002,11 +2002,6 @@ code {
 .conference .main {
   margin-top: 0; }
 
-.c-conference__hero {
-  background: url("http://msc-public.imgix.net/caseconf_cover.jpg");
-  height: 500px;
-  background-size: cover; }
-
 .c-conference__menu {
   padding-top: 0.5em;
   position: sticky;
@@ -2309,15 +2304,13 @@ ul.c-event-tags {
   .o-tag-remove::before {
     content: '×'; }
 
-.events .hero__text h1, .events-previous .hero__text h1 {
-  padding-top: 0.4em;
-  padding-bottom: 0.7em; }
-
 .events-previous .c-button {
   margin-top: 0; }
 
-.events .hero, .events .c-submenu__container {
+.events .c-submenu__container, .events-previous .c-submenu__container, .conference .c-submenu__container {
   display: none; }
+.events .hero, .events-previous .hero, .conference .hero {
+  margin-top: 0.2em; }
 
 .footer {
   background-color: #02284b;

@@ -7,8 +7,6 @@ password: >
 language: en
 role: admin
 history:
-  - community
-  - community/events
-  - community/testimonials
-  - community/events/previous-events
+  - events/previous-events
+  - events
   - action/make/proposal

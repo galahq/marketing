@@ -2,8 +2,6 @@
 <?php snippet('header') ?>
 
 <main class="main" role="main">
-  <div class="c-conference__hero">
-  </div>
   <nav class="c-conference__menu t-site">
     <div class="c-conference__logo">
       <img srcset="http://msc-public.imgix.net/msc_logo_vertical.png?w=100&amp; 1x,http://msc-public.imgix.net/msc_logo_vertical.png?w=200&amp; 2x,http://msc-public.imgix.net/msc_logo_vertical.png?w=300&amp; 3x," src="http://msc-public.imgix.net/msc_logo_vertical.png?w=100&amp;" alt="icon for search">
