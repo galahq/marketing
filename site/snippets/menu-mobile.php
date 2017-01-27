@@ -1,4 +1,8 @@
-<?php $items = $pages->visible();?>
+<?php $items = [
+  $pages->find('action'),
+  $pages->find('element'),
+  $pages->find('msc')
+];?>
 
 <h5 class="c-button" id="c-menu-mobile--open">☰</h5>
 
@@ -45,6 +49,7 @@
         <?php $resources = [
           $pages->find('action')->find('make')->find('proposal'),
           $pages->find('action')->find('teach')->find('evaluation'),
+          $pages->find('events'),
           $pages->find('contact')
         ];
 
