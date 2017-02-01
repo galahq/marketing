@@ -2,15 +2,15 @@ Title: Team
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Tagline: 
+Tagline:
 
 ----
 
-Description: 
+Description:
 
 ----
 
@@ -22,110 +22,110 @@ Pagesubtagline: Interdisciplinary folks with different backgrounds and cultures.
 
 ----
 
-Link: 
+Link:
 
 ----
 
-Subdescription: 
+Subdescription:
 
 ----
 
-Wbg: 
+Wbg:
 
 ----
 
-Timeline: 
+Timeline:
 
 ----
 
-Feature: 
+Feature:
 
 ----
 
-Featureimg: 
+Featureimg:
 
 ----
 
-Umschools: 
+Umschools:
 
 ----
 
-Umunits: 
+Umunits:
 
 ----
 
-Otherpartners: 
+Otherpartners:
 
 ----
 
-Elementexamples: 
+Elementexamples:
 
 ----
 
-Coremembers: 
+Coremembers:
 
-- 
+-
   profilepic: '(imgix: rebecca_hardin.jpg alt:Rebecca Hardin size:374)'
   nameandtitle: |
     ####Rebecca Hardin
     #####Director
-- 
+-
   profilepic: '(imgix: meghan_wagner.jpg alt:Meghan Wagner size:374)'
   nameandtitle: |
     ####Meghan Wagner
     #####Project Coordinator
-- 
+-
   profilepic: '(imgix: pearl_zeng.jpg alt:Pearl Zeng size:374)'
   nameandtitle: |
     ####Pearl Zeng
     #####Learning Platform and Web Manager
-- 
+-
   profilepic: '(imgix: cameron_bothner.jpg alt:Cameron Bothner size:374)'
   title: 'Cameron Bothner <br>'
   nameandtitle: |
     ####Cameron Bothner
     #####Software Engineer
-- 
+-
   profilepic: '(imgix: mike_burbidge.jpg alt:Mike Burbidge size:374)'
   nameandtitle: |
     ####Mike Burbidge
     #####Media Coordinator
-- 
+-
   profilepic: '(imgix: ed_waisanen.jpg alt:Ed Waisanen size:374)'
   nameandtitle: |
     ####Ed Waisanen
     #####Podcast Director
-- 
+-
   profilepic: '(imgix: chris_askew.jpg alt:Chris Askew size:374)'
   nameandtitle: |
     ####Chris Askew-Merwin
     #####Podcast Coordinator
-- 
+-
   profilepic: '(imgix: malavika_sahai.jpg alt:Malavika Sahai size:374)'
   nameandtitle: |
     ####Malavika Sahai
     #####Podcast Producer
-- 
+-
   profilepic: '(imgix: patrick_conway.jpg alt:Patrick Conway size:374)'
   nameandtitle: |
     ####Patrick Conway
     #####Podcast Editor
-- 
+-
   profilepic: '(imgix: meg_czerwinski.jpg alt:Meg Czerwinski size:374)'
   nameandtitle: |
     ####Meg Czerwinski
     #####Evaluation Coordinator
-- 
+-
   profilepic: '(imgix: anil_bhargava.jpg alt:Anil_Bhargava size:374)'
   nameandtitle: |
     ####Anil Bhargava
     #####Assessment Specialist
-- 
+-
   profilepic: '(imgix: arman_golrokhian.jpg alt:Arman Golrokhian size:374)'
   nameandtitle: |
     ####Arman Golrokhian
     #####Production Facilitator
-- 
+-
   profilepic: '(imgix: andrew_klooster.jpg alt:Andrew Klooster size:374)'
   nameandtitle: |
     ####Andrew Klooster
@@ -133,7 +133,7 @@ Coremembers:
 
 ----
 
-Othermembers: 
+Othermembers:
 
 ### Team Contributors
 Marie Hooper — Web Interface Consultant
@@ -144,7 +144,7 @@ Arman Golrokhian — Production Facilitator
 Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
 
-### Curricular Advisors
+<h3 id="curricular-advisors">Curricular Advisors</h3>
 (link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
 (link:https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
 (link:http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
