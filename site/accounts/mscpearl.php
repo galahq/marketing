@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - action/make/proposal
+  - action/make/production-guide/process/funding-disbursement
   - action/make/production-guide/deliverables/podcast
   - action/make/production-guide/deliverables/teaching-guide
   - action/make/production-guide/deliverables/narrative
-  - action/make/production-guide/deliverables/cover-page
