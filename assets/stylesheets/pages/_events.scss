@@ -191,6 +191,9 @@ ul.c-event-tags {
     @include breakpoint($mq-small) {
       margin-top: 0.5em;
       margin-right: inherit;
+      justify-content: flex-start;
+      width: 100%;
+      position: relative;
     }
 
     p {
@@ -212,6 +215,11 @@ ul.c-event-tags {
       padding: 0.4em 0.6em;
       letter-spacing: initial;
       margin-top: 0.5em;
+      @include breakpoint($mq-small) {
+        position: absolute;
+        right: 0.1em;
+        bottom: 0;
+      }
     }
   }
 }
@@ -272,6 +280,10 @@ ul.c-event-tags {
 //Events parent page
 .events, .events-previous, .conference {
   .c-submenu__container {
+    display: none;
+  }
+
+  .c-breadcrumb--hidden {
     display: none;
   }
 

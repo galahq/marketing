@@ -2251,7 +2251,10 @@ ul.c-event-tags {
   @media (max-width: 768px) {
     .c-event-registration {
       margin-top: 0.5em;
-      margin-right: inherit; } }
+      margin-right: inherit;
+      justify-content: flex-start;
+      width: 100%;
+      position: relative; } }
   .c-event-registration p {
     margin-bottom: auto;
     display: flex; }
@@ -2265,6 +2268,11 @@ ul.c-event-tags {
     padding: 0.4em 0.6em;
     letter-spacing: initial;
     margin-top: 0.5em; }
+    @media (max-width: 768px) {
+      .c-event-registration .c-button {
+        position: absolute;
+        right: 0.1em;
+        bottom: 0; } }
 
 #previous-events .c-breadcrumb--partial {
   display: none; }
@@ -2308,6 +2316,8 @@ ul.c-event-tags {
   margin-top: 0; }
 
 .events .c-submenu__container, .events-previous .c-submenu__container, .conference .c-submenu__container {
+  display: none; }
+.events .c-breadcrumb--hidden, .events-previous .c-breadcrumb--hidden, .conference .c-breadcrumb--hidden {
   display: none; }
 .events .hero, .events-previous .hero, .conference .hero {
   margin-top: 0.2em; }
