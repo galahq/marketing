@@ -184,14 +184,12 @@ ul.c-event-tags {
   &-registration {
     flex: 1;
     display: flex;
-    justify-content: flex-end;
-    margin-left: 0.2em;
+    margin-left: 0.5em;
     margin-right: 0.8em;
 
     @include breakpoint($mq-small) {
       margin-top: 0.5em;
       margin-right: inherit;
-      justify-content: flex-start;
       width: 100%;
       position: relative;
     }

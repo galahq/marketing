@@ -37,6 +37,7 @@ fields:
           Workshop: Workshop
           Lecture: Lecture
           Webinar: Webinar
+          Other: Other
       limitation:
         label: Limitation
         type: text

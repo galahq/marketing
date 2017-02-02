@@ -40,6 +40,7 @@
     <li><label for="workshop"><input type="checkbox" id="workshop" name="type" onclick="SortEvents.toggleType('Workshop')"> Workshop</label></li>
     <li><label for="lecture"><input type="checkbox" id="lecture" name="type" onclick="SortEvents.toggleType('Lecture')"> Lecture</label></li>
     <li><label for="webinar"><input type="checkbox" id="webinar" name="type" onclick="SortEvents.toggleType('Webinar')"> Webinar</label></li>
+    <li><label for="othertypes"><input type="checkbox" id="othertypes" name="type" onclick="SortEvents.toggleType('Other')"> Other</label></li>
   </ul>
   </div>
 </div>
@@ -85,7 +86,7 @@
         <div>
           <p><span><img srcset="http://msc-public.imgix.net/icon-time.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-time.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-time.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-time.png?w=24&amp;" alt="icon for time"></span><?php echo $eventitem->time() ?></p>
           <p><span><img srcset="http://msc-public.imgix.net/icon-location.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-location.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-location.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-location.png?w=24&amp;" alt="icon for location"></span>
-            <a href="<?php echo $eventitem->locationlink() ?>"><?php echo $eventitem->location() ?></a>
+            <a href="<?php echo $eventitem->locationlink() ?>" target="_blank"><?php echo $eventitem->location() ?></a>
           </p>
           <p>Open to: <?php echo $eventitem->limitation() ?></p>
           <a class="c-button" href="<?php echo $eventitem->eventlink() ?>">Learn more/register</a>

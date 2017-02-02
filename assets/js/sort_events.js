@@ -200,6 +200,7 @@ var SortEvents = {
     $('#workshop').prop('checked', s.type === "Workshop");
     $('#lecture').prop('checked', s.type === "Lecture");
     $('#webinar').prop('checked', s.type === "Webinar");
+    $('#othertypes').prop('checked', s.type === "Other");
     $('#production').prop('checked', s.topics.has("Case production"));
     $('#methodology').prop('checked', s.topics.has("Case methodology"));
     $('#assessment').prop('checked', s.topics.has("Assessment and evaluation"));

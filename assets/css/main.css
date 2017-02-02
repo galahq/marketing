@@ -2245,14 +2245,12 @@ ul.c-event-tags {
 .c-event-registration {
   flex: 1;
   display: flex;
-  justify-content: flex-end;
-  margin-left: 0.2em;
+  margin-left: 0.5em;
   margin-right: 0.8em; }
   @media (max-width: 768px) {
     .c-event-registration {
       margin-top: 0.5em;
       margin-right: inherit;
-      justify-content: flex-start;
       width: 100%;
       position: relative; } }
   .c-event-registration p {
