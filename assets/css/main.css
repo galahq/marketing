@@ -776,9 +776,6 @@ h1 a, h2 a, h3 a, h4 a {
 
 .home__hero {
   background-position: absolute;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   background-position: 25% center;
   background-repeat: no-repeat;
@@ -816,9 +813,6 @@ h1 a, h2 a, h3 a, h4 a {
     padding-bottom: 1.5em; }
 
 .hero {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   color: #F9F8F2;

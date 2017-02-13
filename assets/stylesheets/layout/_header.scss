@@ -42,7 +42,7 @@
 //Home page banner
 .home__hero {
   background-position: absolute;
-  @include background-size(cover);
+  background-size: cover;
   background-position: 25% center;
   background-repeat: no-repeat;
   color: $ltoffwhite;
@@ -72,7 +72,7 @@
 
 //Parent page banner
 .hero {
-  @include background-size(cover);
+  background-size: cover;
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 400px;
