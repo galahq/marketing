@@ -56,7 +56,7 @@ main.home section {
   border-bottom: 1px solid $ltltgrey;
 
   &__content {
-    justify-content: space-between;
+    @include justify-content-space-between;
     align-items: center;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -134,7 +134,7 @@ main.home section {
   @include flex(2);
   @include display-flex;
   @include flex-direction-column;
-  @include justify-content(center);
+  @include justify-content-center;
 
   img {
     padding-right: 1.6em;
@@ -184,7 +184,7 @@ main.home section {
 
 //Vision
 .home__vision {
-  justify-content: center;
+  @include justify-content-center;
   text-align: left;
   padding: 1.4em 0 1.4em 2.4em;
 

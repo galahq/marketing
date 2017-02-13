@@ -1,6 +1,6 @@
 .o-flex-container {
 	@include display-flex;
-  @include justify-content(center);
+  @include justify-content-center;
   @include flex-direction-row;
 	@include flex-wrap(wrap);
 }

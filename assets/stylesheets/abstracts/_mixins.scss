@@ -1,23 +1,31 @@
 @mixin display-flex {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
 }
 
-@mixin justify-content($justify) {
-  -webkit-box-pack: $justify;
-     -moz-box-pack: $justify;
-     -ms-flex-pack: $justify;
-  -moz-justify-content: $justify;
-   justify-content: $justify;
+@mixin justify-content-center {
+  -webkit-box-pack: center;
+     -ms-flex-pack: center;
+   justify-content: center;
+}
+
+@mixin justify-content-space-between {
+  -webkit-box-pack: justify;
+     -ms-flex-pack: justify;
+   justify-content: space-between;
 }
 
 @mixin justify-content-start {
   -webkit-box-pack: start;
      -ms-flex-pack: start;
    justify-content: flex-start;
+}
+
+@mixin justify-content-end {
+  -webkit-box-pack: end;
+     -ms-flex-pack: end;
+   justify-content: flex-end;
 }
 
 @mixin flex-wrap($wrap) {
@@ -68,11 +76,7 @@
               flex: $growth $shrink $flex;
 }
 
-@mixin justify-content-space-between {
-  -webkit-box-pack: justify;
-     -ms-flex-pack: justify;
-   justify-content: space-between;
-}
+
 
 @mixin flex-align-items($align) {
   -webkit-box-align: $align;

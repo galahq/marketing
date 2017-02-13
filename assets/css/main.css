@@ -698,13 +698,9 @@ h1 a, h2 a, h3 a, h4 a {
 .o-flex-container {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
   -webkit-box-pack: center;
-  -moz-box-pack: center;
   -ms-flex-pack: center;
-  -moz-justify-content: center;
   justify-content: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -761,13 +757,9 @@ h1 a, h2 a, h3 a, h4 a {
         width: 100%;
         display: -webkit-box;
         display: -ms-flexbox;
-        display: -moz-box;
-        display: -webkit-flex;
         display: flex;
         -webkit-box-pack: center;
-        -moz-box-pack: center;
         -ms-flex-pack: center;
-        -moz-justify-content: center;
         justify-content: center;
         -webkit-box-align: center;
         -ms-flex-align: center;
@@ -783,24 +775,18 @@ h1 a, h2 a, h3 a, h4 a {
   height: 450px;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  -webkit-box-pack: space-between;
-  -moz-box-pack: space-between;
-  -ms-flex-pack: space-between;
-  -moz-justify-content: space-between;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
   justify-content: space-between; }
   @media (max-width: 768px) {
     .home__hero {
-      -webkit-box-pack: flex-end;
-      -moz-box-pack: flex-end;
-      -ms-flex-pack: flex-end;
-      -moz-justify-content: flex-end;
+      -webkit-box-pack: end;
+      -ms-flex-pack: end;
       justify-content: flex-end; } }
   .home__hero .t-site {
     width: 100%; }
@@ -959,8 +945,6 @@ ul.toc {
 .gala-embedded-card section {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -1036,6 +1020,8 @@ main.home section {
 .c-promotion {
   border-bottom: 1px solid #ddd; }
   .c-promotion__content {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
     align-items: center;
     padding-top: 1em;
@@ -1103,17 +1089,13 @@ main.home section {
   flex: 2;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
   -webkit-box-pack: center;
-  -moz-box-pack: center;
   -ms-flex-pack: center;
-  -moz-justify-content: center;
   justify-content: center; }
   .o-flex-mid-column img {
     padding-right: 1.6em; }
@@ -1151,6 +1133,8 @@ main.home section {
       color: #056ac7; }
 
 .home__vision {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
   text-align: left;
   padding: 1.4em 0 1.4em 2.4em; }
@@ -1304,17 +1288,13 @@ main.home section {
     width: 2em;
     display: -webkit-box;
     display: -ms-flexbox;
-    display: -moz-box;
-    display: -webkit-flex;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
     -webkit-box-pack: center;
-    -moz-box-pack: center;
     -ms-flex-pack: center;
-    -moz-justify-content: center;
     justify-content: center;
     -webkit-box-align: center;
     -ms-flex-align: center;
@@ -1545,8 +1525,6 @@ h2#make-a-case-funding-available {
   border-radius: 2pt;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
   -webkit-box-align: end;
   -ms-flex-align: end;
@@ -1587,9 +1565,9 @@ h2#make-a-case-funding-available {
   border-radius: 5px;
   display: -webkit-box;
   display: -ms-flexbox;
-  display: -moz-box;
-  display: -webkit-flex;
   display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
   background-size: cover;
   position: relative; }
@@ -1666,9 +1644,7 @@ h2#make-a-case-funding-available {
   @media (max-width: 768px) {
     .o-charts {
       -webkit-box-pack: center;
-      -moz-box-pack: center;
       -ms-flex-pack: center;
-      -moz-justify-content: center;
       justify-content: center; } }
   .o-charts--float {
     float: right;
@@ -1677,9 +1653,7 @@ h2#make-a-case-funding-available {
       .o-charts--float {
         float: none;
         -webkit-box-pack: center;
-        -moz-box-pack: center;
         -ms-flex-pack: center;
-        -moz-justify-content: center;
         justify-content: center;
         margin: 0 auto; } }
 
@@ -2024,6 +1998,8 @@ code {
     .c-conference__menu {
       display: none; } }
   .c-conference__menu nav {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
     position: relative; }
     .c-conference__menu nav a {
@@ -2348,6 +2324,8 @@ ul.c-event-tags {
       text-decoration: none; }
   .footer__bottom {
     border-top: 1px solid #9c9c9c;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
     margin-top: 2em; }
     @media (max-width: 768px) {

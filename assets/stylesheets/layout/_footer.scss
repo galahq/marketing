@@ -44,7 +44,7 @@
 
   &__bottom {
     border-top: 1px solid $ltgrey;
-    justify-content: space-between;
+    @include justify-content-space-between;
     margin-top: 2em;
 
     @include breakpoint($mq-small) {
