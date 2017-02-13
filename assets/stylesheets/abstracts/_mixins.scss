@@ -28,6 +28,24 @@
    justify-content: flex-end;
 }
 
+@mixin flex-align-items($align) {
+  -webkit-box-align: $align;
+     -ms-flex-align: $align;
+        align-items: $align;
+}
+
+@mixin flex-align-items-start {
+  -webkit-box-align: start;
+       -ms-flex-align: start;
+           align-items: flex-start;
+}
+
+@mixin flex-align-items-end {
+  -webkit-box-align: end;
+       -ms-flex-align: end;
+           align-items: flex-end;
+}
+
 @mixin flex-wrap($wrap) {
   -ms-flex-wrap: $wrap;
       flex-wrap: $wrap;
@@ -63,29 +81,12 @@
 
 @mixin flex($flex) {
   -webkit-box-flex: $flex;
-     -moz-box-flex: $flex;
-      -webkit-flex: $flex;
           -ms-flex: $flex;
               flex: $flex;
 }
 
 @mixin flex-tri-parameters($growth, $shrink, $flex) {
   -webkit-box-flex: $growth;
-     -moz-box-flex: $growth;
           -ms-flex: $growth $shrink $flex;
               flex: $growth $shrink $flex;
-}
-
-
-
-@mixin flex-align-items($align) {
-  -webkit-box-align: $align;
-     -ms-flex-align: $align;
-        align-items: $align;
-}
-
-@mixin flex-align-items-end {
-  -webkit-box-align: end;
-       -ms-flex-align: end;
-           align-items: flex-end;
 }
