@@ -94,7 +94,7 @@ main.home section {
     @include flex-tri-parameters(1, 1, 24%);
     margin: 0.5% 0.5% 1.5% 0.5%;
     background-color: lighten($offwhite, 9%);
-    @include border-radius(0.2rem);
+    border-radius: 0.2rem;
     transition: transform 0.1s ease 0.1s;
 
     @include breakpoint($mq-medium) {
@@ -175,7 +175,7 @@ main.home section {
 
   &:hover {
     transform: scale(1.03);
-    @include border-radius(0.2rem);
+    border-radius: 0.2rem;
     h3 {
       color: $vividblue;
     }
@@ -225,7 +225,7 @@ main.home section {
     font-size: 1.2em;
     width: 4rem;
     height: 4rem;
-    @include border-radius(4rem);
+    border-radius: 4rem;
     text-align: center;
     padding-top: 1.4rem;
     border-width: 3px;

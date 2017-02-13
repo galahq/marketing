@@ -69,7 +69,7 @@ blockquote {
   font-style: italic;
   background-color: $ltltgrey;
   padding: 1.5em 1em 1.5em 2em;
-  @include border-radius(5px);
+  border-radius: 5px;
   margin-bottom: 2.2em;
   border-left: 10px solid $ltgrey;
 

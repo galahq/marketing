@@ -131,7 +131,7 @@
   margin: 2em 0;
   padding: 1em;
   border: 1.5px solid $ltltgrey;
-  @include border-radius(5px);
+  border-radius: 5px;
   align-items: center;
 
   p {
@@ -164,7 +164,7 @@ ul.c-event-tags {
     background: $taggrey;
     padding: 0 0.5em;
     margin: 0 0.2em;
-    @include border-radius(3px);
+    border-radius: 3px;
   }
 }
 

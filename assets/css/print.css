@@ -414,9 +414,6 @@ blockquote {
   font-style: italic;
   background-color: #ddd;
   padding: 1.5em 1em 1.5em 2em;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
   border-radius: 5px;
   margin-bottom: 2.2em;
   border-left: 10px solid #9c9c9c; }
@@ -454,9 +451,6 @@ figcaption {
   margin-bottom: 1em; }
 
 .o-image--fullwidth img, .o-image--floatleft img, .o-image--floatright img {
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
   border-radius: 5px; }
 
 .o-image--floatleft {
@@ -950,9 +944,6 @@ footer > div {
 .c-button {
   background-color: transparent;
   border: 1px solid #35536f !important;
-  -webkit-border-radius: 0.5em;
-  -moz-border-radius: 0.5em;
-  -ms-border-radius: 0.5em;
   border-radius: 0.5em;
   color: #35536f;
   padding: 0.5em 2em;
@@ -1128,9 +1119,6 @@ main.home section {
     flex: 1 1 24%;
     margin: 0.5% 0.5% 1.5% 0.5%;
     background-color: #fffffe;
-    -webkit-border-radius: 0.2rem;
-    -moz-border-radius: 0.2rem;
-    -ms-border-radius: 0.2rem;
     border-radius: 0.2rem;
     transition: transform 0.1s ease 0.1s; }
     @media (max-width: 1024px) {
@@ -1210,9 +1198,6 @@ main.home section {
       padding-top: 0; } }
   .home__element:hover {
     transform: scale(1.03);
-    -webkit-border-radius: 0.2rem;
-    -moz-border-radius: 0.2rem;
-    -ms-border-radius: 0.2rem;
     border-radius: 0.2rem; }
     .home__element:hover h3 {
       color: #056ac7; }
@@ -1250,9 +1235,6 @@ main.home section {
     font-size: 1.2em;
     width: 4rem;
     height: 4rem;
-    -webkit-border-radius: 4rem;
-    -moz-border-radius: 4rem;
-    -ms-border-radius: 4rem;
     border-radius: 4rem;
     text-align: center;
     padding-top: 1.4rem;
@@ -1340,9 +1322,6 @@ main.home section {
   margin-bottom: 4em; }
   .u-actionitem section {
     background-color: white;
-    -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
     border-radius: 1rem;
     margin-bottom: 1em;
     max-height: 200px; }

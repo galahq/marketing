@@ -4,7 +4,7 @@
 
   section {
     background-color: $white;
-    @include border-radius(1rem);
+    border-radius: 1rem;
     margin-bottom: 1em;
     max-height: 200px;
 

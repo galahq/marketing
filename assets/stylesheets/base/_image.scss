@@ -21,7 +21,7 @@ figcaption {
 //Image classes that control the float
 .o-image--fullwidth, .o-image--floatleft, .o-image--floatright {
   img {
-    @include border-radius(5px);
+    border-radius: 5px;
   }
 }
 
