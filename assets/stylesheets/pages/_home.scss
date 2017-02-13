@@ -5,6 +5,9 @@
 }
 
 .home {
+  main {
+    margin-top: 0;
+  }
   h2 {
     margin-bottom: 1em;
   }
@@ -45,6 +48,40 @@ main.home section {
   color: $ltgrey;
   font-size: 0.9em;
   font-weight: 300;
+  }
+}
+
+//Promotion
+.c-promotion {
+  border-bottom: 1px solid $ltltgrey;
+
+  &__content {
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    @include breakpoint($mq-extra-small) {
+      display: block;
+    }
+
+    p {
+      margin-bottom: 0;
+      @include breakpoint($mq-extra-small) {
+        margin-bottom: 0.5em;
+      }
+    }
+
+    &__description {
+      color: darken($ltgrey, 5%);
+      font-size: 0.9em;
+      margin-right: 0.5em;
+    }
+
+    &__button {
+      font-size: 0.8em;
+      max-width: 10em;
+      padding: 0.5em 1.5em;
+    }
   }
 }
 

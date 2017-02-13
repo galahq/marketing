@@ -1059,6 +1059,8 @@ ul.toc {
   font-weight: 100;
   font-size: 44pt; }
 
+.home main {
+  margin-top: 0; }
 .home h2 {
   margin-bottom: 1em; }
 .home h3 {
@@ -1091,6 +1093,30 @@ main.home section {
     color: #9c9c9c;
     font-size: 0.9em;
     font-weight: 300; }
+
+.c-promotion {
+  border-bottom: 1px solid #ddd; }
+  .c-promotion__content {
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 1em; }
+    @media (max-width: 414px) {
+      .c-promotion__content {
+        display: block; } }
+    .c-promotion__content p {
+      margin-bottom: 0; }
+      @media (max-width: 414px) {
+        .c-promotion__content p {
+          margin-bottom: 0.5em; } }
+    .c-promotion__content__description {
+      color: #8f8f8f;
+      font-size: 0.9em;
+      margin-right: 0.5em; }
+    .c-promotion__content__button {
+      font-size: 0.8em;
+      max-width: 10em;
+      padding: 0.5em 1.5em; }
 
 .home__action {
   padding-top: 0.8em;
