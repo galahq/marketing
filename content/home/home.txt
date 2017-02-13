@@ -10,24 +10,24 @@ Subtagline: Real Cases &middot; Practical Skills &middot; Powerful Science
 
 ----
 
-Numbers:
+Numbers: 
 
--
+- 
   number: $2m
   description: seed funding
--
+- 
   number: "200"
   description: cases by 2020
--
+- 
   number: "30"
   description: years of experience
--
+- 
   number: "15"
   description: campus partners
--
+- 
   number: "100"
   description: producers (join us!)
--
+- 
   number: “1st
   description: reading I did all year”
 
@@ -57,9 +57,13 @@ Visionlearnmore: Learn more about the MSC initiative
 
 ----
 
-Promotions:
+Promotions: 
 
--
-  text: 'Deadline of proposal submission for the next round of MSC Curricular Advisors meeting: Sunday, March 12 at 11:59pm, 2017.'
+- 
+  text: >
+    MSC accepts new case proposals on a
+    rolling basis. Proposals received by
+    March 12 11:59pm will be reviewed at our
+    next curricular advisors meeting.
   action: Get Started
   link: action/make/proposal
