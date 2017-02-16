@@ -75,7 +75,7 @@ Eventitems:
     Case production, Case methodology,
     Assessment and evaluation, Case teaching
 - 
-  name: "Provost's Seminar on Teaching: “Teaching at the Bicentennial: Building the Evidence Base for Engaged Learning”"
+  name: 'Provost’s Seminar on Teaching: “Teaching at the Bicentennial: Building the Evidence Base for Engaged Learning”'
   date: 2017-03-14
   time: 08:30 AM
   type: Workshop/Seminar
