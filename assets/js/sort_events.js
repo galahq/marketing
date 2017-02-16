@@ -197,9 +197,10 @@ var SortEvents = {
     var s = this.filterState
     $('#msc').prop('checked', s.host === "MSC");
     $('#other').prop('checked', s.host && s.host !== "MSC");
-    $('#workshop').prop('checked', s.type === "Workshop");
+    $('#workshop').prop('checked', s.type === "Workshop/Seminar");
     $('#lecture').prop('checked', s.type === "Lecture");
     $('#webinar').prop('checked', s.type === "Webinar");
+    $('#meeting').prop('checked', s.type === "Meeting/Conference");
     $('#othertypes').prop('checked', s.type === "Other");
     $('#production').prop('checked', s.topics.has("Case production"));
     $('#methodology').prop('checked', s.topics.has("Case methodology"));

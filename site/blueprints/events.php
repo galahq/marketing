@@ -34,9 +34,10 @@ fields:
         label: Type
         type: checkboxes
         options:
-          Workshop: Workshop
+          Workshop/Seminar: Workshop/Seminar
           Lecture: Lecture
           Webinar: Webinar
+          Meeting/Conference: Meeting/Conference
           Other: Other
       limitation:
         label: Limitation

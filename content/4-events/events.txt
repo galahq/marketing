@@ -12,7 +12,7 @@ Eventitems:
   name: >
     How to write a form a good narrative in
     the case genre.
-  type: Workshop
+  type: Workshop/Seminar
   limitation: MSC authors
   host: MSC
   topics: Case production
@@ -27,7 +27,7 @@ Eventitems:
   name: MSC Global Case Competition
   date: 2017-07-14
   time: 08:00 AM
-  type: Other
+  type: Meeting/Conference
   limitation: Public
   host: MSC
   location: SNRE, Ann Arbor, MI
@@ -44,7 +44,7 @@ Eventitems:
     Research Symposium
   date: 2017-05-17
   time: 08:00 AM
-  type: Other
+  type: Meeting/Conference
   limitation: Public
   host: Graham Sustainability Institute
   location: >
@@ -57,6 +57,37 @@ Eventitems:
   topics: >
     Case methodology, Assessment and
     evaluation
+- 
+  name: >
+    MSC Curricular Advisors Winter 2017
+    Meeting
+  date: 2017-03-15
+  time: 09:00 AM
+  type: Meeting/Conference
+  limitation: MSC Curricular Advisors
+  host: MSC
+  location: 3038 Dana Building, Ann Arbor, MI
+  locationlink: >
+    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.738783,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
+  eventlink: >
+    https://www.facebook.com/events/680219758829653/
+  topics: >
+    Case production, Case methodology,
+    Assessment and evaluation, Case teaching
+- 
+  name: "Provost's Seminar on Teaching: “Teaching at the Bicentennial: Building the Evidence Base for Engaged Learning”"
+  date: 2017-03-14
+  time: 08:30 AM
+  type: Workshop/Seminar
+  limitation: UM student, faculty, and staff
+  host: >
+    UM Center for Research on Learning and
+    Teaching
+  location: 'Michigan League - Ballroom, Ann Arbor, MI'
+  locationlink: >
+    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.738783,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
+  eventlink: http://www.crlt.umich.edu/node/94763
+  topics: Assessment and evaluation, Case teaching
 
 ----
 
