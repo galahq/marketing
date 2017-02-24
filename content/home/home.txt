@@ -16,7 +16,7 @@ Numbers:
   number: $2m
   description: seed funding
 - 
-  number: "200"
+  number: "100"
   description: cases by 2020
 - 
   number: "30"

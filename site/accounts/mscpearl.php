@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - events
-  - msc/team
-  - events/previous-events
+  - msc/vision
   - home
-  - action/make/production-guide/process/funding-disbursement
+  - msc/team
+  - events
+  - events/previous-events
