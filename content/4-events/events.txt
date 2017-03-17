@@ -25,7 +25,7 @@ Eventitems:
     https://www.facebook.com/events/609613002581826/
 - 
   name: MSC Global Case Competition
-  date: 2017-07-14
+  date: 2017-09-15
   time: 08:00 AM
   type: Meeting/Conference
   limitation: Public

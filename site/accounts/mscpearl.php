@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - msc/vision
-  - home
-  - msc/team
+  - msc/milestones
   - events
-  - events/previous-events
+  - home
+  - msc/vision
+  - msc/team

@@ -62,8 +62,7 @@ Promotions:
 - 
   text: >
     MSC accepts new case proposals on a
-    rolling basis. Proposals received by
-    March 12 at 11:59pm will be reviewed at
-    our next curricular advisors meeting.
+    rolling basis. Funding is available for
+    selected proposals.
   action: Get Started
   link: action/make/proposal
