@@ -2308,6 +2308,9 @@ ul.c-event-tags {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center; }
+    .footer__socialmedia img:hover {
+      opacity: 0.7;
+      transition: opacity 0.1s; }
     .footer__socialmedia li {
       margin-left: 1.2em; }
       .footer__socialmedia li:first-child {
