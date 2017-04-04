@@ -853,7 +853,8 @@ h1 a, h2 a, h3 a, h4 a {
     margin-top: 2em; }
     @media (max-width: 768px) {
       .footer__bottom {
-        margin-top: 0.5em; } }
+        margin-top: 0.5em;
+        display: block; } }
   .footer__copyright {
     text-align: left;
     color: #9c9c9c;
@@ -871,6 +872,11 @@ h1 a, h2 a, h3 a, h4 a {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center; }
+    @media (max-width: 768px) {
+      .footer__socialmedia {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center; } }
     .footer__socialmedia img:hover {
       opacity: 0.7;
       transition: opacity 0.1s; }
