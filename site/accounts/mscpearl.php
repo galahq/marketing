@@ -7,8 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - >
+    action/make/production-guide/deliverables/cover-page
   - msc/milestones
   - events
   - home
   - msc/vision
-  - msc/team
