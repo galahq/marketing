@@ -19,3 +19,11 @@ Copyright: © 2017 The Regents of the University of Michigan
 ----
 
 Logo: (imgix: logo.png)
+
+----
+
+Facebook: https://www.facebook.com/makemsc/
+
+----
+
+Twitter: https://twitter.com/LearnMSC

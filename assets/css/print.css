@@ -862,6 +862,19 @@ h1 a, h2 a, h3 a, h4 a {
       .footer__copyright {
         padding-bottom: 0;
         text-align: center; } }
+  .footer__socialmedia {
+    padding: 2em 0;
+    list-style: none;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; }
+    .footer__socialmedia li {
+      margin-left: 1.2em; }
+      .footer__socialmedia li:first-child {
+        margin-left: 0; }
 
 footer > div {
   font-size: .9em;

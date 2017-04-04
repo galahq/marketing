@@ -18,3 +18,9 @@ fields:
   copyright:
     label: Copyright
     type:  textarea
+  facebook:
+    label: Facebook
+    type: text
+  twitter:
+    label: Twitter
+    type: text
