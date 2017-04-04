@@ -3,6 +3,17 @@
 
 <main class="home main" role="main">
 
+<?php if($page->promotions()->isNotEmpty()) { ?>
+  <?php foreach($page->promotions()->toStructure() as $promotion): ?>
+  <div class="c-promotion">
+    <div class="t-site u-clearfix o-flex-container c-promotion__content">
+      <p class="c-promotion__content__description o-flex-item-growing"><?php echo $promotion->text() ?></p>
+      <button class="c-button c-promotion__content__button o-flex-item-growing" onclick="window.location.href='<?php echo $promotion->link() ?>'"><?php echo $promotion->action() ?></button>
+    </div>
+  </div>
+  <?php endforeach ?>
+<?php } ?>
+
 <section><!--Actions-->
   <h2 class="t-site"><?php echo ($page->actionheading()) ?></h2>
 

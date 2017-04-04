@@ -29,29 +29,31 @@
   <div class="c-search-filters__category">
   <h4>Host:</h4>
   <ul>
-    <li><label for="msc"><input type="checkbox" id="msc" name="host" onclick="SortEvents.setHost('MSC')"> MSC</label></li>
-    <li><label for="other"><input type="checkbox" id="other" name="host" onclick="SortEvents.setHost('Others')"> Other institutions</label></li>
+    <li><label for="msc"><input type="checkbox" id="msc" name="host" onclick="SortEvents.toggleHost('MSC')"> MSC</label></li>
+    <li><label for="other"><input type="checkbox" id="other" name="host" onclick="SortEvents.toggleHost('Others')"> Other institutions</label></li>
   </ul>
   </div>
 
   <div class="c-search-filters__category">
   <h4>Type:</h4>
   <ul>
-    <li><label for="workshop"><input type="checkbox" id="workshop" name="type" onclick="SortEvents.setType('Workshop')"> Workshop</label></li>
-    <li><label for="lecture"><input type="checkbox" id="lecture" name="type" onclick="SortEvents.setType('Lecture')"> Lecture</label></li>
-    <li><label for="webinar"><input type="checkbox" id="webinar" name="type" onclick="SortEvents.setType('Webinar')"> Webinar</label></li>
+    <li><label for="workshop"><input type="checkbox" id="workshop" name="type" onclick="SortEvents.toggleType('Workshop/Seminar')"> Workshop/Seminar</label></li>
+    <li><label for="lecture"><input type="checkbox" id="lecture" name="type" onclick="SortEvents.toggleType('Lecture')"> Lecture</label></li>
+    <li><label for="webinar"><input type="checkbox" id="webinar" name="type" onclick="SortEvents.toggleType('Webinar')"> Webinar</label></li>
+    <li><label for="meeting"><input type="checkbox" id="meeting" name="type" onclick="SortEvents.toggleType('Meeting/Conference')"> Meeting/Conference</label></li>
+    <li><label for="othertypes"><input type="checkbox" id="othertypes" name="type" onclick="SortEvents.toggleType('Other')"> Other</label></li>
   </ul>
   </div>
-</div>
 
-<div class="c-search-filters__category">
-<h4>Topics:</h4>
-<ul>
-  <li><label for="production"><input type="checkbox" id="production" name="topic" onclick="SortEvents.addTopic('Case production')"> Case production</label></li>
-  <li><label for="methodology"><input type="checkbox" id="methodology" name="topic" onclick="SortEvents.addTopic('Case methodology')"> Case methodology</label></li>
-  <li><label for="assessment"><input type="checkbox" id="assessment" name="topic" onclick="SortEvents.addTopic('Assessment and evaluation')"> Assessment and evaluation</label></li>
-  <li><label for="teaching"><input type="checkbox" id="teaching" name="topic" onclick="SortEvents.addTopic('Case teaching')"> Case teaching</label></li>
-</ul>
+  <div class="c-search-filters__category">
+  <h4>Topics:</h4>
+  <ul>
+    <li><label for="production"><input type="checkbox" id="production" name="topic" onclick="SortEvents.toggleTopic('Case production')"> Case production</label></li>
+    <li><label for="methodology"><input type="checkbox" id="methodology" name="topic" onclick="SortEvents.toggleTopic('Case methodology')"> Case methodology</label></li>
+    <li><label for="assessment"><input type="checkbox" id="assessment" name="topic" onclick="SortEvents.toggleTopic('Assessment and evaluation')"> Assessment and evaluation</label></li>
+    <li><label for="teaching"><input type="checkbox" id="teaching" name="topic" onclick="SortEvents.toggleTopic('Case teaching')"> Case teaching</label></li>
+  </ul>
+  </div>
 </div>
 
 <?php foreach($pages->find('events')->eventitems()->toStructure()->sortBy($sort='date', $direction='desc') as $eventitem): ?>
@@ -79,7 +81,7 @@
       </div>
       <div class="c-event-registration o-flex-item-growing">
         <div>
-          <a class="c-button" href="<?php echo $eventitem->eventlink() ?>">Learn more/materials</a>
+          <a class="c-button" href="<?php echo $eventitem->eventlink() ?>" target="_blank">Learn more/materials</a>
         </div>
       </div>
     </div>

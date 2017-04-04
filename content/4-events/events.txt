@@ -10,71 +10,84 @@ Eventitems:
 
 - 
   name: >
-    Understanding Case-based teaching and
-    learning
-  type: Workshop
-  limitation: Public
-  host: MSC
-  topics: Case methodology, Case teaching
-  date: 2017-01-20
-  time: 12:30 PM
-  location: Ann Arbor, MI
-  locationlink: https://www.google.com/maps
-  eventlink: '#'
-- 
-  name: >
     How to write a form a good narrative in
     the case genre.
-  type: Workshop
+  type: Workshop/Seminar
   limitation: MSC authors
-  host: Sweetland Center for Writing
+  host: MSC
   topics: Case production
-  date: 2017-02-03
-  time: 12:00 PM
-  location: Ann Arbor, MI
+  date: 2017-02-07
+  time: 06:00 PM
+  location: 1024 Dana, Ann Arbor, MI
   locationlink: >
-    https://www.google.com/maps/place/University+of+Michigan+Sweetland+Center+for+Writing/@42.2807509,-83.7423366,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae403f7e5d7b:0xc44a4a574475ad2c!8m2!3d42.2807509!4d-83.7401479
+    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.7387777,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
   eventlink: >
     https://www.facebook.com/events/609613002581826/
 - 
-  name: >
-    Understanding Case-based teaching and
-    assessment
-  date: 2017-01-28
-  time: 02:30 AM
-  type: Webinar
-  limitation: Public
-  host: LSA
-  topics: Case production
-  location: Paris, France
-  locationlink: https://www.google.com/maps
-  eventlink: '#'
-- 
-  name: >
-    Steve Yaffee shares his teaching
-    experience.
-  date: 2017-02-19
-  time: 10:45 PM
-  type: Webinar
-  limitation: Public
-  host: SNRE
-  topics: Case methodology
-  location: Kyoto, Japan
-  locationlink: https://www.google.com/maps
-  eventlink: '#'
-- 
   name: MSC Global Case Competition
-  date: 2018-03-09
-  time: 07:45 PM
-  type: Workshop
+  date: 2017-09-15
+  time: 08:00 AM
+  type: Meeting/Conference
   limitation: Public
   host: MSC
-  location: SNRE
-  locationlink: '#'
+  location: SNRE, Ann Arbor, MI
+  locationlink: >
+    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.7387777,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
   topics: >
     Case production, Case methodology,
     Assessment and evaluation, Case teaching
-  eventlink: '#'
+  eventlink: >
+    https://www.facebook.com/events/1377575905626948/
+- 
+  name: >
+    Sustainability and Social Science
+    Research Symposium
+  date: 2017-05-17
+  time: 08:00 AM
+  type: Meeting/Conference
+  limitation: Public
+  host: Graham Sustainability Institute
+  location: >
+    Institute for Social Research, Ann
+    Arbor, MI
+  locationlink: >
+    https://www.google.com/maps/place/Institute+for+Social+Research,+426+Thompson+St,+Ann+Arbor,+MI+48104/@42.2766963,-83.7458961,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae38d85bd705:0x1c3c8e7ab9fa3d7!8m2!3d42.2768586!4d-83.7435738
+  eventlink: >
+    https://www.haw-hamburg.de/en/ftz-als/events/michigan2017.html
+  topics: >
+    Case methodology, Assessment and
+    evaluation
+- 
+  name: >
+    MSC Curricular Advisors Winter 2017
+    Meeting
+  date: 2017-03-15
+  time: 09:00 AM
+  type: Meeting/Conference
+  limitation: MSC Curricular Advisors
+  host: MSC
+  location: 3038 Dana Building, Ann Arbor, MI
+  locationlink: >
+    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.738783,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
+  eventlink: >
+    https://www.facebook.com/events/680219758829653/
+  topics: >
+    Case production, Case methodology,
+    Assessment and evaluation, Case teaching
+- 
+  name: 'Provost’s Seminar on Teaching: “Teaching at the Bicentennial: Building the Evidence Base for Engaged Learning”'
+  date: 2017-03-14
+  time: 08:30 AM
+  type: Workshop/Seminar
+  limitation: UM student, faculty, and staff
+  host: >
+    UM Center for Research on Learning and
+    Teaching
+  location: 'Michigan League - Ballroom, Ann Arbor, MI'
+  locationlink: >
+    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.738783,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
+  eventlink: http://www.crlt.umich.edu/node/94763
+  topics: Assessment and evaluation, Case teaching
 
 ----
 

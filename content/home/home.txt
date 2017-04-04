@@ -16,7 +16,7 @@ Numbers:
   number: $2m
   description: seed funding
 - 
-  number: "200"
+  number: "100"
   description: cases by 2020
 - 
   number: "30"
@@ -54,3 +54,15 @@ Elementlearnmore: Learn more about MSC elements
 ----
 
 Visionlearnmore: Learn more about the MSC initiative
+
+----
+
+Promotions: 
+
+- 
+  text: >
+    MSC accepts new case proposals on a
+    rolling basis. Funding is available for
+    selected proposals.
+  action: Get Started
+  link: action/make/proposal

@@ -12,6 +12,21 @@ fields:
   subtagline:
     label: Subtagline
     type: textarea
+  promotions:
+    label: Promotions
+    type: structure
+    entry: >
+      {{text}} {{action}} {{link}}
+    fields:
+      text:
+        label: Text
+        type: textarea
+      action:
+        label: Action
+        type: text
+      link:
+        label: Link
+        type: text
   actionheading:
     label: Actions Heading
     type: textarea

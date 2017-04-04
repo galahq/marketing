@@ -40,7 +40,7 @@ Timeline:
   icon: ""
   content: |
     ##First MSC academic article published in WDP
-    *‘Towards a revolution in sustainability education: Vision, architecture, and assessment in a case-based approach ’* was peer reviewed and published in WDP. The article provides an overview of the MSC project, presenting its core pedagogical theories, expected impact, and initial positive assessment results.
+    *‘Towards a revolution in sustainability education: Vision, architecture, and assessment in a case-based approach ’* was peer reviewed and published in (link:https://www.journals.elsevier.com/world-development-perspectives/ text:World Development Perspectives). The article provides an overview of the MSC project, presenting its core pedagogical theories, expected impact, and initial positive assessment results.
   dateofevent: June 2016
   newslink: >
     http://www.sciencedirect.com/science/article/pii/S2452292916300820
@@ -139,6 +139,15 @@ Timeline:
   newslink: ""
   dateofevent: Winter 2016
   picture: ""
+- 
+  content: |
+    ##Baltimore Smart Meters case published in *Sustainability: The Journal of Record*
+    After being published on (link: http://www.learnmsc.org text: MSC learning platform), the (link: http://www.learnmsc.org/cases/baltimore-smart-meters#/ text:Baltimore Smart Meters case) was peer reviewed and published in (link: http://online.liebertpub.com/toc/sus/10/1 text:Sustainability: The Journal of Record) as *‘University of Michigan Sustainability Teaching Case Smarting over Smart Meters: Does Smart Grid Technology Have a Home in Maryland?’*. This piece includes the main narrative and some Edgenotes of the digital case and is intended to reach a broader audience.
+  dateofevent: ""
+  newslink: >
+    http://online.liebertpub.com/doi/pdfplus/10.1089/sus.2017.29078.gp
+  picture: ""
+  date: 2017-02-14
 
 ----
 

@@ -32,7 +32,7 @@
      @include breakpoint($mq-small) {
        width: 100%;
        @include display-flex;
-       @include justify-content(center);
+       @include justify-content-center;
        @include flex-align-items(center);
        padding: 0 2.5em;
      }
@@ -42,16 +42,16 @@
 //Home page banner
 .home__hero {
   background-position: absolute;
-  @include background-size(cover);
+  background-size: cover;
   background-position: 25% center;
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 450px;
   @include display-flex;
   @include flex-direction-column;
-  @include justify-content(space-between);
+  @include justify-content-space-between;
   @include breakpoint($mq-small) {
-    @include justify-content(flex-end);
+    @include justify-content-end;
   }
 
   .t-site {
@@ -72,7 +72,7 @@
 
 //Parent page banner
 .hero {
-  @include background-size(cover);
+  background-size: cover;
   background-repeat: no-repeat;
   color: $ltoffwhite;
   height: 400px;

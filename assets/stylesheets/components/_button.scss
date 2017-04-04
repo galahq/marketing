@@ -1,7 +1,7 @@
 .c-button {
   background-color: transparent;
   border: 1px solid $galablue !important;
-  @include border-radius(0.5em);
+  border-radius: 0.5em;
   color: $galablue;
   padding: 0.5em 2em;
   text-align: center;

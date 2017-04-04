@@ -131,7 +131,7 @@
   margin: 2em 0;
   padding: 1em;
   border: 1.5px solid $ltltgrey;
-  @include border-radius(5px);
+  border-radius: 5px;
   align-items: center;
 
   p {
@@ -164,7 +164,7 @@ ul.c-event-tags {
     background: $taggrey;
     padding: 0 0.5em;
     margin: 0 0.2em;
-    @include border-radius(3px);
+    border-radius: 3px;
   }
 }
 
@@ -184,13 +184,14 @@ ul.c-event-tags {
   &-registration {
     flex: 1;
     display: flex;
-    justify-content: flex-end;
-    margin-left: 0.2em;
+    margin-left: 0.5em;
     margin-right: 0.8em;
 
     @include breakpoint($mq-small) {
       margin-top: 0.5em;
       margin-right: inherit;
+      width: 100%;
+      position: relative;
     }
 
     p {
@@ -212,6 +213,11 @@ ul.c-event-tags {
       padding: 0.4em 0.6em;
       letter-spacing: initial;
       margin-top: 0.5em;
+      @include breakpoint($mq-small) {
+        position: absolute;
+        right: 0.1em;
+        bottom: 0;
+      }
     }
   }
 }
@@ -272,6 +278,10 @@ ul.c-event-tags {
 //Events parent page
 .events, .events-previous, .conference {
   .c-submenu__container {
+    display: none;
+  }
+
+  .c-breadcrumb--hidden {
     display: none;
   }
 

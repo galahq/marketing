@@ -144,11 +144,14 @@ Arman Golrokhian — Production Facilitator
 Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
 
-### Curricular Advisors
+<h3 id="curricular-advisors">Curricular Advisors</h3>
 (link:http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
 (link:https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
+(link: http://snre.umich.edu/student_profiles/katherine_browne text: Katherine Browne) — PHD candidate, SNRE
+(link:http://graham.umich.edu/users/jcallew text:John Callewaert) — Director of Emerging Opportunities Program, Graham Institute
 (link:http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
 (link: http://www.soe.umich.edu/people/profile/barry_fishman/ text: Barry Fishman) — Professor, Information; Professor, Education
+(link: https://www.linkedin.com/in/samantha-hallman-39a1a1125/ text: Samantha Hallman) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
 (link:http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
 (link:http://www.snre.umich.edu/profile/jeremiah_johnson text:Jeremiah Johnson) — Assistant Professor, SNRE
 (link:https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
@@ -177,7 +180,6 @@ Nick Kemp — Photo Contributor
 (link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, SESYNC
 
 ### Team Alumni
-Katherine Browne — PHD candidate at SNRE
 Steve Lonn — Director of Enrollment Research and Data Management, UM
 Claire Poelking — M.S. candidate at SNRE
 Harold Rice — B.S., Program in the Environment, UM

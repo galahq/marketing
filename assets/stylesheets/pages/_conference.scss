@@ -35,7 +35,7 @@
   }
 
   nav {
-    justify-content: space-between;
+    @include justify-content-space-between;
     position: relative;
 
     a {

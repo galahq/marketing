@@ -5,6 +5,9 @@
 }
 
 .home {
+  main {
+    margin-top: 0;
+  }
   h2 {
     margin-bottom: 1em;
   }
@@ -48,6 +51,40 @@ main.home section {
   }
 }
 
+//Promotion
+.c-promotion {
+  border-bottom: 1px solid $ltltgrey;
+
+  &__content {
+    @include justify-content-space-between;
+    align-items: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    @include breakpoint($mq-extra-small) {
+      display: block;
+    }
+
+    p {
+      margin-bottom: 0;
+      @include breakpoint($mq-extra-small) {
+        margin-bottom: 0.5em;
+      }
+    }
+
+    &__description {
+      color: darken($ltgrey, 5%);
+      font-size: 0.9em;
+      margin-right: 0.5em;
+    }
+
+    &__button {
+      font-size: 0.8em;
+      max-width: 10em;
+      padding: 0.5em 1.5em;
+    }
+  }
+}
+
 // Actions
 .home__action {
   padding-top: 0.8em;
@@ -57,7 +94,7 @@ main.home section {
     @include flex-tri-parameters(1, 1, 24%);
     margin: 0.5% 0.5% 1.5% 0.5%;
     background-color: lighten($offwhite, 9%);
-    @include border-radius(0.2rem);
+    border-radius: 0.2rem;
     transition: transform 0.1s ease 0.1s;
 
     @include breakpoint($mq-medium) {
@@ -97,7 +134,7 @@ main.home section {
   @include flex(2);
   @include display-flex;
   @include flex-direction-column;
-  @include justify-content(center);
+  @include justify-content-center;
 
   img {
     padding-right: 1.6em;
@@ -138,7 +175,7 @@ main.home section {
 
   &:hover {
     transform: scale(1.03);
-    @include border-radius(0.2rem);
+    border-radius: 0.2rem;
     h3 {
       color: $vividblue;
     }
@@ -147,7 +184,7 @@ main.home section {
 
 //Vision
 .home__vision {
-  justify-content: center;
+  @include justify-content-center;
   text-align: left;
   padding: 1.4em 0 1.4em 2.4em;
 
@@ -188,7 +225,7 @@ main.home section {
     font-size: 1.2em;
     width: 4rem;
     height: 4rem;
-    @include border-radius(4rem);
+    border-radius: 4rem;
     text-align: center;
     padding-top: 1.4rem;
     border-width: 3px;

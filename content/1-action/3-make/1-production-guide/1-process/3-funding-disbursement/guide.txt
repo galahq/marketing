@@ -5,10 +5,13 @@ Title: Funding Disbursement
 Text: 
 
 ##Student support
-Up to $6000 total is available for students, which is disbursed as fellowship support. Half the funds are disbursed when case production begins, and half are disbursed after all work is completed.
+Up to $6,000 total is available for students, which is disbursed as fellowship support. Half the funds are disbursed when case production begins, and half are disbursed after all work is completed.
 
 ##Faculty support
-Up to $1000 is available for faculty, which is disbursed as one-time research support after the case is completed and taught. As much as possible, MSC also works with faculty to assess and publish about the case.
+Up to $1,000 is available for faculty, which is disbursed as one-time research support after the case is completed and taught. As much as possible, MSC also works with faculty to assess and publish about the case.
 
 ##Practitioner support
-Up to $1000 is available for practitioners, which is disbursed through the faculty lead. These funds are intended to support practitioner involvement, through activities such as travel to interact with student and faculty case team members.
+Up to $1,000 is available for practitioners, which is disbursed through the faculty lead. These funds are intended to support practitioner involvement, through activities such as travel to interact with student and faculty case team members.
+
+##In-kind support
+Up to $3,000 for the MSC team to produce audio and visual materials and publish the final product.
