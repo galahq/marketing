@@ -41,6 +41,14 @@
       <div class="o-flex-item-growing footer__copyright">
         <?php echo $site->copyright()->kirbytext() ?>
       </div><!--copyright-->
+      <ul class="o-flex-item-growing o-flex-container footer__socialmedia">
+        <li><a href="<?php echo $site->twitter() ?>" target="_blank">
+          <img srcset="https://msc-public.imgix.net/twitter_icon.png?w=30&amp; 1x,https://msc-public.imgix.net/twitter_icon.png?w=60&amp; 2x,https://msc-public.imgix.net/twitter_icon.png?w=90&amp; 3x," src="https://msc-public.imgix.net/twitter_icon.png?w=30&amp;" alt="twitter">
+        </a></li>
+        <li><a href="<?php echo $site->facebook() ?>" target="_blank">
+          <img srcset="https://msc-public.imgix.net/facebook_icon.png?w=16&amp; 1x,https://msc-public.imgix.net/facebook_icon.png?w=32&amp; 2x,https://msc-public.imgix.net/facebook_icon.png?w=48&amp; 3x," src="https://msc-public.imgix.net/facebook_icon.png?w=16&amp;" alt="facebook">
+        </a></li>
+      </ul><!--socialmedia-->
     </div><!--footerbottom-->
   </div><!--site-->
 </footer>

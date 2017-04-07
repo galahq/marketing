@@ -21,10 +21,8 @@ List of authors with the intended order
 3. ###Summary
 100-200 word summary of the case
 4. ###Table of contents
-List of section titles. Section titles are described further under 'Narrative'.
-5. ###Exercise(s)
-List of engaged learning exercise(s) with eye-catching title(s)
-6. ###Cover image
+Please indicate the intended order of your contents, including narrative sections, podcasts, and learning activities.
+5. ###Cover image
 A high-resolution picture that we have permission to use. The following websites are good resources for license-free imagery.
   - (link:https://unsplash.com/ text:Unsplash)
   - (link:https://creativecommons.org/ text:Creative Commons)
