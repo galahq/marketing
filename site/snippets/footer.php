@@ -63,6 +63,7 @@
   ga('send', 'pageview');
 </script>
 <?php echo js(array(
+                      'assets/js/utilities.js',
                       'assets/js/jquery-3.1.0.js',
                       'assets/js/vendor/jquery.easing.min.js',
                       'assets/js/menu-mobile.js',
