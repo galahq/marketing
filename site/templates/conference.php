@@ -2,12 +2,12 @@
 <?php snippet('header') ?>
 
 <main class="main" role="main">
-  <nav class="c-conference__menu t-site">
-    <div class="c-conference__logo">
+  <nav class="c-conference__menu o-flex-container t-site">
+    <div class="c-conference__logo o-flex-container o-flex-growing">
       <img srcset="http://msc-public.imgix.net/msc_logo_vertical.png?w=100&amp; 1x,http://msc-public.imgix.net/msc_logo_vertical.png?w=200&amp; 2x,http://msc-public.imgix.net/msc_logo_vertical.png?w=300&amp; 3x," src="http://msc-public.imgix.net/msc_logo_vertical.png?w=100&amp;" alt="icon for search">
       <h1>CaseConf<br><span>Global</span></h1>
     </div>
-    <ul>
+    <ul class="o-flex-growing">
       <li><a href="#">Overview</a></li>
       <li><a href="#">Timeline</a></li>
       <li><a href="#">Partners</a></li>

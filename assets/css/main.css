@@ -1943,18 +1943,17 @@ code {
   margin-top: 0; }
 
 .c-conference__menu {
-  padding-top: 0.5em;
-  position: sticky;
-  top: 0;
-  z-index: 100; }
+  padding-top: 0.5em; }
   .c-conference__menu .c-conference__logo {
-    display: flex;
-    align-items: baseline; }
-  .c-conference__menu img {
-    position: absolute; }
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end; }
+    .c-conference__menu .c-conference__logo img {
+      margin-right: 0.3em; }
+    .c-conference__menu .c-conference__logo h1 {
+      margin: 0;
+      line-height: 1.2em; }
   .c-conference__menu h1 {
-    position: absolute;
-    left: 102px;
     font-family: "clarendon-urw", serif;
     font-style: normal; }
     .c-conference__menu h1 span {

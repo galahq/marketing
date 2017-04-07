@@ -5,22 +5,21 @@
 //Menu for conference type pages
 .c-conference__menu {
   padding-top: 0.5em;
-  position: sticky;
-  top: 0;
-  z-index: 100;
 
   .c-conference__logo {
-    display: flex;
-    align-items: baseline;
-  }
+    @include flex-align-items-end;
 
-  img {
-    position: absolute;
+    img {
+      margin-right: 0.3em;
+    }
+
+    h1 {
+      margin: 0;
+      line-height: 1.2em;
+    }
   }
 
   h1 {
-    position: absolute;
-    left: 102px;
     font-family: $heading-default;
     font-style: normal;
     span {
