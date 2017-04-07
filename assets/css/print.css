@@ -790,11 +790,16 @@ h1 a, h2 a, h3 a, h4 a {
   background-size: cover;
   background-repeat: no-repeat;
   color: #F9F8F2;
-  height: 400px; }
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end; }
   .hero__text {
-    text-align: center; }
+    text-align: center;
+    margin-bottom: 2.5em; }
     .hero__text h1 {
-      padding-top: 7.5em;
       font-weight: 200;
       line-height: 110%;
       margin: auto;
