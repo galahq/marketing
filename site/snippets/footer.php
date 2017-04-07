@@ -67,9 +67,6 @@
                       'assets/js/jquery-3.1.0.js',
                       'assets/js/vendor/jquery.easing.min.js',
                       'assets/js/menu-mobile.js',
-                      'assets/js/dropdown-nav.js',
-                      'assets/js/vendor/polyfill.js',
-                      'assets/js/vendor/polyfill.position-sticky.js',
                       'assets/js/sort_events.js',
                       'assets/js/print.js'
                     )) ?>
