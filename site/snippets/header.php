@@ -82,6 +82,23 @@
       <section class="child__hero">
     <?php endif ?>
 
+    <!--CaseConf-->
+    <?php if($page->is($pages->find('events')->find('case-competition'))) { ?>
+      <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
+      <section class="hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 5%, rgba(53,83,111,0.8) 40%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+        <div class="o-flex-container c-conference__hero t-site">
+          <div class="o-flex-growing c-conference__hero__tagline">
+            <h1><?php echo $page->tagline() ?></h1>
+          </div>
+          <div class="o-flex-growing">
+            <p><?php echo $page->details() ?></p>
+          </div>
+          <div class="o-flex-growing">
+            <button class="c-button" onclick="window.location.href='https://www.facebook.com/events/1377575905626948/'">register now</button>
+          </div>
+        </div>
+      <?php } ?>
+
     <div class="t-site">
       <div class="hero__text">
         <?php if($page->pagetagline()->isNotEmpty()) { ?>

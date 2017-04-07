@@ -113,3 +113,28 @@
 .o-dropdown--show {
   display:block;
 }
+
+//hero
+.c-conference__hero {
+  @include justify-content-space-between;
+  @include flex-align-items-end;
+
+  .c-button {
+    color: $white;
+    border-color: $white !important;
+    margin-top: 1em;
+  }
+
+  p {
+    margin-top: 1em;
+  }
+
+  &__tagline {
+    @include flex-tri-parameters(0, 1, 30em);
+    h1 {
+      margin: 0;
+      font-weight: 200;
+      line-height: 110%;
+    }
+  }
+}

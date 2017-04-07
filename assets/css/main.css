@@ -2020,6 +2020,28 @@ code {
 .o-dropdown--show {
   display: block; }
 
+.c-conference__hero {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end; }
+  .c-conference__hero .c-button {
+    color: white;
+    border-color: white !important;
+    margin-top: 1em; }
+  .c-conference__hero p {
+    margin-top: 1em; }
+  .c-conference__hero__tagline {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 30em;
+    flex: 0 1 30em; }
+    .c-conference__hero__tagline h1 {
+      margin: 0;
+      font-weight: 200;
+      line-height: 110%; }
+
 .o-error__container {
   background: url(http://msc-public.imgix.net/deadend.jpg);
   background-size: cover;
