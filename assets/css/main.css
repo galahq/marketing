@@ -1944,15 +1944,12 @@ code {
 
 .c-conference__menu {
   padding-top: 0.5em; }
-  .c-conference__menu .c-conference__logo {
-    -webkit-box-align: end;
-    -ms-flex-align: end;
-    align-items: flex-end; }
-    .c-conference__menu .c-conference__logo img {
-      margin-right: 0.3em; }
-    .c-conference__menu .c-conference__logo h1 {
-      margin: 0;
-      line-height: 1.2em; }
+  .c-conference__menu .c-conference__logo img {
+    margin-right: 0.3em;
+    display: none; }
+  .c-conference__menu .c-conference__logo h1 {
+    margin: 0;
+    line-height: 1.2em; }
   .c-conference__menu h1 {
     font-family: "clarendon-urw", serif;
     font-style: normal; }
@@ -1960,9 +1957,6 @@ code {
       margin-top: 1em;
       text-transform: uppercase;
       letter-spacing: 0.05em; }
-  @media (max-width: 768px) {
-    .c-conference__menu {
-      display: none; } }
   .c-conference__menu nav {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
@@ -2018,6 +2012,12 @@ code {
 
 .o-dropdown--show {
   display: block; }
+
+.conference .hero {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  background-color: #02284b; }
 
 .c-conference__hero {
   -webkit-box-pack: justify;

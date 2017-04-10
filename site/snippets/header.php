@@ -17,7 +17,7 @@
       </div>
     </section>
 
- <?php else: ?>
+  <?php else: ?>
 
    <section class="c-header u-clearfix t-site">
      <a class="c-header__logo" href="<?php echo url() ?>">
@@ -46,7 +46,7 @@
    <?php endforeach ?>
 
    <?php foreach($pages->visible()->children() as $grandchild): ?>
-   <?php if($page->isChildOf($grandchild)) { ?>
+     <?php if($page->isChildOf($grandchild)) { ?>
      <ul class="c-breadcrumb c-breadcrumb--partial t-blog t-site">
        <li>
          <a href="<?php echo $page->parent()->url() ?>">
@@ -75,7 +75,7 @@
      </ul>
      <?php } ?>
 
-    <?php if($site->children()->has($page) || $page->isChildOf($pages->find('events'))): ?>
+    <?php if($site->children()->has($page) || $page->is($pages->find('events')->find('previous-events'))): ?>
       <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
       <section class="hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
     <?php else: ?>
@@ -83,29 +83,16 @@
     <?php endif ?>
 
     <!--CaseConf-->
-    <?php if($page->is($pages->find('events')->find('case-competition'))) { ?>
-      <?php $bannerImage = imgix_url($page->slug() . '-banner.jpg', ['h'=>'900']);?>
-      <section class="hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 5%, rgba(53,83,111,0.8) 40%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
-      <div class="o-flex-container c-conference__hero t-site">
-        <div class="o-flex-growing c-conference__hero__tagline">
-          <h1><?php echo $page->tagline() ?></h1>
-        </div>
-        <div class="o-flex-growing">
-          <p><?php echo $page->details() ?></p>
-        </div>
-        <div class="o-flex-growing">
-          <button class="c-button" onclick="window.location.href='https://www.facebook.com/events/1377575905626948/'">register now</button>
-        </div>
-      </div>
-      <?php } ?>
+    <?php snippet('conference-header') ?>
+    <!--End of CaseConf-->
 
-    <div class="t-site">
-      <div class="hero__text">
-        <?php if($page->pagetagline()->isNotEmpty()) { ?>
-          <h1><?php echo $page->pagetagline() ?></h1>
-          <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
-        <?php } ?>
-      </div>
+      <div class="t-site">
+        <div class="hero__text">
+          <?php if($page->pagetagline()->isNotEmpty()) { ?>
+            <h1><?php echo $page->pagetagline() ?></h1>
+            <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
+          <?php } ?>
+        </div>
       </div>
     </section>
   <?php endif ?>

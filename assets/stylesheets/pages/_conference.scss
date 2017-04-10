@@ -7,10 +7,9 @@
   padding-top: 0.5em;
 
   .c-conference__logo {
-    @include flex-align-items-end;
-
     img {
       margin-right: 0.3em;
+      display: none;
     }
 
     h1 {
@@ -27,10 +26,6 @@
       text-transform: uppercase;
       letter-spacing: 0.05em;
     }
-  }
-
-  @include breakpoint ($mq-small) {
-    display: none;
   }
 
   nav {
@@ -114,6 +109,13 @@
 }
 
 //hero
+.conference {
+  .hero {
+    @include justify-content-space-between;
+    background-color: $umblue;
+  }
+}
+
 .c-conference__hero {
   @include justify-content-space-between;
   @include flex-align-items-end;
