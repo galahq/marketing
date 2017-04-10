@@ -1943,7 +1943,13 @@ code {
   margin-top: 0; }
 
 .c-conference__menu {
-  padding-top: 0.5em; }
+  padding-top: 1em;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end; }
   .c-conference__menu .c-conference__logo img {
     margin-right: 0.3em;
     display: none; }
@@ -1977,7 +1983,8 @@ code {
     .c-conference__menu ul li .active {
       color: white !important; }
     .c-conference__menu ul li a {
-      border-bottom: 0; }
+      border-bottom: 0;
+      color: white; }
   .c-conference__menu h5 {
     flex: 1; }
 
@@ -2025,7 +2032,8 @@ code {
   justify-content: space-between;
   -webkit-box-align: end;
   -ms-flex-align: end;
-  align-items: flex-end; }
+  align-items: flex-end;
+  margin-bottom: 1.5em; }
   .c-conference__hero .c-button {
     color: white;
     border-color: white !important;

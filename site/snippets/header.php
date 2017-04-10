@@ -86,14 +86,14 @@
     <?php snippet('conference-header') ?>
     <!--End of CaseConf-->
 
+    <?php if($page->pagetagline()->isNotEmpty()) { ?>
       <div class="t-site">
         <div class="hero__text">
-          <?php if($page->pagetagline()->isNotEmpty()) { ?>
-            <h1><?php echo $page->pagetagline() ?></h1>
-            <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
-          <?php } ?>
+          <h1><?php echo $page->pagetagline() ?></h1>
+          <?php echo str_replace('(\\', '(', kirbytext($page->pagesubtagline())) ?>
         </div>
       </div>
+    <?php } ?>
     </section>
   <?php endif ?>
 </header>

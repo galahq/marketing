@@ -4,7 +4,9 @@
 
 //Menu for conference type pages
 .c-conference__menu {
-  padding-top: 0.5em;
+  padding-top: 1em;
+  @include justify-content-space-between;
+  @include flex-align-items-end;
 
   .c-conference__logo {
     img {
@@ -56,6 +58,7 @@
 
     a {
       border-bottom: 0;
+      color: $white;
     }
   }
 
@@ -119,6 +122,7 @@
 .c-conference__hero {
   @include justify-content-space-between;
   @include flex-align-items-end;
+  margin-bottom: 1.5em;
 
   .c-button {
     color: $white;
