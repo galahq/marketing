@@ -24,21 +24,6 @@ Eventitems:
   eventlink: >
     https://www.facebook.com/events/609613002581826/
 - 
-  name: MSC Global Case Competition
-  date: 2017-09-15
-  time: 08:00 AM
-  type: Meeting/Conference
-  limitation: Public
-  host: MSC
-  location: SNRE, Ann Arbor, MI
-  locationlink: >
-    https://www.google.com/maps/place/Dana+Natural+Resources+Building/@42.2773182,-83.7387777,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae414df50bdd:0xb7a950c95b2356c6!8m2!3d42.2773182!4d-83.736589
-  topics: >
-    Case production, Case methodology,
-    Assessment and evaluation, Case teaching
-  eventlink: >
-    https://www.facebook.com/events/1377575905626948/
-- 
   name: >
     Sustainability and Social Science
     Research Symposium
