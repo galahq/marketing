@@ -1,145 +1,91 @@
-.conference .main {
-  margin-top: 0;
-}
-
-//Menu for conference type pages
-.c-conference__menu {
-  padding-top: 1em;
-  @include justify-content-space-between;
-  @include flex-align-items-end;
-
-  .c-conference__logo {
-    img {
-      margin-right: 0.3em;
-      display: none;
-    }
-
-    h1 {
-      margin: 0;
-      line-height: 1.2em;
-    }
-  }
-
-  h1 {
-    font-family: $heading-default;
-    font-style: normal;
-    span {
-      margin-top: 1em;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
-  }
-
-  nav {
-    @include justify-content-space-between;
-    position: relative;
-
-    a {
-      border-bottom: none;
-    }
-  }
-
-  ul {
-    flex: 3;
-    margin-bottom: auto !important;
-  }
-
-  ul li {
-    display: inline-block;
-    list-style: none;
-    text-transform: uppercase;
-    font-size: 0.9em;
-    margin: 1em;
-    flex: 1;
-
-    .active {
-      color: $white !important;
-    }
-
-    a {
-      border-bottom: 0;
-      color: $white;
-    }
-  }
-
-  h5 {
-    flex: 1;
-  }
-}
-
-//mobile menu
-.c-conference__menu--mobile {
-  display: none;
-  background-color: lighten($brown, 10%);
-  text-align: center;
-
-  @include breakpoint ($mq-small) {
-    position: fixed;
-    display: block;
-    top: 50;
-    z-index: 100;
-    width: 100%;
-  }
-
-  ul li {
-    list-style: none;
-    .active {
-      color: $white !important;
-    }
-    padding: 0.5em 0;
-    border-bottom: solid 1px $ltltgrey;
-    &:last-child {
-      border-bottom: none;
-    }
-  }
-
-  h5 {
-    padding: 1em 0;
-  }
-}
-
-.u-dropdown {
-  cursor: pointer;
-  padding: 0 1em;
-}
-
-.o-dropdown__nav {
-  display:none;
-}
-
-.o-dropdown--show {
-  display:block;
-}
-
-//hero
 .conference {
+  .main {
+    margin-top: 0;
+  }
+
   .hero {
     @include justify-content-space-between;
     background-color: $umblue;
+    height: 350px;
   }
 }
 
-.c-conference__hero {
-  @include justify-content-space-between;
-  @include flex-align-items-end;
-  margin-bottom: 1.5em;
+.c-conference {
+  //Menu
+  &__menu {
+    padding-top: 1em;
+    width: 100%;
+    @include justify-content-space-between;
+    @include flex-align-items(center);
 
-  .c-button {
-    color: $white;
-    border-color: $white !important;
-    margin-top: 1em;
+    .c-conference__logo {
+      img {
+        margin-right: 0.3em;
+        display: none;
+      }
+
+      h1 {
+        font-family: $heading-default;
+        font-style: normal;
+        margin: 0;
+        span {
+          display: block;
+          margin-top: 0.3em;
+          text-transform: uppercase;
+          letter-spacing: 0.05em;
+        }
+      }
+    }
+
+    nav {
+      @include justify-content-space-between;
+      position: relative;
+
+      a {
+        border-bottom: none;
+      }
+    }
+
+    ul li {
+      display: inline-block;
+      list-style: none;
+      text-transform: uppercase;
+      font-size: 0.9em;
+
+      a {
+        border-bottom: 0;
+        color: $white;
+        padding: 0.5em 1em;
+
+        &:hover {
+          background-color: $galablue;
+        }
+      }
+    }
   }
+  //Hero
+  &__hero {
+    @include justify-content-space-between;
+    @include flex-align-items-end;
+    margin-bottom: 1.5em;
 
-  p {
-    margin-top: 1em;
-  }
+    .c-button {
+      color: $white;
+      border-color: $white !important;
+      margin-top: 1em;
+    }
 
-  &__tagline {
-    @include flex-tri-parameters(0, 1, 30em);
-    h1 {
-      margin: 0;
-      font-weight: 200;
-      line-height: 110%;
+    p {
+      margin-top: 1em;
+    }
+
+    &__tagline {
+      @include flex-tri-parameters(0, 1, 30em);
+      h1 {
+        margin: 0;
+        font-weight: 200;
+        line-height: 110%;
+      }
     }
   }
 }

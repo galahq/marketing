@@ -1,7 +1,7 @@
 <?php if($page->is($pages->find('events')->find('case-competition'))) { ?>
   <section class="hero">
   <nav class="o-flex-growing c-conference__menu o-flex-container t-site">
-    <div class="c-conference__logo o-flex-container o-flex-growing">
+    <div class="o-flex-growing c-conference__logo o-flex-container">
       <img srcset="http://msc-public.imgix.net/msc_logo_vertical.png?w=100&amp; 1x,http://msc-public.imgix.net/msc_logo_vertical.png?w=200&amp; 2x,http://msc-public.imgix.net/msc_logo_vertical.png?w=300&amp; 3x," src="http://msc-public.imgix.net/msc_logo_vertical.png?w=100&amp;" alt="icon for search">
       <h1>CaseConf<br><span>Global</span></h1>
     </div>
@@ -17,7 +17,7 @@
   </nav>
   <div class="o-flex-growing o-flex-container c-conference__hero t-site">
     <div class="o-flex-growing c-conference__hero__tagline">
-      <h1><?php echo $page->tagline() ?></h1>
+      <h2><?php echo $page->tagline() ?></h2>
     </div>
     <div class="o-flex-growing">
       <p><?php echo $page->details() ?></p>
