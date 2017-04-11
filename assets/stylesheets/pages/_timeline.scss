@@ -1,197 +1,162 @@
-.c-timeline__container {
-  width: 90%;
+.c-timeline {
+  &__container {
+    position: relative;
+    padding: 2em 0;
+    margin-bottom: 2.5em;
+    width: 90%;
 
-  &:after {
-    /* clearfix */
-    content: '';
-    display: table;
-    clear: both;
-  }
-}
-
-#c-timeline {
-  position: relative;
-  padding: 2em 0;
-  margin-bottom: 2.5em;
-
-  &::before {
-    /* this is the vertical line */
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 50%;
-    height: 100%;
-    width: 4px;
-    background: $offwhite;
-
-    @include breakpoint($mq-medium) {
-      left: 18px;
-    }
-  }
-}
-
-.c-timeline__block{
-  position: relative;
-  margin: 2em 0;
-
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-  &:first-child {
-    margin-top: 0;
-  }
-
-  &:last-child {
-    margin-bottom: 0;
-  }
-
-  &:nth-child(odd){
-    .c-timeline__img{
-      background: $galablue;
-    }
-  }
-
-  &:nth-child(even){
-    .c-timeline__img{
-      background: $galablue;
-    }
-
-    .c-timeline__content {
-      float: right;
+    &::before {
+      /* this is the vertical line */
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      height: 100%;
+      width: 4px;
+      background: $offwhite;
 
       @include breakpoint($mq-medium) {
-        float: none;
-      }
-
-      &::before {
-        top: 15px;
-        left: auto;
-        right: 100%;
-        border-color: transparent;
-        border-right-color: $white;
-      }
-
-      .c-timeline__date {
-        left: auto;
-        right: 121%;
-        text-align: right;
-      }
-
-      .c-timeline__picture {
-        left: auto;
-        right: 121%;
+        left: 18px;
       }
     }
   }
-}
-
-.c-timeline__img {
-  position: absolute;
-  top: 8px;
-  width: 40px;
-  height: 40px;
-  left: 50%;
-  margin-left: -19px;
-  border-radius: 50%;
-  box-shadow: 0 0 0 4px $white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
-
-  img {
-    display: block;
-    width: 20px;
-    height: 20px;
+  //individual timeline blocks
+  &__block{
     position: relative;
-    left: 55%;
-    top: 55%;
-    margin-left: -12px;
-    margin-top: -12px;
+    margin: 2em 0;
+
+    &:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:nth-child(even){
+      .c-timeline__content {
+        float: right;
+
+        @include breakpoint($mq-medium) {
+          float: none;
+        }
+
+        &::before { //this is the little triangle pointer
+          top: 15px;
+          left: auto;
+          right: 100%;
+          border-color: transparent;
+          border-right-color: $white;
+        }
+
+        .c-timeline__date {
+          left: auto;
+          right: 121%;
+          text-align: right;
+        }
+
+        .c-timeline__picture {
+          left: auto;
+          right: 121%;
+        }
+      }
+    }
+  }
+  //The blue dots
+  &__dot {
+    position: absolute;
+    background: $galablue;
+    top: 8px;
+    width: 40px;
+    height: 40px;
+    left: 50%;
+    margin-left: -19px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 4px $white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 
     @include breakpoint($mq-medium) {
-      width: 15px;
-      height: 15px;
-      left: 65%;
-      top: 64%;
+      width: 30px;
+      height: 30px;
+      left: 5px;
+      margin: 0 auto;
+      top: 14px;
     }
   }
-
-  @include breakpoint($mq-medium) {
-    width: 30px;
-    height: 30px;
-    left: 5px;
-    margin: 0 auto;
-    top: 14px;
-  }
-}
-
-.c-timeline__date {
-  position: absolute;
-  width: 100%;
-  left: 121%;
-  top: 6px;
-  margin-top: 0.6em;
-  @include breakpoint($mq-medium){
-    position: initial;
-  }
-}
-
-.c-timeline__picture {
-  position: absolute;
-  width: 100%;
-  left: 121%;
-  top: 50px;
-
-  @include breakpoint($mq-medium){
-    position: initial;
-  }
-}
-
-.c-timeline__content {
-  position: relative;
-  background: $white;
-  border-radius: 0.25em;
-  padding: 1.6em;
-  margin-left: 0;
-  width: 45%;
-  box-shadow: 0 3px 0 $offwhite;
-
-  @include breakpoint($mq-medium){
-    margin-left: 60px;
-    padding: 1em;
-    width: calc(95% - 35px);
-  }
-
-  p {
-    margin-bottom: 0.4em;
-  }
-
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-  &::before {
-    content: '';
+  //Dates
+  &__date {
     position: absolute;
-    top: 15px;
-    left: 100%;
-    height: 0;
-    width: 0;
-    border: 15px solid transparent;
-    border-left-color: $white;
+    width: 100%;
+    left: 121%;
+    top: 6px;
+    margin-top: 0.6em;
+    @include breakpoint($mq-medium){
+      position: initial;
+    }
+  }
+  //Possible pictures
+  &__picture {
+    position: absolute;
+    width: 100%;
+    left: 121%;
+    top: 50px;
 
     @include breakpoint($mq-medium){
-      top: 16px;
-      right: 100%;
-      left: inherit;
-      border-right-color: $white;
-      border-left-color: transparent;
+      position: initial;
     }
   }
+  //The content
+  &__content {
+    position: relative;
+    background: $white;
+    border-radius: 0.25em;
+    padding: 1.6em;
+    margin-left: 0;
+    width: 45%;
+    box-shadow: 0 3px 0 $offwhite;
 
-  .c-timeline__readmore{
+    @include breakpoint($mq-medium){
+      margin-left: 60px;
+      padding: 1em;
+      width: calc(95% - 35px);
+    }
+
+    p {
+      margin-bottom: 0.4em;
+    }
+
+    &:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 15px;
+      left: 100%;
+      height: 0;
+      width: 0;
+      border: 15px solid transparent;
+      border-left-color: $white;
+
+      @include breakpoint($mq-medium){
+        top: 16px;
+        right: 100%;
+        left: inherit;
+        border-right-color: $white;
+        border-left-color: transparent;
+      }
+    }
+  }
+  //The readmore link
+  &__readmore{
     display: inline-block;
     float: left;
   }
