@@ -1697,18 +1697,11 @@ h2#make-a-case-funding-available {
         margin: 0 auto; } }
 
 .c-timeline__container {
-  width: 90%; }
-  .c-timeline__container:after {
-    /* clearfix */
-    content: '';
-    display: table;
-    clear: both; }
-
-#c-timeline {
   position: relative;
   padding: 2em 0;
-  margin-bottom: 2.5em; }
-  #c-timeline::before {
+  margin-bottom: 2.5em;
+  width: 90%; }
+  .c-timeline__container::before {
     /* this is the vertical line */
     content: '';
     position: absolute;
@@ -1718,9 +1711,8 @@ h2#make-a-case-funding-available {
     width: 4px;
     background: #ebeae4; }
     @media (max-width: 1024px) {
-      #c-timeline::before {
+      .c-timeline__container::before {
         left: 18px; } }
-
 .c-timeline__block {
   position: relative;
   margin: 2em 0; }
@@ -1732,10 +1724,6 @@ h2#make-a-case-funding-available {
     margin-top: 0; }
   .c-timeline__block:last-child {
     margin-bottom: 0; }
-  .c-timeline__block:nth-child(odd) .c-timeline__img {
-    background: #35536f; }
-  .c-timeline__block:nth-child(even) .c-timeline__img {
-    background: #35536f; }
   .c-timeline__block:nth-child(even) .c-timeline__content {
     float: right; }
     @media (max-width: 1024px) {
@@ -1754,9 +1742,9 @@ h2#make-a-case-funding-available {
     .c-timeline__block:nth-child(even) .c-timeline__content .c-timeline__picture {
       left: auto;
       right: 121%; }
-
-.c-timeline__img {
+.c-timeline__dot {
   position: absolute;
+  background: #35536f;
   top: 8px;
   width: 40px;
   height: 40px;
@@ -1764,29 +1752,13 @@ h2#make-a-case-funding-available {
   margin-left: -19px;
   border-radius: 50%;
   box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05); }
-  .c-timeline__img img {
-    display: block;
-    width: 20px;
-    height: 20px;
-    position: relative;
-    left: 55%;
-    top: 55%;
-    margin-left: -12px;
-    margin-top: -12px; }
-    @media (max-width: 1024px) {
-      .c-timeline__img img {
-        width: 15px;
-        height: 15px;
-        left: 65%;
-        top: 64%; } }
   @media (max-width: 1024px) {
-    .c-timeline__img {
+    .c-timeline__dot {
       width: 30px;
       height: 30px;
       left: 5px;
       margin: 0 auto;
       top: 14px; } }
-
 .c-timeline__date {
   position: absolute;
   width: 100%;
@@ -1796,7 +1768,6 @@ h2#make-a-case-funding-available {
   @media (max-width: 1024px) {
     .c-timeline__date {
       position: initial; } }
-
 .c-timeline__picture {
   position: absolute;
   width: 100%;
@@ -1805,7 +1776,6 @@ h2#make-a-case-funding-available {
   @media (max-width: 1024px) {
     .c-timeline__picture {
       position: initial; } }
-
 .c-timeline__content {
   position: relative;
   background: white;
@@ -1841,9 +1811,9 @@ h2#make-a-case-funding-available {
         left: inherit;
         border-right-color: white;
         border-left-color: transparent; } }
-  .c-timeline__content .c-timeline__readmore {
-    display: inline-block;
-    float: left; }
+.c-timeline__readmore {
+  display: inline-block;
+  float: left; }
 
 .guide h2 {
   font-size: 1.35em;
