@@ -2,9 +2,24 @@ Title: Global Case Competition
 
 ----
 
-Text: 
+Tagline: 
 
-##Overview
+Learning innovation in Sustainability is advancing around the globe.<br>
+Join the conversation.<br>
+Expand the collaboration.
+
+----
+
+Details: 
+
+September 15-16<br>
+University of Michigan<br>
+Ann Arbor, MI
+
+----
+
+Overview: 
+
 MSC Global Case Conference aims to bring together talents around the global who use and produce cases for the sustainabiity field.
 Year 2017 is the first year we host this global conference. We’ve invited our co-branding partner institutions to join our effort to test this idea out. If you want to be a pilot on attending this year’s conference as well, please join us!
 
@@ -21,23 +36,61 @@ Who are the main audience?
 — Graduate students who look to acquire skills including communication, multi-media production, and evaluation and assessment
 — Practitioners who wish to influence the cultivation of talents they need by impacting the curriculum
 
-##Timeline
-February 1:  Application for competition application open
-                          Application for conference open
-March 15:      Deadline for competition application submission
-March 21:      Notification of competition acceptance
-			    Deadline for early-bird rate registration
-March 27
-— May 31:      Series of webinars to help competition participants turn their cases into MSC
-June 05:         Deadline for case submission
-June 15:          Deadline for conference registration
-July 14-15:     Global Case Conference
-August 1
-— May 31:      Winning cases publication to MSC learning platform and other venues
+----
 
-##Partners
+Timeline: 
 
-##Competition
+- 
+  dateofitem: May 1
+  item: |
+    - Application for competition application open
+    - Application for conference open
+- 
+  dateofitem: July 1
+  item: >
+    Deadline for competition application
+    submission
+- 
+  dateofitem: Aug 1
+  item: Notification of competition acceptance
+- 
+  dateofitem: Aug 1 – Sep 1
+  item: >
+    Series of webinars to help competition
+    participants turn their cases into MSC
+- 
+  dateofitem: Sep 10
+  item: Deadline for case submission
+- 
+  dateofitem: Sep 15-16
+  item: Conference and advisory group meet-up
+- 
+  dateofitem: Sep 20 – Nov 20
+  item: >
+    Winning cases publication to MSC
+    learning platform and other venues
+
+----
+
+Partners: 
+
+- 
+  logo: '(imgix: isb-logo.png  alt: Indian School of Business size:195)'
+  link: http://www.isb.edu/
+- 
+  logo: '(imgix: harvard-logo.png  alt: Harvard University size:195)'
+  link: http://www.harvard.edu/
+- 
+  logo: '(imgix: sesync-logo.png  alt: National Socio-Environmental Synthesis Center size:195)'
+  link: https://www.sesync.org/
+- 
+  logo: '(imgix: mit-logo.png  alt: Massachusetts Institute of Technology size:195)'
+  link: http://web.mit.edu/
+
+----
+
+Competition: 
+
 Here we post specific rules about the competition, including:
 — Eligibility
 — Selection criteria
@@ -45,7 +98,10 @@ Here we post specific rules about the competition, including:
 — Link to submit final case
 — Reviewers
 
-##Webinars
+----
+
+Webinars: 
+
 A series of webinars is available for selected case competition participants. Detailed schedules will be sent to the selected participants.
 
 Topics include:
@@ -56,16 +112,22 @@ Topics include:
 — Plan for podcast to support/contradict your narrative in a conversational way
 — How to produce teaching guide to help fellow instructors to adopt your case
 
-##Logistics
+----
+
+Register: 
+
+Apply to attend the competition
+Register for the conference
+
+----
+
+Logistics: 
+
 Conference fee
 Case competition participants fee
 Hotel information
 Directions
 Etc.
-
-##Register Now
-###Apply to attend the competition
-###Register for the conference
 
 --
 Social media:
@@ -73,19 +135,3 @@ Social media:
 MSC intends to foster a learning community around case based learning and innovations around sustainability teaching. We hope the impact extends beyond the Michigan campus, to nation wide and around the globe.
 
 You can connect with us through our (link: https://twitter.com/learnmsc text:Twitter) or (link: https://www.facebook.com/makemsc/ text:Facebook), participate in our (link: community/events text: events), or take part in our (link: community/case-competition text: Global Case Competition).
-
-----
-
-Tagline: 
-
-Learning innovation in Sustainability is advancing around the globe.<br>
-Join the conversation.<br>
-Expand the collaboration.
-
-----
-
-Details: 
-
-September 15-16<br>
-University of Michigan<br>
-Ann Arbor, MI

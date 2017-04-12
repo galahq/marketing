@@ -8,6 +8,25 @@
     background-color: $umblue;
     height: 350px;
   }
+
+  #partners {
+    a {
+      border: none;
+    }
+    figure {
+      opacity: 0.85;
+      &:hover {
+        opacity: 1;
+      }
+    }
+    .o-flex-container {
+      @include justify-content-space-between;
+    }
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .c-conference {
@@ -17,6 +36,8 @@
     width: 100%;
     @include justify-content-space-between;
     @include flex-align-items(center);
+    padding-bottom: 1em;
+    border-bottom: solid 1px $ltgrey;
 
     .c-conference__logo {
       img {
@@ -56,6 +77,7 @@
         border-bottom: 0;
         color: $white;
         padding: 0.5em 1em;
+        border-radius: 5px;
 
         &:hover {
           background-color: $galablue;
@@ -86,6 +108,64 @@
         font-weight: 200;
         line-height: 110%;
       }
+    }
+  }
+  //Sections
+  &__section {
+    padding: 2em 0;
+    &:nth-child(even){
+      background-color: $offwhite;
+    }
+  }
+
+  &__section-title {
+    padding-right: 1em
+  }
+
+  &__section-content {
+    flex-basis: 35em;
+  }
+
+  &__timeline {
+    position: relative;
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 22%;
+      height: 100%;
+      width: 4px;
+      background:$ltgrey;
+    }
+
+    &__block {
+      position: relative;
+
+      &:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    }
+
+    .c-timeline__dot {
+      left: 22.1%;
+    }
+
+    &__date {
+      position: absolute;
+      width: 100%;
+      left: -740px;
+      top: 4px;
+      margin-top: 0.6em;
+      text-align: right;
+    }
+
+    &__content {
+      position: relative;
+      width: 73%;
+      padding: 1em;
+      float: right;
     }
   }
 }

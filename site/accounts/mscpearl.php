@@ -7,6 +7,7 @@ password: >
 language: en
 role: admin
 history:
+  - events/case-competition
   - msc/milestones
   - events
   - action/make/production-guide/deliverables/cover-page

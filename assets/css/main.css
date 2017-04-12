@@ -1917,6 +1917,18 @@ code {
   justify-content: space-between;
   background-color: #02284b;
   height: 350px; }
+.conference #partners a {
+  border: none; }
+.conference #partners figure {
+  opacity: 0.85; }
+  .conference #partners figure:hover {
+    opacity: 1; }
+.conference #partners .o-flex-container {
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between; }
+.conference p:last-child {
+  margin-bottom: 0; }
 
 .c-conference__menu {
   padding-top: 1em;
@@ -1926,7 +1938,9 @@ code {
   justify-content: space-between;
   -webkit-box-align: center;
   -ms-flex-align: center;
-  align-items: center; }
+  align-items: center;
+  padding-bottom: 1em;
+  border-bottom: solid 1px #9c9c9c; }
   .c-conference__menu .c-conference__logo img {
     margin-right: 0.3em;
     display: none; }
@@ -1954,7 +1968,8 @@ code {
     .c-conference__menu ul li a {
       border-bottom: 0;
       color: white;
-      padding: 0.5em 1em; }
+      padding: 0.5em 1em;
+      border-radius: 5px; }
       .c-conference__menu ul li a:hover {
         background-color: #35536f; }
 .c-conference__hero {
@@ -1979,6 +1994,44 @@ code {
       margin: 0;
       font-weight: 200;
       line-height: 110%; }
+.c-conference__section {
+  padding: 2em 0; }
+  .c-conference__section:nth-child(even) {
+    background-color: #ebeae4; }
+.c-conference__section-title {
+  padding-right: 1em; }
+.c-conference__section-content {
+  flex-basis: 35em; }
+.c-conference__timeline {
+  position: relative; }
+  .c-conference__timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 22%;
+    height: 100%;
+    width: 4px;
+    background: #9c9c9c; }
+  .c-conference__timeline__block {
+    position: relative; }
+    .c-conference__timeline__block:after {
+      content: "";
+      display: table;
+      clear: both; }
+  .c-conference__timeline .c-timeline__dot {
+    left: 22.1%; }
+  .c-conference__timeline__date {
+    position: absolute;
+    width: 100%;
+    left: -740px;
+    top: 4px;
+    margin-top: 0.6em;
+    text-align: right; }
+  .c-conference__timeline__content {
+    position: relative;
+    width: 73%;
+    padding: 1em;
+    float: right; }
 
 .o-error__container {
   background: url(http://msc-public.imgix.net/deadend.jpg);
