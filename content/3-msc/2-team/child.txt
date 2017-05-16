@@ -86,11 +86,6 @@ Coremembers:
     ####Cameron Bothner
     #####Software Engineer
 - 
-  profilepic: '(imgix: mike_burbidge.jpg alt:Mike Burbidge size:374)'
-  nameandtitle: |
-    ####Mike Burbidge
-    #####Media Coordinator
-- 
   profilepic: '(imgix: ed_waisanen.jpg alt:Ed Waisanen size:374)'
   nameandtitle: |
     ####Ed Waisanen
@@ -116,11 +111,6 @@ Coremembers:
     ####Meg Czerwinski
     #####Evaluation Coordinator
 - 
-  profilepic: '(imgix: anil_bhargava.jpg alt:Anil_Bhargava size:374)'
-  nameandtitle: |
-    ####Anil Bhargava
-    #####Assessment Specialist
-- 
   profilepic: '(imgix: arman_golrokhian.jpg alt:Arman Golrokhian size:374)'
   nameandtitle: |
     ####Arman Golrokhian
@@ -138,9 +128,7 @@ Othermembers:
 ### Team Contributors
 Marie Hooper — Web Interface Consultant
 Kris Steinhoff — Software Architecture Consultant
-Patrick Conway — Podcast Editor
-Rebecca Rutt — Communications Consultant
-Arman Golrokhian — Production Facilitator
+Helen Gutierrez — Assessment and Evaluation Facilitator
 Dave Brenner — Photo Contributor
 Nick Kemp — Photo Contributor
 
@@ -180,11 +168,14 @@ Nick Kemp — Photo Contributor
 (link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, SESYNC
 
 ### Team Alumni
+Mike Burbidge — M.S., SNRE
 Steve Lonn — Director of Enrollment Research and Data Management, UM
-Claire Poelking — M.S. candidate at SNRE
+Claire Poelking — M.S., SNRE
 Harold Rice — B.S., Program in the Environment, UM
-Alex Truelove — M.S. candidate at SNRE
+Alex Truelove — M.S., SNRE
 Mary Wright — Director, Sheridan Center for Teaching and Learning, Brown University
+Anil Bhargava — MSC Assessment Specialist, Feb–Dec 2016
+Rebecca Rutt — MSC Communications Consultant, August–Dec 2016
 
 (imgix: msc-group.jpg alt:MSC group picture class:o-image--fullwidth caption:We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.)
 <p>&nbsp;</p>
