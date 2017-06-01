@@ -69,7 +69,7 @@ Umunits:
 
 - 
   logo: '(imgix: crlt-logo.png  alt: Center for Research on Learning and Teaching size:400)'
-  link: www.crlt.umich.edu
+  link: http://www.crlt.umich.edu/
 - 
   logo: '(imgix: ai-logo.png  alt: Academic Innovation size:400)'
   link: http://ai.umich.edu/
@@ -120,3 +120,11 @@ Timeline:
 ----
 
 Elementexamples: 
+
+----
+
+Coremembers: 
+
+----
+
+Othermembers: 
