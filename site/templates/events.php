@@ -56,49 +56,46 @@
   </div>
 </div>
 
-<?php if($page->eventitems() == ''):?>
+<?php $eventi = $page->eventitems()->toStructure() ?>
+<?php if($eventi->date("Y-m-d") < date("Y-m-d")):?>
 <p style="margin-top: 2.5em; margin-bottom: 4em;">There is no upcoming events. You can checkout <a href="events/previous-events">information and materials from previous events</a>.</p>
+<?php endif ?>
 
-<?php else: ?>
-
-<?php if($page->eventitems()->isNotEmpty()): ?>
-  <?php foreach($page->eventitems()->toStructure()->sortBy($sort='date', $direction='asc') as $eventitem): ?>
-  <?php if($eventitem->date("Y-m-d") >= date("Y-m-d")):?>
-    <div class="c-single-event o-flex-container"
-      data-event-type="<?php echo $eventitem->type() ?>"
-      data-event-host="<?php echo $eventitem->host() ?>"
-      data-event-topics="<?php echo $eventitem->topics() ?>"
-      data-event-name="<?php echo $eventitem->name() ?>"
-    >
-      <div class="c-event-description o-flex-item-growing">
-        <div class="c-event-description__topics">
-          <p>Topics:</p>
-          <ul class="c-event-tags">
-            <?php foreach($eventitem->topics()->split() as $eventtopic): ?>
-            <li><?php echo $eventtopic ?></li>
-            <?php endforeach ?>
-          </ul>
-        </div>
-        <h2><?php echo $eventitem->name() ?></h2>
-        <p><?php echo $eventitem->date('l F j, Y') ?> — <?php echo $eventitem->type() ?></p>
-        <p>Hosted by: <?php echo $eventitem->host() ?></p>
+<?php foreach($page->eventitems()->toStructure()->sortBy($sort='date', $direction='asc') as $eventitem): ?>
+<?php if($eventitem->date("Y-m-d") >= date("Y-m-d")):?>
+  <div class="c-single-event o-flex-container"
+    data-event-type="<?php echo $eventitem->type() ?>"
+    data-event-host="<?php echo $eventitem->host() ?>"
+    data-event-topics="<?php echo $eventitem->topics() ?>"
+    data-event-name="<?php echo $eventitem->name() ?>"
+  >
+    <div class="c-event-description o-flex-item-growing">
+      <div class="c-event-description__topics">
+        <p>Topics:</p>
+        <ul class="c-event-tags">
+          <?php foreach($eventitem->topics()->split() as $eventtopic): ?>
+          <li><?php echo $eventtopic ?></li>
+          <?php endforeach ?>
+        </ul>
       </div>
-      <div class="c-event-registration o-flex-item-growing">
-        <div>
-          <p><span><img srcset="http://msc-public.imgix.net/icon-time.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-time.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-time.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-time.png?w=24&amp;" alt="icon for time"></span><?php echo $eventitem->time() ?></p>
-          <p><span><img srcset="http://msc-public.imgix.net/icon-location.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-location.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-location.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-location.png?w=24&amp;" alt="icon for location"></span>
-            <a href="<?php echo $eventitem->locationlink() ?>" target="_blank"><?php echo $eventitem->location() ?></a>
-          </p>
-          <p>Open to: <?php echo $eventitem->limitation() ?></p>
-          <a class="c-button" href="<?php echo $eventitem->eventlink() ?>" target="_blank">Learn more/register</a>
-        </div>
+      <h2><?php echo $eventitem->name() ?></h2>
+      <p><?php echo $eventitem->date('l F j, Y') ?> — <?php echo $eventitem->type() ?></p>
+      <p>Hosted by: <?php echo $eventitem->host() ?></p>
+    </div>
+    <div class="c-event-registration o-flex-item-growing">
+      <div>
+        <p><span><img srcset="http://msc-public.imgix.net/icon-time.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-time.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-time.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-time.png?w=24&amp;" alt="icon for time"></span><?php echo $eventitem->time() ?></p>
+        <p><span><img srcset="http://msc-public.imgix.net/icon-location.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-location.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-location.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-location.png?w=24&amp;" alt="icon for location"></span>
+          <a href="<?php echo $eventitem->locationlink() ?>" target="_blank"><?php echo $eventitem->location() ?></a>
+        </p>
+        <p>Open to: <?php echo $eventitem->limitation() ?></p>
+        <a class="c-button" href="<?php echo $eventitem->eventlink() ?>" target="_blank">Learn more/register</a>
       </div>
     </div>
-  <?php endif ?>
-  <?php endforeach ?>
+  </div>
 <?php endif ?>
+<?php endforeach ?>
 
-<?php endif ?>
 
 </div><!--t-site-->
 
