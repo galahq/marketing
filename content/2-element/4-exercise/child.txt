@@ -75,23 +75,23 @@ Elementexamples:
   background: ""
   foreground: '(imgix:role-play.jpg alt: role play exercise size:374)'
   description: |
-    ### Walk in Their Shoes
+    ### Walk in their shoes
     In the Michigan Wolf Wars case, students use stakeholder role plays to resolve political impasses while practicing wildlife-human conflict resolution and and policy negotiation skills.
 - 
   background: ""
   foreground: '(imgix: cost-benefit-analysis.jpg alt: cost benefit analysis size:374)'
   description: |
-    ### Run the Numbers
+    ### Run the numbers
     In the National Adaptation Plan of Action (or NAPA) case, students first master economic cost-benefit analysis and then run a more complex analysis with the addition of socio ecological parameters, to rank Ethiopia's proposed NAPAs for their protection of people from climate volatility.
 - 
   background: ""
   foreground: '(imgix: exercise-mufi.jpg alt:map and explore size:374)'
   description: |
-    ###Map and Explore
+    ###Map and explore
     In the Urban Farming case, students use an interactive map called *Social Explorer* to visualize land use allocation and zoning, then take a field trip to Detroit as participant observers of labor and social relationships on an urban farm.
 - 
   background: ""
   foreground: '(imgix: field-trip.jpg alt: field trip size:374)'
   description: |
-    ###Get into the Water
+    ###Get into the water
     In the Maple River Dam Removal case, students encounter the technical, ecological and epidemiological up sides and down sides to removing a dam.  The case gets them into the water to take measurements and model results about the surrounding habitat: before, during, and after.
