@@ -31,3 +31,5 @@ The date should appear as <code>YYYYMMDD</code>. Edited files will be returned t
 
 ##Turnaround time
 Allow 2-4 weeks for editing and return of submitted materials.
+
+Note that MSC reserves final editorial control over case components.

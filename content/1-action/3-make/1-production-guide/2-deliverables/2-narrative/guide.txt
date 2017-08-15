@@ -7,7 +7,7 @@ Text:
 The case narrative tells the story from the point of view of a decision maker, focused around a clearly defined decision point. As much as possible, narratives should involve real people, situations, and decisions.
 
 ##General Guidelines
-The story should be cohesive, and the text broken into sections with clear section titles. Provide a table of contents. See the template for an example. Although MSCs should be written to tell a story, all details included should have relevance to the decision. (E.g., avoid making unnecessary comments about what someone ate for lunch.)
+The story should be cohesive, and the text broken into sections with clear section titles. Provide a table of contents. See the template for an example. Although MSCs should be written to tell a story, all details included should have relevance to the decision. (e.g., Avoid making unnecessary comments about what someone ate for lunch.)
 
 (imgix:narrative-instruction.png alt:narrative instruction)
 
@@ -15,7 +15,7 @@ The story should be cohesive, and the text broken into sections with clear secti
 There are no restrictions on the length of the case narrative. It should only be long enough to fully convey the complexity of the decision. Note that MSCs are intended to be "living cases", and can be updated later as events unfold.
 
 ###Point of view
-We encourage the use of third person past tense. Example: “Mr. Smith considered his options. If he approved the proposal, it would mean higher electric bills for his customers.” Some cases make use of first person point of view and/or present tense, although these choices are less common and may pose additional writing challenges. Do not use second person point of view.
+Write using third person past tense. Example: “Mr. Smith considered his options. If he approved the proposal, it would mean higher electric bills for his customers.” Some authors resist writing their case study in past tense. However, this is standard practice for writing case studies at institutions such as Harvard Business School, as it ensures the longevity of the case. Do not use second person point of view.
 
 ###Decision maker/Protagonist
 Case writing teams are encouraged to work with the decision maker (sometimes referred to as the protagonist) when developing the case. Close collaboration supports practitioner involvement and ensures that we will be able to use the person’s real name when the case is posted on our learning platform.
