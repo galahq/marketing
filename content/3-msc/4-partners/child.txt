@@ -45,8 +45,8 @@ Featureimg:
 Umschools: 
 
 - 
-  logo: '(imgix: snre-logo.png  alt: School of Natural Resources and Environment size:400)'
-  link: http://snre.umich.edu/
+  logo: '(imgix: seas_logo.png  alt: School of Natural Resources and Environment size:400)'
+  link: http://seas.umich.edu/
 - 
   logo: '(imgix: sph-logo.png  alt: School of Public Health size:400)'
   link: https://sph.umich.edu/
