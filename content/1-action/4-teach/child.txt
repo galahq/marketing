@@ -6,11 +6,11 @@ Tagline: Modular cases cater to diverse teaching goals and timelines.
 
 ----
 
-Description:
+Description: 
 
 ----
 
-Text:
+Text: 
 
 Teaching the next generation of sustainability leaders? Budding scientists, policy makers, entrepreneurs, and engineers need *innovative approaches* and *thoughtful guidance* to be ready to respond to increasingly wicked sustainability dilemmas over the course of their careers. To equip students to navigate information deficits, uncertainties, and social asymmetries, pedagogical methods must enable thinking that is *systematic, creative, socially just*, and *interculturally intelligent*. We think it should also be free, easy to adapt to your current teaching practices, yet transformative of your relationship with students, and their relationships to wider worlds.
 
@@ -36,12 +36,12 @@ Subdescription: MSC works through both practice and theory; MSC’s modularity s
 
 ----
 
-Wbg:
+Wbg: 
 
 ##How can MSCs serve you?##
 MSCs impart enormous benefits for instructors.
 
-1. ###‘Blended’ learning
+1. ###‘Blended’ Learning
 MSCs are not online learning. Rather, they harness the best of online and face to face learning. MSCs ‘flip’ classrooms, equipping students before they get to class, for meaningful discussions. This minimizes the need for traditional top-down lectures that restrict active participation. Instructors can also choose to go fully online for distance learning.
 
 2. ###Modular
@@ -57,28 +57,36 @@ How do we know MSC is so effective in equipping students with the competencies n
 
 ----
 
-Timeline:
+Timeline: 
 
 ----
 
-Feature:
+Feature: 
 
 ----
 
-Featureimg:
+Featureimg: 
 
 ----
 
-Umschools:
+Umschools: 
 
 ----
 
-Umunits:
+Umunits: 
 
 ----
 
-Otherpartners:
+Otherpartners: 
 
 ----
 
-Elementexamples:
+Elementexamples: 
+
+----
+
+Coremembers: 
+
+----
+
+Othermembers: 

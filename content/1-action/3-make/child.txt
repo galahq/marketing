@@ -6,11 +6,11 @@ Tagline: Student-driven partnerships with faculty and practitioners.
 
 ----
 
-Description: 
+Description:
 
 ----
 
-Text: 
+Text:
 
 *Learning by Doing* is the cornerstone of MSC. Students often take the lead, designing MSCs with future students in mind, while benefiting from productive partnerships with professors, practitioners, and media specialists.  Through the process they become better analysts, better advocates, and better at adapting fast to professional challenges involving networking, communication and interpretation of complex information.
 
@@ -36,7 +36,7 @@ Subdescription: Turn an inspiration into an active learning experience; Gain pra
 
 ----
 
-Wbg: 
+Wbg:
 
 ##Production team: students, instructors, and practitioners
 Each team member brings essential perspectives and skills that ensure production of a high-quality, impactful case. In addition, each one benefits from their experience making an MSC:
@@ -62,7 +62,7 @@ Each team member brings essential perspectives and skills that ensure production
 - Publish on a fast track in our partner journals
 - Create powerful connections between research and teaching
 
-##Make A Case, Funding Available 
+##Make A Case, Funding Available
 
 <div class="u-actionitem t-site t-blog">
     <a href="make/proposal">
@@ -74,10 +74,10 @@ Each team member brings essential perspectives and skills that ensure production
         <div class="u-actionitem__arrow"><span>›</span></div>
       </section>
    </a>
-    <a href="make/production-guide">
+    <a href="make/producers-resources">
       <section class="o-flex-container">
         <div class="u-actionitem__text">
-          <h3>View Production Guide</h3>
+          <h3>View Producers' Resources</h3>
           <p>Once your proposal is accepted, the MSC team will work with you and guide you through the production process.</p>
         </div>
         <div class="u-actionitem__arrow"><span>›</span></div>
@@ -87,40 +87,40 @@ Each team member brings essential perspectives and skills that ensure production
 
 ----
 
-Timeline: 
+Timeline:
 
 ----
 
-Feature: 
+Feature:
 
 ----
 
-Featuring: 
+Featuring:
 
 ----
 
-Featureimg: 
+Featureimg:
 
 ----
 
-Umschools: 
+Umschools:
 
 ----
 
-Umunits: 
+Umunits:
 
 ----
 
-Otherpartners: 
+Otherpartners:
 
 ----
 
-Elementexamples: 
+Elementexamples:
 
 ----
 
-Coremembers: 
+Coremembers:
 
 ----
 
-Othermembers: 
+Othermembers:

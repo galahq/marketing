@@ -1,0 +1,92 @@
+Title: Case Submission
+
+----
+
+Tagline: 
+
+----
+
+Description: 
+
+----
+
+Pagetagline: Submit Your Case
+
+----
+
+Pagesubtagline: 
+
+----
+
+Subdescription: 
+
+----
+
+Text: 
+
+*If you have questions regarding submission details, please refer to the (link: action/make/production-guide text: production guide).*
+
+###Cover page, narrative, and Edgenotes
+(link: https://umich.box.com/shared/static/glx67cim919lgdxxw27a4m5bc78x6p5b.docx text: Submission template: Cover page, narrative, and Edgenotes)
+Naming convention: Your Team Name_CNE_yyyymmdd
+<script src="https://umich.app.box.com/upload-widget/embed.js?folderID=37236815243&title=Submission%3A%20MSC%20cover%20page%2C%20narrative%2C%20and%20Edgenotes&instructions=Please%20fill%20out%20the%20template%20and%20upload%20your%20submission%20here.&isDescriptionFieldShown=1&isEmailRequired=1&width=385&height=420&token=r0gdg4tfloduemchxias2dikh3tx4s6h" type="text/javascript"></script>
+<p>&nbsp;</p>
+###Engaged learning exercises
+(link: https://umich.box.com/shared/static/glx67cim919lgdxxw27a4m5bc78x6p5b.docx text: Submission template: Engaged learning exercises)
+Naming convention: Your Team Name_ELE_yyyymmdd
+<script src="https://umich.app.box.com/upload-widget/embed.js?folderID=37236854236&title=Submission%3A%20MSC%20engaged%20learning%20exercises&instructions=Please%20fill%20out%20the%20template%20and%20submit%20your%20engaged%20learning%20exercises%20here.&isDescriptionFieldShown=1&isEmailRequired=1&width=385&height=420&token=p2jtvkrk1z71u5jvu7iaz5uo99hrqjmj" type="text/javascript"></script>
+<p>&nbsp;</p>
+###Podcast blurb
+(link: https://umich.box.com/shared/static/glx67cim919lgdxxw27a4m5bc78x6p5b.docx text: Submission template: Podcast blurb)
+Naming convention: Your Team Name_PB_yyyymmdd
+<script src="https://umich.app.box.com/upload-widget/embed.js?folderID=37236950686&title=Submission%3A%20MSC%20podcast%20blurb&instructions=Please%20fill%20out%20the%20submission%20template%20and%20upload%20your%20podcast%20blurb%20here.&isDescriptionFieldShown=1&isEmailRequired=1&width=385&height=420&token=vtobsuwib88f8n0v2zudnvvypzrbiq9l" type="text/javascript"></script>
+<p>&nbsp;</p>
+###Teaching notes
+(link: https://umich.box.com/shared/static/glx67cim919lgdxxw27a4m5bc78x6p5b.docx text: Submission template: Teaching notes)
+Naming convention: Your Team Name_TN_yyyymmdd
+<script src="https://umich.app.box.com/upload-widget/embed.js?folderID=37236857669&title=Submission%3A%20MSC%20teaching%20notes&instructions=Please%20fill%20out%20the%20submission%20template%20and%20upload%20your%20teaching%20notes%20here.&isDescriptionFieldShown=1&isEmailRequired=1&width=385&height=420&token=ok80y9n8sdwl728eluhbdc5mmfn4314a" type="text/javascript"></script>
+<p>&nbsp;</p>
+
+----
+
+Link: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Wbg: 
+
+----
+
+Timeline: 
+
+----
+
+Elementexamples: 
+
+----
+
+Coremembers: 
+
+----
+
+Othermembers: 

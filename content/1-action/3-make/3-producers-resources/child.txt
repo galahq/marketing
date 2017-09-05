@@ -1,0 +1,94 @@
+Title: Producers’ Resources
+
+----
+
+Tagline: 
+
+----
+
+Description: 
+
+----
+
+Pagetagline: Producing an MSC
+
+----
+
+Pagesubtagline: 
+
+----
+
+Subdescription: 
+
+----
+
+Text: 
+
+The following resources are intended for case teams with an accepted proposal.
+Not a case author yet? (link: action/make/proposal text:Submit your proposal).
+
+----
+
+Link: 
+
+----
+
+Feature: 
+
+----
+
+Featureimg: 
+
+----
+
+Umschools: 
+
+----
+
+Umunits: 
+
+----
+
+Otherpartners: 
+
+----
+
+Wbg: 
+
+<p>&nbsp;</p>
+<div class="u-actionitem t-site t-blog">
+   <a href="production-guide">
+      <section class="o-flex-container">
+        <div class="u-actionitem__text">
+          <h3>View Production Guide</h3>
+          <p>Here is a step by step guide of how to produce an MSC.</p>
+        </div>
+        <div class="u-actionitem__arrow"><span>›</span></div>
+      </section>
+    </a>
+     <a href="case-submission">
+      <section class="o-flex-container">
+        <div class="u-actionitem__text">
+          <h3>Submit Your Case</h3>
+          <p>Please use this page to submit your case for review.</p>
+        </div>
+        <div class="u-actionitem__arrow"><span>›</span></div>
+      </section>
+    </a>
+</div>
+
+----
+
+Timeline: 
+
+----
+
+Elementexamples: 
+
+----
+
+Coremembers: 
+
+----
+
+Othermembers: 
