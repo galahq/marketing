@@ -8,6 +8,8 @@ MSC accepts proposals on a rolling basis. The MSC curricular advisors meet at le
 
 <a href="https://umich.box.com/shared/static/7ylxdo47e5gk6ftna6dcizbtg6h0az1q.docx" class="c-button">Download Proposal Submission Template</a>
 
+After filling out the proposal submission template, please upload your proposal using the box widget below.
+
 <script src="https://umich.app.box.com/upload-widget/embed.js?folderID=16612626680&title=MSC%20Production%20Proposal%20Submission&instructions=Please%20fill%20out%20the%20proposal%20submission%20template%20and%20upload%20your%20proposal%20here%20as%20word%20document%20with%20your%20case%20title%20as%20the%20file%20name.&isDescriptionFieldShown=1&isEmailRequired=1&width=385&height=420&token=tergg1qtxpnaaeti4qiyheama423syla" type="text/javascript"></script>
 
 <p>&nbsp;</p>
