@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - action/make/proposal
-  - msc/partners
   - msc/team
+  - msc/partners
   - msc/milestones
   - events
