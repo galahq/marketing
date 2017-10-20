@@ -148,6 +148,15 @@ Timeline:
     http://online.liebertpub.com/doi/pdfplus/10.1089/sus.2017.29078.gp
   picture: ""
   date: 2017-02-14
+- 
+  content: |
+    ##First MSC Strategic Advisors Meeting
+    The weekend of Oct 13-15, 2017 brought together a group of local, national, and international partners to exchange insights about the future of case-based learning and explore areas for collaboration. Attendees included participants from Harvard University, the Indian School of Business, the National Socio-Environmental Synthesis Center (SESYNC), Tsinghua University, Massachusetts Institute of Technology, and Yale University, along with Academic Innovation (University of Michigan) and the City of Ann Arbor.
+  dateofevent: Oct 2017
+  newslink: >
+    milestones/strategic-advisors-meeting-2017
+  picture: '(imgix: strategic-advisors-meeting-2017_group.jpg alt: 2017 MSC Strategic Advisors Meeting participants class: o-image--fullwidth c-timeline__picture)'
+  date: 2017-10-14
 
 ----
 
