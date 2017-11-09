@@ -131,6 +131,22 @@ Eventitems:
   eventlink: >
     http://muse-initiative.umich.edu/conference/
   topics: Assessment and evaluation
+- 
+  name: How to Design a Case
+  date: 2017-11-13
+  time: 03:30 PM
+  type: Workshop/Seminar
+  limitation: >
+    Current and Prospective Case Faculty
+    Advisors
+  host: MSC
+  location: >
+    1013 Palmer Commons (CRLT’s seminar
+    room)
+  locationlink: https://goo.gl/maps/PLSLJe2tJL42
+  eventlink: >
+    https://docs.google.com/a/umich.edu/forms/d/e/1FAIpQLSfIvdUUVm4Zv3LYYepZN-quYAfTj0rRRHCSR-L_tGTfC9jmyg/viewform?usp=sf_link
+  topics: Case production, Case teaching
 
 ----
 
