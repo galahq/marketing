@@ -56,10 +56,10 @@
   </div>
 </div>
 
-<?php $eventi = $page->eventitems()->toStructure() ?>
-<?php if($eventi->date("Y-m-d") < date("Y-m-d")):?>
-<p style="margin-top: 2.5em; margin-bottom: 4em;">There is no upcoming events at this point. You can checkout <a href="events/previous-events">information and materials from previous events</a>.</p>
-<?php endif ?>
+<!-- // <?php $eventi = $page->eventitems()->toStructure() ?>
+// <?php if($eventi->date("Y-m-d") < date("Y-m-d")):?>
+// <p style="margin-top: 2.5em; margin-bottom: 4em;">There is no upcoming events at this point. You can checkout <a href="events/previous-events">information and materials from previous events</a>.</p>
+// <?php endif ?> -->
 
 <?php foreach($page->eventitems()->toStructure()->sortBy($sort='date', $direction='asc') as $eventitem): ?>
 <?php if($eventitem->date("Y-m-d") >= date("Y-m-d")):?>
