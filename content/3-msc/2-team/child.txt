@@ -78,7 +78,7 @@ Coremembers:
   profilepic: '(imgix: pearl_zeng.jpg alt:Pearl Zeng size:374)'
   nameandtitle: |
     ####Pearl Zeng
-    #####Learning Platform and Web Manager
+    #####Web and Communications Manager
 - 
   profilepic: '(imgix: cameron_bothner.jpg alt:Cameron Bothner size:374)'
   title: 'Cameron Bothner <br>'
@@ -90,6 +90,11 @@ Coremembers:
   nameandtitle: |
     ####Ed Waisanen
     #####Media Director
+- 
+  profilepic: '(imgix: meg_czerwinski.jpg alt:Megan Czerwinski size:374)'
+  nameandtitle: |
+    ####Megan Czerwinski
+    #####Assessment Specialist
 - 
   profilepic: '(imgix: chris_askew.jpg alt:Chris Askew size:374)'
   nameandtitle: |
@@ -111,59 +116,84 @@ Coremembers:
 Othermembers: 
 
 ### Team Contributors
-Marie Hooper — Web Interface Consultant
-Dave Brenner — Photo Contributor
+- Marie Hooper — Web Interface Consultant
+- Dave Brenner — Photo Contributor
+<p>&nbsp;</p>
 
 <h3 id="curricular-advisors">Curricular Advisors</h3>
-(link: http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, AOSS
-(link: https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law
-(link: http://seas.umich.edu/student_profiles/katherine_browne text: Katherine Browne) — PHD candidate, SEAS
-(link: http://graham.umich.edu/users/jcallew text:John Callewaert) — Director of Emerging Opportunities Program, Graham Institute
-(link: http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation
-(link: http://www.soe.umich.edu/people/profile/barry_fishman/ text: Barry Fishman) — Professor, Information; Professor, Education
-(link: https://www.linkedin.com/in/samantha-hallman-39a1a1125/ text: Samantha Hallman) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
-(link: http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies
-(link: https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, CRLT
-(link: https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, CRLT
-(link: https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, EEB; Director, UM Biostation
-(link: http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library
-(link: http://seas.umich.edu/research/faculty/sheila_schueller text:Sheila Schueller) — Lecturer, SEAS
-(link: https://lsa.umich.edu/sweetland/people/faculty/nesilver.html text: Naomi Silver) — Associate Director, Sweetland Writing Center
-(link: https://lsa.umich.edu/earth/people/faculty/simonac.html text:Adam Simon) — Associate Professor, EES
-(link: https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, CEE
-(link: http://stamps.umich.edu/people/detail/joseph_trumpey text:Joe Trumpey) — Associate Professor, Art & Design
-(link: http://www.lib.umich.edu/users/ltz text:Lori Tschirhart) — Librarian, SEAS
-(link: http://seas.umich.edu/research/faculty/steven_yaffee text:Steve Yaffee) — Professor, SEAS
-(link: http://seas.umich.edu/research/faculty/michaela_zint text:Michaela Zint) — Professor, SEAS
+*In Alphabetical Order*
+- (link: http://graham.umich.edu/users/maallan text: Maggie Allan) — Emerging Opportunities Officer,  Graham Institute, University of Michigan
+- (link: http://clasp.engin.umich.edu/people/jbassis/FACULTY text:Jeremy Bassis) — Associate Professor, College of Engineering, University of Michigan
+- (link: https://www.law.umich.edu/FacultyBio/Pages/FacultyBio.aspx?FacID=lbeny text:Laura Beny) — Professor, Law School, University of Michigan
+- (link: http://seas.umich.edu/student_profiles/katherine_browne text: Katherine Browne) — PHD candidate, School for Environment and Sustainability, University of Michigan
+- (link: http://cee.umich.edu/Brian_Ellis text: Brian R. Ellis) — Assistant Professor, College of Engineering, University of Michigan
+- (link: http://cfe.umich.edu/staff/ryan-gourley/ text: Ryan Gourley) — Director, TechArb, University of Michigan
+- (link: http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies, University of Michigan
+- (link: https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, Center for Research on Learning and Teaching, University of Michigan
+- (link: http://seas.umich.edu/research/faculty/maria_carmen_lemos text: Maria Carmen Lemos) — Professor, School for Environment and Sustainability, University of Michigan
+- (link: https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, Center for Research on Learning and Teaching, University of Michigan
+- (link: http://seas.umich.edu/research/faculty/shelie_miller text: Shelie Miller) — Professor, School for Environment and Sustainability, University of Michigan
+- (link: https://www.linkedin.com/in/sonia-joseph-joshi-44a68877/ text: Sonia Joseph Joshi — Diversity, Equity & Inclusion Program Manager, School for Environment and Sustainability, University of Michigan
+- (link: https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, Ecology and Evolutionary Biology; Director, Biostation, University of Michigan
+- (link: http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library, University of Michigan
+- (link: http://seas.umich.edu/research/faculty/sheila_schueller text:Sheila Schueller) — Lecturer, School for Environment and Sustainability, University of Michigan
+- (link: https://lsa.umich.edu/sweetland/people/faculty/nesilver.html text: Naomi Silver) — Associate Director, Sweetland Writing Center, University of Michigan
+- (link: https://lsa.umich.edu/earth/people/faculty/simonac.html text:Adam Simon) — Associate Professor, Ecology and Evolutionary Biology, University of Michigan
+- (link: https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=skerlos text:Steve Skerlos) — Associate Professor, College of Engineering, University of Michigan
+- (link: http://stamps.umich.edu/people/detail/joseph_trumpey text:Joe Trumpey) — Associate Professor, School of Art and Design, University of Michigan
+- (link: http://www.lib.umich.edu/users/ltz text:Lori Tschirhart) — Librarian, University of Michigan
+- (link: http://seas.umich.edu/research/faculty/steven_yaffee text:Steve Yaffee) — Professor, School for Environment and Sustainability, University of Michigan
+- (link: http://seas.umich.edu/research/faculty/michaela_zint text:Michaela Zint) — Professor, School for Environment and Sustainability, University of Michigan
+<p>&nbsp;</p>
 
 ### Strategic Advisors
-(link: http://seas.umich.edu/research/faculty/arun_agrawal text: Arun Agrawal) — Professor, SEAS, Co-PI of MSC
-(link: http://seas.umich.edu/research/faculty/rosina_bierbaum text: Rosina Bierbaum) — Professor, SEAS
-(link: http://seas.umich.edu/research/faculty/dan_brown text: Dan Brown) — Professor, SEAS
-(link: http://isb.academia.edu/AshwiniChhatre text: Ashwini Chhatre) — Editor-in-Chief, World Development Perspectives
-(link: http://environment.harvard.edu/about/faculty/william-c-clark text: William Clark) — Professor of International Science, Public Policy and Human Development, Harvard
-(link: http://www.earthinstitute.columbia.edu/articles/view/2470 text: Ruth DeFries) — Professor, Columbia University
-(link: http://www.sesync.org/users/jkramer text: Jon Kramer) — Director for Interdisciplinary Science, SESYNC
-(link: http://www.isb.edu/faculty-research/faculty/directory/pereira-arun text: Arun Pereira) — Associate Professor, Indian School of Business
-(link: https://condevcenter.org/leslie-ruyle/ text: Leslie Ruyle) — Assistant Director, Center on Conflict and Development, Texas A&M University
-(link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, SESYNC
+*In Alphabetical Order*
+- (link: http://seas.umich.edu/research/faculty/arun_agrawal text: Arun Agrawal) — Professor, School for Environment and Sustainability, University of Michigan; Co-PI of MSC
+- (link: http://seas.umich.edu/research/faculty/rosina_bierbaum text: Rosina Bierbaum) — Professor, School for Environment and Sustainability, University of Michigan
+- (link: https://environment.yale.edu/profile/minna-brown/ text: Minna Brown) — Case Study Integration Manager, School of Forestry and Environmental Studies, Yale University
+- (link: http://isb.academia.edu/AshwiniChhatre text: Ashwini Chhatre) — Editor-in-Chief, World Development Perspectives
+- (link: http://environment.harvard.edu/about/faculty/william-c-clark text: William Clark) — Professor of International Science, Public Policy and Human Development, Harvard
+- (link: http://www.earthinstitute.columbia.edu/articles/view/2470 text: Ruth DeFries) — Professor, Columbia University
+- (link: http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation Office, University of Michigan
+- (link: http://environment.yale.edu/profile/gentry/ text: Bradford S. Gentry) — Professor, Co-
+Director of the Center for Business & the Environment, Yale University
+- (link: http://www.sesync.org/users/jkramer text: Jon Kramer) — Director for Interdisciplinary Science, National Socio-Environmental Synthesis Center
+- (link: http://www.sppm.tsinghua.edu.cn/english/faculty/fulltime/26efe4891f7db39c011f8249c475000c.html text: Ling Mu) — Assistant Professor, School of Public Policy and Management, Tsinghua University, China
+- (link: http://ai.umich.edu/teammember/niemer-rachel/ text: Rachel Niemer) — Director of the Gameful Learning Lab, Academic Innovation Office, University of Michigan
+- (link: https://www.linkedin.com/in/mnaud/ text: Matthew Naud) — Environmental Coordinator, City of Ann Arbor
+- (link: http://seas.umich.edu/about/jonathan_overpeck text: Jonathan T. Overpeck) — Dean, School for Environment and Sustainability, University of Michigan
+- (link: http://www.isb.edu/faculty-research/faculty/directory/pereira-arun text: Arun Pereira) — Associate Professor, Indian School of Business
+- (link: https://www.linkedin.com/in/jenniferperron/ text: Jennifer Perron) — Project Manager, Cross-Brookings Initiative on Energy and Climate, The Brookings Institution
+- (link: https://condevcenter.org/leslie-ruyle/ text: Leslie Ruyle) — Assistant Director, Center on Conflict and Development, Texas A&M University
+- (link: http://www.isb.edu/clmp/about/people/team/geetika-shah text: Geetika Shah) — Associate Director of Content Development and Training, Centre for Learning and Management Practice, Indian School of Business
+- (link: https://www.hks.harvard.edu/centers/mrcbg/programs/sustsci/people/research-fellows/current-fellows/michaela-thompson text: Michaela Thompson) — Post-Doctoral Research Fellow, Harvard University Center for the Environment
+- (link: http://www.sesync.org/users/cwei text: Cynthia Wei) — Associate Director of Education, National Socio-Environmental Synthesis Center
+<p>&nbsp;</p>
 
 ### Team Alumni
-Meg Czerwinski — MSC Assessment Specialist, Mar 2016–Sep 2017
-Patrick Conway — MSC Podcast Editor, Jun 2016–July 2017
-Jeremiah Johnson — MSC Curricular Advisor, Feb 2016–June 2017
-Helen Gutierrez — MSC Assessment and Evaluation Facilitator, Jan–May 2017
-Arman Golrokhian — MSC Production Facilitator, Aug 2016–April 2017
-Kris Steinhoff — Software Architecture Consultant, Sep 2016–Mar 2017
-Mike Burbidge — MSC Podcast Editor, Jun 2016–Jan 2017
-Steve Lonn — MSC Curricular Advisor, 2016
-Mary Wright — MSC Curricular Advisor, 2016
-Anil Bhargava — MSC Assessment Specialist, Feb–Dec 2016
-Rebecca Rutt — MSC Communications Consultant, August–Dec 2016
-Nick Kemp — Photo Contributor, Sep 2016
-Claire Poelking — MSC Interim Coordinator, Feb–May 2016
-Harold Rice — MSC Interim Coordinator, May–July 2016
-Alex Truelove — MSC Podcast Host, May–July 2016
+*In Alphabetical Order*
+- Anil Bhargava — MSC Assessment Specialist, Feb–Dec 2016
+- Dan Brown — MSC Strategic and Curricular Advisor, Feb 2016–Dec 2017
+- Mike Burbidge — MSC Podcast Editor, Jun 2016–Jan 2017
+- John Callewaert — MSC Curricular Advisor, Feb 2016–Nov 2017
+- Patrick Conway — MSC Podcast Editor, Jun 2016–Jul 2017
+- Barry Fishman — MSC Curricular Advisor, Winter 2017
+- Helen Gutierrez — MSC Assessment and Evaluation Facilitator, Jan–May 2017
+- Arman Golrokhian — MSC Production Facilitator, Aug 2016–Apr 2017
+- Samantha Hallman — MSC Curricular Advisor, Winter 2017
+- Jeremiah Johnson — MSC Curricular Advisor, Feb 2016–Jun 2017
+- Nick Kemp — Photo Contributor, Sep 2016
+- Steve Lonn — MSC Curricular Advisor, 2016
+- Malia Molina — MSC Production Facilitator, Doris Duke Conservation Fellow, 2016
+- Claire Poelking — MSC Interim Coordinator, Feb–May 2016
+- Harold Rice — MSC Interim Coordinator, May–Jul 2016
+- Emily Rau — MSC Production Facilitator, Doris Duke Conservation Fellow, 2017
+- Rebecca Rutt — MSC Communications Consultant, Aug–Dec 2016
+- Kris Steinhoff — Software Architecture Consultant, Sep 2016–Mar 2017
+- Josh Thorne — MSC Production Facilitator, Doris Duke Conservation Fellow, 2017
+- Alex Truelove — MSC Podcast Host, May–Jul 2016
+- Mary Wright — MSC Curricular Advisor, 2016
+- Danielle Moni Zo'obo — MSC Production Facilitator, Doris Duke Conservation Fellow, 2016
 
 (imgix: msc-group.jpg alt:MSC group picture class:o-image--fullwidth caption:We have an interdisciplinary team with different backgrounds and cultures. We also have student contributors during different phases of the project.)
 <p>&nbsp;</p>
