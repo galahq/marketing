@@ -129,12 +129,12 @@ Othermembers:
 - (link: http://cee.umich.edu/Brian_Ellis text: Brian R. Ellis) — Assistant Professor, College of Engineering, University of Michigan
 - (link: http://cfe.umich.edu/staff/ryan-gourley/ text: Ryan Gourley) — Director, TechArb, University of Michigan
 - (link: http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies, University of Michigan
+- (link: https://www.linkedin.com/in/sonia-joseph-joshi-44a68877/ text: Sonia Joseph Joshi) — Diversity, Equity & Inclusion Program Manager, School for Environment and Sustainability, University of Michigan
 - (link: https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, Center for Research on Learning and Teaching, University of Michigan
 - (link: http://seas.umich.edu/research/faculty/maria_carmen_lemos text: Maria Carmen Lemos) — Professor, School for Environment and Sustainability, University of Michigan
 - (link: http://seas.umich.edu/research/faculty/mark_lindquist text: Mark Lindquist) — Assistant Professor, School for Environment and Sustainability, University of Michigan
 - (link: https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, Center for Research on Learning and Teaching, University of Michigan
 - (link: http://seas.umich.edu/research/faculty/shelie_miller text: Shelie Miller) — Professor, School for Environment and Sustainability, University of Michigan
-- (link: https://www.linkedin.com/in/sonia-joseph-joshi-44a68877/ text: Sonia Joseph Joshi — Diversity, Equity & Inclusion Program Manager, School for Environment and Sustainability, University of Michigan
 - (link: https://lsa.umich.edu/eeb/people/faculty/knute.html text:Knute Nadelhoffer) — Professor, Ecology and Evolutionary Biology; Director, Biostation, University of Michigan
 - (link: http://www.lib.umich.edu/users/jwpearso text:Jefferey Pearson) — Associate Librarian, Askwith Media Library, University of Michigan
 - (link: http://seas.umich.edu/research/faculty/sheila_schueller text:Sheila Schueller) — Lecturer, School for Environment and Sustainability, University of Michigan
