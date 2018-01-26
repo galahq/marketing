@@ -131,6 +131,7 @@ Othermembers:
 - (link: http://www.music.umich.edu/faculty_staff/bio.php?u=nhubbs text:Nadine Hubbs) — Professor, Women's Studies, University of Michigan
 - (link: https://www.linkedin.com/in/stephanie-m-kusano-2703b86a text:Stephanie Kusano) — Assessment and Evaluation Postdoctoral Research Associate, Center for Research on Learning and Teaching, University of Michigan
 - (link: http://seas.umich.edu/research/faculty/maria_carmen_lemos text: Maria Carmen Lemos) — Professor, School for Environment and Sustainability, University of Michigan
+- (link: http://seas.umich.edu/research/faculty/mark_lindquist text: Mark Lindquist) — Assistant Professor, School for Environment and Sustainability, University of Michigan
 - (link: https://www.linkedin.com/in/malindamatney text:Malinda Matney) — Director of Assessment, Center for Research on Learning and Teaching, University of Michigan
 - (link: http://seas.umich.edu/research/faculty/shelie_miller text: Shelie Miller) — Professor, School for Environment and Sustainability, University of Michigan
 - (link: https://www.linkedin.com/in/sonia-joseph-joshi-44a68877/ text: Sonia Joseph Joshi — Diversity, Equity & Inclusion Program Manager, School for Environment and Sustainability, University of Michigan
