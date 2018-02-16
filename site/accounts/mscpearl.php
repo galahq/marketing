@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - msc/team
-  - action/make/proposal
-  - home
   - events
+  - home
+  - action/make/proposal
+  - msc/team
   - msc/milestones/strategic-advisors-meeting-2017

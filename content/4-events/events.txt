@@ -147,6 +147,19 @@ Eventitems:
   eventlink: >
     https://docs.google.com/a/umich.edu/forms/d/e/1FAIpQLSfIvdUUVm4Zv3LYYepZN-quYAfTj0rRRHCSR-L_tGTfC9jmyg/viewform?usp=sf_link
   topics: Case production, Case teaching
+- 
+  name: Galaxy 2018
+  date: 2018-06-07
+  time: 08:00 AM
+  type: Workshop/Seminar, Meeting/Conference
+  limitation: Public
+  host: MSC
+  location: Rackham Building, Ann Arbor, MI
+  locationlink: https://goo.gl/maps/zjsCG6uLTAM2
+  eventlink: https://galaxy.learngala.com/
+  topics: >
+    Case production, Case methodology,
+    Assessment and evaluation, Case teaching
 
 ----
 

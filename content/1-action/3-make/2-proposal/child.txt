@@ -4,15 +4,11 @@ Title: Submit Proposal
 
 Text: 
 
-MSC accepts proposals on a rolling basis. The (link: msc/team#curricular-advisors text: MSC curricular advisors) meet once per quarter to select proposals via a competitive review process. For the upcoming round, we will accept up to 6 proposals. (link: action/make/production-guide/process/funding-disbursement#content text: Funding is available) for selected proposals. We will notify you if your proposal is selected.
+MSC accepts proposals on a rolling basis. The (link: msc/team#curricular-advisors text: MSC curricular advisors) meet once per quarter to select proposals via a competitive review process. (link: action/make/production-guide/process/funding-disbursement#content text: Funding is available) for selected proposals. We will notify you if your proposal is selected.
 
 You can review (link: https://umich.box.com/shared/static/0tartibmqdj2ut2e330619z1gy0l8dw5.pdf text: this rubric that we use to evaluate the proposals). Please submit your proposal using the button below.
 
 <div style="text-align: center"><a href="https://teachmsc.submittable.com/submit/103737/proposal-form-submission" class="c-button">View Proposal Form And Submit Your Proposal</a></div>
-
-<p>&nbsp;</p>
-
-*The next MSC Curricular Advisors Meeting is on Wednesday, February 14th, 2018. For proposals to be considered at this meeting, the submission deadline is Monday, February 12th, at 11:59pm EST.*
 
 <p>&nbsp;</p>
 
