@@ -487,13 +487,13 @@ figcaption {
 body {
   color: #3b3f4e;
   line-height: 1.5em;
-  font-family: "tenso", "Kohinoor Devanagari", sans-serif; }
+  font-family: "tenso", "Kohinoor Devanagari", "Calibri", sans-serif; }
 
 .main p {
   margin-bottom: 1em; }
 
 h1 {
-  font-family: "jubilat", "Chaparral Pro", serif;
+  font-family: "jubilat", "Chaparral Pro", "PT Serif", "Georgia", serif;
   font-style: italic; }
 
 h2, h3, h4 {
@@ -507,7 +507,7 @@ h2 {
   clear: both; }
 
 h2 span {
-  font-family: "tenso", "Kohinoor Devanagari", sans-serif;
+  font-family: "tenso", "Kohinoor Devanagari", "Calibri", sans-serif;
   font-weight: 300;
   margin-bottom: 0.5em;
   text-transform: uppercase;
@@ -784,7 +784,7 @@ h1 a, h2 a, h3 a, h4 a {
     margin-bottom: 0.2em; }
   .home__hero p {
     font-weight: 300;
-    padding-bottom: 1.5em; }
+    padding-bottom: 0; }
 
 .hero {
   background-size: cover;
@@ -958,7 +958,7 @@ footer > div {
   cursor: pointer;
   transition: all 0.1s ease 0.1s;
   margin: 0;
-  font-family: "tenso", "Kohinoor Devanagari", sans-serif;
+  font-family: "tenso", "Kohinoor Devanagari", "Calibri", sans-serif;
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -1056,7 +1056,7 @@ ul.toc {
 .home h2 {
   margin-bottom: 1em; }
 .home h3 {
-  font-family: "tenso", "Kohinoor Devanagari", sans-serif;
+  font-family: "tenso", "Kohinoor Devanagari", "Calibri", sans-serif;
   color: #35536f;
   font-weight: 300;
   margin-bottom: 0.5em;
@@ -1066,7 +1066,7 @@ ul.toc {
   font-size: 0.9em; }
 
 .home__learnmore h4 {
-  font-family: "tenso", "Kohinoor Devanagari", sans-serif;
+  font-family: "tenso", "Kohinoor Devanagari", "Calibri", sans-serif;
   font-weight: 300;
   font-size: 1em; }
   .home__learnmore h4:hover {
@@ -1225,7 +1225,7 @@ main.home section {
     clear: left; }
   .home__vision__number__value {
     display: inline-block;
-    font-family: "tenso", "Kohinoor Devanagari", sans-serif;
+    font-family: "tenso", "Kohinoor Devanagari", "Calibri", sans-serif;
     font-size: 1.2em;
     width: 4rem;
     height: 4rem;
