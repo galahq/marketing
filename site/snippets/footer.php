@@ -8,7 +8,7 @@
   <div class="t-site">
     <div class="footer__heading">
       <h4>Start learning with MSC. </h4>
-      <button class="c-button c-button-t-dark" onclick="window.location.href='http://www.learnmsc.org'">Case Gallery</button>
+      <button class="c-button c-button-t-dark" onclick="window.location.href='http://www.learngala.com'">Case Gallery</button>
     </div> <!--footerheading-->
     <nav class="footer__flexcontainer o-flex-container">
       <?php foreach($items as $item): ?>

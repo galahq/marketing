@@ -2,7 +2,7 @@
   <?php snippet('menu-mobile') ?>
   <?php if($page->isHomePage()): ?>
     <?php $bannerImage = imgix_url('topbanner.jpg', ["h" => '900']);?>
-    <section class="home__hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
+    <section class="home__hero" style='background: linear-gradient(to bottom, rgba(0,0,0,0) 37%, rgba(53,83,111,0.8) 100%), url("<?php echo $bannerImage ?>") 25%; background-size: cover;' >
       <div class="c-header u-clearfix">
         <div class="t-site homebanner cf">
         <a class="c-header__logo" href="<?php echo url() ?>">
