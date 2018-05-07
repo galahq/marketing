@@ -783,8 +783,7 @@ h1 a, h2 a, h3 a, h4 a {
     margin: 0 auto;
     margin-bottom: 0.2em; }
   .home__hero p {
-    font-weight: 300;
-    padding-bottom: 0; }
+    font-weight: 300; }
 
 .hero {
   background-size: cover;
