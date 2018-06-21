@@ -64,6 +64,9 @@ Visionlearnmore: Learn more about the MSC initiative
 Promotions: 
 
 - 
-  text: 'MSC accepts new case proposals on a rolling basis. Funding is available for selected proposals.  The submission deadline for the upcoming proposal review is on Friday, May 11th, at 3:00pm EDT.'
+  text: >
+    MSC accepts new case proposals on a
+    rolling basis. Funding is available for
+    selected proposals.
   action: Get Started
   link: action/make/proposal
