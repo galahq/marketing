@@ -59,7 +59,7 @@ Timeline:
 - 
   icon: ""
   content: |
-    ##Adaptation in Ethiopia MSC article published
+    ##Adaptation in Ethiopia MSC article published in WDP
     Telling the story of how the Ethiopia case came together, *‘A National Adaptation Programme of Action: Ethiopia’s responses to climate change*’ was published in WDP. The article also introduces the various scholars and practitioners who contributed to the podcast.
   dateofevent: July 2016
   newslink: >
@@ -157,6 +157,15 @@ Timeline:
     milestones/strategic-advisors-meeting-2017
   picture: '(imgix: strategic-advisors-meeting-2017_group.jpg alt: 2017 MSC Strategic Advisors Meeting participants class: o-image--fullwidth c-timeline__picture)'
   date: 2017-10-14
+- 
+  content: |
+    ##Article on teaching and learning with Detroit Urban Farming Case published in CSE
+    Peer reviewed publication ‘Collaborative Creation and Implementation of a Michigan Sustainability Case on Urban Farming in Detroit’ was published in (link: https://www.quicksortindia.net/quickflow/ucpress/images/uploads/1000003293/CE90BB7E-EFA8-41BA-8455-43DC877E748B/Final/PDF/ecs_pap.pdf.zip text:Case Studies in the Environment) of the University of California Press. The article demonstrates and suggests a new case study pedagogy through the (link: https://www.learngala.com/cases/motown-farming/ text: MSC case on Detroit Urban Farming)’s production, deployment, and iteration processes.
+  dateofevent: Aug 2018
+  newslink: >
+    https://www.quicksortindia.net/quickflow/ucpress/images/uploads/1000003293/CE90BB7E-EFA8-41BA-8455-43DC877E748B/Final/PDF/ecs_pap.pdf.zip
+  picture: ""
+  date: 2018-08-22
 
 ----
 
