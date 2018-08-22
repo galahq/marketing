@@ -158,6 +158,7 @@ Othermembers:
 - (link: http://ai.umich.edu/teammember/devaney-james/ text:James DeVaney) — Associate Vice Provost, Academic Innovation Office, University of Michigan
 - (link: http://environment.yale.edu/profile/gentry/ text: Bradford S. Gentry) — Professor, Co-
 Director of the Center for Business & the Environment, Yale University
+- (link: https://www.linkedin.com/in/armangolrokhian/ text: Arman Golrokhian) — Senior Business Analyst, DTE Energy
 - (link: http://www.sesync.org/users/jkramer text: Jon Kramer) — Director for Interdisciplinary Science, National Socio-Environmental Synthesis Center
 - (link: http://www.sppm.tsinghua.edu.cn/english/faculty/fulltime/26efe4891f7db39c011f8249c475000c.html text: Ling Mu) — Assistant Professor, School of Public Policy and Management, Tsinghua University, China
 - (link: http://ai.umich.edu/teammember/niemer-rachel/ text: Rachel Niemer) — Director of the Gameful Learning Lab, Academic Innovation Office, University of Michigan
@@ -180,7 +181,6 @@ Director of the Center for Business & the Environment, Yale University
 - Patrick Conway — MSC Podcast Editor, Jun 2016–Jul 2017
 - Barry Fishman — MSC Curricular Advisor, Winter 2017
 - Helen Gutierrez — MSC Assessment and Evaluation Facilitator, Jan–May 2017
-- Arman Golrokhian — MSC Production Facilitator, Aug 2016–Apr 2017
 - Samantha Hallman — MSC Curricular Advisor, Winter 2017
 - Jeremiah Johnson — MSC Curricular Advisor, Feb 2016–Jun 2017
 - Nick Kemp — Photo Contributor, Sep 2016
