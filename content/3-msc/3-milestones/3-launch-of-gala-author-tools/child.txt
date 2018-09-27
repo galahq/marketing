@@ -2,7 +2,7 @@ Title: The Launch of Gala Author Tools
 
 ----
 
-Text:
+Text: 
 
 MSC launched the Gala author tools at (link: ../galaxy-2018 text: Galaxy 2018). The tools allow anyone to post their case studies directly on (link: https://www.learngala.com/ text: Gala), embed media resources, and establish pre- and post quizzes for case deployment.
 
@@ -14,68 +14,66 @@ Start posting your cases on Gala! Here are (link: https://docs.learngala.com/doc
 
 <p>&nbsp</p>
 
+----
 
+Tagline: 
 
 ----
 
-Tagline:
+Description: 
 
 ----
 
-Description:
+Pagetagline: Bringing open access to the next level: the Gala author tools
 
 ----
 
-Pagetagline: Bring open access to the next level: the Gala author tools
+Link: 
 
 ----
 
-Link:
+Pagesubtagline: 
 
 ----
 
-Pagesubtagline:
+Subdescription: 
 
 ----
 
-Subdescription:
+Wbg: 
 
 ----
 
-Wbg:
+Timeline: 
 
 ----
 
-Timeline:
+Feature: 
 
 ----
 
-Feature:
+Featureimg: 
 
 ----
 
-Featureimg:
+Umschools: 
 
 ----
 
-Umschools:
+Umunits: 
 
 ----
 
-Umunits:
+Otherpartners: 
 
 ----
 
-Otherpartners:
+Elementexamples: 
 
 ----
 
-Elementexamples:
+Coremembers: 
 
 ----
 
-Coremembers:
-
-----
-
-Othermembers:
+Othermembers: 

@@ -7,8 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - >
+    msc/milestones/launch-of-gala-author-tools
   - msc/milestones
   - msc/milestones/galaxy-2018
   - action/make/proposal
   - msc/team
-  - home
