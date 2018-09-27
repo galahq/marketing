@@ -2,15 +2,15 @@ Title: Milestones
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Tagline:
+Tagline: 
 
 ----
 
-Description:
+Description: 
 
 ----
 
@@ -22,21 +22,21 @@ Pagesubtagline: From an idea to on-the-ground practice, we are gradually making 
 
 ----
 
-Link:
+Link: 
 
 ----
 
-Subdescription:
+Subdescription: 
 
 ----
 
-Wbg:
+Wbg: 
 
 ----
 
-Timeline:
+Timeline: 
 
--
+- 
   icon: ""
   content: |
     ##First MSC academic article published in WDP
@@ -46,7 +46,7 @@ Timeline:
     http://www.sciencedirect.com/science/article/pii/S2452292916300820
   picture: ""
   date: 2016-06-28
--
+- 
   icon: ""
   content: |
     ##Wolf Wars case translated and taught in Gabon
@@ -56,7 +56,7 @@ Timeline:
     https://www.nobelprize.org/nobel_prizes/peace/laureates/1952/schweitzer-facts.html
   picture: '(imgix: wolf-case-in-gabon.jpg alt:Wolf case being used in Gabon class:o-image--fullwidth c-timeline__picture)'
   date: 2016-06-20
--
+- 
   icon: ""
   content: |
     ##Adaptation in Ethiopia MSC article published in WDP
@@ -66,7 +66,7 @@ Timeline:
     http://www.sciencedirect.com/science/article/pii/S2452292916300856
   picture: ""
   date: 2016-06-29
--
+- 
   content: |
     ## The Baltimore case goes to Baltimore
     On Monday Oct 10, the (link:http://www.learnmsc.org/cases/baltimore-smart-meters#/ text: Baltimore case) is going to be showcased in a networking session during the (link:http://conference.aashe.org/ text: 2016 AASHE meeting). This session will bring the case back to Baltimore and bring together both practitioners and educators to share their experiences and ideas on how this new sustainability education tool can create more environmentally sound and educationally exciting colleges and universities.
@@ -74,7 +74,7 @@ Timeline:
   newslink: ""
   picture: ""
   date: 2016-10-10
--
+- 
   icon: ""
   content: |
     ##First Curricular Advisors meeting
@@ -83,7 +83,7 @@ Timeline:
   newslink: ""
   picture: '(imgix:curricular-advisors-meeting-april-2016.jpg alt: first MSC curricular advisors meeting class:o-image--fullwidth c-timeline__picture)'
   date: 2016-04-20
--
+- 
   icon: ""
   content: |
     ##Partnership for academic innovation
@@ -92,7 +92,7 @@ Timeline:
   newslink: ""
   picture: ""
   date: 2016-03-15
--
+- 
   icon: ""
   content: |
     ##Partnership with a scholarly journal
@@ -101,7 +101,7 @@ Timeline:
   newslink: ""
   picture: ""
   date: 2016-02-14
--
+- 
   icon: ""
   content: |
     ##Initial assessment
@@ -110,7 +110,7 @@ Timeline:
   newslink: ../action/teach/evaluation
   picture: ""
   date: 2016-03-31
--
+- 
   icon: ""
   content: |
     ##Resources secured
@@ -120,7 +120,7 @@ Timeline:
     http://worldclass.umich.edu/projects-receive-engaged-learning-transformation-grants-new-program-announced/
   dateofevent: November 2015
   picture: ""
--
+- 
   icon: ""
   content: |
     ##The incubation stage
@@ -130,7 +130,7 @@ Timeline:
     http://thirdcentury.umich.edu/michigan-sustainability-cases/
   dateofevent: Summer 2015
   picture: ""
--
+- 
   icon: ""
   content: |
     ##From an idea to implementation: Pilot cases
@@ -139,7 +139,7 @@ Timeline:
   newslink: ""
   dateofevent: Winter 2016
   picture: ""
--
+- 
   content: |
     ##Baltimore Smart Meters case published in *Sustainability: The Journal of Record*
     After being published on (link: http://www.learnmsc.org text: MSC learning platform), the (link: http://www.learnmsc.org/cases/baltimore-smart-meters#/ text:Baltimore Smart Meters case) was peer reviewed and published in (link: http://online.liebertpub.com/toc/sus/10/1 text:Sustainability: The Journal of Record) as *‘University of Michigan Sustainability Teaching Case Smarting over Smart Meters: Does Smart Grid Technology Have a Home in Maryland?’*. This piece includes the main narrative and some Edgenotes of the digital case and is intended to reach a broader audience.
@@ -148,7 +148,7 @@ Timeline:
     http://online.liebertpub.com/doi/pdfplus/10.1089/sus.2017.29078.gp
   picture: ""
   date: 2017-02-14
--
+- 
   content: |
     ##First MSC Strategic Advisors Meeting
     The weekend of Oct 13-15, 2017 brought together a group of local, national, and international collaborators to exchange insights about the future of case-based learning and explore areas for more formal partnership. Attendees included participants from Harvard University, the Indian School of Business, the National Socio-Environmental Synthesis Center, Tsinghua University (China), Massachusetts Institute of Technology, and Yale University, along with Academic Innovation and School for Environment and Sustainability (University of Michigan), and the City of Ann Arbor.
@@ -157,7 +157,7 @@ Timeline:
     milestones/strategic-advisors-meeting-2017
   picture: '(imgix: strategic-advisors-meeting-2017_group.jpg alt: 2017 MSC Strategic Advisors Meeting participants class: o-image--fullwidth c-timeline__picture)'
   date: 2017-10-14
--
+- 
   content: |
     ##Article on teaching and learning with Detroit Urban Farming Case published in CSE
     Peer reviewed publication ‘Collaborative Creation and Implementation of a Michigan Sustainability Case on Urban Farming in Detroit’ was published in (link: http://cse.ucpress.edu/ text:Case Studies in the Environment) of the University of California Press. The article demonstrates and suggests a new case study pedagogy through the (link: https://www.learngala.com/cases/motown-farming/ text: MSC case on Detroit Urban Farming)’s production, deployment, and iteration processes.
@@ -166,15 +166,15 @@ Timeline:
     http://cse.ucpress.edu/content/early/2018/08/20/cse.2017.000703
   picture: ""
   date: 2018-08-22
--
+- 
   content: |
     ##Galaxy 2018
-    In partnership with U-M SEAS, MSC hosted Galaxy, its inaugural face-to-face sustainability learning exchange from June 7-9, 2018. Held at the University of Michigan Rackham Building with special events in downtown Ann Arbor, the gathering brought together faculty, students, and practitioners from various sectors and institutions to develop cases and explore innovative ways to link sustainability teaching, research, and community engagement for problem-solving.
+    In partnership with U-M SEAS, MSC hosted Galaxy, its inaugural face-to-face sustainability learning exchange from June 7-9, 2018. Held at the University of Michigan Rackham Building with special events in downtown Ann Arbor, the gathering brought together faculty, students, and practitioners from various sectors and institutions to develop cases and explore innovative ways to link sustainability teaching, research, and community engagement for problem solving.
   dateofevent: June 2018
   newslink: milestones/galaxy-2018
   picture: ""
   date: 2018-06-07
--
+- 
   content: |
     ##Gala Author Tools Launched
     Gala, MSC’s open access learning platform for sustainability science, launched its author tools during Galaxy 2018.
@@ -182,7 +182,7 @@ Timeline:
   newslink: milestones/launch-of-gala-author-tools
   picture: ""
   date: 2018-06-08
--
+- 
   content: |
     ##Co-creation of a Chinese-English Bi-lingual Case about the Red Flag Canal
     In May 2018, an MSC team traveled to China to work with students and faculty from Tsinghua University China Case Center for Public Policy & Management and co-produce a case about the Red Flag Canal in Henan province, known as “the Great Wall of Water.”
@@ -194,32 +194,32 @@ Timeline:
 
 ----
 
-Feature:
+Feature: 
 
 ----
 
-Featureimg:
+Featureimg: 
 
 ----
 
-Umschools:
+Umschools: 
 
 ----
 
-Umunits:
+Umunits: 
 
 ----
 
-Otherpartners:
+Otherpartners: 
 
 ----
 
-Elementexamples:
+Elementexamples: 
 
 ----
 
-Coremembers:
+Coremembers: 
 
 ----
 
-Othermembers:
+Othermembers: 
