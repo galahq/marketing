@@ -4,9 +4,9 @@ Title: Submit Proposal
 
 Text: 
 
-MSC accepts proposals on a rolling basis. The (link: msc/team#curricular-advisors text: MSC curricular advisors) meet once per quarter to select proposals via a competitive review process. (link: action/make/production-guide/process/funding-disbursement#content text: Funding is available) for selected proposals. We will notify you if your proposal is selected.
+MSC offers seed funding for case development on (link: https://www.learngala.com/ text: Gala). We will fund each student author $1,500 to create their cases on Gala with our (link: https://docs.learngala.com/docs/authoring-getting-started.html text: author tools). Case teams are limited to two student authors. 
 
-You can review (link: https://umich.box.com/shared/static/0tartibmqdj2ut2e330619z1gy0l8dw5.pdf text: this rubric that we use to evaluate the proposals). Please submit your proposal using the button below.
+You can review (link: https://umich.box.com/shared/static/0tartibmqdj2ut2e330619z1gy0l8dw5.pdf text: this rubric that we use to evaluate the proposals). Proposals are accepted on a rolling basis. Please submit your proposal using the button below.
 
 <div style="text-align: center"><a href="https://teachmsc.submittable.com/submit/103737/proposal-form-submission" class="c-button">Submit Your Proposal</a></div>
 
