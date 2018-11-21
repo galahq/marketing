@@ -160,6 +160,20 @@ Eventitems:
   topics: >
     Case production, Case methodology,
     Assessment and evaluation, Case teaching
+- 
+  name: >
+    An Introduction to Case-Based Learning
+    in the Classroom and Beyond
+  date: 2018-11-09
+  time: 01:00 PM
+  type: Workshop/Seminar, Meeting/Conference
+  limitation: Conference Participants
+  host: 'MSC with the U-M Sustainability & Development Conference'
+  location: Dana Building, MI
+  locationlink: https://goo.gl/maps/Bsgt9zL5Lrm
+  eventlink: >
+    https://umich.box.com/s/xuufs4ie7w3hjtxz83cikyv06j5f8p0f
+  topics: Case methodology, Case teaching
 
 ----
 
