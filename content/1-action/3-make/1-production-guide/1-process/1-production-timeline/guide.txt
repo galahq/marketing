@@ -11,7 +11,7 @@ The length of time it takes to complete a case varies by the nature of the subje
 Initial case development usually occurs informally through electronic means. During this time we try to address any questions and comments about MSC and case production. Additionally, case ideas and core concepts are discussed and refined along with case team members (authors, advisor, and practitioner).
 
 ##Required meetings
-To facilitate MSC production, several meetings are required of the case team before submission of case components. These meetings are intended to help case teams with the development of each case component.
+To facilitate MSC production, four meetings are required of the case team before submission of case components. These meetings are intended to help case teams with the development of each case component.
 
 <div class="table">
 <table>
