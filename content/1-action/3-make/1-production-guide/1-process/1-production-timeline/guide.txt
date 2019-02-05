@@ -5,60 +5,14 @@ Title: Production Timeline
 Text:
 
 ##Time to completion
-The length of time it takes to complete a case varies by the nature of the subject, the experience of the authors involved, and the time available to the authors to devote to the case. Typically, case production takes between six and eight months. Individual case production timelines are determined by the case teams, and the final expectation for completion of all work will be specified in the Memorandum of Understanding (MOU). Note, however, that the MOU can be revised if necessary. MSC staff is readily available to help case teams produce a quality case, find resources, and implement and assess case use in classrooms or in the field.
+The length of time it takes to complete a case varies by the nature of the subject, the experience of the authors involved, and the time available to the authors to devote to the case. Typically, case production takes between one and one and a half years. For MSC-sponsored cases, individual case production timelines are determined by the case teams, and the final expectation for completion of all work is specified in the Memorandum of Understanding (MOU). Note, however, that the MOU can be revised if necessary. MSC staff is readily available to help case teams produce a quality case, find resources, and implement and assess case use in classrooms or in the field.
 
 ##Case development
 Initial case development usually occurs informally through electronic means. During this time we try to address any questions and comments about MSC and case production. Additionally, case ideas and core concepts are discussed and refined along with case team members (authors, advisor, and practitioner).
 
-##Required meetings
-To facilitate MSC production, four meetings are required of the case team before submission of case components. These meetings are intended to help case teams with the development of each case component.
+Following proposal approval, new case teams have a kickoff meeting with MSC's project manager and multimedia projects manager to set direction for the case. Case teams complete a kickoff meeting worksheet which serves as a flexible roadmap throughout case production. Teams then spend months conducting research, editing, and developing an engaged learning exercise. When a draft is complete, MSC reviews the draft, suggesting edits where necessary, and finally recommending the case to be submitted for review. 
 
-<div class="table">
-<table>
-  <tr>
-    <th></th>
-    <th>Meeting</th>
-    <th>When</th>
-    <th>Action(s)</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Kickoff</td>
-    <td>Start of project</td>
-    <td>Onboard team; sign MOU</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>1st editorial meeting with Project Coordinator</td>
-    <td>Prior to beginning research, interviews, etc.</td>
-    <td>Sketch out initial vision for case; may be combined with kickoff meeting</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Meeting with Podcast Director</td>
-    <td>Early stage</td>
-    <td>Discuss audio collection needs and how podcast is produced</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Meeting with Learning Platform Manager</td>
-    <td>After some research completed, teaching guide started</td>
-    <td>Discuss creation of engaged learning exercise</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>2nd editorial meeting with Project Coordinator</td>
-    <td>After research, interviews, and a draft narrative are completed</td>
-    <td>Check in, give feedback, assistance, and direction as needed</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Meeting with Askwith Media Librarian</td>
-    <td>Before and during writing of case narrative</td>
-    <td>Find relevant and credible material for inclusion as Edgenotes</td>
-  </tr>
-</table>
-</div>
+Cases are typically sent to two reviewers, who are often MSC alumni or other MSC staff. Reviewers are crucial for offering new points of view and identifying weaknesses and strengths in the case. Comments from completed reviews are conveyed to case authors, who then have the opportunity to respond. Once MSC's project manager is satisfied that the reviewers' comments have been adequately addressed, the final version of the case is approved, sent for copy editing, and posted to the Gala platform.
 
 ##Additional opportunities
 Following launch of the case on MSC’s learning platform, case teams may have the opportunity to showcase their work on the It’s Hot in Here radio show, as well as conduct assessment and publish about the case.
