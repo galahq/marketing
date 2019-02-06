@@ -4,7 +4,7 @@ Title: Deliverables
 
 Text: 
 
-Click on each link below to learn how to create the different (link: element text:elements) of an MSC. Note that MSC reserves final editorial control over case components.
+Click on each link below to learn how to create the different (link: element text:elements) of an MSC. Not all cases will have a podcast; instead, case authors are invited to include supplementary media (e.g. videos, audio material, images) in creative ways that deepen their case and enhance its appeal. Note that MSC reserves final editorial control over case components.
 
 - (link: action/make/production-guide/deliverables/cover-page#content text: Cover Page)
 - (link: action/make/production-guide/deliverables/narrative#content text: Narrative)
