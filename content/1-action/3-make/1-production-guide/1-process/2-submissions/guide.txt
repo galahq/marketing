@@ -5,31 +5,14 @@ Title: Submissions
 Text: 
 
 ##Review Dropbox
-Each case team will receive access to a folder named Review Dropbox in the M Box system. Upload the documents for your case components into the Review Dropbox when you are ready for the MSC team to work on them. Also create a Boxnote detailing what has been uploaded and what you want the MSC team to do, e.g. edit the documents and return them to you, etc. This will assist us in efficiently processing your case materials. Submissions should be final drafts when they are uploaded. Additionally, the faculty advisor should have seen the case components at least once and approved their submission. *Do not* upload rough drafts for us to edit. There are many cases in production at any one time, and we do not have the capacity to make substantial, frequent edits or to develop writing skills. If you are struggling with producing your case, please contact the MSC team and we will work with you to get any difficulties resolved. 
-
-Each case team will also have an Audio folder assigned to them, where working audio files for Edgenotes and the podcast may be uploaded.
+Each case team will receive access to a folder named Review Dropbox in the M Box system. This is your space to use for storing case-related materials, and it also serves as a means for sharing files with the MSC team. Within the Review Dropbox, each case team will also have an Audio folder assigned to them, where working audio files for Edgenotes and supplementary media may be uploaded.
 
 (imgix: review-dropbox.png alt: screenshot of MSC review dropbox caption: Review Dropbox and Audio folders as they appear in the M Box system.)
 
-##File names
-For each case component, use the following naming conventions for files:
-- Cover page: <code>slug_date_cover_page</code>
-- Narrative: <code>slug_date_narrative</code>
-- Edgenotes: <code>slug_date_edgenotes</code>
-- Teaching Guide: <code>slug_date_teaching_guide</code>
-- Engaged learning exercise: <code>slug_date_learning_ex1</code> (or 2, 3, …)
-
-For audio files:
-- Podcast: <code>slug_date_int_lastnamefirstname</code> (interview files)
-- <code>slug_date_vo_lastnamefirstname</code> (voice overs)
-- <code>slug_date_description</code> (ambient sounds or other clips)
-- Edgenotes: <code>slug_date_edgenotetype_title or identifier</code>
-
-*The “slug” is a unique identifier for your case.
-
-The date should appear as <code>YYYYMMDD</code>. Edited files will be returned to the Review Dropbox folder with <code>_MSCreview</code> appended to the file name.
+##Submittable
+When you have a final draft of your case ready for review, submit all the case materials to MSC's Submittable site.
 
 ##Turnaround time
-Allow 2-4 weeks for editing and return of submitted materials.
+Allow 2-4 weeks for review and return of submitted materials.
 
 Note that MSC reserves final editorial control over case components.
