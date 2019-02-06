@@ -16,3 +16,6 @@ When you have a final draft of your case ready for review, submit all the case m
 Allow 2-4 weeks for review and return of submitted materials.
 
 Note that MSC reserves final editorial control over case components.
+
+##Author tools
+For those who are not producing an MSC-sponsored case, you may upload your case directly to Gala using our author tools. Instructions for using the author tools are available (link: https://docs.learngala.com/ text: here).
