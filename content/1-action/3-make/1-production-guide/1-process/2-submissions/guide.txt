@@ -10,7 +10,7 @@ Each case team will receive access to a folder named Review Dropbox in the M Box
 (imgix: review-dropbox.png alt: screenshot of MSC review dropbox caption: Review Dropbox and Audio folders as they appear in the M Box system.)
 
 ##Submittable
-When you have a final draft of your case ready for review, submit all the case materials to (link: https://teachmsc.submittable.com/submit/102408/case-study-submission text: MSC's Submittable site).
+When you have a final draft of your case ready for review, submit all the case materials via (link: https://teachmsc.submittable.com/submit/102408/case-study-submission text: MSC's Submittable site).
 
 ##Turnaround time
 Allow 2-4 weeks for review and return of submitted materials.
