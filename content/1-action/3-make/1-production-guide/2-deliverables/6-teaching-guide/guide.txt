@@ -23,3 +23,6 @@ Provide guidance and suggestions to other instructors for how the case may be in
 Provide directions for using the engaged learning exercise. These instructions should be comprehensible to anyone wishing to use the case and give sufficient information such that the case authors need not be contacted. Some case teams prefer to provide several different activities for an instructor to choose from. In this situation, provide instructions for each exercise and when an instructor might want to choose each option. 
 7. ###Assessment
 Provide suggestions for assessing student learning with the case using direct and/or indirect measures. Direct measures include papers, projects, tests and quizzes, etc. Indirect measures include surveys, focus groups, etc. Assessment should be directly linked to the learning objectives listed above.
+
+##Resources for teaching
+MSC has run several workshops on how to teach with cases. Slides from the 2018 Sustainability and Development Conference are available for viewing (link: https://drive.google.com/open?id=1w6un8A9jeZDUdbtNCW4hyFdmr5QXfnS5 text: here).
