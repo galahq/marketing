@@ -4,12 +4,12 @@ Title: Cover Page
 
 Text: 
 
-The cover page is the first page to appear on the learning platform when someone selects the case from the case library. The cover page introduces your case, and should entice the viewer to engage with the case components.
+The cover page is the first page to appear on the learning platform when someone selects the case from the case library. The cover page introduces your case, and it should entice the viewer to engage with the case components.
 
 (imgix: instruction-cover-page.png alt: cover page instruction)
 
 ##Requirements
-*Please note: Once you are ready to submit your work, use this (link: https://umich.box.com/shared/static/66oeqshtts3ctx7h4lndjk4hpd7bazn4.docx text: cover page submission template) to input your content.*
+*Please note: Cover page information is inputted directly into Submittable.*
 
 1. ###Title
 An MSC title consists of three components:
