@@ -3,7 +3,6 @@
 .sass-cache
 .vagrant/
 
-/site/accounts
 /site/cache
 /thumbs
 /composer.phar
@@ -50,3 +49,7 @@ Thumbs.db
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Use EFS for content and accounts data
+/content
+/site/accounts
