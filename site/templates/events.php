@@ -13,7 +13,7 @@
 
 <div class="o-search-box">
   <div>
-    <span><img srcset="http://msc-public.imgix.net/magnifier.png?w=24&amp; 1x,http://msc-public.imgix.net/magnifier.png?w=48&amp; 2x,http://msc-public.imgix.net/magnifier.png?w=72&amp; 3x," src="http://msc-public.imgix.net/magnifier.png?w=24&amp;" alt="icon for search"></span>
+    <span><img srcset="https://msc-public.imgix.net/magnifier.png?w=24&amp; 1x,https://msc-public.imgix.net/magnifier.png?w=48&amp; 2x,https://msc-public.imgix.net/magnifier.png?w=72&amp; 3x," src="https://msc-public.imgix.net/magnifier.png?w=24&amp;" alt="icon for search"></span>
     <input type="text" class="o-search-box__text" placeholder="Search input" name="q"
       oninput="SortEvents.setQueryString(event.currentTarget.value)" onfocus="$('.o-search-box').addClass('o-search-box--active')" onblur="$('.o-search-box').removeClass('o-search-box--active')"
     >
@@ -84,8 +84,8 @@
     </div>
     <div class="c-event-registration o-flex-item-growing">
       <div>
-        <p><span><img srcset="http://msc-public.imgix.net/icon-time.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-time.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-time.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-time.png?w=24&amp;" alt="icon for time"></span><?php echo $eventitem->time() ?></p>
-        <p><span><img srcset="http://msc-public.imgix.net/icon-location.png?w=24&amp; 1x,http://msc-public.imgix.net/icon-location.png?w=48&amp; 2x,http://msc-public.imgix.net/icon-location.png?w=72&amp; 3x," src="http://msc-public.imgix.net/icon-location.png?w=24&amp;" alt="icon for location"></span>
+        <p><span><img srcset="https://msc-public.imgix.net/icon-time.png?w=24&amp; 1x,https://msc-public.imgix.net/icon-time.png?w=48&amp; 2x,https://msc-public.imgix.net/icon-time.png?w=72&amp; 3x," src="https://msc-public.imgix.net/icon-time.png?w=24&amp;" alt="icon for time"></span><?php echo $eventitem->time() ?></p>
+        <p><span><img srcset="https://msc-public.imgix.net/icon-location.png?w=24&amp; 1x,https://msc-public.imgix.net/icon-location.png?w=48&amp; 2x,https://msc-public.imgix.net/icon-location.png?w=72&amp; 3x," src="https://msc-public.imgix.net/icon-location.png?w=24&amp;" alt="icon for location"></span>
           <a href="<?php echo $eventitem->locationlink() ?>" target="_blank"><?php echo $eventitem->location() ?></a>
         </p>
         <p>Open to: <?php echo $eventitem->limitation() ?></p>
